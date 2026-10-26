@@ -37,12 +37,14 @@ img{max-width:100%;display:block}
 /* masthead */
 .mast{padding-top:env(safe-area-inset-top,0px);border-bottom:1px solid var(--line)}
 .mast .wrap{padding-block:26px 20px;display:flex;flex-direction:column;gap:16px}
-.logo{display:inline-flex;flex-direction:column;align-items:flex-start;text-decoration:none;color:var(--juice);align-self:flex-start}
-.logo .lr{display:flex;align-items:flex-end}
-.logo .lr+.lr{margin-top:.04em}
-.logo .w{font-family:var(--f-display);font-weight:900;font-size:clamp(54px,16.5vw,128px);line-height:.88;letter-spacing:-.04em}
-.logo .news{font-family:var(--f-body);font-weight:700;color:#fff;font-size:clamp(14px,3.8vw,26px);letter-spacing:.05em;margin:0 0 .5em .5em}
-.mast-meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.mast .wrap{align-items:center;text-align:center}
+.logo{display:flex;flex-direction:column;align-items:center;text-decoration:none;color:var(--juice)}
+.logo .fresh{font-family:var(--f-display);font-weight:900;font-size:clamp(46px,13.5vw,96px);line-height:.9;letter-spacing:-.03em}
+.logo .news{display:flex;align-items:center;gap:.55em;font-family:var(--f-display);font-weight:700;color:#fff;font-size:clamp(15px,4.4vw,28px);line-height:1;letter-spacing:.3em;margin:.32em 0 .26em;padding-left:.3em}
+.logo .news::before,.logo .news::after{content:"";width:1.6em;height:2px;background:#fff;opacity:.55}
+.logo .news::before{margin-right:.15em}
+.logo .juice{font-family:var(--f-display);font-weight:900;font-size:clamp(66px,19.5vw,140px);line-height:.86;letter-spacing:-.035em}
+.mast-meta{display:flex;justify-content:center;align-items:center;gap:10px 14px;flex-wrap:wrap}
 .mast-meta .m{font-size:14px;font-weight:600;color:var(--ink-2)}
 .mast-meta .m b{color:var(--ink);font-weight:700}
 .pill{border:1.5px solid var(--line);border-radius:999px;padding:8px 16px;font-weight:600;font-size:14px;min-height:40px;color:var(--ink)}
@@ -109,6 +111,15 @@ img{max-width:100%;display:block}
 .cover .num{position:absolute;left:14px;top:12px;z-index:1;font-family:var(--f-display);font-weight:800;font-size:13px;color:#fff;background:rgba(0,0,0,.35);border-radius:999px;padding:3px 10px}
 .lead-card .cover .cw{font-size:min(72px,calc((100cqw - 32px)/(var(--L,8)*.9)))}
 
+.vbadge{position:absolute;right:12px;top:12px;z-index:2;font-size:12px;font-weight:800;color:#fff;background:rgba(0,0,0,.6);border-radius:999px;padding:5px 11px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+.play{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;background:linear-gradient(transparent 40%,rgba(0,0,0,.45));color:#fff;font-weight:800;font-size:15px}
+.play i{font-style:normal;width:78px;height:78px;border-radius:50%;background:var(--juice);display:flex;align-items:center;justify-content:center;font-size:28px;padding-left:5px;box-shadow:0 8px 30px rgba(0,0,0,.4);transition:transform .15s}
+.play:hover i{transform:scale(1.08)}
+.play span{background:rgba(0,0,0,.55);padding:4px 12px;border-radius:999px}
+.cover.playing{background:#000}
+.cover iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.cap{margin:-6px 0 0;font-size:12px;color:var(--ink-3)}
+.cap a{color:var(--ink-2)}
 /* agenda + footer */
 .agenda{display:grid;gap:10px}
 @media (min-width:640px){.agenda{grid-template-columns:repeat(2,minmax(0,1fr))}}
@@ -143,6 +154,7 @@ footer a{font-weight:600;color:var(--ink-2)}
 .slide{flex:0 0 100%;width:100%;scroll-snap-align:start;scroll-snap-stop:always;overflow-y:auto;-webkit-overflow-scrolling:touch}
 .s-in{max-width:760px;margin:0 auto;padding-bottom:calc(44px + env(safe-area-inset-bottom,0px))}
 .s-in .cover{aspect-ratio:16/10}
+.s-in .cover.playing{aspect-ratio:16/9}
 .s-in .cover .cw{font-size:min(60px,calc((100cqw - 32px)/(var(--L,8)*.9)))}
 @media (min-width:800px){.s-in{padding-top:20px}.s-in .cover{border-radius:20px}}
 .s-body{padding:18px var(--gut-r) 0 var(--gut);display:flex;flex-direction:column;gap:16px}
@@ -170,8 +182,7 @@ footer a{font-weight:600;color:var(--ink-2)}
 <header class="mast">
   <div class="wrap">
     <a class="logo" href="./" aria-label="Fresh Juice — на главную">
-      <span class="lr"><span class="w">FRESH</span><span class="news">news</span></span>
-      <span class="lr"><span class="w">JUICE</span></span>
+      <span class="fresh">FRESH</span><span class="news">news</span><span class="juice">JUICE</span>
     </a>
     <div class="mast-meta"><span class="m" id="meta">Загружаю выпуск…</span><button class="pill" id="issuesBtn" type="button">Все выпуски</button></div>
   </div>
@@ -202,14 +213,22 @@ const fd=iso=>{const d=new Date(iso+"T12:00:00");return isNaN(d)?(iso||""):`${d.
 const plural=(n,f)=>{const a=n%10,b=n%100;return f[(a===1&&b!==11)?0:(a>=2&&a<=4&&(b<10||b>=20))?1:2]};
 let idx=null,issues=[],cur=null,stories=[],deck=[],rIdx=0;
 
-function cover(s,num){
+const SIZES={card:"(min-width:1000px) 370px, (min-width:640px) 45vw, 86vw",lead:"(min-width:860px) 650px, 100vw",reader:"(min-width:800px) 760px, 100vw"};
+const ytId=u=>{const m=String(u||"").match(/(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([A-Za-z0-9_-]{11})/);return m?m[1]:null};
+function cover(s,num,ctx="card"){
   const im=s.image&&s.image.url;
   const n=num?`<span class="num">${num}</span>`:"";
-  if(im)return `<div class="cover" data-r="${s.rubric}" style="${rc(s.rubric)}"><img src="${esc(im)}" alt="" loading="lazy">${n}${s.image.credit?`<span class="credit">${esc(s.image.credit)}</span>`:""}</div>`;
-  return `<div class="cover typo" data-r="${s.rubric}" style="${rc(s.rubric)}" aria-hidden="true">${n}<span class="cw" style="--L:${Math.max(6,...String(s.cover_word||s.title||"").split(/\s+/).map(w=>w.length))}">${esc(s.cover_word||s.title||"")}</span></div>`;
+  const vid=s.video&&ytId(s.video.url);
+  const vb=vid&&ctx!=="reader"?`<span class="vbadge">▶ ${esc(s.video.label||"видео")}</span>`:"";
+  const play=vid&&ctx==="reader"?`<button class="play" type="button" data-play="${vid}" aria-label="Смотреть: ${esc(s.video.label||"видео")}"><i>▶</i><span>${esc(s.video.label||"видео")}</span></button>`:"";
+  const cr=im&&s.image.credit&&!s.image.illustration&&ctx!=="reader"?`<span class="credit">${esc(s.image.credit)}</span>`:"";
+  if(im){const sm=s.image.small;const src=sm?`src="${esc(sm)}" srcset="${esc(sm)} 640w, ${esc(im)} 1200w" sizes="${SIZES[ctx]}"`:`src="${esc(im)}"`;
+    return `<div class="cover" data-r="${s.rubric}" style="${rc(s.rubric)}"><img ${src} alt="" loading="${ctx==="lead"?"eager":"lazy"}" decoding="async">${n}${vb}${cr}${play}</div>`}
+  return `<div class="cover typo" data-r="${s.rubric}" style="${rc(s.rubric)}" aria-hidden="true">${n}${vb}<span class="cw" style="--L:${Math.max(6,...String(s.cover_word||s.title||"").split(/\s+/).map(w=>w.length))}">${esc(s.cover_word||s.title||"")}</span>${play}</div>`;
 }
+const credit=s=>{const i=s.image||{};if(!i.url)return "";if(i.illustration)return `<p class="cap">Иллюстрация Fresh Juice по мотивам новости</p>`;return `<p class="cap">Фото: ${esc(i.credit||"источник")}${i.link?` · <a href="${esc(i.link)}" target="_blank" rel="noopener">источник ↗</a>`:""}</p>`};
 const kick=(s,rub)=>`<div class="kick" style="${rc(s.rubric)}">${rub?`<span class="r">${RUB[s.rubric]}</span>`:""}<span>${esc(s.status||"")}</span><span>${esc(s.date_label||fd(s.date_iso))}${s.country?" · "+esc(s.country):""}</span></div>`;
-const card=(s,i,n)=>`<a class="card" href="#${esc(s.id)}" data-open="${esc(s.id)}" style="${rc(s.rubric)}">${cover(s,`${i+1}/${n}`)}<div class="txt">${kick(s,false)}<h3>${esc(s.headline)}</h3><p>${esc(s.dek)}</p><span class="more">Читать →</span></div></a>`;
+const card=(s,i,n)=>`<a class="card" href="#${esc(s.id)}" data-open="${esc(s.id)}" style="${rc(s.rubric)}">${cover(s,`${i+1}/${n}`,"card")}<div class="txt">${kick(s,false)}<h3>${esc(s.headline)}</h3><p>${esc(s.dek)}</p><span class="more">Читать →</span></div></a>`;
 
 function render(){
   const by={};ORDER.forEach(r=>by[r]=[]);
@@ -222,7 +241,7 @@ function render(){
   let h="";
   if(!stories.length){h=`<section class="state"><h2>Сегодня без новостей</h2><p>${esc(cur.empty_note||"За период новых подтверждённых новостей для подборки не нашёл.")}</p></section>`}
   else{
-    if(lead)h+=`<section class="lead"><a class="lead-card" href="#${esc(lead.id)}" data-open="${esc(lead.id)}" style="${rc(lead.rubric)}">${cover(lead)}<div class="txt"><span class="label">Главное</span>${kick(lead,true)}<h2>${esc(lead.headline)}</h2><p>${esc(lead.dek)}</p></div></a>${cur.intro?`<p class="intro">${esc(cur.intro)}</p>`:""}</section>`;
+    if(lead)h+=`<section class="lead"><a class="lead-card" href="#${esc(lead.id)}" data-open="${esc(lead.id)}" style="${rc(lead.rubric)}">${cover(lead,"","lead")}<div class="txt"><span class="label">Главное</span>${kick(lead,true)}<h2>${esc(lead.headline)}</h2><p>${esc(lead.dek)}</p></div></a>${cur.intro?`<p class="intro">${esc(cur.intro)}</p>`:""}</section>`;
     ORDER.forEach(r=>{
       const list=by[r];if(!list.length)return;
       h+=`<section class="sec" id="sec-${r}" style="${rc(r)}"><div class="sec-h"><div><h2>${RUB[r]}</h2></div><div class="side"><span class="sub">${SUB[r]} · ${list.length} ${plural(list.length,["новость","новости","новостей"])}</span><div class="arrows"><button type="button" data-rail="${r}" data-dir="-1" aria-label="Назад">←</button><button type="button" data-rail="${r}" data-dir="1" aria-label="Вперёд">→</button></div></div></div><div class="rail" id="rail-${r}">${list.map((s,i)=>card(s,i,list.length)).join("")}</div>${list.length>1?`<div class="dots" id="dots-${r}">${list.map((_,i)=>`<i class="${i?"":"on"}"></i>`).join("")}</div>`:""}</section>`;
@@ -246,7 +265,7 @@ function slide(s,i){
   const deep=[["Что произошло",s.what],["Механика",s.mechanics],["Условия",s.terms]].filter(x=>x[1]);
   const links=[...(s.video&&s.video.url?[{label:s.video.label||"видео",url:s.video.url,v:1}]:[]),...(s.sources||[])];
   const p=deck[i-1],n=deck[i+1];
-  return `<article class="slide" style="${rc(s.rubric)}"><div class="s-in">${cover(s)}<div class="s-body">${kick(s,true)}<h2>${esc(s.headline)}</h2><p class="dek">${esc(s.dek)}</p>${s.why?`<div class="why"><b>Чем интересно</b><p>${esc(s.why)}</p></div>`:""}${deep.length?`<button class="deep-btn" type="button" data-deep="${i}" aria-expanded="false">Читать подробно</button><div class="deep" id="deep-${i}" hidden>${deep.map(d=>`<div><h4>${d[0]}</h4><p>${esc(d[1])}</p></div>`).join("")}${s.note?`<p class="note">${esc(s.note)}</p>`:""}</div>`:""}${links.length?`<div><h4 style="margin:4px 0 8px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)">Источники</h4><div class="links">${links.map(l=>`<a class="${l.v?"v":""}" href="${esc(l.url)}" target="_blank" rel="noopener">${l.v?"▶ ":""}${esc(l.label)} ↗</a>`).join("")}</div></div>`:""}<div class="s-next">${p?`<button type="button" data-go="-1"><span>← назад</span>${esc(p.title||"")}</button>`:"<span></span>"}${n?`<button type="button" data-go="1"><span>дальше →</span>${esc(n.title||"")}</button>`:"<span></span>"}</div></div></div></article>`;
+  return `<article class="slide" style="${rc(s.rubric)}"><div class="s-in">${cover(s,"","reader")}<div class="s-body">${credit(s)}${kick(s,true)}<h2>${esc(s.headline)}</h2><p class="dek">${esc(s.dek)}</p>${s.why?`<div class="why"><b>Чем интересно</b><p>${esc(s.why)}</p></div>`:""}${deep.length?`<button class="deep-btn" type="button" data-deep="${i}" aria-expanded="false">Читать подробно</button><div class="deep" id="deep-${i}" hidden>${deep.map(d=>`<div><h4>${d[0]}</h4><p>${esc(d[1])}</p></div>`).join("")}${s.note?`<p class="note">${esc(s.note)}</p>`:""}</div>`:""}${links.length?`<div><h4 style="margin:4px 0 8px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)">Источники</h4><div class="links">${links.map(l=>`<a class="${l.v?"v":""}" href="${esc(l.url)}" target="_blank" rel="noopener">${l.v?"▶ ":""}${esc(l.label)} ↗</a>`).join("")}</div></div>`:""}<div class="s-next">${p?`<button type="button" data-go="-1"><span>← назад</span>${esc(p.title||"")}</button>`:"<span></span>"}${n?`<button type="button" data-go="1"><span>дальше →</span>${esc(n.title||"")}</button>`:"<span></span>"}</div></div></div></article>`;
 }
 function openReader(id){
   const i=Math.max(0,deck.findIndex(s=>s.id===id));
@@ -255,20 +274,22 @@ function openReader(id){
   const sl=$("#slides");sl.style.scrollBehavior="auto";sl.scrollLeft=i*sl.clientWidth;sl.style.scrollBehavior="";
   setPos(i);
 }
+function stopVideos(keep){document.querySelectorAll(".slide .cover.playing").forEach(cv=>{const sl=cv.closest(".slide");if(sl!==keep){const k=[...sl.parentNode.children].indexOf(sl);cv.outerHTML=cover(deck[k],"","reader")}})}
 function setPos(i){
-  rIdx=i;const s=deck[i];if(!s)return;
+  rIdx=i;const s=deck[i];if(!s)return;stopVideos($("#slides").children[i]);
   $("#reader").style.setProperty("--rc",`var(--${s.rubric})`);
   $("#rpos").innerHTML=`<b>${RUB[s.rubric]}</b> · ${i+1} из ${deck.length}`;
   $("#rbar").style.width=((i+1)/deck.length*100)+"%";
   try{history.replaceState(null,"","#"+s.id)}catch(e){}
 }
 function go(d){const sl=$("#slides");const n=Math.min(deck.length-1,Math.max(0,rIdx+d));sl.scrollTo({left:n*sl.clientWidth})}
-function closeReader(){$("#reader").hidden=true;document.documentElement.style.overflow="";try{history.replaceState(null,"","#"+cur.id)}catch(e){}}
+function closeReader(){stopVideos(null);$("#reader").hidden=true;document.documentElement.style.overflow="";try{history.replaceState(null,"","#"+cur.id)}catch(e){}}
 let st;$("#slides").addEventListener("scroll",e=>{clearTimeout(st);st=setTimeout(()=>{const sl=e.target;const i=Math.round(sl.scrollLeft/sl.clientWidth);if(i!==rIdx){setPos(i);if(sl.children[i])sl.children[i].scrollTop=0}},80)},{passive:true});
 $("#rprev").onclick=()=>go(-1);$("#rnext").onclick=()=>go(1);$("#rclose").onclick=closeReader;
 document.addEventListener("keydown",e=>{if(!$("#sheet").hidden&&e.key==="Escape"){$("#sheet").hidden=true;return}if($("#reader").hidden)return;if(e.key==="Escape")closeReader();if(e.key==="ArrowRight")go(1);if(e.key==="ArrowLeft")go(-1)});
 document.addEventListener("click",e=>{
   const o=e.target.closest("[data-open]");if(o){e.preventDefault();openReader(o.dataset.open);return}
+  const pl=e.target.closest("[data-play]");if(pl){const cv=pl.closest(".cover");cv.classList.add("playing");cv.innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${pl.dataset.play}?autoplay=1&rel=0&playsinline=1" title="Видео" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;return}
   const g=e.target.closest("[data-go]");if(g){go(+g.dataset.go);return}
   const ar=e.target.closest("[data-rail]");if(ar){const rl=document.getElementById("rail-"+ar.dataset.rail);const w=rl.children[0].getBoundingClientRect().width+16;rl.scrollBy({left:w*+ar.dataset.dir});return}
   const dp=e.target.closest("[data-deep]");if(dp){const b=document.getElementById("deep-"+dp.dataset.deep);b.hidden=!b.hidden;dp.setAttribute("aria-expanded",String(!b.hidden));dp.textContent=b.hidden?"Читать подробно":"Свернуть";return}

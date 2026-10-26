@@ -50,7 +50,13 @@
    ],
    "note": "Данные J’son & Partners Consulting, сравнение первых полугодий 2026 и 2025 годов.",
    "order": 1,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-17.webp",
+    "small": "img/n261027-17-s.webp",
+    "credit": "Телеспутник",
+    "link": "https://telesputnik.ru/materials/content/article/eksklyuzivy-ii-i-soyuz-s-tv-json-partners-raskryli-trendy-rynka-premernogo-kontenta"
+   }
   },
   {
    "id": "n261023-02",
@@ -74,7 +80,13 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261023-02.webp",
+    "small": "img/n261023-02-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261023-03",
@@ -98,7 +110,13 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261023-03.webp",
+    "small": "img/n261023-03-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261026-03",
@@ -122,7 +140,13 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261026-03.webp",
+    "small": "img/n261026-03-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261027-16",
@@ -146,7 +170,13 @@
     }
    ],
    "order": 5,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-16.webp",
+    "small": "img/n261027-16-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261026-01",
@@ -170,8 +200,10 @@
    ],
    "issue": "i2026-10-27",
    "image": {
-    "url": "img/tahaadi.jpg",
-    "credit": "The 1% Club · C21Media"
+    "url": "img/n261026-01.webp",
+    "small": "img/n261026-01-s.webp",
+    "credit": "The 1% Club · C21Media",
+    "link": "https://www.c21media.net/news/saudi-broadcasting-authority-takes-the-1-club-into-arabic-speaking-market/"
    },
    "lead": false
   },
@@ -201,8 +233,10 @@
    ],
    "issue": "i2026-10-27",
    "image": {
-    "url": "img/tnt.jpg",
-    "credit": "Ведомости"
+    "url": "img/n261026-02.webp",
+    "small": "img/n261026-02-s.webp",
+    "credit": "Ведомости",
+    "link": "https://www.vedomosti.ru/society/news/2026/10/26/1240168-vizhit-v-stambule"
    },
    "lead": false
   },
@@ -234,7 +268,17 @@
    "note": "Анонс вышел до периода выпуска, найден при сборке пилота. Механика — по материалам СМИ; официальный релиз СТС не найден.",
    "found_late": true,
    "order": 3,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-19.webp",
+    "small": "img/n261027-19-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "video": {
+    "label": "анонс шоу",
+    "url": "https://www.youtube.com/watch?v=-SJFhMqb4t8"
+   }
   },
   {
    "id": "n261023-01",
@@ -258,7 +302,13 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261023-01.webp",
+    "small": "img/n261023-01-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261027-18",
@@ -282,7 +332,17 @@
     }
    ],
    "order": 5,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-18.webp",
+    "small": "img/n261027-18-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "video": {
+    "label": "Next Gen NYC — тизер оригинала, Bravo",
+    "url": "https://www.youtube.com/watch?v=iJKtFJcHNfw"
+   }
   },
   {
    "id": "n261021-01",
@@ -311,8 +371,10 @@
    ],
    "issue": "i2026-10-27",
    "image": {
-    "url": "img/alfa.jpg",
-    "credit": "Hi-Tech Mail"
+    "url": "img/n261021-01.webp",
+    "small": "img/n261021-01-s.webp",
+    "credit": "Hi-Tech Mail",
+    "link": "https://adindex.ru/news/media/2026/10/21/350200.phtml"
    },
    "lead": false
   },
@@ -338,7 +400,13 @@
     }
    ],
    "order": 2,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-20.webp",
+    "small": "img/n261027-20-s.webp",
+    "credit": "Walmart / Adweek",
+    "link": "https://www.adweek.com/creativity/walmart-brings-the-muppets-and-walton-goggins-together-for-its-own-holiday-carol/"
+   }
   },
   {
    "id": "n261027-21",
@@ -362,7 +430,13 @@
     }
    ],
    "order": 3,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-21.webp",
+    "small": "img/n261027-21-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261026-04",
@@ -387,7 +461,13 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261026-04.webp",
+    "small": "img/n261026-04-s.webp",
+    "credit": "КБ-12 / Sostav",
+    "link": "https://www.sostav.ru/publication/kak-akinfet-stalo-glagolom-kejs-kb-12-dlya-pyat-rochki-i-perekr-stka-87984.html"
+   }
   },
   {
    "id": "n261026-05",
@@ -412,8 +492,10 @@
    ],
    "issue": "i2026-10-27",
    "image": {
-    "url": "img/esteo.jpg",
-    "credit": "TWIGA · Sostav"
+    "url": "img/n261026-05.webp",
+    "small": "img/n261026-05-s.webp",
+    "credit": "TWIGA · Sostav",
+    "link": "https://www.sostav.ru/publication/kejs-oggi-by-twiga-cg-dlya-esteo-87940.html"
    },
    "lead": false
   },
@@ -440,7 +522,13 @@
    ],
    "note": "3,8 млн просмотров — данные Footballco.",
    "order": 1,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-22.webp",
+    "small": "img/n261027-22-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261024-01",
@@ -464,7 +552,13 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261024-01.webp",
+    "small": "img/n261024-01-s.webp",
+    "credit": "Sostav",
+    "link": "https://www.sostav.ru/publication/mosgorsud-vstal-na-storonu-okko-v-spore-o-futbolnykh-translyatsiyakh-87993.html"
+   }
   },
   {
    "id": "n261027-23",
@@ -488,7 +582,13 @@
     }
    ],
    "order": 3,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-23.webp",
+    "small": "img/n261027-23-s.webp",
+    "credit": "Inside World Football",
+    "link": "https://www.insideworldfootball.com/2026/10/23/ligue-1-returns-to-french-tv-market-looking-for-bigger-and-better-alternative-to-its-streaming-service/"
+   }
   },
   {
    "id": "n261027-24",
@@ -512,7 +612,13 @@
     }
    ],
    "order": 4,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-24.webp",
+    "small": "img/n261027-24-s.webp",
+    "credit": "Football Benchmark / Inside World Football",
+    "link": "https://www.insideworldfootball.com/2026/10/26/financial-services-bet-big-with-european-clubs-as-bookies-lose-their-shirts/"
+   }
   },
   {
    "id": "n261027-25",
@@ -537,7 +643,13 @@
    ],
    "note": "Показатели аудитории — данные FIFA.",
    "order": 5,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-25.webp",
+    "small": "img/n261027-25-s.webp",
+    "credit": "Inside World Football",
+    "link": "https://www.insideworldfootball.com/2026/10/23/fifa-goes-to-market-with-us-media-rights-for-2030-and-2034-world-cups/"
+   }
   },
   {
    "id": "n261027-26",
@@ -565,11 +677,17 @@
     }
    ],
    "video": {
-    "label": "трейлер",
-    "url": "https://www.youtube.com/watch?v=3lkZ4Jx6mwY"
+    "label": "трейлер A24",
+    "url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
    },
    "order": 1,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-26.webp",
+    "small": "img/n261027-26-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261026-06",
@@ -593,8 +711,10 @@
    ],
    "issue": "i2026-10-27",
    "image": {
-    "url": "img/nailbomb.jpg",
-    "credit": "Yeti Television · C21Media"
+    "url": "img/n261026-06.webp",
+    "small": "img/n261026-06-s.webp",
+    "credit": "Yeti Television · C21Media",
+    "link": "https://www.c21media.net/news/prime-video-orders-feature-documentary-about-1999-london-nail-bombings/"
    },
    "lead": false
   },
@@ -621,7 +741,17 @@
    ],
    "note": "Выводы подкаста о телепатии оспариваются научным сообществом; новость — о сделке, а не о достоверности этих выводов.",
    "order": 3,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-27.webp",
+    "small": "img/n261027-27-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "video": {
+    "label": "видео проекта",
+    "url": "https://www.youtube.com/watch?v=nKbA2NBZGqo"
+   }
   },
   {
    "id": "n261027-28",
@@ -645,7 +775,13 @@
     }
    ],
    "order": 4,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-28.webp",
+    "small": "img/n261027-28-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261026-07",
@@ -669,7 +805,13 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261026-07.webp",
+    "small": "img/n261026-07-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261025-01",
@@ -694,7 +836,13 @@
      "url": "https://www.sostav.ru/publication/platforma-storis-vypustit-pervuyu-ii-mikrodramu-v-rossii-87995.html"
     }
    ],
-   "issue": "i2026-10-27"
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261025-01.webp",
+    "small": "img/n261025-01-s.webp",
+    "credit": "Sostav",
+    "link": "https://www.sostav.ru/publication/platforma-storis-vypustit-pervuyu-ii-mikrodramu-v-rossii-87995.html"
+   }
   },
   {
    "id": "n261026-08",
@@ -719,8 +867,10 @@
    ],
    "issue": "i2026-10-27",
    "image": {
-    "url": "img/risingjoy.jpg",
-    "credit": "RisingJoy · C21Media"
+    "url": "img/n261026-08.webp",
+    "small": "img/n261026-08-s.webp",
+    "credit": "RisingJoy · C21Media",
+    "link": "https://www.c21media.net/news/risingjoy-usiing-ai-to-create-30-vertical-anime-titles-labelled-rjoy-originals/"
    },
    "lead": false
   },
@@ -750,7 +900,17 @@
     }
    ],
    "issue": "i2026-10-27",
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261026-09.webp",
+    "small": "img/n261026-09-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "video": {
+    "label": "трейлер Netflix",
+    "url": "https://www.youtube.com/watch?v=SO4CU9P8--8"
+   }
   },
   {
    "id": "n261027-29",
@@ -774,7 +934,13 @@
     }
    ],
    "order": 4,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-29.webp",
+    "small": "img/n261027-29-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   },
   {
    "id": "n261027-30",
@@ -798,7 +964,13 @@
     }
    ],
    "order": 5,
-   "lead": false
+   "lead": false,
+   "image": {
+    "url": "img/n261027-30.webp",
+    "small": "img/n261027-30-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
   }
  ]
 }
