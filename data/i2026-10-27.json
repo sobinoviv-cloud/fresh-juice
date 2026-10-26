@@ -1,0 +1,1797 @@
+{
+ "issue": {
+  "id": "i2026-10-27",
+  "date": "2026-10-27",
+  "mode": "daily",
+  "chip": "27 окт",
+  "period_label": "21–27 октября 2026",
+  "lead_id": "n261025-01",
+  "intro": "Главное за неделю: ИИ и вертикаль становятся производственной нормой — от первой российской ИИ-микродрамы до брендов, которые снимают собственные сериалы для TikTok и соцсетей. Экранная IP уходит в офлайн: мюзиклы, кинопоказы сериалов, фестивали. Спорт превращается в контент, который снимают сами владельцы прав.",
+  "agenda": [
+   {
+    "date": "27–29 октября",
+    "label": "Jornadas Internacionales, Буэнос-Айрес: рынок кабельного ТВ и контента Латинской Америки",
+    "url": "https://www.produ.com/television/noticias/bajo-el-lema-ecosistema-en-accion-crear-valor-en-red-arranca-jornadas-internacionales-con-nueva-sede/"
+   },
+   {
+    "date": "Эта неделя",
+    "label": "TIFFCOM, Токио: рынок японских форматов и аниме",
+    "url": "https://www.c21media.net/department/thought-leadership/formats100-tbs-finds-us-success-with-more-than-just-dumb-luck/"
+   }
+  ],
+  "coverage_note": "Проверены ленты C21, Deadline, Variety, THR, TheWrap, Realscreen, PRODU, Tubefilter, Marketing Dive, Adweek, Front Office Sports, Inside World Football, Sostav, AdIndex, Sports.ru и «Ведомостей». Основной период — 21–27 октября; в Short media добавлены показательные кейсы середины октября, даты указаны честно. Realscreen отдаёт материалы частично (платный доступ).",
+  "count": 54,
+  "generated_at": "2026-10-27T08:30:00+03:00",
+  "search_note": "Поиск завершён 27 октября в 08:30 МСК.",
+  "manual": true,
+  "period_start": "2026-10-21",
+  "period_end": "2026-10-27"
+ },
+ "stories": [
+  {
+   "id": "n261025-01",
+   "rubric": "scripted",
+   "order": 1,
+   "lead": true,
+   "status": "Анонс",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "Россия",
+   "title": "Сторис × НМГ",
+   "cover_word": "«Сторис» · ИИ-микродрама",
+   "headline": "«Сторис» НМГ снимет первую в России микродраму целиком на ИИ",
+   "dek": "До конца 2026 года вертикальная платформа Национальной медиа группы выпустит профессиональный сериал, сгенерированный нейросетью под контролем сценаристов и режиссёров.",
+   "what": "Гендиректор НМГ Светлана Баланова рассказала на конференции «Медиабизнес» газеты «Ведомости», что платформа «Сторис» до конца 2026 года выпустит первую профессиональную микродраму, полностью созданную с помощью искусственного интеллекта. Сюжет пока не раскрывают.",
+   "mechanics": "Над проектом работает профессиональная команда: она пишет промпты, контролирует сценарий, видеоматериал и остальные этапы. «Сторис» запущена в апреле 2025 года с перемонтированными сериалами «Домашнего» и зарубежными микродрамами. Сейчас в каталоге больше 90 проектов, из них 7 оригинальных микродрам; первая вышла в конце 2025 года.",
+   "why": "Крупный холдинг ставит ИИ в производство многосерийного контента для платформы, а не роликов для соцсетей. НМГ прямо называет это тестом: как зрители смотрят микродрамы и готовы ли за них платить.",
+   "note": "Формулировка «первая в России» принадлежит НМГ.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/platforma-storis-vypustit-pervuyu-ii-mikrodramu-v-rossii-87995.html"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261025-01.webp",
+    "small": "img/n261025-01-s.webp",
+    "credit": "Sostav",
+    "link": "https://www.sostav.ru/publication/platforma-storis-vypustit-pervuyu-ii-mikrodramu-v-rossii-87995.html"
+   }
+  },
+  {
+   "id": "n261027-31",
+   "rubric": "scripted",
+   "status": "Производство",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "Россия",
+   "title": "ГПМ РТВ × «Медиаслово»",
+   "cover_word": "«Анна Каренина»",
+   "headline": "«Газпром-медиа» и «Медиаслово» снимут новую «Анну Каренину»",
+   "dek": "Полный метр по Толстому поставит режиссёр-женщина; группу ещё собирают. Это уже второй проект пары в октябре после «Слова о полку Игореве».",
+   "what": "Тина Канделаки, замгендиректора «Газпром-медиа» и директор ТНТ, объявила на конференции «Медиабизнес», что субхолдинг «ГПМ РТВ» и компания «Медиаслово» Данилы Шарапова снимут новую полнометражную «Анну Каренину». Состав группы не раскрыт: известно только, что режиссёр уже работала с Шараповым и «это женщина».",
+   "mechanics": "С 2024 года у «ГПМ РТВ» и «Медиаслова» пятилетняя сделка first look: холдинг первым выбирает все новые сериальные проекты студии. В её рамках на ТНТ вышли «Третье сентября», «Склиф», расширенная «Алиса в Стране чудес», на ноябрь назначен «Тайный город». Параллельно «Газпром-медиа» выпускает «Войну и мир» Сарика Андреасяна (прокат с 18 февраля 2027 года), а ВГТРК снимает свой сериал «Война и мир» с Сергеем Урсуляком.",
+   "why": "Холдинги делят классику: Толстой идёт сразу в несколько проектов у конкурирующих игроков. Канделаки при этом прямо говорит, что сейчас время «шерить» расходы и запускать только то, что окупается на входе.",
+   "note": "Сроки съёмок и премьеры не объявлены.",
+   "sources": [
+    {
+     "label": "Ведомости",
+     "url": "https://www.vedomosti.ru/media/articles/2026/10/22/1239366-ekraniziruyut-annu-kareninu"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-31.webp",
+    "small": "img/n261027-31-s.webp",
+    "credit": "Ведомости",
+    "link": "https://www.vedomosti.ru/media/articles/2026/10/22/1239366-ekraniziruyut-annu-kareninu"
+   },
+   "issue": "i2026-10-27",
+   "order": 2,
+   "lead": false
+  },
+  {
+   "id": "n261027-17",
+   "issue": "i2026-10-27",
+   "rubric": "scripted",
+   "status": "Исследование",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "Россия",
+   "title": "J’son & Partners",
+   "cover_word": "207 премьер",
+   "headline": "Премьер в онлайн-кинотеатрах стало на 37% больше: растут эксклюзивы и союз с ТВ",
+   "dek": "J’son & Partners посчитали первое полугодие 2026 года: 207 премьерных проектов против 151, проектов с участием телеканалов — 120 против 79.",
+   "what": "На конференции «Медиабизнес» J’son & Partners Consulting представила данные о премьерном видеоконтенте в цифровой среде за первое полугодие 2026 года в сравнении с тем же периодом 2025-го.",
+   "mechanics": "Игровых сериалов вышло 138 против 115. Эксклюзивов одной платформы стало 95 вместо 67, а ко-эксклюзивов (на двух и более площадках) — 43 вместо 48. Почти все телесериалы теперь выходят в цифре одновременно с эфиром. Растут документальные и нон-скрипт проекты; «Кинопоиск» развивает стендап-концерты, Kion — полный метр и анимацию; системно анимацию поддерживает только Okko.",
+   "why": "Платформы всё чаще делят производство и маркетинг с телеканалами, а за эксклюзивы борются сильнее, чем год назад.",
+   "sources": [
+    {
+     "label": "Телеспутник",
+     "url": "https://telesputnik.ru/materials/content/article/eksklyuzivy-ii-i-soyuz-s-tv-json-partners-raskryli-trendy-rynka-premernogo-kontenta"
+    }
+   ],
+   "note": "Данные J’son & Partners Consulting, сравнение первых полугодий 2026 и 2025 годов.",
+   "order": 3,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-17.webp",
+    "small": "img/n261027-17-s.webp",
+    "credit": "Телеспутник",
+    "link": "https://telesputnik.ru/materials/content/article/eksklyuzivy-ii-i-soyuz-s-tv-json-partners-raskryli-trendy-rynka-premernogo-kontenta"
+   }
+  },
+  {
+   "id": "n261023-02",
+   "rubric": "scripted",
+   "order": 4,
+   "status": "Заказ",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "США",
+   "title": "Bravo",
+   "cover_word": "Bravo · первая микродрама",
+   "headline": "Реалити-канал Bravo заказал первую микродраму — с героем своих же реалити",
+   "dek": "Вертикальный сериал «Charmed by a Southern Monster» выйдет на Peacock 9 ноября. Канал использует узнаваемые лица своих шоу как актёров.",
+   "what": "Канал Bravo (NBCUniversal) заказал свою первую сценарную микродраму «Charmed by a Southern Monster». Главные роли играют Крейг Коновер, известный по реалити Bravo, и Николь Маттокс. Производство — Micromaker и Haymaker East. Премьера 9 ноября на Peacock.",
+   "mechanics": "Жанр — мыльная мелодрама, офисное соперничество и детектив маленького города. Сюжет: корпоративную «решалу» отправляют соблазнить мужчину, которого подозревают в убийстве, чтобы он продал семейное поместье. Параллельно Bravo заказал спин-офф «Next Gen Atlanta» (Blink49 Studios) и продлил «Next Gen NYC», «In The City» и «Southern Hospitality».",
+   "why": "Реалити-канал переносит свою аудиторию в вертикальный сценарный формат: звёзды собственных шоу дают узнаваемость без бюджета на кинозвёзд.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/bravo-greenlights-first-scripted-microdrama-and-next-gen-spin-off/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261023-02.webp",
+    "small": "img/n261023-02-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261023-03",
+   "rubric": "scripted",
+   "order": 5,
+   "status": "Сделка",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "Индия",
+   "title": "Netflix × Hoichoi",
+   "cover_word": "Netflix × Hoichoi",
+   "headline": "Netflix забирает в Индии все новые сериалы бенгальского Hoichoi на два года",
+   "dek": "Региональный стриминг отдаёт свой поток глобальной платформе, а Netflix дублирует его на хинди, тамильский и телугу. Плюс совместные оригиналы.",
+   "what": "Netflix и бенгальский стриминг и студия Hoichoi заключили партнёрство: все сериалы Hoichoi, которые выйдут в ближайшие два года, появятся на Netflix в Индии на хинди, тамильском и телугу. Первый — фолк-хоррор «The Cursed Temple of Kauriburi», премьера 6 ноября.",
+   "mechanics": "В пакете криминальные триллеры, детективы, фолк-хорроры, судебные драмы и мелодрамы, среди них «Madam Inspector», «Lajja», «Eken Sirji», «Bloodlines». Отдельно стороны сделают оригинальные сериалы по мотивам историй Hoichoi в производстве Hoichoi Studios; детали обещаны позже.",
+   "why": "Глобальная платформа не конкурирует с региональной, а берёт весь её поток и выводит на большие языки страны. Региональный каталог получает общенациональную аудиторию.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/netflix-india-to-carry-new-originals-and-scripted-from-bengali-streamer-hoichoi/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261023-03.webp",
+    "small": "img/n261023-03-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261026-08",
+   "rubric": "scripted",
+   "order": 6,
+   "status": "Производство",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Сингапур",
+   "title": "RisingJoy",
+   "headline": "RisingJoy делает с помощью ИИ 30 вертикальных аниме-сериалов",
+   "dek": "Сингапурская студия микродрам уже выпустила шесть тайтлов RJOY Originals и обещает темп, недоступный обычной анимации на бюджетах коротких форматов.",
+   "what": "RisingJoy выпустит 30 вертикальных аниме-сериалов под брендом RJOY Originals к концу первого квартала 2027 года. Шесть готовы, четыре выйдут до конца 2026-го, два — в январе.",
+   "mechanics": "Разработку и режиссуру ведёт собственная команда, ИИ-инструменты используются в производстве. Компания дистрибутирует микродрамы через 50+ платформ в 40+ странах и подписала рамочный меморандум с NTT DOCOMO Studio & Live о международной дистрибуции их вертикального контента (неэксклюзивно, по каждому тайтлу отдельно). Сериалы на японском и английском уже идут в Индонезии и Малайзии на IDN App и Sooka.",
+   "why": "ИИ-анимация становится конвейером для вертикального жанра: студия считает сериалы десятками, а не штуками.",
+   "note": "Попадание в топ-10 по просмотрам на IDN App и Sooka — данные компании.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/risingjoy-usiing-ai-to-create-30-vertical-anime-titles-labelled-rjoy-originals/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261026-08.webp",
+    "small": "img/n261026-08-s.webp",
+    "credit": "RisingJoy · C21Media",
+    "link": "https://www.c21media.net/news/risingjoy-usiing-ai-to-create-30-vertical-anime-titles-labelled-rjoy-originals/"
+   },
+   "lead": false
+  },
+  {
+   "id": "n261026-03",
+   "rubric": "scripted",
+   "order": 7,
+   "status": "Производство",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Испания",
+   "title": "La Regenta",
+   "cover_word": "«Регента»",
+   "headline": "Netflix экранизирует испанскую классику «Регента» глазами героини",
+   "dek": "Роман 1884 года переосмысляют с женской точки зрения: режиссёр Мар Колл, продюсер Elastica Films, это их первая работа с Netflix.",
+   "what": "Netflix начал съёмки полнометражного фильма по роману Леопольдо Аласа (псевдоним Кларин) «Регента». Режиссёр Мар Колл, продюсер Мария Самора (Elastica Films). Сценарий Колл написала вместе с Анной Р. Костой и Диего Вегой. В ролях Эстер Экспосито, Ориоль Пла, Вито Санс и другие.",
+   "mechanics": "Действие в вымышленном соборном городе Ветуста: женщина, выданная за пожилого отставного судью, ищет смысл жизни в среде, готовой её уничтожить. Классический сюжет переписан с позиции героини.",
+   "why": "Школьная классика с узнаваемым названием работает как готовый IP: зритель знает имя, а новая оптика даёт повод для разговора.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/netflix-adapts-spanish-classic-novel-la-regenta-with-elastica-films/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261026-03.webp",
+    "small": "img/n261026-03-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261027-32",
+   "rubric": "unscripted",
+   "status": "Премьера",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "The Mob · Hulu",
+   "cover_word": "The Mob",
+   "headline": "Hulu запустил The Mob: «Предатели» в декорациях мафиозной виллы",
+   "dek": "Паркер Поузи собрала дюжину звёзд реалити и сериалов в итальянской вилле: они «устраняют» друг друга ради призов до $250 тыс.",
+   "what": "26 октября на Hulu и Disney+ вышли первые две серии соревновательного реалити The Mob. Ведущая и исполнительный продюсер — актриса Паркер Поузи. Участники — звёзды реалити и актёры, в том числе из «Клана Сопрано» и The Real Housewives of New Jersey.",
+   "mechanics": "Герои живут на роскошной вилле в Италии и выполняют задания по мотивам фильмов о мафии, по очереди «убивая» соперников, как в The Traitors. Ключевая механика — «дон»: игрока, которого выберет «семья», наделяют абсолютной властью. Он решает, кто зарабатывает, кто остаётся и кого «устраняют», а остальные могут его свергнуть. Продюсеры — Studio Lambert и Primal Media, шоураннер — Сьюзан Хаус.",
+   "terms": "Призовой фонд — до $250 000.",
+   "why": "Studio Lambert, автор The Traitors, тиражирует собственную механику «предательства» в новых сеттингах. Здесь к ней добавлена вертикаль власти: один игрок управляет экономикой всех остальных.",
+   "note": null,
+   "sources": [
+    {
+     "label": "TheWrap",
+     "url": "https://www.thewrap.com/creative-content/what-to-watch/the-mob-hulu-cast-parker-posey/"
+    }
+   ],
+   "video": {
+    "label": "трейлер Hulu",
+    "url": "https://www.youtube.com/watch?v=nAl3qxAHcT0"
+   },
+   "image": {
+    "url": "img/n261027-32.webp",
+    "small": "img/n261027-32-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 1,
+   "lead": false
+  },
+  {
+   "id": "n261027-33",
+   "rubric": "unscripted",
+   "status": "Анонс",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "США",
+   "title": "Prime Video · Fallout",
+   "cover_word": "Fallout Shelter",
+   "headline": "Prime Video превращает Fallout в реалити: Fallout Shelter: The Experiment выйдет 13 января",
+   "dek": "Десять эпизодов соревновательного шоу по игровой франшизе снимает Studio Lambert.",
+   "what": "Prime Video назначил на 13 января премьеру соревновательного реалити Fallout Shelter: The Experiment по мотивам постапокалиптической игровой серии Fallout. В сезоне 10 эпизодов, производство — Studio Lambert.",
+   "mechanics": "Шоу построено вокруг жизни в убежище в духе игры Fallout Shelter. Подробные правила и призовой фонд в открытом доступе пока не раскрыты. Это второе крупное шоу Studio Lambert на неделе после The Mob.",
+   "why": "Игровая IP приходит в нон-скрипт: после успеха сериала Fallout Amazon расширяет франшизу форматом, который можно продавать и как реалити-бренд.",
+   "note": "Полный текст Realscreen закрыт платным доступом; механика шоу описана по открытым данным.",
+   "sources": [
+    {
+     "label": "Realscreen",
+     "url": "https://realscreen.com/2026/10/23/primes-fallout-competition-series-from-studio-lambert-to-debut-in-january/"
+    }
+   ],
+   "video": {
+    "label": "тизер Prime Video",
+    "url": "https://www.youtube.com/watch?v=N418H-fvnh8"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-33.webp",
+    "small": "img/n261027-33-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 2,
+   "lead": false
+  },
+  {
+   "id": "n261026-01",
+   "rubric": "unscripted",
+   "order": 3,
+   "status": "Производство",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Саудовская Аравия",
+   "title": "Tahaadi 1%",
+   "headline": "«The 1% Club» впервые выходит на арабском: в Эр-Рияде снимают «Tahaadi 1%»",
+   "dek": "Саудовская вещательная корпорация купила британский квиз, где побеждает логика, а не эрудиция. Это первая адаптация формата в арабском мире.",
+   "what": "Saudi Broadcasting Authority начала съёмки в Эр-Рияде первой арабской версии квиза The 1% Club (дистрибьютор BBC Studios). Шоу «Tahaadi 1%» выйдет на развлекательном канале SBC.",
+   "mechanics": "В каждом выпуске 100 участников. Вопросы на логику, наблюдательность и дедукцию, сложность растёт с каждым раундом. Главный приз — 250 000 риалов (около $66,8 тыс.). Формат придумали Энди Ауэрбах и Дин Набарро в Magnum Media в 2022 году для ITV; в Британии шоу продлено как минимум до 2029 года, адаптации есть в 15 территориях, включая США, Австралию, Францию, Германию и Испанию.",
+   "why": "Госвещатель Залива покупает западный студийный формат с понятной механикой и большим составом участников. Это первый выход хита ITV на арабоязычный рынок: Залив покупает проверенные механики для массового эфира.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/saudi-broadcasting-authority-takes-the-1-club-into-arabic-speaking-market/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261026-01.webp",
+    "small": "img/n261026-01-s.webp",
+    "credit": "The 1% Club · C21Media",
+    "link": "https://www.c21media.net/news/saudi-broadcasting-authority-takes-the-1-club-into-arabic-speaking-market/"
+   },
+   "lead": false
+  },
+  {
+   "id": "n261026-02",
+   "rubric": "unscripted",
+   "order": 4,
+   "status": "Решение суда",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Россия",
+   "title": "ТНТ",
+   "headline": "ТНТ отсудил у зарубежных хостингов «Выжить в Стамбуле»",
+   "dek": "Мосгорсуд запретил двум провайдерам технически обеспечивать пиратский показ реалити. Это вторая такая победа канала за месяц.",
+   "what": "Мосгорсуд удовлетворил иск АО «ТНТ-Телесеть» к хостинг-провайдерам Alexhost SRL и Peetinvest B.V. Спор касался размещения шоу на сайтах serkino4k.com и paradtv.top. Суд признал исключительные права ТНТ на реалити и запретил ответчикам обеспечивать размещение, распространение и доступ к нему в интернете.",
+   "mechanics": "1 октября тот же суд удовлетворил иск ТНТ к провайдеру Eurohoster Ltd по реалити «Звёзды в Африке».",
+   "why": "Каналы переходят от блокировки отдельных пиратских сайтов к искам против инфраструктуры, на которой эти сайты живут. Для владельцев реалити это способ защитить эксклюзивное окно показа.",
+   "sources": [
+    {
+     "label": "Ведомости",
+     "url": "https://www.vedomosti.ru/society/news/2026/10/26/1240168-vizhit-v-stambule"
+    },
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/mosgorsud-zapretil-khosting-provajderam-obespechivat-dostup-k-shou-tnt-vyzhit-v-stambule-88033.html"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261026-02.webp",
+    "small": "img/n261026-02-s.webp",
+    "credit": "Ведомости",
+    "link": "https://www.vedomosti.ru/society/news/2026/10/26/1240168-vizhit-v-stambule"
+   },
+   "lead": false
+  },
+  {
+   "id": "n261027-19",
+   "issue": "i2026-10-27",
+   "rubric": "unscripted",
+   "status": "Анонс",
+   "date_iso": "2026-10-15",
+   "date_label": "анонс 15 октября · премьера 8 ноября",
+   "country": "Россия",
+   "title": "СТС",
+   "cover_word": "«Три острова»",
+   "headline": "СТС отправляет звёзд, блогеров и зрителей на «Три острова»: премьера 8 ноября",
+   "dek": "Приключенческое реалити снимали в Таиланде, главный приз — 10 млн рублей, ведущие — Клава Кока и Дима Масленников.",
+   "what": "С 8 ноября СТС покажет новое приключенческое реалити «Три острова». В одном составе — звёзды, блогеры и обычные зрители; среди участников Дмитрий Шепелев, впервые за 20 лет карьеры выступающий не ведущим, а игроком. Ведущие — Клава Кока и Дима Масленников.",
+   "mechanics": "Команды проходят испытания на островах в Таиланде при полном отказе от комфорта и борются за 10 млн рублей.",
+   "why": "Канал собирает в одном шоу звёзд, блогеров и людей с улицы — так реалити тянет и телевизионную, и интернет-аудиторию.",
+   "sources": [
+    {
+     "label": "24СМИ",
+     "url": "https://24smi.org/news/483335-dmitrii-shepelev-oshalel-ot-ispytanii-v-tailande-n.html"
+    },
+    {
+     "label": "Узнай Всё",
+     "url": "https://uznayvse.ru/zvezdyi/maslennikov-i-koka-stali-vedushchimi-shou-tri-ostrova-127500.html"
+    }
+   ],
+   "note": "Анонс вышел до периода выпуска, найден при сборке пилота. Механика — по материалам СМИ; официальный релиз СТС не найден.",
+   "found_late": true,
+   "order": 5,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-19.webp",
+    "small": "img/n261027-19-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "video": {
+    "label": "анонс шоу",
+    "url": "https://www.youtube.com/watch?v=-SJFhMqb4t8"
+   }
+  },
+  {
+   "id": "n261027-34",
+   "rubric": "unscripted",
+   "status": "Запуск",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "Abby vs. Cathy · ShortVydz",
+   "cover_word": "128 танцоров",
+   "headline": "Эбби Ли Миллер возвращается с танцевальным баттлом в вертикальном формате",
+   "dek": "Шоу Abby vs. Cathy на платформе ShortVydz: 128 танцоров 8–16 лет, семь раундов на выбывание и серии по 2–4 минуты.",
+   "what": "Звезда Dance Moms Эбби Ли Миллер и её давняя соперница Кэти Несбитт-Стейн запускают соревновательное шоу Abby vs. Cathy на вертикальной платформе ShortVydz. Премьера — во вторник, 27 октября. Вместе с ним выходит ещё одно шоу платформы — Crashing Out With Kail.",
+   "mechanics": "В турнире 128 танцоров от 8 до 16 лет, сетка из семи раундов на выбывание. Эпизоды длятся 2–4 минуты. Победитель получает $10 000.",
+   "terms": "Приз — $10 000.",
+   "why": "Вертикальные платформы переходят от микродрам к нон-скрипту с узнаваемыми лицами из классического реалити.",
+   "note": null,
+   "sources": [
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/tv/tv-features/abby-lee-miller-cathy-nesbitt-stein-interview-rivalry-new-show-1236740356/"
+    }
+   ],
+   "image": {
+    "url": "img/n261027-34.webp",
+    "small": "img/n261027-34-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 6,
+   "lead": false
+  },
+  {
+   "id": "n261023-01",
+   "rubric": "unscripted",
+   "order": 7,
+   "status": "Запуск",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "США",
+   "title": "Optix Network",
+   "cover_word": "Optix · House of Ink",
+   "headline": "Новый стриминг Optix обещает независимым продюсерам роялти и долю прибыли",
+   "dek": "Сервис стартует в ноябре с реалити «House of Ink» и платит продюсерам не только за лицензию, но и по результатам шоу.",
+   "what": "The Optix Network запускается в ноябре на вебе, мобильных устройствах и Smart TV (Roku, Fire TV, Apple TV, Google TV, Samsung). Первый оригинальный проект — реалити «House of Ink» о бизнесе и личной жизни тату-мастеров во главе с Сизером Эмануэлем из сериала VH1 «Black Ink Crew». Премьера 16 ноября.",
+   "mechanics": "Модель для продюсеров: лицензионные выплаты плюс роялти в зависимости от результатов и возможное участие в прибыли. Два тарифа: бесплатный с рекламой и подписка без рекламы. В стартовой линейке также документальные фильмы и кино от независимых продюсеров.",
+   "why": "Модель, где независимый продюсер зарабатывает на успехе шоу, а не только на продаже, у стримингов встречается редко. Ставки и пороги роялти пока не раскрыты.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/us-streamer-optix-network-to-launch-with-creator-focused-model-original-reality-show/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261023-01.webp",
+    "small": "img/n261023-01-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261027-35",
+   "rubric": "doc",
+   "status": "Прокат",
+   "date_iso": "2026-10-26",
+   "date_label": "24–26 октября",
+   "country": "США",
+   "title": "Musk · Алекс Гибни",
+   "cover_word": "Musk",
+   "headline": "Документалка «Маск» Алекса Гибни выходит в VOD на 18 дней раньше, а TikTok то запрещает, то разрешает её рекламу",
+   "dek": "Четырёхчасовой фильм собрал $650 тыс. в кино, попал в топ предзаказов Apple, а Гильдия сценаристов вступилась за него из-за ограничений рекламы.",
+   "what": "Bleecker Street перенёс выход «Маска» в платный VOD с 24 ноября на 6 ноября; фильм остаётся в кинотеатрах. С 9 октября он собрал около $650 тыс., примерно 40 тыс. билетов; в последние выходные шёл на 60 экранах. Этой зимой фильм выйдет на платформах HBO.",
+   "mechanics": "В чарте предзаказов Apple фильм на 24-м месте из 50; выше среди невышедших только «Одиссея». Гильдия сценаристов Америки (WGA) выступила в защиту фильма: TikTok запретил его рекламу «навсегда», а затем отменил решение. Гибни говорит, что для показов готовят обходной путь мимо соцсетей.",
+   "why": "Политически острая документалка проверяет, кто контролирует её маркетинг: платформы с ограничениями рекламы фактически влияют на прокат. При этом 28-дневное окно для дока — норма, а не «снятие с проката».",
+   "note": "Позиции в чарте Apple — данные дистрибьютора, приведённые THR.",
+   "sources": [
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/where-to-watch-elon-musk-documentary-1236740296/"
+    },
+    {
+     "label": "TheWrap — WGA",
+     "url": "https://www.thewrap.com/industry-news/labor-unions/writers-guild-defends-musk-documentary-amid-censorship-campaign/"
+    },
+    {
+     "label": "Realscreen — Гибни",
+     "url": "https://realscreen.com/2026/10/26/alex-gibney-calls-out-social-media-platform-censorship-says-workaround-for-musk-screenings-on-the-way/"
+    }
+   ],
+   "video": {
+    "label": "трейлер",
+    "url": "https://www.youtube.com/watch?v=eY_8SyndC10"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-35.webp",
+    "small": "img/n261027-35-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 1,
+   "lead": false
+  },
+  {
+   "id": "n261027-26",
+   "issue": "i2026-10-27",
+   "rubric": "doc",
+   "status": "Прокат",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "You Can See Everything",
+   "cover_word": "«Увидеть всё»",
+   "headline": "Документальный фильм A24 «Увидеть всё» вырос во второй уик-энд и идёт к $100 млн",
+   "dek": "Трёхчасовой док Лэнса Оппенгейма и Нейтана Филдера об Элизабет Холмс собрал $19,5 млн во второй уик-энд — на 23% больше, чем на старте.",
+   "what": "По данным TheWrap, фильм открылся с $15,8 млн в 855 кинотеатрах — лучший старт документального кино со времён «Фаренгейта 9/11» (2004). Во второй уик-энд он вышел на 2655 экранов и собрал $19,5 млн. A24 параллельно ведёт оскаровскую кампанию в девяти номинациях, включая «Лучший фильм».",
+   "mechanics": "Авторы получили доступ к Холмс и её партнёру в последние недели перед её заключением. Фильм снимали втайне с 2023 года, премьера прошла на секретном сеансе в Теллурайде, где у зрителей забирали телефоны. В игровых реконструкциях Холмс играет Аманда Сайфред.",
+   "why": "Док с маркетингом «лучше ничего не знать до просмотра» и узким стартом ведёт себя в прокате как хит, а не как нишевое кино.",
+   "sources": [
+    {
+     "label": "TheWrap",
+     "url": "https://www.thewrap.com/creative-content/movies/you-can-see-everything-box-office-second-weekend-increase-explained/"
+    },
+    {
+     "label": "Спорт-Экспресс",
+     "url": "https://www.sport-express.net/zozh/movies/documentary/news/uvidet-vse-dokumentalnyy-film-2026-vydvizhenie-na-oskar-elizabet-holms-2465115/"
+    }
+   ],
+   "video": {
+    "label": "трейлер A24",
+    "url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
+   },
+   "order": 2,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-26.webp",
+    "small": "img/n261027-26-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261027-36",
+   "rubric": "doc",
+   "status": "Анонс",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "США",
+   "title": "Blue Planet III",
+   "cover_word": "Blue Planet III",
+   "headline": "Blue Planet III выйдет в США 23 января на BBC America и AMC+",
+   "dek": "AMC Global Media покажет шесть часовых эпизодов флагманского сериала BBC Studios о жизни океана.",
+   "what": "AMC Global Media назначила американскую премьеру Blue Planet III на 23 января. Сериал выйдет одновременно на канале BBC America и стриминге AMC+.",
+   "mechanics": "Формат — 6 эпизодов по 60 минут. Производство — BBC Studios Natural History Unit. Премьера на линейном канале и стриминге в один день.",
+   "why": "Большие природные бренды BBC остаются якорем для кабельно-стриминговых пакетов в США: сериал работает и на канал, и на подписку.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Realscreen",
+     "url": "https://realscreen.com/2026/10/23/coming-soon-blue-planet-iii-sets-u-s-debut-prime-dates-sam-bankman-fried-docuseries/"
+    }
+   ],
+   "video": {
+    "label": "трейлер BBC Earth",
+    "url": "https://www.youtube.com/watch?v=rl3SoRV9m2w"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-36.webp",
+    "small": "img/n261027-36-s.webp",
+    "credit": "BBC Studios / Realscreen",
+    "link": "https://realscreen.com/2026/10/23/coming-soon-blue-planet-iii-sets-u-s-debut-prime-dates-sam-bankman-fried-docuseries/"
+   },
+   "issue": "i2026-10-27",
+   "order": 3,
+   "lead": false
+  },
+  {
+   "id": "n261026-06",
+   "rubric": "doc",
+   "order": 4,
+   "status": "Заказ",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Великобритания",
+   "title": "Prime Video UK",
+   "headline": "Prime Video заказал фильм о взрывах гвоздевых бомб в Лондоне 1999 года",
+   "dek": "Полнометражный true crime от Yeti Television — часть пакетной сделки стриминга с дистрибьютором Sphere Abacus.",
+   "what": "Prime Video в Великобритании и Ирландии заказал документальный фильм «Surviving the London Nail Bombings» (1×90 минут) производства Yeti Television. Премьера до конца года.",
+   "mechanics": "История о серии ультраправых терактов против трёх лондонских сообществ рассказана через воспоминания очевидцев: интервью, архивные новости, записи камер наблюдения и снимки фотографа, оказавшегося рядом. Дистрибьютор Sphere Abacus (Bell Media); фильм — очередная покупка в рамках пакета true crime между Sphere Abacus и Prime Video UK & Ireland.",
+   "why": "Стриминг закупает true crime пакетом у одного дистрибьютора. Документалисту выгоднее попасть в каталог такого дистрибьютора, чем питчить каждый фильм отдельно.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/prime-video-orders-feature-documentary-about-1999-london-nail-bombings/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261026-06.webp",
+    "small": "img/n261026-06-s.webp",
+    "credit": "Yeti Television · C21Media",
+    "link": "https://www.c21media.net/news/prime-video-orders-feature-documentary-about-1999-london-nail-bombings/"
+   },
+   "lead": false
+  },
+  {
+   "id": "n261027-27",
+   "issue": "i2026-10-27",
+   "rubric": "doc",
+   "status": "Сделка",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "США",
+   "title": "The Telepathy Tapes",
+   "cover_word": "Подкаст → док",
+   "headline": "Подкаст The Telepathy Tapes стал документальным фильмом для Amazon MGM",
+   "dek": "Кай Диккенс расширила свой популярный подкаст до полного метра; премьера на Prime Video — 24 февраля 2027 года.",
+   "what": "Amazon MGM Studios лицензировала полнометражный документальный фильм The Telepathy Tapes по одноимённому подкасту Кай Диккенс; она же режиссёр и продюсер.",
+   "mechanics": "Фильм продолжает тему подкаста — общение и сознание неговорящих людей с аутизмом: семьи из подкаста, новые истории, разговоры с учёными и эксперименты.",
+   "why": "Популярный подкаст работает как готовый IP с аудиторией: стриминг покупает фильм, у которого уже есть фанбаза.",
+   "sources": [
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/the-telepathy-tapes-documentary-ky-dickens-podcast-amazon-1236737904/"
+    }
+   ],
+   "note": "Выводы подкаста о телепатии оспариваются научным сообществом; новость — о сделке, а не о достоверности этих выводов.",
+   "order": 5,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-27.webp",
+    "small": "img/n261027-27-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "video": {
+    "label": "видео проекта",
+    "url": "https://www.youtube.com/watch?v=nKbA2NBZGqo"
+   }
+  },
+  {
+   "id": "n261027-28",
+   "issue": "i2026-10-27",
+   "rubric": "doc",
+   "status": "Анонс",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "Get Huge",
+   "cover_word": "Get Huge",
+   "headline": "Hulu выпустит тру-крайм докусериал о культуре «лукмаксинга»",
+   "dek": "Трёхсерийный Get Huge: Looksmaxxing to Death — про экстремальный биохакинг, жизнь напоказ в сети и серию подозрительных смертей. Премьера 10 ноября.",
+   "what": "Hulu в США и Disney+ за рубежом покажут трёхсерийный документальный сериал Get Huge: Looksmaxxing to Death режиссёров Дженнингса Брауна и Джеймса Кристофика. Премьера — 10 ноября.",
+   "mechanics": "В центре — загадочная смерть в Таиланде и онлайн-движение «лукмаксинга», где внешность «улучшают» любой ценой. Авторы называют сериал портретом мужественности в эпоху инфлюенсеров.",
+   "why": "Докусериалы ищут темы в субкультурах соцсетей: интернет-сообщество становится и героем, и местом действия тру-крайма.",
+   "sources": [
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/tv/tv-news/hulu-looksmaxxing-docuseries-clavicular-exclusive-details-1236739892/"
+    }
+   ],
+   "order": 6,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-28.webp",
+    "small": "img/n261027-28-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261027-38",
+   "rubric": "digital",
+   "status": "Исследование",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "США",
+   "title": "Nielsen · The Gauge",
+   "cover_word": "15,8%",
+   "headline": "YouTube взял рекордные 15,8% телесмотрения в США — вдвое больше Netflix",
+   "dek": "Августовский выпуск Nielsen The Gauge: стриминг занимает почти половину телеэкрана, общее смотрение упало на 4,4%.",
+   "what": "По данным Nielsen The Gauge за август 2026 года, YouTube собрал 15,8% всего времени просмотра на телевизорах в США — это его максимум. Netflix на втором месте с 7,7%.",
+   "mechanics": "Общее телесмотрение упало на 4,4% к июлю: закончился чемпионат мира, начался учебный год. YouTube это не задело, хотя в прошлые годы осенью он проседал. Просмотры YouTube среди зрителей 50+ выросли на 9%. На стриминговые платформы приходится почти половина времени у телеэкрана.",
+   "why": "YouTube окончательно стал телевизором номер один в США, и рост идёт уже за счёт старшей аудитории. Для продюсеров это аргумент делать под YouTube длинный «телевизионный» контент.",
+   "note": "Доли остальных стримингов и линейного ТВ в материале не приводятся.",
+   "sources": [
+    {
+     "label": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/22/nielsen-the-gauge-youtube-record-watch-time-share-us-tv/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-38.webp",
+    "small": "img/n261027-38-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 1,
+   "lead": false
+  },
+  {
+   "id": "n261027-39",
+   "rubric": "digital",
+   "status": "Сделка",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "MrBeast × Mastercard",
+   "cover_word": "Beast × Mastercard",
+   "headline": "Beast Industries и Mastercard запускают совместные финансовые продукты для креаторов",
+   "dek": "Карты, «бесценные» впечатления, инструменты и обучение: компания MrBeast продолжает строить финтех вокруг своей аудитории.",
+   "what": "Mastercard и Beast Industries объявили партнёрство: совместные программы для креаторов, включая карточные продукты, эксклюзивные впечатления в духе кампании Priceless, инструменты и обучение. Партнёры обещают помогать креаторам с наймом, разработкой продуктов и вовлечением аудитории.",
+   "mechanics": "Beast Industries ранее купила Step, финтех для поколения Z, и подала заявку на товарный знак Beast Financial. Mastercard в начале 2026 года выпустила дебетовую карту для креаторов; Visa движется в ту же сторону. Финансовые условия не раскрыты.",
+   "why": "Крупнейший креатор мира превращает аудиторию в банковскую клиентскую базу, а платёжная система покупает доступ к экономике креаторов через самого известного из них.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/26/mrbeast-industries-mastercard-creator-economy-partnership/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-39.webp",
+    "small": "img/n261027-39-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 2,
+   "lead": false
+  },
+  {
+   "id": "n261027-37",
+   "rubric": "digital",
+   "status": "Назначение",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "Netflix · подкасты",
+   "cover_word": "Netflix Podcasts",
+   "headline": "Подкастное направление Netflix возглавил ветеран Apple Podcasts Стив Уилсон",
+   "dek": "Назначение произошло через неделю после того, как Питер Райс стал главным контент-директором стримера.",
+   "what": "Netflix назначил Стива Уилсона руководителем подкастного подразделения. Первым об этом сообщил Bloomberg. Уилсон почти 15 лет (2006–2020) работал в Apple, был в первой команде Apple Podcasts, затем шесть лет был директором по стратегии студии Daylight Media (бывшая QCODE).",
+   "mechanics": "QCODE делала игровые аудиосериалы со звёздами («The Prophecy» с Керри Вашингтон, «Carrier» с Синтией Эриво, «Blackout» с Рами Малеком) и нон-скрипт. Netflix уже набирает видеоподкасты через дистрибуционные сделки с Barstool, Spotify и iHeartMedia. Уходя из Daylight, Уилсон писал о том, «что креаторам на самом деле нужно от платформ».",
+   "why": "Netflix строит видеоподкасты как отдельную вертикаль и берёт на неё человека, который знает и платформу, и производство премиальных аудиосериалов.",
+   "note": null,
+   "sources": [
+    {
+     "label": "TheWrap",
+     "url": "https://www.thewrap.com/media-platforms/tv/netflix-podcast-lead-steve-wilson-appointed/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-37.webp",
+    "small": "img/n261027-37-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 3,
+   "lead": false
+  },
+  {
+   "id": "n261027-29",
+   "issue": "i2026-10-27",
+   "rubric": "digital",
+   "status": "Тест",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "Мир",
+   "title": "YouTube Shorts",
+   "cover_word": "Shorts · бонус",
+   "headline": "YouTube тестирует бонус за регулярные Shorts",
+   "dek": "Части партнёров в шести странах доплатят за стабильный график; сумма зависит от вовлечённых просмотров за месяц.",
+   "what": "YouTube запустил тест бонусов для авторов Shorts, которые публикуются регулярно; о нём рассказал Рене Ричи на канале Creator Insider. Участников выбирает YouTube из партнёрской программы и сообщает им письмом, подать заявку самому нельзя.",
+   "mechanics": "Страны теста: США, Великобритания, Германия, Бразилия, Япония и Южная Корея. Бонус считается от «вовлечённых» просмотров Shorts за месяц, монетизация должна быть включена весь месяц. Суммы и нужная частота публикаций не раскрыты.",
+   "why": "Платформа начинает платить не за хиты, а за регулярность — то есть за работу канала как редакции.",
+   "sources": [
+    {
+     "label": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/23/youtube-shorts-pilot-program-consistency-bonus-test/"
+    }
+   ],
+   "order": 4,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-29.webp",
+    "small": "img/n261027-29-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261026-07",
+   "rubric": "digital",
+   "order": 5,
+   "status": "Запуск",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Великобритания",
+   "title": "Wildstar Films",
+   "cover_word": "The World is Out There",
+   "headline": "Студия природных доков Wildstar (Fremantle) открывает свой YouTube-канал",
+   "dek": "Канал с исследователем Дэном О'Нилом строится как фандом: экспедиции, видеоподкаст-прогулки и короткие объяснялки.",
+   "what": "Wildstar Films, принадлежащая Fremantle, вместе с натуралистом и учёным Дэном О'Нилом запустила YouTube-канал «The World is Out There». Цель — аудитория, которая не смотрит классические фильмы о природе.",
+   "mechanics": "Три линейки: Expeditions — длинные фильмы об экспедициях О'Нила; ежемесячный видеоподкаст, где он гуляет с гостями на природе; Explainers — короткие ролики о поведении животных и научных новостях.",
+   "why": "Крупная документальная студия строит собственный цифровой бренд вокруг ведущего, а не продаёт отдельные фильмы каналам. Союз креаторов и традиционных студий в научпопе — заметный тренд фестиваля Wildscreen.",
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/wildstar-films-dan-oneill-launch-youtube-channel-the-world-is-out-there/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261026-07.webp",
+    "small": "img/n261026-07-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261026-09",
+   "rubric": "digital",
+   "order": 6,
+   "status": "Премьера",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "Minimum Wage",
+   "cover_word": "Minimum Wage · 28×12'",
+   "headline": "Netflix выпустил сериал из вирусных скетчей American High: 28 серий по 12 минут",
+   "dek": "Gen Z-коллектив из соцсетей получил свой ситком на Netflix в привычном хронометраже: короткие эпизоды вместо получасовых.",
+   "what": "26 октября Netflix выпустил «Minimum Wage» — ситком о работниках пиццерии по мотивам коротких скетчей American High Shorts (больше 30 млн просмотров в TikTok, Instagram и YouTube с мая 2024 года). В ролях авторы коллектива и Рэндалл Парк, шоураннеры Джереми Гарелик и Уилл Фелпс.",
+   "mechanics": "28 эпизодов примерно по 12,5 минуты. The Hollywood Reporter: «Не много содержания, но быстро и симпатично», сериал выполняет обещание коротких серий, которое не сумел выполнить Quibi.",
+   "why": "Платформа заказывает у авторов из соцсетей не «большой» сериал, а короткий хронометраж, к которому привыкла их аудитория.",
+   "sources": [
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/tv/tv-reviews/minimum-wage-review-netflix-american-high-randall-park-1236739455/"
+    },
+    {
+     "label": "What's on Netflix",
+     "url": "https://www.whats-on-netflix.com/news/american-high-shorts-minimum-wage-netflix-series/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261026-09.webp",
+    "small": "img/n261026-09-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "video": {
+    "label": "трейлер Netflix",
+    "url": "https://www.youtube.com/watch?v=SO4CU9P8--8"
+   }
+  },
+  {
+   "id": "n261027-30",
+   "issue": "i2026-10-27",
+   "rubric": "digital",
+   "status": "Запуск",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "The Long Long Night",
+   "cover_word": "Spotify · сериал",
+   "headline": "Братья Дюпласс выложили свой инди-сериал бесплатно в Spotify",
+   "dek": "Шестисерийный The Long Long Night после фестивалей и платного окна выходит в Spotify с рекламой для бесплатных пользователей.",
+   "what": "Duplass Brothers Productions сделала сериал The Long Long Night бесплатным в Spotify (с рекламой для пользователей без премиума). Первые две серии уже доступны, дальше — по две в неделю.",
+   "mechanics": "Путь проекта: предпродажа через Seed & Spark, эксклюзивное окно на Kinema, фестивали Tribeca, SXSW и ATX, теперь бесплатная дистрибуция в Spotify.",
+   "why": "Spotify из аудиоплатформы превращается в витрину видеосериалов — ещё одно окно для независимого игрового контента.",
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/duplass-brothers-make-the-long-long-night-free-spotify-1237175335/"
+    }
+   ],
+   "order": 7,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-30.webp",
+    "small": "img/n261027-30-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261027-20",
+   "issue": "i2026-10-27",
+   "rubric": "branded",
+   "status": "Запуск",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "Walmart × Muppets",
+   "cover_word": "Walmart · Muppets",
+   "headline": "Walmart снял свою «Рождественскую песнь» с Маппетами",
+   "dek": "Ритейлер договорился с Disney и The Muppets Studio и переписал классику 1992 года под свои сервисы: три духа — подарки, скидки и быстрая доставка.",
+   "what": "26 октября Walmart запустил праздничную кампанию «A Who Knew Carol» — переосмысление фильма The Muppet Christmas Carol (1992), сделанное вместе с Disney и The Muppets Studio. Скруджа играет лицо бренда Уолтон Гоггинс.",
+   "mechanics": "Скруджа посещают три новых духа: Дух рождественских подарков, Дух будущих скидок и Дух быстрого Рождества. Каждый отвечает за часть предложения Walmart — ассортимент, цены и экспресс-доставку. Кампания продолжает платформу «Who Knew?».",
+   "why": "Бренд не размещается внутри чужого контента, а лицензирует любимую франшизу и делает из неё собственную историю, где продукт и есть сюжет.",
+   "sources": [
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/creativity/walmart-brings-the-muppets-and-walton-goggins-together-for-its-own-holiday-carol/"
+    }
+   ],
+   "order": 1,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-20.webp",
+    "small": "img/n261027-20-s.webp",
+    "credit": "Walmart / Adweek",
+    "link": "https://www.adweek.com/creativity/walmart-brings-the-muppets-and-walton-goggins-together-for-its-own-holiday-carol/"
+   }
+  },
+  {
+   "id": "n261027-21",
+   "issue": "i2026-10-27",
+   "rubric": "branded",
+   "status": "Решение",
+   "date_iso": "2026-10-25",
+   "date_label": "25 октября",
+   "country": "Мир",
+   "title": "McDonald’s × FIFA",
+   "cover_word": "McDonald’s · FIFA",
+   "headline": "McDonald’s уходит из спонсоров чемпионата мира после 32 лет",
+   "dek": "Крупнейшая кампания компании к ЧМ-2026 «не оправдала ожиданий» — бренд перестраивает маркетинговую модель.",
+   "what": "По данным Adweek (в пересказе Inside World Football), McDonald’s прекращает спонсорство чемпионатов мира FIFA, начатое в 1994 году. Летом 2026-го бренд провёл крупнейшую кампанию к ЧМ — Wieden+Kennedy New York, больше 110 стран.",
+   "mechanics": "Финансовый директор Иэн Борден на звонке по итогам второго квартала сказал, что кампания «дала подъём бизнесу», но «не оправдала ожиданий». Компания заявила, что решение не связано с недавними новостями вокруг FIFA, и продолжит вкладываться в спорт другими способами.",
+   "why": "Один из старейших партнёров FIFA признаёт, что титульное спонсорство мегасобытия не окупилось, и ищет другие форматы присутствия в спорте.",
+   "sources": [
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/26/mcdonalds-pulls-fifa-sponsorship-after-2026-world-cup-fails-deliver-on-expectations/"
+    }
+   ],
+   "order": 2,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-21.webp",
+    "small": "img/n261027-21-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261027-40",
+   "rubric": "branded",
+   "status": "Кейс",
+   "date_iso": "2026-10-21",
+   "date_label": "21 октября",
+   "country": "Россия",
+   "title": "Cofix × «Седьмой игрок»",
+   "cover_word": "«Седьмой игрок»",
+   "headline": "Cofix и «Кинопоиск» запустили меню и мерч к хоккейному сериалу с Антоном Лапенко",
+   "dek": "Спецпозиции в 240+ кофейнях, стаканы с бобром-маскотом команды и фотосессия с актёром — до конца ноября.",
+   "what": "Сеть Cofix и «Кинопоиск» продвигают сериал «Седьмой игрок» (режиссёр Сергей Пикалов, в главной роли Антон Лапенко). В меню более чем 240 кофеен появились специальные позиции, выпечка повторяет узнаваемые формы — например, хоккейную шайбу.",
+   "mechanics": "Стаканы с бобром — маскотом хоккейного клуба «Строитель» из сериала; к ним прилагается манжета-джерси, чтобы «переодеть» маскота. Фотосессия с актёром Михаилом Сотниковым. Каналы: соцсети и приложение Cofix, носители в кофейнях, пользовательский контент гостей; «Кинопоиск» поддерживает на своих площадках. Кампания идёт до конца ноября 2026 года.",
+   "why": "Онлайн-кинотеатр получает офлайн-точки контакта с молодой городской аудиторией, а сеть — повод и контент для соцсетей.",
+   "note": null,
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/marketing/2026/10/21/350210.phtml"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-40.webp",
+    "small": "img/n261027-40-s.webp",
+    "credit": "Кинопоиск × Cofix / AdIndex",
+    "link": "https://adindex.ru/news/marketing/2026/10/21/350210.phtml"
+   },
+   "issue": "i2026-10-27",
+   "order": 3,
+   "lead": false
+  },
+  {
+   "id": "n261027-41",
+   "rubric": "branded",
+   "status": "Запуск",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "США",
+   "title": "Warner Bros. × Roblox",
+   "cover_word": "Roblox",
+   "headline": "Warner Bros. продвигает «Кота в шляпе» внутри трёх популярных игр Roblox",
+   "dek": "Вместо собственной игры — интеграции в проекты с 7+ млрд визитов и шесть предметов для аватаров.",
+   "what": "Warner Bros. вернулась в Roblox с промо анимационного фильма «Кот в шляпе»: модули по мотивам фильма встроены в три популярные игры, у которых в сумме более 7 млрд визитов.",
+   "mechanics": "Игроки вместе с Котом устраивают хаос в знакомых мирах и открывают шесть предметов из фильма, рассчитанных на игру с друзьями. Интеграции делает агентство Sawhorse, с которым студия уже запускала промо «Битлджуса Битлджуса» в 2024 году. Более 80% из 127 млн ежедневных пользователей Roblox заходят с мобильных устройств.",
+   "why": "Студии перестают строить свои игровые миры и арендуют готовую аудиторию чужих хитов — быстрее и дешевле.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Marketing Dive",
+     "url": "https://www.marketingdive.com/news/warner-bros-stirs-up-the-cat-in-the-hat-mayhem-on-roblox-ahead-of-film/833689/"
+    }
+   ],
+   "video": {
+    "label": "трейлер Warner Bros.",
+    "url": "https://www.youtube.com/watch?v=pZ0UkvahVyA"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-41.webp",
+    "small": "img/n261027-41-s.webp",
+    "credit": "Warner Bros. / Roblox · Marketing Dive",
+    "link": "https://www.marketingdive.com/news/warner-bros-stirs-up-the-cat-in-the-hat-mayhem-on-roblox-ahead-of-film/833689/"
+   },
+   "issue": "i2026-10-27",
+   "order": 4,
+   "lead": false
+  },
+  {
+   "id": "n261026-04",
+   "rubric": "branded",
+   "order": 5,
+   "status": "Кейс",
+   "date_iso": "2026-10-26",
+   "date_label": "разбор от 26 октября, кампания летом 2026",
+   "country": "Россия",
+   "title": "Акинфеть",
+   "cover_word": "«Акинфеть»",
+   "headline": "«Акинфеть»: фамилия вратаря стала глаголом кампании Lay's и Evervess",
+   "dek": "КБ-12 для «Пятёрочки» и «Перекрёстка» построили летнюю футбольную кампанию на одном каламбуре с Игорем Акинфеевым и провели его от ролика до кассы.",
+   "what": "Агентство КБ-12 опубликовало разбор летней кампании «Футбол вкуснее вместе» для Lay's и Evervess Cola в «Пятёрочке» и «Перекрёстке». Лицо кампании — Игорь Акинфеев; из его фамилии сделали слова «акинфенно» и «акинфеть» в значении «высшее мастерство».",
+   "mechanics": "Инсайт: 82% россиян едят во время спортивных трансляций (исследование «Купера», 2024). Зумеров и миллениалов не разделяли, говорили с ними как с одной фан-группой. Каналы: видеоролик с «ногой бога», медиафасады, ивент в «Сфере Х5» в Парке Горького, POS, аудиоролики с голосом комментатора Владимира Стогниенко на радио в магазинах. Механика: купить продукцию, зарегистрировать чек на actions.5ka.ru и участвовать в розыгрыше «акинфенных призов».",
+   "why": "Одно придуманное слово держит всю кампанию на 360 градусов и не требует объяснений ни в одном канале — от ролика до полки.",
+   "note": "Это разбор прошедшей кампании, а не новое событие.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/kak-akinfet-stalo-glagolom-kejs-kb-12-dlya-pyat-rochki-i-perekr-stka-87984.html"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261026-04.webp",
+    "small": "img/n261026-04-s.webp",
+    "credit": "КБ-12 / Sostav",
+    "link": "https://www.sostav.ru/publication/kak-akinfet-stalo-glagolom-kejs-kb-12-dlya-pyat-rochki-i-perekr-stka-87984.html"
+   }
+  },
+  {
+   "id": "n261026-05",
+   "rubric": "branded",
+   "order": 6,
+   "status": "Кейс",
+   "date_iso": "2026-10-26",
+   "date_label": "разбор от 26 октября, событие 25 августа",
+   "country": "Россия",
+   "title": "ESTEO",
+   "headline": "Запуск трёх автомобилей превратили в кинопремьеру на «Мосфильме»",
+   "dek": "Вместо выкатки машин на сцену ESTEO показал три короткометражки, где автомобили — главные герои. Подготовка заняла около двух недель.",
+   "what": "Агентство OGGI (группа TWIGA) опубликовало разбор «Ночи премьер гибридных инноваций» — презентации трёх новых моделей ESTEO 25 августа в киноконцертном комплексе «Мосфильма».",
+   "mechanics": "Вместо трёх отдельных мероприятий сделали одно с общей драматургией. Каждая модель получила собственный короткометражный фильм, показанный как кинопремьера. Пришли больше 400 гостей при плане 300.",
+   "why": "Бренд заказывает не рекламный ролик, а фильм и событие вокруг его премьеры. Продуктовая презентация упакована в жанр, где продюсер нужнее, чем ивент-менеджер.",
+   "note": "Это разбор прошедшего события; цифры гостей и сроки приводит агентство.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/kejs-oggi-by-twiga-cg-dlya-esteo-87940.html"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261026-05.webp",
+    "small": "img/n261026-05-s.webp",
+    "credit": "TWIGA · Sostav",
+    "link": "https://www.sostav.ru/publication/kejs-oggi-by-twiga-cg-dlya-esteo-87940.html"
+   },
+   "lead": false
+  },
+  {
+   "id": "n261027-42",
+   "rubric": "short",
+   "status": "Кейс",
+   "date_iso": "2026-10-22",
+   "date_label": "14–22 октября",
+   "country": "США",
+   "title": "Banana Republic · The Agency",
+   "cover_word": "The Agency",
+   "headline": "Banana Republic снимает ситком для TikTok: первая серия набрала 10 млн просмотров",
+   "dek": "The Agency — первый собственный сериал бренда: странное турагентство в Нью-Йорке и консультант, которая пытается его спасти.",
+   "what": "Banana Republic выпустила вертикальный сериал The Agency, снятый собственной студией Banana Republic Productions. Первый эпизод вышел 14 октября и к 22 октября набрал 10 млн просмотров, второй — более 3 млн.",
+   "mechanics": "Действие происходит в устаревшем нью-йоркском турагентстве Travel & Tours. Всех сотрудников играет актёр Джек Иннанен, консультанта из «головного офиса» — Тейлор Ортега. Гардероб каждого героя собран из коллекций бренда. Эпизоды выходят еженедельно, плюс закулисье — во всех собственных каналах, в первую очередь в TikTok. Проект — часть платформы Gap Inc. «Fashiontainment».",
+   "why": "Бренд одежды делает не рекламу, а сериал с персонажами, а товар работает как костюм героя. Это ответ на перенасыщенную ленту и попытка дотянуться до молодой аудитории.",
+   "note": "Просмотры — данные бренда, приведённые Marketing Dive.",
+   "sources": [
+    {
+     "label": "Marketing Dive",
+     "url": "https://www.marketingdive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833663/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-42.webp",
+    "small": "img/n261027-42-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 1,
+   "lead": false
+  },
+  {
+   "id": "n261027-43",
+   "rubric": "short",
+   "status": "Кейс",
+   "date_iso": "2026-10-15",
+   "date_label": "15 октября",
+   "country": "Россия",
+   "title": "Marc O’Polo · «Офис»",
+   "cover_word": "«Офис» и «Город»",
+   "headline": "Marc O’Polo выпустил вертикальный сериал «Офис» и готовит второй — «Город»",
+   "dek": "10 эпизодов от RuFilms: креативщики везут поп-ап в деревню без интернета, а в кадре — 140+ вещей бренда.",
+   "what": "В соцсетях Marc O’Polo вышел сериал «Офис» — 10 вертикальных эпизодов студии RuFilms. В течение месяца выйдет второй проект — «Город». Сюжет «Офиса»: молодая команда креативщиков собирается запустить поп-ап в новом комплексе и провести оттуда эфир, но по ошибке приезжает в деревню без помещения, стабильного интернета и порой электричества.",
+   "mechanics": "В «Городе» пятеро соседей въезжают в один дом, каждый со своей «идеальной версией себя». Одежда — часть драматургии: в кадре более 140 позиций из коллекций Marc O’Polo, по 8–10 образов на героя, включая архив и ещё не поступившие в продажу вещи. Сериал не привязан к конкретной коллекции; вертикальный кадр показывает силуэт и посадку.",
+   "why": "Российские fashion-бренды берут модель вертикального сериала: эмоциональная лояльность вместо прямой рекламы и регулярный повод вернуться в аккаунт.",
+   "note": "Вышло до основного периода выпуска; берём в рубрику как показательный кейс.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/pop-ap-v-sluchajnoj-sosnovke-marc-o-polo-zapustil-vertikalnyj-serial-87746.html"
+    }
+   ],
+   "video": {
+    "label": "1-й эпизод · Marc O’Polo Russia",
+    "url": "https://www.youtube.com/watch?v=-poYjjYF5Gs"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-43.webp",
+    "small": "img/n261027-43-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 2,
+   "lead": false
+  },
+  {
+   "id": "n261021-01",
+   "rubric": "short",
+   "order": 3,
+   "status": "Намерение",
+   "date_iso": "2026-10-21",
+   "date_label": "21 октября",
+   "country": "Россия",
+   "title": "Альфа-Банк",
+   "headline": "Альфа-Банк собирает свою видеоплатформу: ИИ-ролики, микросериалы, шоу со звёздами",
+   "dek": "Банк нанял бывшего руководителя контента Wildberries и «Дзена». По данным РБК, сервис может запуститься до конца года и закупать проекты у продакшнов.",
+   "what": "Источник РБК на медиарынке сообщил, что Альфа-Банк может до конца 2026 года запустить собственную видеоплатформу. Официально банк говорит, что «изучает различные пути развития этого направления, в том числе запуск видеоплатформы». Подтверждено назначение: Евгений Гуцал, раньше директор по контенту в Wildberries & Russ и глава группы оригинального контента «Дзена», стал руководителем дирекции медиакоммуникаций и репутационного маркетинга.",
+   "mechanics": "По данным источника, ставка на сгенерированные ИИ ролики, микросериалы и шоу с участием знаменитостей. На платформе может быть и оригинальный, и покупной контент; идут переговоры с производителями и экспертиза проектов. Банк уже продаёт сторонним брендам видео-фуллскрин в своём приложении.",
+   "why": "Банк выходит на рынок как заказчик и площадка одновременно: свой трафик, свой рекламный инвентарь и, по данным источника, интерес к покупке готовых проектов.",
+   "note": "Сроки и формат платформы известны со слов источника; официально банк запуск не подтвердил.",
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/media/2026/10/21/350200.phtml"
+    },
+    {
+     "label": "Hi-Tech Mail",
+     "url": "https://hi-tech.mail.ru/news/158526-v-rossii-poyavitsya-eshe-odin-ubijca-tiktok-s-uporom-na-ii-video/"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "image": {
+    "url": "img/n261021-01.webp",
+    "small": "img/n261021-01-s.webp",
+    "credit": "Hi-Tech Mail",
+    "link": "https://adindex.ru/news/media/2026/10/21/350200.phtml"
+   },
+   "lead": false
+  },
+  {
+   "id": "n261027-44",
+   "rubric": "short",
+   "status": "Кейс",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "США",
+   "title": "E.l.f. · Magical Sisters",
+   "cover_word": "Magical Sisters",
+   "headline": "E.l.f. сняла ведьминский мини-сериал в духе «Зачарованных» силами собственной студии",
+   "dek": "The e.l.f.ing Magical Sisters продвигает кремовые румяна и бронзер и идёт в YouTube, TikTok и Instagram.",
+   "what": "E.l.f. Cosmetics выпустила кампанию The e.l.f.ing Magical Sisters: три сестры уверены, что обрели магию благодаря продуктам бренда. В ролях — Прайя Фергюсон, Кейла Монтерросо Мехия и Биби Вуд. Главное видео вышло 30 сентября; Marketing Dive разобрал кампанию 23 октября, ближе к Хэллоуину.",
+   "mechanics": "Сделано внутренней развлекательной студией E.l.f. Made (с 2024 года) с авторами «Saturday Night Live». Идея родилась из отзывов покупателей, называвших продукты «волшебными», и легла на ностальгию по 90-м и нулевым, которая близка зумерам. Ролики нарезаны под вертикальные платформы.",
+   "why": "Бренд держит собственный продакшн и выпускает контент сериями, как студия, а не как рекламодатель с разовым роликом.",
+   "note": "Главный ролик вышел до периода выпуска; разбор кампании — 23 октября.",
+   "sources": [
+    {
+     "label": "Marketing Dive",
+     "url": "https://www.marketingdive.com/news/campaign-trail-elf-casts-spell-to-deliver-y2k-nostalgia-to-gen-z/833260/"
+    }
+   ],
+   "video": {
+    "label": "видео e.l.f.",
+    "url": "https://www.youtube.com/watch?v=Rk41x8pYgGo"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-44.webp",
+    "small": "img/n261027-44-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 4,
+   "lead": false
+  },
+  {
+   "id": "n261027-45",
+   "rubric": "short",
+   "status": "Стратегия",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "США",
+   "title": "Motherly",
+   "cover_word": "Motherly",
+   "headline": "Медиа для мам Motherly уходит из поиска в вертикальное видео, чаты и офлайн",
+   "dek": "Новый CEO Шэрон Йи перестраивает бренд под падение поискового трафика: короткое видео, подкасты, группы в WhatsApp и события.",
+   "what": "Издание о родительстве Motherly смещает бизнес в сторону вертикального видео, подкастов, групповых чатов в WhatsApp и живых событий. Об этом рассказала Шэрон Йи, CEO с мая 2026 года (до этого — старший вице-президент Future plc).",
+   "mechanics": "Ставка на социально-нативные, но фактологичные форматы и сообщество. 26 октября в Нью-Йорке прошло закрытое событие State of Motherhood с беседой с Дженнифер Гарнер и новым отчётом: восемь лет данных опросов более 60 000 мам.",
+   "why": "Издатели, которых обнуляет падение поиска, превращаются в вертикальные видеобренды с офлайном. Готовая аудитория и инвентарь для брендов детских и семейных категорий.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/media/motherly-rebuild-video-community/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-45.webp",
+    "small": "img/n261027-45-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 5,
+   "lead": false
+  },
+  {
+   "id": "n261027-46",
+   "rubric": "short",
+   "status": "Сделка",
+   "date_iso": "2026-10-25",
+   "date_label": "25 октября",
+   "country": "Австралия",
+   "title": "Callandor · ИИ-двойник",
+   "cover_word": "ИИ-двойник",
+   "headline": "Австралийский футболист лицензировал своего ИИ-двойника для рекламы брендов",
+   "dek": "Callandor получила эксклюзивные права на цифровую копию Кристиана Вольпато: внешность, голос, биометрию и спортивные данные.",
+   "what": "Футболист Кристиан Вольпато подписал соглашение с американской Callandor, которая лицензирует цифровые копии спортсменов. Компания получила эксклюзивные права на ИИ-образ игрока, его голос, биометрические профили и данные о результатах.",
+   "mechanics": "Callandor будет монетизировать двойника через рекламу и партнёрства с брендами и помогать бороться с несанкционированным использованием образа. Для демонстрации компания выпустила ролик, где цифровые копии Вольпато появляются в разных локациях и образах. Логика сооснователя Майкла Фиска: спортсмены почти всё время тренируются и играют, а реклама может сниматься без них.",
+   "why": "Для коротких рекламных форматов брендов появляется новый «актёр» — лицензированный ИИ-двойник спортсмена. Вопрос прав на образ становится товаром.",
+   "note": "Sostav пересказывает The Guardian.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/avstralijskij-futbolist-litsenziroval-svoego-ii-dvojnika-87999.html"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-46.webp",
+    "small": "img/n261027-46-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 6,
+   "lead": false
+  },
+  {
+   "id": "n261027-47",
+   "rubric": "short",
+   "status": "Исследование",
+   "date_iso": "2026-10-15",
+   "date_label": "15 октября",
+   "country": "Мир",
+   "title": "Микросериалы брендов",
+   "cover_word": "62%",
+   "headline": "Бренды переходят с роликов на микросериалы: 62% зрителей смотрят их больше часа подряд",
+   "dek": "Dentsu: рекламу в микросериалах считают чрезмерной 20% зрителей против 40% у эфирного ТВ.",
+   "what": "Sostav собрал данные о микросериалах как формате брендированного контента: вместо рекламного ролика компании выпускают короткие истории с героями, интригой и продолжением. По YPulse, зумеры активно смотрят такие видео в соцсетях.",
+   "mechanics": "Данные Dentsu: 62% зрителей микродрам смотрят их больше часа за сеанс; 30–33% зумеров и миллениалов пробовали формат или смотрят регулярно; 20% зумеров могут смотреть два-три часа подряд. Чрезмерной рекламу в микросериалах считают 20% зрителей, у эфирного ТВ — 40%. 35% смотрят бесплатно только в соцсетях. Пример — сериал Crocs «Déjà Shoe» из 7 эпизодов с продажами через TikTok Shop (агентство SuperOrdinary).",
+   "why": "Цифры для разговора с брендами: формат удерживает дольше ролика и меньше раздражает рекламой.",
+   "note": "Вышло до основного периода выпуска; исследование Dentsu — американская выборка.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/brendy-maskiruyut-reklamu-pod-mini-serialy-dlya-zumerov-87754.html"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-47.webp",
+    "small": "img/n261027-47-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 7,
+   "lead": false
+  },
+  {
+   "id": "n261027-48",
+   "rubric": "sport",
+   "status": "Производство",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "США",
+   "title": "ESPN · The Big Leagues",
+   "cover_word": "The Big Leagues",
+   "headline": "ESPN снимает докусериал о том, как братья Рабил строят лигу лакросса к Олимпиаде-2028",
+   "dek": "Пять серий The Big Leagues продюсирует Мэттью Хайнеман, режиссёр — сам сооснователь лиги Пол Рабил.",
+   "what": "ESPN Originals производит пятисерийный документальный сериал The Big Leagues о создании Premier Lacrosse League (PLL) и её сооснователях — братьях Майке и Поле Рабил. Исполнительный продюсер — номинант на «Оскар» Мэттью Хайнеман («Земля картелей»), шоураннер — Джин Галлерано.",
+   "mechanics": "ESPN владеет долей в PLL и медиаправами на лигу; финал сезона в прошлом месяце показал ABC. Пол Рабил, один из лучших игроков в истории лакросса, дебютирует как режиссёр. Выход приурочен к подготовке к Олимпиаде-2028 в Лос-Анджелесе, где лакросс станет олимпийским видом. Дата премьеры и дистрибуция уточняются.",
+   "why": "Владелец прав и доли в лиге сам снимает о ней длинный док: контент работает как маркетинг актива. Готовая модель для лиг, которым нужна аудитория.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/espn-original-series-premier-lacrosse-league-1237169910/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-48.webp",
+    "small": "img/n261027-48-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 1,
+   "lead": false
+  },
+  {
+   "id": "n261027-22",
+   "issue": "i2026-10-27",
+   "rubric": "sport",
+   "status": "Сделка",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "Саудовская Аравия",
+   "title": "Saudi Pro League × GOAL",
+   "cover_word": "SPL · watch-along",
+   "headline": "Саудовская Про-Лига отдаёт главные матчи креаторам GOAL: трансляция плюс watch-along",
+   "dek": "Топ-матчи покажут в YouTube и соцсетях креаторского бренда Front Three в Великобритании, Ирландии, Бельгии, Скандинавии и Канаде.",
+   "what": "Саудовская Про-Лига договорилась с Footballco: главные матчи выйдут на GOAL’s Front Three — креаторском YouTube- и соцмедиа-бренде, где прямой эфир совмещён с watch-along (авторы смотрят матч и комментируют вместе со зрителями). Первый — «Аль-Кадисия» — «Аль-Хиляль» 23 октября, затем Джиддское дерби 26 ноября и «Аль-Наср» — «Аль-Хиляль» 10 декабря.",
+   "mechanics": "Разогрев делает ближневосточный бренд Yalla GOAL, после матча нарезки идут в TikTok, Facebook, YouTube и Instagram. Это часть новой модели лиги, запущенной в сентябре с Recast: одобренные издатели стримят матчи на своих площадках в 16 странах. Прошлогодний watch-along Эр-Риядского дерби набрал 3,8 млн просмотров.",
+   "why": "Лига продаёт не эксклюзив одному каналу, а право показа многим медиа и авторам — так она покупает узнаваемость там, где её пока почти не смотрят.",
+   "sources": [
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/23/saudi-pro-league-agrees-big-match-broadcast-deal-with-footballcos-goal-platform/"
+    }
+   ],
+   "note": "3,8 млн просмотров — данные Footballco.",
+   "order": 2,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-22.webp",
+    "small": "img/n261027-22-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "id": "n261024-01",
+   "rubric": "sport",
+   "order": 3,
+   "status": "Решение суда",
+   "date_iso": "2026-10-24",
+   "date_label": "24 октября",
+   "country": "Россия",
+   "title": "Okko × УЕФА",
+   "cover_word": "Okko × Лига чемпионов",
+   "headline": "Okko выиграл в суде спор о пиратских трансляциях Лиги чемпионов",
+   "dek": "Мосгорсуд подтвердил права сервиса на матчи УЕФА. Действующий пакет прав Okko заканчивается после сезона 2026/27.",
+   "what": "Мосгорсуд удовлетворил иск Okko к АО «ИОТ» о защите прав на трансляции матча квалификации Лиги чемпионов «Фенербахче» — «Лион» и Суперкубка УЕФА «ПСЖ» — «Астон Вилла». Ответчику запрещено создавать условия для размещения и распространения этих трансляций.",
+   "mechanics": "Okko владеет правами на клубные турниры УЕФА в России с сезона 2024/25 по 2026/27. По данным «ТМТ Консалтинг», в первом полугодии 2025 года выручка сервиса выросла вдвое, а в августе 2025-го Okko был вторым по выручке видеосервисом в России.",
+   "why": "Эксклюзивный спорт стал главным драйвером роста для онлайн-кинотеатра. Пакет прав истекает через сезон, так что скоро начнётся новый цикл борьбы за них.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/mosgorsud-vstal-na-storonu-okko-v-spore-o-futbolnykh-translyatsiyakh-87993.html"
+    }
+   ],
+   "issue": "i2026-10-27",
+   "lead": false,
+   "image": {
+    "url": "img/n261024-01.webp",
+    "small": "img/n261024-01-s.webp",
+    "credit": "Sostav",
+    "link": "https://www.sostav.ru/publication/mosgorsud-vstal-na-storonu-okko-v-spore-o-futbolnykh-translyatsiyakh-87993.html"
+   }
+  },
+  {
+   "id": "n261027-25",
+   "issue": "i2026-10-27",
+   "rubric": "sport",
+   "status": "Тендер",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "США",
+   "title": "FIFA",
+   "cover_word": "ЧМ 2030 · 2034",
+   "headline": "FIFA выставила на торги права в США на чемпионаты мира 2030 и 2034",
+   "dek": "Заявки до 19 ноября, к тендеру приглашают и стриминги. ЧМ-2026 в США смотрели в среднем 13,5 млн человек на матч.",
+   "what": "FIFA открыла тендер на медиаправа в США и Пуэрто-Рико на ЧМ-2030 с опцией на ЧМ-2034. Предложения принимаются до 19 ноября; прошлый цикл держали Fox (английский) и Telemundo (испанский).",
+   "mechanics": "Аргументы FIFA: ЧМ-2026 в среднем собирал 13,5 млн зрителей на линейном ТВ и стриминге за 104 матча (+166% к Катару-2022), каждый матч сборной США — больше 20 млн, финал — 63 млн. Минус для покупателя: турниры в Испании, Португалии и Марокко (2030) и в Саудовской Аравии (2034) придутся на неудобное для Америки время.",
+   "why": "Самый дорогой футбольный пакет в США впервые открыто предлагают стримингам наравне с телеканалами.",
+   "sources": [
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/23/fifa-goes-to-market-with-us-media-rights-for-2030-and-2034-world-cups/"
+    }
+   ],
+   "note": "Показатели аудитории — данные FIFA.",
+   "order": 4,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-25.webp",
+    "small": "img/n261027-25-s.webp",
+    "credit": "Inside World Football",
+    "link": "https://www.insideworldfootball.com/2026/10/23/fifa-goes-to-market-with-us-media-rights-for-2030-and-2034-world-cups/"
+   }
+  },
+  {
+   "id": "n261027-23",
+   "issue": "i2026-10-27",
+   "rubric": "sport",
+   "status": "Тендер",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "Франция",
+   "title": "Ligue 1",
+   "cover_word": "Ligue 1+",
+   "headline": "Лига 1 через полтора года после запуска своего стриминга снова идёт к телеканалам",
+   "dek": "Новый тендер на 2027–2032 годы: все девять матчей тура одним эксклюзивным пакетом, покупатель может взять и сам сервис Ligue 1+.",
+   "what": "Совет LFP единогласно одобрил тендер на внутренние права сезонов 2027/28–2031/32 — на два года раньше плана. Приём заявок — с 3 ноября по 7 декабря.",
+   "mechanics": "Все матчи тура продаются одним эксклюзивным лотом; раньше чемпионат делили на несколько, и это стало возможно после изменения спортивного закона в августе. Варианта два: купить права и показывать самому или стать эксклюзивным дистрибьютором Ligue 1+. У Ligue 1+ чуть меньше 1,1 млн подписчиков; по данным Le Monde, в этом сезоне сервис принесёт клубам около €150 млн.",
+   "why": "Собственный стриминг лиги не заменил теледеньги — правообладатель возвращается к модели «один сильный покупатель».",
+   "sources": [
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/23/ligue-1-returns-to-french-tv-market-looking-for-bigger-and-better-alternative-to-its-streaming-service/"
+    }
+   ],
+   "order": 5,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-23.webp",
+    "small": "img/n261027-23-s.webp",
+    "credit": "Inside World Football",
+    "link": "https://www.insideworldfootball.com/2026/10/23/ligue-1-returns-to-french-tv-market-looking-for-bigger-and-better-alternative-to-its-streaming-service/"
+   }
+  },
+  {
+   "id": "n261027-24",
+   "issue": "i2026-10-27",
+   "rubric": "sport",
+   "status": "Исследование",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Европа",
+   "title": "Спонсорство формы",
+   "cover_word": "Банки vs беттинг",
+   "headline": "На майках топ-клубов Европы банки вытеснили букмекеров",
+   "dek": "Финансовые компании — 21 спонсор на передней части формы в пяти ведущих лигах против 15 год назад; у беттинга осталось 4 таких сделки.",
+   "what": "По анализу Football Benchmark, финансовые услуги стали главной категорией спонсоров на передней части формы в АПЛ, Ла Лиге, Бундеслиге, Серии А и Лиге 1: 21 сделка против 15. Технологий — 10 (было 5), транспорта и туризма — 13, строительства и недвижимости — 11. Беттинг упал с 14 сделок до 4, в основном из-за добровольного запрета АПЛ.",
+   "mechanics": "По оценке Ampere Analysis, восемь клубов АПЛ заменили беттинговые контракты на £67 млн новыми на £75 млн, а общий доход лиги от спонсоров на груди вырос на 8%, до £444 млн. Букмекеры ушли на рукава: 9 сделок против 6.",
+   "why": "Освободившееся место на форме быстро занимают банки и финтех — спонсорство спорта перестаёт держаться на букмекерах.",
+   "sources": [
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/26/financial-services-bet-big-with-european-clubs-as-bookies-lose-their-shirts/"
+    }
+   ],
+   "order": 6,
+   "lead": false,
+   "image": {
+    "url": "img/n261027-24.webp",
+    "small": "img/n261027-24-s.webp",
+    "credit": "Football Benchmark / Inside World Football",
+    "link": "https://www.insideworldfootball.com/2026/10/26/financial-services-bet-big-with-european-clubs-as-bookies-lose-their-shirts/"
+   }
+  },
+  {
+   "id": "n261027-49",
+   "rubric": "sport",
+   "status": "Суд",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Россия",
+   "title": "Букмекеры vs УФАС",
+   "cover_word": "Pari · Winline · Fonbet",
+   "headline": "Pari, «Лига Ставок», Winline и Fonbet оспаривают в суде решение УФАС о рекламе в «Яндексе»",
+   "dek": "Регулятор счёл рекламу лотерей с брендами букмекеров рекламой азартных игр. Исход дела определит, как букмекеры смогут продвигаться вне спортивных площадок.",
+   "what": "Четыре букмекера подали в Арбитражный суд Москвы иск к московскому УФАС. Они оспаривают решение от 29 июня 2026 года о нарушении закона «О рекламе». Третьи лица — BetBoom, «Яндекс» и «Авито».",
+   "mechanics": "Речь о кампании в «Яндекс Директе» со слоганами «Регистрируйся и побеждай в лотерее Pari» и «Регистрируйся. Пополняй. Побеждай». После клика пользователю предлагали бонусы и фрибеты. УФАС посчитало, что слоганы обещают гарантированный выигрыш, а бренды букмекеров превращают рекламу лотереи в рекламу ставок, недопустимую на таких ресурсах. Pari настаивает, что закон разделяет лотереи и азартные игры.",
+   "why": "Букмекеры — крупнейшие заказчики спортивного контента в России. От решения суда зависит, смогут ли они выходить к широкой аудитории через лотерейные механики или останутся в спортивных медиа.",
+   "note": "AdIndex со ссылкой на «Коммерсантъ».",
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/right/2026/10/26/350433.phtml"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-49.webp",
+    "small": "img/n261027-49-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 7,
+   "lead": false
+  },
+  {
+   "id": "n261027-50",
+   "rubric": "event",
+   "status": "Намерение",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "Россия",
+   "title": "НМГ · мюзикл «Лёд»",
+   "cover_word": "«Лёд» · мюзикл",
+   "headline": "НМГ хочет сделать мюзикл по франшизе «Лёд» — после успеха «Плаксы»",
+   "dek": "Офлайн-направление холдинга строит live-шоу на своих экранных франшизах, а в 2027 году откроет первую очередь парка в «Москино».",
+   "what": "Гендиректор НМГ Светлана Баланова рассказала на «Медиабизнесе», что после мюзикла «Плакса» холдинг планирует новый мюзикл, «возможно, на основе франшизы „Лёд“». Три фильма трилогии (2018–2024) собрали в прокате более 4,7 млрд рублей.",
+   "mechanics": "Офлайн-направление НМГ запущено в марте 2026 года, его возглавил Михаил Минин, ранее руководивший офлайн-развлечениями МТС. Первый проект — мюзикл «Плакса» по сериалу СТС и Wink, премьера 10 сентября 2026 года в Московском театре мюзикла. Собственные франшизы «облегчают маркетинг», но холдинг открыт и к другим темам. Следующий проект — парк развлечений в кинопарке «Москино», первая очередь в 2027 году.",
+   "why": "Телехолдинг монетизирует экранную IP офлайн: мюзиклы и парки дают выручку и снова возвращают зрителя к франшизе.",
+   "note": "Решение о «Льде» не окончательное: Баланова сказала «возможно».",
+   "sources": [
+    {
+     "label": "Ведомости",
+     "url": "https://www.vedomosti.ru/media/articles/2026/10/22/1239181-myuzikl-led"
+    }
+   ],
+   "video": {
+    "label": "трейлер мюзикла «Плакса»",
+    "url": "https://www.youtube.com/watch?v=qHGG3X3A2nA"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-50.webp",
+    "small": "img/n261027-50-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 1,
+   "lead": false
+  },
+  {
+   "id": "n261027-51",
+   "rubric": "event",
+   "status": "Прокат",
+   "date_iso": "2026-10-22",
+   "date_label": "22 октября",
+   "country": "Мир",
+   "title": "Heated Rivalry в кино",
+   "cover_word": "Heated Rivalry",
+   "headline": "Сериал Heated Rivalry покажут в 650+ кинотеатрах Regal как ивент для фанатов",
+   "dek": "С 6 по 30 ноября первый сезон хоккейной романтической драмы пойдёт сдвоенными сериями за $9,99.",
+   "what": "Первый сезон сериала Heated Rivalry канадского стриминга Crave по романам Рэйчел Рид выйдет в кинотеатры Regal: более 650 залов в США, Великобритании, Австралии и Новой Зеландии, с 6 по 30 ноября. Дистрибьютор — канадская Sphere Abacus.",
+   "mechanics": "Каждый сеанс — две серии подряд (1–2, 3–4, 5–6), билет $9,99. К финалу первого сезона в декабре 2025 года сериал собирал в среднем 10,6 млн зрителей на эпизод в США; финал посмотрели на 300% больше людей, чем премьеру. Все серии продолжают идти на HBO. Второй сезон выйдет в 2027 году. Regal делает ставку на фанатов, которые пересматривают сериал, хотя обычно кинотеатры требуют эксклюзива.",
+   "why": "Сериальная IP приходит в кино как коллективный фанатский ивент, а не как премьера: модель, которую можно повторить с любым сериалом с сильным фандомом.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/22/heated-rivalry-regal-theaters-showings-booktok/"
+    }
+   ],
+   "video": {
+    "label": "трейлер Crave",
+    "url": "https://www.youtube.com/watch?v=ADi1iextoUM"
+   },
+   "terms": null,
+   "image": {
+    "url": "img/n261027-51.webp",
+    "small": "img/n261027-51-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 2,
+   "lead": false
+  },
+  {
+   "id": "n261027-53",
+   "rubric": "event",
+   "status": "Анонс",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "Россия",
+   "title": "Winline Media Poker",
+   "cover_word": "Media Poker",
+   "headline": "Winline проведёт десятый Media Poker с блогерами и комиками: фонд — 5 млн рублей",
+   "dek": "Турнир пройдёт 5–7 ноября в Сочи; среди участников — Антон Шастун, VooDooSh и Игорь Джабраилов.",
+   "what": "Букмекер Winline анонсировал десятый сезон Winline Media Poker. Турнир пройдёт с 5 по 7 ноября в Сочи, призовой фонд — 5 млн рублей. Заявлены Александр «VooDooSh» Шальчинов, Игорь Джабраилов и Антон Шастун; впервые сыграют Янчик, Егор Шкред и комик Алексей Шальнов.",
+   "mechanics": "Участники — блогеры, стримеры и комики. Полный список объявят позже. Девятый турнир прошёл в декабре 2025 года, его выиграл Dota-стример Алексей «Solo» Березин.",
+   "why": "Букмекер строит собственный регулярный ивент-формат со звёздами интернета: контент для стримов и соцсетей, который не упирается в ограничения рекламы ставок.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sports.ru",
+     "url": "https://cyber.sports.ru/betting/1117411412-winline-provedet-desyatyj-sezon-winline-media-poker-blogerami-strimera.html"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-53.webp",
+    "small": "img/n261027-53-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 3,
+   "lead": false
+  },
+  {
+   "id": "n261027-54",
+   "rubric": "event",
+   "status": "Церемония",
+   "date_iso": "2026-10-26",
+   "date_label": "26 октября",
+   "country": "Великобритания",
+   "title": "Ballon d’Or 2026",
+   "cover_word": "Ballon d’Or",
+   "headline": "«Золотой мяч» вручили в лондонском театре: победили Гарри Кейн и Алексия Путельяс",
+   "dek": "70-я церемония прошла в театре London Palladium; Кейн — первый англичанин с «Золотым мячом» за 25 лет.",
+   "what": "26 октября в лондонском London Palladium прошла 70-я церемония Ballon d’Or. Лучшим игроком стал Гарри Кейн, среди женщин — Алексия Путельяс.",
+   "mechanics": "Кейн забил за сезон 73 гола и стал первым англичанином с наградой за 25 лет. Лучшим молодым игроком назван Ламин Ямаль, лучшим тренером — Луис де ла Фуэнте. Церемония прошла в театральном зале Вест-Энда.",
+   "why": "Церемония превращается в переезжающее шоу: театральная площадка в Лондоне делает её ближе к формату большой премии, чем к футбольному мероприятию.",
+   "note": null,
+   "sources": [
+    {
+     "label": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50289067/ballon-dor-2026-results-full-rankings-all-award-winners"
+    },
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/26/kane-or-yamal-ballon-dor-crowns-worlds-best-player-tonight/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-54.webp",
+    "small": "img/n261027-54-s.webp",
+    "credit": "Ballon d’Or / Inside World Football",
+    "link": "https://www.espn.com/soccer/story/_/id/50289067/ballon-dor-2026-results-full-rankings-all-award-winners"
+   },
+   "issue": "i2026-10-27",
+   "order": 4,
+   "lead": false
+  },
+  {
+   "id": "n261027-52",
+   "rubric": "event",
+   "status": "Старт",
+   "date_iso": "2026-10-21",
+   "date_label": "21 октября",
+   "country": "Саудовская Аравия",
+   "title": "Riyadh Season 2026",
+   "cover_word": "Riyadh Season",
+   "headline": "Открылся Riyadh Season: 10 недель бокса, реслинга и концертов несмотря на предупреждения о безопасности",
+   "dek": "Седьмой сезон под слоганом «Big Time» стартовал 21 октября; теннисный Six Kings Slam перенесли на декабрь.",
+   "what": "21 октября в Эр-Рияде стартовал седьмой Riyadh Season — 10-недельный фестиваль спорта и развлечений под слоганом «Big Time». В программе бокс, реслинг, UFC, концерты, театр, стендап и семейные зоны вроде Boulevard World с новыми павильонами Нидерландов, Португалии и Йемена.",
+   "mechanics": "Выставочный теннисный турнир Six Kings Slam с Джоковичем и Алькарасом, стоявший на день открытия, перенесён на 27–30 декабря из-за «организационных и логистических трудностей». Бой Канело и шоу WWE остаются в календаре. США выпустили предупреждения о безопасности для своих граждан после ракетного удара хуситов по аэропорту Эр-Рияда, где погибли 12 человек; аэропорт закрывали больше чем на неделю.",
+   "why": "Спортивные события — главный контент саудовского сезона: на них держится международная аудитория и телеправа. Геополитика уже двигает календарь.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Front Office Sports",
+     "url": "https://frontofficesports.com/article/canelo-wwe-stay-on-saudi-calendar-us-security-alerts/"
+    },
+    {
+     "label": "Gulf News",
+     "url": "https://gulfnews.com/world/gulf/saudi/riyadh-season-2026-to-begin-on-october-21-with-10-weeks-of-entertainment-1.500689955"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-52.webp",
+    "small": "img/n261027-52-s.webp",
+    "credit": "SPA / Gulf News",
+    "link": "https://frontofficesports.com/article/canelo-wwe-stay-on-saudi-calendar-us-security-alerts/"
+   },
+   "issue": "i2026-10-27",
+   "order": 5,
+   "lead": false
+  },
+  {
+   "id": "n261027-55",
+   "rubric": "event",
+   "status": "Решение",
+   "date_iso": "2026-10-23",
+   "date_label": "23 октября",
+   "country": "США",
+   "title": "Women’s Club World Cup",
+   "cover_word": "32 клуба",
+   "headline": "Первый женский клубный чемпионат мира на 32 команды пройдёт в США в январе 2028 года",
+   "dek": "FIFA выбрала хозяйку без тендера; турнир пройдёт с 5 по 30 января.",
+   "what": "FIFA объявила, что первый женский клубный чемпионат мира пройдёт в США с 5 по 30 января 2028 года. Города пока не названы. Официального тендера на право проведения не было.",
+   "mechanics": "32 команды: 6 от УЕФА, по 3 от АФК, КАФ, КОНКАКАФ и КОНМЕБОЛ, 1 от ОФК. Места уже обеспечили, в частности, «Арсенал», «Барселона», «Клуб Америка», Gotham FC, «Коринтианс», «Ухань Цзянда» и северокорейский «Нэгохян». Турнир будет проходить раз в четыре года.",
+   "why": "После мужского клубного ЧМ и ЧМ-2026 США закрепляются как площадка больших турниров FIFA. Новый турнир — новые права на трансляции женского футбола.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/23/usa-to-host-inaugural-32-team-womens-club-world-cup-in-2028/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-55.webp",
+    "small": "img/n261027-55-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 6,
+   "lead": false
+  },
+  {
+   "id": "n261027-56",
+   "rubric": "event",
+   "status": "Старт",
+   "date_iso": "2026-10-23",
+   "date_label": "23–24 октября",
+   "country": "Азербайджан",
+   "title": "FIFA U-15 · Баку",
+   "cover_word": "189 команд",
+   "headline": "FIFA запустила в Баку юношеский «чемпионат мира и фестиваль» U-15 на 189 команд",
+   "dek": "Шестидневный турнир 8 на 8 без плей-офф: 78 сборных впервые играют на турнире под брендом FIFA.",
+   "what": "24 октября в Баку стартовал новый турнир FIFA U-15 World Cup & Festival для игроков 2011–2012 годов рождения. Приглашение получили все 211 ассоциаций, приняли 189.",
+   "mechanics": "Матчи 8 на 8, два тайма по 20 минут на уменьшенных полях, свободные замены. Три дня квалификации распределяют команды по шести уровням (A–F), ещё три дня играют внутри уровней; чемпион — только победитель уровня A. 78 команд впервые участвуют в любом турнире FIFA. В 2027 году пройдёт турнир для девушек, с 2028-го оба станут ежегодными.",
+   "why": "FIFA создаёт новый массовый ивент-формат, где важнее охват и участие, чем спорт высших достижений: рамка для контента о развитии футбола в десятках стран.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Inside World Football",
+     "url": "https://www.insideworldfootball.com/2026/10/23/fifa-u15-festival-to-debut-with-189-teams-in-azerbaijan-this-weekend/"
+    }
+   ],
+   "terms": null,
+   "image": {
+    "url": "img/n261027-56.webp",
+    "small": "img/n261027-56-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   },
+   "issue": "i2026-10-27",
+   "order": 7,
+   "lead": false
+  }
+ ]
+}

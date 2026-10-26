@@ -4,8 +4,8 @@
 //                     node tools/make_og.js all           -> site + every issue in data/index.json
 const fs=require('fs'),path=require('path');const {chromium}=require('playwright');
 const ROOT=path.resolve(__dirname,'..');const SITE='https://sobinoviv-cloud.github.io/fresh-juice/';
-const RUBC={scripted:'#FF4458',unscripted:'#9071FF',doc:'#4A93FF',digital:'#FF4FA8',branded:'#FFA12E',sport:'#1FC781',event:'#22D3EE'};
-const RUB={scripted:'Scripted',unscripted:'Non-scripted',doc:'Doc',digital:'Digital',branded:'Branded content',sport:'Sport content',event:'Event'};
+const RUBC={scripted:'#FF4458',unscripted:'#9071FF',doc:'#4A93FF',digital:'#FF4FA8',branded:'#FFA12E',short:'#FFE14D',sport:'#1FC781',event:'#22D3EE'};
+const RUB={scripted:'Scripted',unscripted:'Non-scripted',doc:'Doc',digital:'Digital',branded:'Branded content',short:'Short media',sport:'Sport content',event:'Event'};
 const MON=['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
 const fd=iso=>{const [y,m,d]=iso.split('-').map(Number);return `${d} ${MON[m-1]}`};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -17,32 +17,25 @@ const base=`*{margin:0;box-sizing:border-box}body{width:1200px;height:630px;back
 .logo .f{font-weight:900;line-height:.9;letter-spacing:-.03em}.logo .j{font-weight:900;line-height:.86;letter-spacing:-.035em}
 .logo .n{display:flex;align-items:center;gap:.55em;color:#fff;font-weight:700;letter-spacing:.3em;padding-left:.3em;line-height:1;margin:.3em 0 .24em}
 .logo .n:before,.logo .n:after{content:"";width:1.6em;height:2px;background:#fff;opacity:.55}`;
-const dots=`<div style="display:flex;gap:14px;justify-content:center">${Object.values(RUBC).map(c=>`<i style="width:18px;height:18px;border-radius:50%;background:${c};display:block"></i>`).join('')}</div>`;
-function siteHTML(){return `<html><head>${FONT}<style>${base}
-body{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:34px;background:radial-gradient(ellipse at 50% 120%,#3a1a0e 0,#0E0D10 60%)}
-.logo .f{font-size:112px}.logo .n{font-size:34px}.logo .j{font-size:168px}
-.t{font-size:30px;font-weight:700;color:#BDB7C4;letter-spacing:.02em}</style></head><body>
-<div class="logo"><span class="f">FRESH</span><span class="n">news</span><span class="j">JUICE</span></div>
-<div class="t">Рынок видеоконтента · каждое утро в 10:00</div>${dots}</body></html>`}
+const rubrics=`<div class="rb">${Object.keys(RUB).map(k=>`<span style="color:${RUBC[k]}">${RUB[k]}</span>`).join('<i></i>')}</div>`;
+const shell=(top,body)=>`<html><head>${FONT}<style>${base}
+body{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;background:radial-gradient(ellipse at 50% 120%,#3a1a0e 0,#0E0D10 60%)}
+.logo{margin-top:-30px}.logo .f{font-size:112px}.logo .n{font-size:34px}.logo .j{font-size:168px}
+.t{margin-top:22px;font-size:28px;font-weight:700;color:#BDB7C4;letter-spacing:.02em}
+.top{position:absolute;left:52px;right:52px;top:40px;display:flex;justify-content:space-between;align-items:baseline;font-family:Unbounded;font-weight:700}
+.top .d{font-size:30px;color:#fff;letter-spacing:-.01em}.top .m{font-family:'Golos Text';font-size:22px;color:#BDB7C4}
+.rb{position:absolute;left:40px;right:40px;bottom:38px;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:8px 12px;font-size:21px;font-weight:700;letter-spacing:0;white-space:nowrap}
+.rb i{width:6px;height:6px;border-radius:50%;background:#5A5560;display:block}</style></head><body>${top}${body}${rubrics}</body></html>`;
+const logo=`<div class="logo"><span class="f">FRESH</span><span class="n">news</span><span class="j">JUICE</span></div>`;
+function siteHTML(){return shell('',`${logo}<div class="t">Рынок видеоконтента · каждое утро в 10:00</div>`)}
+const fullDate=iso=>{const [y,m,d]=iso.split('-').map(Number);return `${d} ${MON[m-1]} ${y} года`};
+const plural=n=>n%10===1&&n%100!==11?'новость':(n%10>=2&&n%10<=4&&(n%100<10||n%100>=20))?'новости':'новостей';
 function issueHTML(iss,lead,n){
- let img='';const im=lead&&lead.image&&lead.image.url;if(im){const p=path.join(ROOT,im);if(fs.existsSync(p))img=`data:image/${p.endsWith('.webp')?'webp':'jpeg'};base64,`+fs.readFileSync(p).toString('base64')}
- const c=RUBC[lead&&lead.rubric]||'#FF5A1F';
- return `<html><head>${FONT}<style>${base}
- .pic{position:absolute;right:0;top:0;width:560px;height:630px;background:${c} center/cover no-repeat ${img?`url('${img}')`:''}}
- .pic:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#0E0D10 0,rgba(14,13,16,.55) 22%,rgba(14,13,16,0) 48%)}
- .l{position:absolute;left:56px;top:46px;width:640px;bottom:46px;display:flex;flex-direction:column}
- .logo{align-self:flex-start;align-items:center}.logo .f{font-size:58px}.logo .n{font-size:18px}.logo .j{font-size:86px}
- .d{margin-top:30px;font-size:24px;font-weight:700;color:#FF5A1F;letter-spacing:.04em;text-transform:uppercase}
- .h{margin-top:14px;font-family:Unbounded;font-weight:700;font-size:40px;line-height:1.12;letter-spacing:-.01em;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
- .r{margin-top:auto;display:flex;align-items:center;gap:12px;font-size:22px;font-weight:700;color:#BDB7C4}
- .r b{color:#0E0D10;background:${c};padding:5px 12px;border-radius:8px;font-size:18px;letter-spacing:.08em;text-transform:uppercase}</style></head><body>
- <div class="pic"></div><div class="l"><div class="logo"><span class="f">FRESH</span><span class="n">news</span><span class="j">JUICE</span></div>
- <div class="d">${esc(MODE[iss.mode]||'Выпуск')} · ${esc(fd(iss.date))}</div>
- <div class="h">${esc(lead?lead.headline:'Новости рынка видеоконтента')}</div>
- <div class="r">${lead?`<b>${esc(RUB[lead.rubric]||'')}</b>`:''}<span>${n} ${n%10===1&&n%100!==11?'новость':(n%10>=2&&n%10<=4&&(n%100<10||n%100>=20))?'новости':'новостей'} в выпуске</span></div></div></body></html>`}
+ return shell(`<div class="top"><span class="d">${esc(fullDate(iss.date))}</span><span class="m">${esc(MODE[iss.mode]||'Выпуск')} · ${n} ${plural(n)}</span></div>`,
+  `${logo}<div class="t">Рынок видеоконтента · каждое утро в 10:00</div>`)}
 function stub(iss,lead,n,slug){
  const url=SITE+slug+'/';const title=`Fresh Juice · ${MODE[iss.mode]||'Выпуск'} · ${fd(iss.date)}`;
- const desc=lead?`${lead.headline}. И ещё ${Math.max(0,n-1)} новостей рынка видеоконтента: Scripted, Non-scripted, Doc, Digital, Branded content, Sport content, Event.`:'Новости рынка видеоконтента от JUICE.';
+ const desc=lead?`${lead.headline}. И ещё ${Math.max(0,n-1)} новостей рынка видеоконтента: Scripted, Non-scripted, Doc, Digital, Branded content, Short media, Sport content, Event.`:'Новости рынка видеоконтента от JUICE.';
  return `<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title><meta name="description" content="${esc(desc)}">
 <meta property="og:site_name" content="Fresh news Juice"><meta property="og:type" content="article"><meta property="og:locale" content="ru_RU">
