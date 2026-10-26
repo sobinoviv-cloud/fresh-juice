@@ -1,6 +1,6 @@
 {
  "issue": {
-  "id": "i2026-10-27",
+  "id": "p2026-10-27",
   "date": "2026-10-27",
   "mode": "pilot",
   "chip": "27 окт",
@@ -29,7 +29,7 @@
  "stories": [
   {
    "id": "n261027-17",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "scripted",
    "status": "Исследование",
    "date_iso": "2026-10-22",
@@ -79,7 +79,7 @@
      "url": "https://www.c21media.net/news/bravo-greenlights-first-scripted-microdrama-and-next-gen-spin-off/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261023-02.webp",
@@ -109,7 +109,7 @@
      "url": "https://www.c21media.net/news/netflix-india-to-carry-new-originals-and-scripted-from-bengali-streamer-hoichoi/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261023-03.webp",
@@ -139,7 +139,7 @@
      "url": "https://www.c21media.net/news/netflix-adapts-spanish-classic-novel-la-regenta-with-elastica-films/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261026-03.webp",
@@ -150,7 +150,7 @@
   },
   {
    "id": "n261027-16",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "scripted",
    "status": "Сделка",
    "date_iso": "2026-10-23",
@@ -198,7 +198,7 @@
      "url": "https://www.c21media.net/news/saudi-broadcasting-authority-takes-the-1-club-into-arabic-speaking-market/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "image": {
     "url": "img/n261026-01.webp",
     "small": "img/n261026-01-s.webp",
@@ -231,7 +231,7 @@
      "url": "https://www.sostav.ru/publication/mosgorsud-zapretil-khosting-provajderam-obespechivat-dostup-k-shou-tnt-vyzhit-v-stambule-88033.html"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "image": {
     "url": "img/n261026-02.webp",
     "small": "img/n261026-02-s.webp",
@@ -242,7 +242,7 @@
   },
   {
    "id": "n261027-19",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "unscripted",
    "status": "Анонс",
    "date_iso": "2026-10-15",
@@ -301,7 +301,7 @@
      "url": "https://www.c21media.net/news/us-streamer-optix-network-to-launch-with-creator-focused-model-original-reality-show/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261023-01.webp",
@@ -312,7 +312,7 @@
   },
   {
    "id": "n261027-18",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "unscripted",
    "status": "Заказ",
    "date_iso": "2026-10-23",
@@ -369,7 +369,7 @@
      "url": "https://hi-tech.mail.ru/news/158526-v-rossii-poyavitsya-eshe-odin-ubijca-tiktok-s-uporom-na-ii-video/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "image": {
     "url": "img/n261021-01.webp",
     "small": "img/n261021-01-s.webp",
@@ -380,7 +380,7 @@
   },
   {
    "id": "n261027-20",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "branded",
    "status": "Запуск",
    "date_iso": "2026-10-26",
@@ -410,7 +410,7 @@
   },
   {
    "id": "n261027-21",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "branded",
    "status": "Решение",
    "date_iso": "2026-10-25",
@@ -460,7 +460,7 @@
      "url": "https://www.sostav.ru/publication/kak-akinfet-stalo-glagolom-kejs-kb-12-dlya-pyat-rochki-i-perekr-stka-87984.html"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261026-04.webp",
@@ -490,7 +490,7 @@
      "url": "https://www.sostav.ru/publication/kejs-oggi-by-twiga-cg-dlya-esteo-87940.html"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "image": {
     "url": "img/n261026-05.webp",
     "small": "img/n261026-05-s.webp",
@@ -501,7 +501,7 @@
   },
   {
    "id": "n261027-22",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "sport",
    "status": "Сделка",
    "date_iso": "2026-10-23",
@@ -551,7 +551,7 @@
      "url": "https://www.sostav.ru/publication/mosgorsud-vstal-na-storonu-okko-v-spore-o-futbolnykh-translyatsiyakh-87993.html"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261024-01.webp",
@@ -562,7 +562,7 @@
   },
   {
    "id": "n261027-23",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "sport",
    "status": "Тендер",
    "date_iso": "2026-10-23",
@@ -592,7 +592,7 @@
   },
   {
    "id": "n261027-24",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "sport",
    "status": "Исследование",
    "date_iso": "2026-10-26",
@@ -622,7 +622,7 @@
   },
   {
    "id": "n261027-25",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "sport",
    "status": "Тендер",
    "date_iso": "2026-10-23",
@@ -653,7 +653,7 @@
   },
   {
    "id": "n261027-26",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "doc",
    "status": "Прокат",
    "date_iso": "2026-10-26",
@@ -709,7 +709,7 @@
      "url": "https://www.c21media.net/news/prime-video-orders-feature-documentary-about-1999-london-nail-bombings/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "image": {
     "url": "img/n261026-06.webp",
     "small": "img/n261026-06-s.webp",
@@ -720,7 +720,7 @@
   },
   {
    "id": "n261027-27",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "doc",
    "status": "Сделка",
    "date_iso": "2026-10-22",
@@ -755,7 +755,7 @@
   },
   {
    "id": "n261027-28",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "doc",
    "status": "Анонс",
    "date_iso": "2026-10-26",
@@ -804,7 +804,7 @@
      "url": "https://www.c21media.net/news/wildstar-films-dan-oneill-launch-youtube-channel-the-world-is-out-there/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261026-07.webp",
@@ -836,7 +836,7 @@
      "url": "https://www.sostav.ru/publication/platforma-storis-vypustit-pervuyu-ii-mikrodramu-v-rossii-87995.html"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "image": {
     "url": "img/n261025-01.webp",
     "small": "img/n261025-01-s.webp",
@@ -865,7 +865,7 @@
      "url": "https://www.c21media.net/news/risingjoy-usiing-ai-to-create-30-vertical-anime-titles-labelled-rjoy-originals/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "image": {
     "url": "img/n261026-08.webp",
     "small": "img/n261026-08-s.webp",
@@ -899,7 +899,7 @@
      "url": "https://www.whats-on-netflix.com/news/american-high-shorts-minimum-wage-netflix-series/"
     }
    ],
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "lead": false,
    "image": {
     "url": "img/n261026-09.webp",
@@ -914,7 +914,7 @@
   },
   {
    "id": "n261027-29",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "digital",
    "status": "Тест",
    "date_iso": "2026-10-23",
@@ -944,7 +944,7 @@
   },
   {
    "id": "n261027-30",
-   "issue": "i2026-10-27",
+   "issue": "p2026-10-27",
    "rubric": "digital",
    "status": "Запуск",
    "date_iso": "2026-10-26",

@@ -308,7 +308,7 @@ async function loadIssue(id){
 function state(t,p){$("#main").innerHTML=`<section class="state"><h2>${esc(t)}</h2><p>${esc(p)}</p></section>`;$("#meta").textContent=""}
 async function boot(){
   try{idx=await getJSON("data/index.json")}catch(e){state("Не получилось загрузить выпуски","Обновите страницу через минуту.");return}
-  issues=(idx.issues||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(b.id).localeCompare(String(a.id)));
+  issues=(idx.issues||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date))||((a.mode==="pilot")-(b.mode==="pilot"))||String(b.id).localeCompare(String(a.id)));
   if(!issues.length){state("Первый выпуск скоро","Свежие новости появляются здесь каждый вечер к 18:00 по Москве.");return}
   $("#issueList").innerHTML=issues.map(i=>`<button class="it" type="button" data-issue="${esc(i.id)}">${esc(fd(i.date))} <span>${esc(MODE[i.mode]||"Выпуск")} · ${i.count||0}</span></button>`).join("");
   const h=decodeURIComponent((location.hash||"").slice(1));const si=idx.story_index||{};
