@@ -4,8 +4,8 @@
 //                     node tools/make_og.js all           -> site + every issue in data/index.json
 const fs=require('fs'),path=require('path');const {chromium}=require('playwright');
 const ROOT=path.resolve(__dirname,'..');const SITE='https://sobinoviv-cloud.github.io/fresh-juice/';
-const RUBC={scripted:'#FF4458',unscripted:'#9071FF',branded:'#FFA12E',sport:'#1FC781',doc:'#4A93FF',digital:'#FF4FA8'};
-const RUB={scripted:'Scripted',unscripted:'Non-scripted',branded:'Branded content',sport:'Event & Sport',doc:'Doc',digital:'Digital'};
+const RUBC={scripted:'#FF4458',unscripted:'#9071FF',doc:'#4A93FF',digital:'#FF4FA8',branded:'#FFA12E',sport:'#1FC781',event:'#22D3EE'};
+const RUB={scripted:'Scripted',unscripted:'Non-scripted',doc:'Doc',digital:'Digital',branded:'Branded content',sport:'Sport content',event:'Event'};
 const MON=['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
 const fd=iso=>{const [y,m,d]=iso.split('-').map(Number);return `${d} ${MON[m-1]}`};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -42,7 +42,7 @@ function issueHTML(iss,lead,n){
  <div class="r">${lead?`<b>${esc(RUB[lead.rubric]||'')}</b>`:''}<span>${n} ${n%10===1&&n%100!==11?'новость':(n%10>=2&&n%10<=4&&(n%100<10||n%100>=20))?'новости':'новостей'} в выпуске</span></div></div></body></html>`}
 function stub(iss,lead,n,slug){
  const url=SITE+slug+'/';const title=`Fresh Juice · ${MODE[iss.mode]||'Выпуск'} · ${fd(iss.date)}`;
- const desc=lead?`${lead.headline}. И ещё ${Math.max(0,n-1)} новостей рынка видеоконтента: Scripted, Non-scripted, Branded content, Event & Sport, Doc, Digital.`:'Новости рынка видеоконтента от JUICE.';
+ const desc=lead?`${lead.headline}. И ещё ${Math.max(0,n-1)} новостей рынка видеоконтента: Scripted, Non-scripted, Doc, Digital, Branded content, Sport content, Event.`:'Новости рынка видеоконтента от JUICE.';
  return `<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title><meta name="description" content="${esc(desc)}">
 <meta property="og:site_name" content="Fresh news Juice"><meta property="og:type" content="article"><meta property="og:locale" content="ru_RU">
