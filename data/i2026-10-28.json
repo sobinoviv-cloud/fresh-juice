@@ -1,0 +1,944 @@
+{
+ "issue": {
+  "id": "i2026-10-28",
+  "date": "2026-10-28",
+  "mode": "daily",
+  "manual": true,
+  "chip": "28 окт",
+  "period_label": "27 октября",
+  "period_start": "2026-10-27",
+  "period_end": "2026-10-28",
+  "lead_id": "n261028-01",
+  "count": 27,
+  "generated_at": "2026-10-27T23:00:00+03:00",
+  "search_note": "Поиск завершён 27 октября в 22:30 МСК.",
+  "intro": "Главное за сутки: реалити-франшизы уходят в вертикальные сериалы, стриминги встраивают национальное ТВ в подписку, а медиа делают из редакций студии соцвидео. В спорте — лига стримеров Пике в Эр-Рияде.",
+  "agenda": [
+   {
+    "date": "Эта неделя",
+    "label": "AFM, Лос-Анджелес: рынок независимого кино",
+    "url": "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/"
+   },
+   {
+    "date": "Эта неделя",
+    "label": "TIFFCOM, Токио: рынок японских форматов и аниме",
+    "url": "https://www.c21media.net/department/thought-leadership/formats100-nippons-takashima-on-how-risk-aversion-is-changing-the-sector/"
+   },
+   {
+    "date": "6 ноября",
+    "label": "Премия «Проксима»: лучшие проекты российского диджитала",
+    "url": "https://adindex.ru/news/marketing/2026/10/27/350485.phtml"
+   }
+  ],
+  "coverage_note": "Только новости, вышедшие после выпуска 27 октября. Проверены ленты C21, Deadline, Variety, THR, TheWrap, Adweek, Marketing Dive, Digiday, Front Office Sports, Sportico, Inside World Football, Arab News, Sostav, AdIndex, «Телеспутник», Sports.ru. Часть материалов C21 закрыта платным доступом."
+ },
+ "stories": [
+  {
+   "rubric": "scripted",
+   "status": "Заказ",
+   "country": "США",
+   "title": "Fear Factor · My Drama",
+   "cover_word": "Fear Factor",
+   "headline": "Fear Factor становится вертикальным хоррор-сериалом: 30 серий по 3 минуты для My Drama",
+   "dek": "Fox и Endemol Shine впервые превращают известное реалити в сценарный микросериал — для приложения Holywater.",
+   "what": "Fox Entertainment Studios и Endemol Shine North America (Banijay) делают сценарный вертикальный спин-офф реалити Fear Factor. Сериал выйдет на платформе микродрам My Drama компании Holywater; дата пока не названа.",
+   "mechanics": "30 эпизодов по три минуты. Сюжет — подготовительная неделя на съёмках хоррор-шоу: художница по практическим эффектам и её команда запускают проклятый автомат-предсказатель, который устраивает каждому персональное смертельное испытание. Сценаристы — Том Вудли и Эндрю Бек, режиссёр — Габриэль Касте. Проект — часть партнёрства Fox и Holywater, заключённого осенью прошлого года; для My Drama это первый шаг в сценарный хоррор.",
+   "why": "Владельцы классических форматов начинают перерабатывать нон-скрипт IP в микродрамы: узнаваемое название даёт вертикальному сериалу маркетинг, а формату — новую аудиторию.",
+   "note": "Первым переходом реалити-франшизы в сценарный сериал проект называют Fox и Endemol Shine.",
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/fear-factor-spinoff-vertical-scripted-series-fox-my-drama-1237206258/"
+    },
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/news/fear-factor-microdrama-fox-my-drama-holywater-endemol-1236932245/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-01",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": true,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-01.webp",
+    "small": "img/n261028-01-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Сделка",
+   "country": "Великобритания",
+   "title": "Disney+ × Channel 4",
+   "cover_word": "Disney+ × C4",
+   "headline": "Disney+ будет показывать сериалы и шоу Channel 4 в день эфира",
+   "dek": "С начала 2027 года линейный канал C4 и его каталог войдут в подписку Disney+ без доплаты.",
+   "what": "The Walt Disney Company и британский общественный вещатель Channel 4 заключили соглашение: с начала 2027 года несколько проектов C4 в год будут выходить на Disney+ одновременно с эфиром.",
+   "mechanics": "В пакете — психологический триллер Maya с Беллой Рэмси, комедия Stepping Up и реалити Celebrity SAS: Who Dares Wins. Подписчики Disney+ получат линейный канал C4 HD и сотни часов сценарного и нон-скрипт каталога без доплаты. Disney называет сделку одним из самых значимых партнёрств с вещателями в мире.",
+   "why": "Глобальный стриминг перестаёт конкурировать с национальным ТВ и встраивает его внутрь подписки — канал получает международный охват, платформа — свежий местный контент.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/disney-to-carry-c4-content-in-latest-broadcaster-streamer-collaboration/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-02",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-02.webp",
+    "small": "img/n261028-02-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Заказ",
+   "country": "США",
+   "title": "MGM+ · The Black Tapes",
+   "cover_word": "The Black Tapes",
+   "headline": "MGM+ снимает сериал по хоррор-подкасту The Black Tapes с 60+ млн загрузок",
+   "dek": "Восемь эпизодов, в главных ролях Николай Костер-Вальдау и Сози Бейкон, съёмки — в 2027 году в Ванкувере.",
+   "what": "MGM+ заказал восьмисерийную сверхъестественную драму по подкасту The Black Tapes Терри Майлза и Пола Бэя. 27 октября к Костер-Вальдау присоединилась Сози Бейкон.",
+   "mechanics": "Психиатр и одержимая физик разоблачают паранормальные случаи — «чёрные кассеты» — и выходят на заговор многовековой давности. Производство MGM+ Studios; авторы подкаста — сценаристы и исполнительные продюсеры. Сериал выйдет на MGM+ в США, Великобритании, Ирландии, Германии, Италии, Испании, Бенилюксе и Латинской Америке.",
+   "why": "Подкаст с большой аудиторией работает как готовый IP с проверенным сюжетом — стримеры охотно покупают такие истории.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/game-of-thrones-star-to-lead-mgm-adaptation-of-horror-podcast-the-black-tapes/"
+    },
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/sosie-bacon-mgm-plus-series-the-black-tapes-1237191989/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-03",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-03.webp",
+    "small": "img/n261028-03-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Исследование",
+   "country": "Россия",
+   "title": "Российское кино за рубежом",
+   "cover_word": "−46%",
+   "headline": "Сборы российского кино за рубежом за девять месяцев упали на 46%",
+   "dek": "$4,6 млн против $8,5 млн годом ранее; лидер — «Коты Эрмитажа-2», крупнейший рынок — Перу.",
+   "what": "По данным «БК Медиа», которые приводит «Коммерсантъ», в январе–сентябре 2026 года российские фильмы собрали в зарубежном прокате $4,6 млн против $8,5 млн годом ранее. На третий квартал пришлось $1,4 млн.",
+   "mechanics": "Самый кассовый релиз — мультфильм «Коты Эрмитажа-2. Тайна египетского зала» ($1,1 млн), дальше фантастика «Кракен» ($533 тыс.) и «Мальчик-дельфин-2» ($527 тыс.). Крупнейший зарубежный рынок — Перу ($613 тыс.).",
+   "why": "Экспорт российского кино держится на анимации, а сборы игрового кино за рубежом остаются символическими.",
+   "note": "Данные «БК Медиа».",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/sbory-rossijskogo-kino-za-rubezhom-sokratilis-na-46-88053.html"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-04",
+   "issue": "i2026-10-28",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-04.webp",
+    "small": "img/n261028-04-s.webp",
+    "credit": "Sostav",
+    "link": "https://www.sostav.ru/publication/sbory-rossijskogo-kino-za-rubezhom-sokratilis-na-46-88053.html"
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Реструктуризация",
+   "country": "Великобритания",
+   "title": "Banijay UK",
+   "cover_word": "Banijay UK",
+   "headline": "Banijay UK перестраивает студии после слияния с All3Media",
+   "dek": "North One уходит под крыло Optomen, Objective Media Group реструктурируют из-за «рыночных трудностей».",
+   "what": "Banijay UK интегрирует активы All3Media после мегаслияния материнских компаний. Студия North One (Travel Man) станет лейблом внутри Optomen, Objective Media Group реструктурируют.",
+   "mechanics": "North One — первое приобретение All3Media (2004), делает factual entertainment, спорт и доки; Optomen входит в All3Media с 2010 года. Роли в новой структуре объявят позже.",
+   "why": "Крупнейший продюсер форматов в мире сокращает дублирующиеся студии — рынок нон-скрипта консолидируется, а независимым продюсерам становится теснее.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/banijay-uk-folding-north-one-into-optomen-restructuring-objective-following-all3media-merger/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-05",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-05.webp",
+    "small": "img/n261028-05-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Продление",
+   "country": "США",
+   "title": "Nation’s Dumbest · Fox",
+   "cover_word": "Nation’s Dumbest",
+   "headline": "Fox продлил шоу Nation’s Dumbest, где выигрывает тот, кто быстрее вылетел",
+   "dek": "Норвежский формат от BBC Studios дал Fox лучший летний старт за четыре года — 2,3 млн зрителей за неделю.",
+   "what": "Fox продлил на второй сезон шоу Nation’s Dumbest с ведущим Джеком Уайтхоллом. Первый сезон стартовал 15 июля и собрал 2,3 млн зрителей за первые семь дней (Nielsen).",
+   "mechanics": "Перевёрнутая механика квиза: знаменитости стараются вылететь как можно раньше, чтобы не получить титул «самого глупого в стране». Раунды — физические и интеллектуальные задания о том, что «должен знать каждый». Производство BBC Studios по норвежскому формату.",
+   "why": "Простая перевёрнутая механика продаёт знакомый жанр заново — и хорошо работает с медийными участниками.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/nations-dumbest-renewed-season-2-fox-1237206426/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-06",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-06.webp",
+    "small": "img/n261028-06-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Кастинг",
+   "country": "Австралия",
+   "title": "Junior MasterChef Australia",
+   "cover_word": "Junior MasterChef",
+   "headline": "Меган Маркл станет соведущей Junior MasterChef Australia",
+   "dek": "Детская версия формата Banijay возвращается на Ten после шести лет перерыва.",
+   "what": "Меган Маркл будет «специальной гостьей» и соведущей Junior MasterChef Australia вместе с По Лин Йоу. Шоу возвращается на канал Ten, принадлежащий Skydance, в следующем году.",
+   "mechanics": "В апреле Маркл уже появлялась во взрослом MasterChef Australia. Формат — соревнование юных поваров за титул чемпиона.",
+   "why": "Звезда с глобальной аудиторией помогает перезапустить детский формат после долгой паузы.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/meghan-markle-junior-masterchef-australia-co-host-1237206038/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-07",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-07.webp",
+    "small": "img/n261028-07-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Премьера",
+   "country": "США",
+   "title": "Netflix · Мэттью Перри",
+   "cover_word": "Matthew Perry",
+   "headline": "Netflix выпускает трёхсерийный док о Мэттью Перри",
+   "dek": "The One About Matthew Perry — друзья и семья актёра о славе, зависимости и борьбе за трезвость.",
+   "what": "Netflix выпускает документальный сериал The One About Matthew Perry из трёх серий. Рецензии вышли 27 октября, накануне третьей годовщины смерти актёра.",
+   "mechanics": "Сериал не строится вокруг гибели актёра, а рассматривает её как итог многолетней борьбы: близкие рассказывают о его пути к славе и работе в защиту людей с зависимостью.",
+   "why": "Биографические доки о любимых звёздах остаются для стримеров надёжным форматом: готовая аудитория и сильный эмоциональный повод.",
+   "note": null,
+   "sources": [
+    {
+     "label": "TheWrap",
+     "url": "https://www.thewrap.com/creative-content/reviews/the-one-about-matthew-perry-netflix-documentary-review/"
+    },
+    {
+     "label": "THR",
+     "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-one-about-matthew-perry-review-netflix-documentary-1236740422/"
+    }
+   ],
+   "video": {
+    "label": "трейлер",
+    "url": "https://www.youtube.com/watch?v=_iM1AOFxoDI"
+   },
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-08",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-08.webp",
+    "small": "img/n261028-08-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Решение",
+   "country": "США",
+   "title": "DGA × You Can See Everything",
+   "cover_word": "DGA",
+   "headline": "«Увидеть всё» Филдера и Оппенгейма не допустили до главного приза Гильдии режиссёров",
+   "dek": "Хит-документалка A24 сможет бороться только в документальной категории DGA.",
+   "what": "Гильдия режиссёров Америки решила, что документальный фильм You Can See Everything об Элизабет Холмс не может претендовать на приз за лучшую режиссуру игрового фильма.",
+   "mechanics": "По правилам DGA переиздания, анимация и доки в главную категорию не допускаются — только в Outstanding Directorial Achievement in Documentary. У «Оскара» такого ограничения для «Лучшего фильма» нет.",
+   "why": "Док, который ведёт себя в прокате как хит, упирается в жанровые перегородки наградного сезона.",
+   "note": null,
+   "sources": [
+    {
+     "label": "TheWrap",
+     "url": "https://www.thewrap.com/industry-news/awards/dga-rules-you-can-see-everything-ineligible-top-prize/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-09",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-09.webp",
+    "small": "img/n261028-09-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Анонс",
+   "country": "США",
+   "title": "Fox Nation · The Mayflower",
+   "cover_word": "The Mayflower",
+   "headline": "Билли Боб Торнтон ведёт докудраму о «Мэйфлауэре» на Fox Nation",
+   "dek": "Три серии о плавании пилигримов выйдут 23 ноября — к Дню благодарения.",
+   "what": "Fox Nation выпустит трёхсерийную докудраму Billy Bob Thornton Presents: The Mayflower. Торнтон — ведущий и исполнительный продюсер.",
+   "mechanics": "Сериал прослеживает переход пилигримов через Атлантику, союз английских поселенцев с вампаноагами и конфликт, который его разрушил. Премьера 23 ноября.",
+   "why": "Звёздный ведущий плюс календарный повод — рабочая формула исторического дока для нишевого стриминга.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/news/billy-bob-thornton-mayflower-voyage-fox-nation-1236931966/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-10",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-10.webp",
+    "small": "img/n261028-10-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Исследование",
+   "country": "Россия",
+   "title": "Rutube",
+   "cover_word": "31%",
+   "headline": "Rutube: сериалы и фильмы дают почти треть времени просмотра",
+   "dek": "В III квартале сериалы — 18,1% времени, фильмы — 12,9%; по запускам лидируют развлечения и игры.",
+   "what": "Rutube опубликовал статистику за июль–сентябрь 2026 года: сериалы и фильмы сформировали 31% общего времени просмотра.",
+   "mechanics": "Третье место по времени — развлекательный контент (11,9%), дальше телепередачи (10,6%) и видеоигры (9,2%). По числу запусков лидируют развлечения (19,1%), игры (15,8%) и лайфстайл (9,3%) — вместе более 44% запусков.",
+   "why": "Rutube становится площадкой длинного профессионального контента: смотрят долго сериалы и кино, а заходят чаще за короткими развлечениями.",
+   "note": "Данные платформы.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/serialy-i-filmy-sformirovali-pochti-tret-obshchego-vremeni-prosmotra-na-rutube-88045.html"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-11",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-11.webp",
+    "small": "img/n261028-11-s.webp",
+    "credit": "Sostav",
+    "link": "https://www.sostav.ru/publication/serialy-i-filmy-sformirovali-pochti-tret-obshchego-vremeni-prosmotra-na-rutube-88045.html"
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Прогноз",
+   "country": "США",
+   "title": "Netflix · реклама",
+   "cover_word": "$2,7 млрд",
+   "headline": "Netflix урезал прогноз рекламной выручки до $2,7 млрд",
+   "dek": "Вместо $3 млрд на 2026 год: рекламный рынок стриминга переполнен, а новые продукты запаздывают.",
+   "what": "Netflix снизил прогноз рекламной выручки на 2026 год с $3 млрд до $2,7 млрд.",
+   "mechanics": "Сокдиректор Грег Питерс объяснил это задержками запуска новых рекламных продуктов и интеграций с партнёрами. При этом рекламодатели продолжают переводить бюджеты из линейного ТВ в стриминг — конкуренция за них растёт.",
+   "why": "Даже лидер стриминга не растёт в рекламе так быстро, как обещал: инвентаря у платформ стало больше, чем денег.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/news/netflix-streaming-ads-squeeze-greg-peters-ted-sarandos-1236931807/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-12",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-12.webp",
+    "small": "img/n261028-12-s.webp",
+    "credit": "Variety",
+    "link": "https://variety.com/2026/tv/news/netflix-streaming-ads-squeeze-greg-peters-ted-sarandos-1236931807/"
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Запуск",
+   "country": "Великобритания",
+   "title": "Little Dot × Рэйчел Райли",
+   "cover_word": "The Maths of Everything",
+   "headline": "Little Dot Studios запустила YouTube-канал о математике с ведущей Countdown",
+   "dek": "The Maths of Everything: новый выпуск каждую неделю года, главный формат — 30-минутная объяснялка.",
+   "what": "Little Dot Studios вместе с благотворительным фондом National Numeracy запустила YouTube-канал и подкаст The Maths of Everything с Рэйчел Райли. Первый эпизод о математике космических полётов вышел 26 октября.",
+   "mechanics": "Выпуск каждую неделю. Главный формат — 30-минутное объяснение математики и статистики за космосом, природой, историей или фастфудом; плюс гости, данные о повседневной жизни и разборы «страшных» формул.",
+   "why": "Студии YouTube строят научпоп вокруг телеведущих с узнаваемым лицом и партнёров-фондов — это регулярный длинный формат, а не разовые ролики.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21Media",
+     "url": "https://www.c21media.net/news/rachel-riley-launches-the-maths-of-everything-youtube-channel-with-little-dot-studios/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-13",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-13.webp",
+    "small": "img/n261028-13-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Кейс",
+   "country": "США",
+   "title": "What’s Your Source",
+   "cover_word": "30+ минут",
+   "headline": "Бывшее «лицо» TikTok Washington Post делает получасовое шоу на YouTube",
+   "dek": "Дэйв Йоргенсон перешёл от коротких видео к длинным: интервью с экспертами плюс скетчи.",
+   "what": "Дэйв Йоргенсон, который вёл короткие видео Washington Post, выпускает на YouTube шоу What’s Your Source.",
+   "mechanics": "Эпизоды идут больше 30 минут: быстрый разбор темы, 20-минутное интервью с экспертом и комедийный скетч. Йоргенсон признаёт, что длинный формат требует куда больше работы, чем кажется.",
+   "why": "Авторы, выросшие на вертикальных видео, уходят в длинный YouTube — там другой уровень вовлечения и монетизации.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/news/dave-jorgenson-video-washington-post-youtube-1236931962/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-14",
+   "issue": "i2026-10-28",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-14.webp",
+    "small": "img/n261028-14-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Кейс",
+   "country": "Россия",
+   "title": "Burger King × СТС",
+   "cover_word": "AI Smart Overlay",
+   "headline": "Burger King встроился в эфир СТС через ИИ-оверлей",
+   "dek": "Нейросеть Post Media анализирует видеопоток и показывает баннер в подходящих сценах, не прерывая просмотр.",
+   "what": "Burger King провёл интеграцию на СТС в формате AI Smart Overlay от компании Post Media.",
+   "mechanics": "Технология VRAP распознаёт видеоряд в реальном времени и встраивает рекламный баннер в релевантные сцены — оффер появляется в контексте, а не в рекламном блоке. Кампания вела зрителя к заказу в приложении бренда и программе лояльности «Кинг Клуб».",
+   "why": "ИИ делает интеграцию в чужой контент автоматической и контекстной — новый инвентарь для телеканалов без перебивки эфира.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/pyatyj-element-burger-king-88037.html"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-15",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-15.webp",
+    "small": "img/n261028-15-s.webp",
+    "credit": "Burger King / Sostav",
+    "link": "https://www.sostav.ru/publication/pyatyj-element-burger-king-88037.html"
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Кейс",
+   "country": "США",
+   "title": "Patrón · Día de Muertos",
+   "cover_word": "Calaveritas",
+   "headline": "Patrón устроил комедийное шоу к Дню мёртвых",
+   "dek": "75 минут сатирических стихов-калаверитас от мексиканских комиков — событие для соцсетей бренда.",
+   "what": "Текила Patrón проводит разовое комедийное шоу для приглашённых гостей 21+ по мотивам калаверитас — шуточных стихов о смерти ко Дню мёртвых.",
+   "mechanics": "Ведущая — Ниньо де Ривера, первая мексиканка со стендап-спешлом на испанском на Netflix; с ней Хесус Трехо, Chingo Bling, Крис Соса и Хильберто Сото. Гостей ждут коктейли и иммерсивные активности; записи пойдут в соцсети бренда.",
+   "why": "Бренд делает собственное шоу вокруг культурного праздника и получает и событие, и контент для соцсетей.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Marketing Dive",
+     "url": "https://www.marketingdive.com/news/patron-embraces-dia-de-muertos-for-one-night-only-comedy-show/872814/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-16",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-16.webp",
+    "small": "img/n261028-16-s.webp",
+    "credit": "Patrón / Marketing Dive",
+    "link": "https://www.marketingdive.com/news/patron-embraces-dia-de-muertos-for-one-night-only-comedy-show/872814/"
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Награда",
+   "country": "США",
+   "title": "Adidas × Gamefam",
+   "cover_word": "Digiday Awards",
+   "headline": "Футбол Adidas в Roblox признан лучшим партнёрством Digiday Awards",
+   "dek": "Gamefam перенесла футбольную культуру бренда внутрь игровой платформы.",
+   "what": "На Digiday Awards 2026 Adidas и студия Gamefam получили приз за лучшее партнёрство.",
+   "mechanics": "Активация в Roblox встроила футбол Adidas в геймплей — бренд пришёл к молодой аудитории туда, где она проводит время. Среди других победителей — Poppi и Walmart Connect.",
+   "why": "Игровые миры становятся основным каналом брендированного контента для зумеров и альфы.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Digiday",
+     "url": "https://digiday.com/announcement/awards/adidas-and-gamefam-poppi-and-walmart-connect-are-winners-for-the-2026-digiday-awards/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-17",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-17.webp",
+    "small": "img/n261028-17-s.webp",
+    "credit": "Digiday",
+    "link": "https://digiday.com/announcement/awards/adidas-and-gamefam-poppi-and-walmart-connect-are-winners-for-the-2026-digiday-awards/"
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Кейс",
+   "country": "США",
+   "title": "InStyle · The Intern",
+   "cover_word": "The Intern",
+   "headline": "InStyle снял 15 сезонов вертикального сериала The Intern — 107 млн просмотров",
+   "dek": "Издатель People Inc. делает ставку на сериальное соцвидео, пока падает трафик из Google.",
+   "what": "Вертикальный сериал InStyle The Intern — о хаотичном стажёре, который переворачивает жизнь редакции, — вырос из пилота, снятого на iPhone в конце 2024 года.",
+   "mechanics": "За неполные два года — 15 сезонов и 87+ эпизодов, 107+ млн просмотров. Съёмки в офисе редакции, в ролях — сотрудники; в самом популярном сезоне снялась актриса Мэделин Клайн. People Inc. масштабирует эпизодическое видео для соцсетей на другие бренды.",
+   "why": "Медиа превращают редакцию в студию вертикальных сериалов: дешёвое производство, регулярный выпуск и интеграции брендов в сюжет.",
+   "note": "Данные компании.",
+   "sources": [
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/media/people-instyle-intern-social-episodic-television/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-18",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-18.webp",
+    "small": "img/n261028-18-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Исследование",
+   "country": "Россия",
+   "title": "WhoIsBlogger · Brand Lift",
+   "cover_word": "67%",
+   "headline": "Блогеры подняли знание бренда в 67% кампаний",
+   "dek": "WhoIsBlogger разобрал 100+ исследований Brand Lift: имидж вырос в 75% кампаний, рассмотрение — в 65%.",
+   "what": "Аналитики WhoIsBlogger проанализировали более 100 исследований Brand Lift по инфлюенс-кампаниям.",
+   "mechanics": "Знание бренда выросло в 67% кампаний, имиджевые показатели — в 75%, рассмотрение или использование — в 65%. Результат зависит от доли целевой аудитории у блогера, частоты контактов, формата интеграции и конкурентов; в «Одежде и обуви» блогеры с высокой долей ЦА дали вдвое больший эффект.",
+   "why": "Цифры для разговора с брендами о вертикальных интеграциях: эффект измерим, но зависит от точного выбора автора.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/v-67-kampanij-inflyuens-marketing-povysil-znanie-brenda-88071.html"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-19",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-19.webp",
+    "small": "img/n261028-19-s.webp",
+    "credit": "Sostav",
+    "link": "https://www.sostav.ru/publication/v-67-kampanij-inflyuens-marketing-povysil-znanie-brenda-88071.html"
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Мнение",
+   "country": "Россия",
+   "title": "ИИ-реклама и права",
+   "cover_word": "©?",
+   "headline": "Кому принадлежит реклама, которую придумал креатор, а сделал ИИ",
+   "dek": "Okkam Creative: нейросети удешевили производство, но не придумывание идей — и запутали вопрос прав.",
+   "what": "Креативный директор Okkam Creative Андрей Стифеев разбирает, как ИИ меняет производство рекламных роликов.",
+   "mechanics": "Главные награды фестивалей 2025 года получили работы без ИИ; «Каннские львы» отозвали Гран-при у DM9 за скрытый ИИ-контент. Без человека у ролика может не оказаться ни эффекта, ни правообладателя.",
+   "why": "Для вертикального брендового контента ИИ снижает стоимость, но авторство и права остаются за людьми — это стоит прописывать в договорах.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/pridumal-kreator-sdelal-ii-no-komu-prinadlezhit-reklama-88028.html"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-20",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-20.webp",
+    "small": "img/n261028-20-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Турнир",
+   "country": "Саудовская Аравия",
+   "title": "Kings League MENA",
+   "cover_word": "Kings League",
+   "headline": "Kings League MENA: в Эр-Рияде сыграли четвертьфиналы лиги стримеров",
+   "dek": "Чемпион DR7 вылетел по пенальти; в полуфинале 3BS, Red Zone и Ultra Chmicha.",
+   "what": "В Cool Arena в Эр-Рияде прошли четвертьфиналы Split 1 Kings League MENA — региональной лиги Жерара Пике, созданной вместе с SURJ Sports Investment (фонд PIF).",
+   "mechanics": "Футбол 7×7 в зале, 10 команд во главе с блогерами и стримерами региона, особые правила вроде «президентского пенальти». Действующий чемпион DR7 (Саудовская Аравия) уступил иорданской 3BS в серии пенальти после 5:5; за DR7 «президентский» удар исполнил её новый соправитель, игрок сборной Халид аль-Ганнам.",
+   "why": "Креаторские лиги приходят на рынки с деньгами и большой молодой аудиторией: игроки сборной становятся частью шоу, а блогеры — владельцами команд.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Arab News",
+     "url": "https://arabnews.com/sport/3bs-red-zone-and-ultra-chmicha-claim-their-places-in-kings-league-mena-final-four-3008528"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-21",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-21.webp",
+    "small": "img/n261028-21-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Премьера",
+   "country": "США",
+   "title": "HBO · Kordell Stewart",
+   "cover_word": "Slash & Burn",
+   "headline": "HBO и Skydance Sports выпустили док о квотербеке Корделле Стюарте",
+   "dek": "Kordell Stewart: Slash & Burn — о слухах, которые, по словам игрока, сломали ему карьеру.",
+   "what": "На HBO вышел короткий документальный фильм Kordell Stewart: Slash & Burn от Skydance Sports и NFL Films о бывшем квотербеке «Питтсбург Стилерз».",
+   "mechanics": "Стюарт — один из первых «бегущих» квотербеков; фильм разбирает слухи о его личной жизни, которые, по его словам, помешали карьере. Сам герой надеется, что фильм поможет ему попасть в Зал славы.",
+   "why": "Лиги и стриминги продолжают превращать спортивные биографии в длинные доки с личной драмой.",
+   "note": null,
+   "sources": [
+    {
+     "label": "THR",
+     "url": "https://www.hollywoodreporter.com/tv/tv-features/kordell-stewart-new-hbo-documentary-1236740115/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-22",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-22.webp",
+    "small": "img/n261028-22-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Производство",
+   "country": "США",
+   "title": "Fair Play · Jordan Chiles",
+   "cover_word": "Fair Play",
+   "headline": "Hulu снимает док о гимнастке Джордан Чайлз к Олимпиаде-2028",
+   "dek": "Andscape запустил Fair Play: The Jordan Chiles Story — выход на Hulu и Disney+ осенью 2027 года.",
+   "what": "Andscape начал производство полнометражного документального фильма о гимнастке Джордан Чайлз, режиссёр — Тришан Уильямс.",
+   "mechanics": "Фильм с эксклюзивным доступом покажет Чайлз в зале и вне его на пути к Играм-2028 в Лос-Анджелесе. Продюсеры — Andscape, Campfire Studios и Select Entertainment.",
+   "why": "Платформы заранее строят спортивный контент под домашнюю Олимпиаду в США.",
+   "note": null,
+   "sources": [
+    {
+     "label": "THR",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/jordan-chiles-documentary-fair-play-olympics-andscape-1236740605/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-23",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-23.webp",
+    "small": "img/n261028-23-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Анонс",
+   "country": "США",
+   "title": "Super Bowl LXI",
+   "cover_word": "Super Bowl LXI",
+   "headline": "Jay-Z станет хедлайнером шоу в перерыве Super Bowl LXI",
+   "dek": "Шоу 14 февраля 2027 года; Apple Music запускает хаб Road to Halftime с эксклюзивным контентом на весь сезон.",
+   "what": "Apple Music, NFL и Roc Nation подтвердили, что Jay-Z выступит в перерыве Super Bowl LXI 14 февраля 2027 года. Его Roc Nation продюсирует шоу с 2019 года, но выступит он впервые.",
+   "mechanics": "Режиссёр — Хэмиш Хэмилтон. До матча Apple Music выпускает эксклюзивный контент и программы сезона в хабе Jay-Z Road to Halftime.",
+   "why": "Главное шоу американского спорта растягивается в сезон контента вокруг одного выступления.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/brand-marketing/jay-z-will-finally-headline-super-bowl-61-halftime-show-after-years-behind-the-scenes/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-24",
+   "issue": "i2026-10-28",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-24.webp",
+    "small": "img/n261028-24-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Показ",
+   "country": "Великобритания",
+   "title": "Chicken Shop Date в кино",
+   "cover_word": "Chicken Shop Date",
+   "headline": "Финальный сезон YouTube-шоу Chicken Shop Date покажут в кинотеатрах",
+   "dek": "24 ноября — разовый показ в Великобритании, Ирландии и Париже вместе с YouTube Cine Club.",
+   "what": "Амелия Димольденберг отмечает финал своего YouTube-шоу Chicken Shop Date, которое шло 12 лет, показом в кинотеатрах.",
+   "mechanics": "Все шесть серий финального сезона (среди гостей — Ноэл Галлахер) покажут одним «кинематографическим событием» с эксклюзивными материалами. Завершит вечер неопубликованный финальный эпизод — до его выхода на YouTube 27 ноября.",
+   "why": "YouTube-шоу выходит в офлайн как фанатское событие: кинозал становится ещё одним окном для авторского контента.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/film/global/amelia-dimoldenberg-final-chicken-shop-date-series-theaters-1236932009/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-25",
+   "issue": "i2026-10-28",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-25.webp",
+    "small": "img/n261028-25-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Премьера",
+   "country": "Германия",
+   "title": "David Bowie «Stage»",
+   "cover_word": "Bowie «Stage»",
+   "headline": "Иммерсивный концерт Боуи откроется на Берлинале в арене на 17 000 мест",
+   "dek": "Бретт Морген собрал «Stage» из восстановленных съёмок тура 1978 года.",
+   "what": "Берлинале покажет мировую премьеру иммерсивного концертного шоу Бретта Моргена David Bowie «Stage» в Uber Arena на 17 000 мест.",
+   "mechanics": "В основе — недавно найденные и восстановленные съёмки тура Isolar II 1978 года, дополненные иммерсивным звуком и светом. Организаторы называют это «новым способом пережить» музыку Боуи.",
+   "why": "Архив превращается в ивент: кинофестиваль выходит на арену, а концертное кино — в формат иммерсивного шоу.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/brett-morgen-david-bowie-immersive-concert-berlin-1237205735/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-26",
+   "issue": "i2026-10-28",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-26.webp",
+    "small": "img/n261028-26-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Анонс",
+   "country": "США",
+   "title": "Rumors · Off-Broadway",
+   "cover_word": "Rumors",
+   "headline": "Восемь «Настоящих домохозяек» сыграют в офф-бродвейской комедии",
+   "dek": "Звёзды реалити Bravo по очереди выйдут в возрождении «Слухов» Нила Саймона с 9 января 2027 года.",
+   "what": "Восемь участниц франшизы Real Housewives дебютируют в офф-бродвейском возрождении комедии Нила Саймона «Слухи» (1988).",
+   "mechanics": "Два состава по очереди: с 9 января по 28 февраля и со 2 марта по 21 апреля 2027 года; 14 недель показов в MCC Theater. Для семи из восьми это первый выход на нью-йоркскую сцену.",
+   "why": "Реалити-франшиза продаёт билеты в театр: узнаваемые лица из ТВ становятся офлайн-продуктом.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/real-housewives-rumors-off-broadway-1237206158/"
+    }
+   ],
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "id": "n261028-27",
+   "issue": "i2026-10-28",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-27.webp",
+    "small": "img/n261028-27-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  }
+ ]
+}
