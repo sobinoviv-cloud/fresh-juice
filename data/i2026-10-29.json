@@ -1,0 +1,957 @@
+{
+ "issue": {
+  "id": "i2026-10-29",
+  "date": "2026-10-29",
+  "mode": "daily",
+  "manual": true,
+  "chip": "29 окт",
+  "period_label": "28 октября",
+  "period_start": "2026-10-28",
+  "period_end": "2026-10-29",
+  "lead_id": "n261029-01",
+  "count": 27,
+  "generated_at": "2026-10-28T23:00:00+03:00",
+  "search_note": "Поиск завершён 28 октября в 23:00 МСК.",
+  "intro": "Главное за сутки: YouTube учит микродрамы зарабатывать на подписке, а продюсеры снимают одну историю сразу для телефона и кинотеатра. Бренды строят свои вертикальные сериалы — от к-дорамы 7-Eleven до хоррора на складах. В спорте — уход легендарного ведущего Inside the NBA.",
+  "agenda": [
+   {
+    "date": "Эта неделя",
+    "label": "TIFFCOM, Токио: рынок японского контента",
+    "url": "https://deadline.com/2026/10/one-piece-amazon-mgm-studios-japan-kingdom-tiffcom-1237206862/"
+   },
+   {
+    "date": "6 ноября",
+    "label": "Премия «Проксима»: лучшие проекты российского диджитала",
+    "url": "https://adindex.ru/news/marketing/2026/10/27/350485.phtml"
+   },
+   {
+    "date": "12 ноября",
+    "label": "«Красное Яблоко»: церемония награждения",
+    "url": "https://www.sostav.ru/publication/v-short-list-festivalya-krasnoe-yabloko-88067.html"
+   },
+   {
+    "date": "16 ноября",
+    "label": "Премьера America's Funniest People на VH1",
+    "url": "https://deadline.com/2026/10/ms-pat-americas-funniest-people-premiere-date-trailer-1237206699/"
+   }
+  ],
+  "coverage_note": "Только новости, вышедшие после выпуска 28 октября. Проверены ленты C21, Deadline, Variety, THR, TheWrap, Adweek, Marketing Dive, Digiday, Social Media Today, Tubefilter, Front Office Sports, Sportico, Inside World Football, SBC News, Sostav, AdIndex, Cossa, «Телеспутник», «Ведомости», Sports.ru. За сутки не нашлось свежих новостей медиалиг, Kings League и букмекерских шоу. Часть материалов Adweek и C21 закрыта платным доступом."
+ },
+ "stories": [
+  {
+   "rubric": "scripted",
+   "status": "Платформа",
+   "country": "Глобально",
+   "title": "YouTube · микродрамы",
+   "cover_word": "6,5 млрд",
+   "headline": "YouTube делает микродрамы платными: следующую серию можно будет открыть подпиской на канал, не выходя из просмотра",
+   "dek": "За первое полугодие микродрамы на YouTube набрали 6,5 млрд просмотров — на 50% больше, чем годом ранее.",
+   "what": "YouTube объявил, что развивает монетизацию микродрам. В ближайшие недели платформа обновит в мобильном приложении просмотр эпизодов только для участников канала: зритель сможет оформить членство и смотреть дальше, не прерывая сериал.",
+   "mechanics": "Это продолжает запуск Shorts Series, объявленный на MadeOn в сентябре: авторы группируют Shorts в сезоны и эпизоды. Охват расширяют автодубляж на несколько языков, ИИ-субтитры и локализованные метаданные. По данным YouTube, 40% просмотров и 30% кликов приходятся на период позже 30 дней после публикации — первая серия продолжает приводить зрителей и зарабатывать на рекламе.",
+   "why": "У авторов микродрам на YouTube появляется модель, знакомая по приложениям ReelShort и My Drama: бесплатное начало, платное продолжение — но внутри крупнейшей видеоплатформы и без отдельного приложения.",
+   "note": "Самый быстрый рост формата YouTube фиксирует в Азиатско-Тихоокеанском регионе.",
+   "sources": [
+    {
+     "label": "Social Media Today",
+     "url": "https://www.socialmediatoday.com/news/youtube-adds-microdrama-subscriptions/872982/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-01",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": true,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-01.webp",
+    "small": "img/n261029-01-s.webp",
+    "credit": "YouTube / Social Media Today",
+    "link": "https://www.socialmediatoday.com/news/youtube-adds-microdrama-subscriptions/872982/"
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Слейт",
+   "country": "Сингапур · Корея",
+   "title": "COL Group · V47 · Virtue Asia",
+   "cover_word": "2027",
+   "headline": "Владелец FlareFlow показал вертикальный слейт на 2027 год: экранизации корейских вебтунов и бренды как сопродюсеры",
+   "dek": "Первый «апфронт» микродрам прошёл в Сингапуре; бренды могут входить в проекты как финансисты с долей в IP.",
+   "what": "COL Group (платформа FlareFlow), V47 Entertainment и Virtue Asia представили на Inside Microdramas в Сингапуре слейт на 2027 год. В него вошли адаптации корейских вебтунов и веб-романов вместе с CJ Group — «Idol Once Again», «Genius Doctor Lee Mu-jin», «The Exclusive Secretary» — и оригинальные проекты: мистерия «The Vanishing Act», сценарное реалити-соревнование «Fortune Chasers» и спортивно-фитнес-реалити «1% Better».",
+   "mechanics": "Компании запустили модель Story Engine, которая объединяет разработку, производство, финансирование и мировую дистрибуцию. Бренды могут быть не только спонсорами, но и партнёрами по разработке, исполнительными продюсерами или финансистами с долей в IP. У FlareFlow более 52 млн зарегистрированных пользователей и около 7000 тайтлов; в первом квартале 2026 года платформа возглавила рейтинг правообладателей по доходам от коротких драм в TikTok.",
+   "why": "Микродрамы переходят от потока дешёвых сериалов к модели классического ТВ-слейта с известным IP и брендовым финансированием.",
+   "note": "Три хита COL — включая «From Janitor to Mrs. Billionaire» — будут развивать как франшизы.",
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/news/korean-webtoon-adaptations-col-group-2027-microdrama-slate-1236932600/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-02",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-02.webp",
+    "small": "img/n261029-02-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Производство",
+   "country": "США",
+   "title": "New Short Media · два формата",
+   "cover_word": "9:16 + 16:9",
+   "headline": "Голливуд снимает одну историю сразу в двух форматах: вертикальный сериал для телефона и фильм для кинотеатров",
+   "dek": "New Short Media закончила съёмки хоррор-комедии с Эриком Робертсом; в тот же день анонсирован ещё один такой проект — «Summer Session».",
+   "what": "Студия New Short Media, которую в июле основали экс-глава Keshet International Алон Штрузман и Скотт Айнбиндер, закончила съёмки хоррор-комедии «It's My Party and I'll Die If I Want To». Проект выйдет как вертикальный эпизодический сериал и как горизонтальный полнометражный фильм для проката.",
+   "mechanics": "В главной роли — номинант на «Оскар» Эрик Робертс, в касте также цифровой автор Николай Перретт. У NSM в работе около 10 проектов: экшен, романтика, триллер, комедия, докуреалити. Отдельно Deadline сообщил, что рассказ «Summer Session» Кларенса Хаммонда тоже экранизируют дважды — как микродраму и как фильм; режиссёр — Кристен Бранкаччо, снявшая для TikTok микродраму Иссы Рэй «Screen Time» (250 млн просмотров за первый месяц).",
+   "why": "Вертикаль перестаёт быть отдельным продуктом: продюсеры закладывают в один сценарий и съёмку два окна монетизации.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/eric-roberts-vertical-drama-its-my-party-new-short-media-1237206266/"
+    },
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/new-short-media-wraps-production-on-dual-format-movie-and-microdrama/"
+    },
+    {
+     "label": "Deadline · Summer Session",
+     "url": "https://deadline.com/2026/10/summer-session-clarence-hammond-microdrama-feature-film-1237206927/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-03",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-03.webp",
+    "small": "img/n261029-03-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Стратегия",
+   "country": "Япония",
+   "title": "Amazon MGM Studios · Япония",
+   "cover_word": "×2",
+   "headline": "Amazon MGM Studios удвоила вложения в японские оригиналы",
+   "dek": "На TIFFCOM глава японского подразделения рассказал о переходе от агрегатора к собственному контенту.",
+   "what": "Бадди Марини, глава Amazon MGM Studios в Японии, заявил на открытии TIFFCOM в Токио, что компания удвоила инвестиции в японский оригинальный контент — игровые сериалы, аниме и кино. Сумму он не назвал.",
+   "mechanics": "Партнёры — корейская Studio Dragon, японские Credeus, Toho, TV Tokyo и Wowow. Слейт делают прежде всего для японской аудитории, но с расчётом на мировую дистрибуцию. «Prime был агрегатором контента… теперь мы хотим сосредоточиться на оригиналах», — сказал Марини.",
+   "why": "Японское IP становится одним из главных полей конкуренции стримингов за глобальные хиты после успеха «One Piece» и «Shōgun».",
+   "note": "На той же панели выступали шоураннер «One Piece» Стивен Маэда и продюсер «Kingdom» Синдзо Мацухаси.",
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/one-piece-amazon-mgm-studios-japan-kingdom-tiffcom-1237206862/"
+    },
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/prime-video-unpacks-plan-to-double-content-investment-in-japan/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-04",
+   "issue": "i2026-10-29",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-04.webp",
+    "small": "img/n261029-04-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Реструктуризация",
+   "country": "Великобритания",
+   "title": "Channel 4 · unscripted",
+   "cover_word": "Unscripted",
+   "headline": "Channel 4 собрал весь нон-скрипт под одним руководителем, а глава комедии и глава развлекательного вещания уходят",
+   "dek": "Алиса Помрой с января отвечает за доки, реалити, развлекательные и научно-популярные программы — от Gogglebox до Bake Off.",
+   "what": "Channel 4 назначил Алису Помрой руководителем нового направления unscripted. Она объединит три слейта: документальное и фактуальное развлекательное ТВ, реалити и развлекательные шоу, научно-популярные программы. В тот же день стало известно, что глава комедии Чарли Перкинс и глава развлекательного вещания Стив Хэндли покидают канал.",
+   "mechanics": "В зону Помрой войдут Gogglebox, The Great British Bake Off, Taskmaster, 24 Hours in Police Custody и Educating Yorkshire. Перестройка — часть крупнейшего сокращения в истории канала: 340 ролей; драму и комедию тоже сливают в единый scripted-блок. Оба направления будут подчиняться новому директору программ Дэвиду Бриндли, который придёт в январе 2027 года.",
+   "why": "Британский вещатель сокращает число комиссионеров: продюсерам придётся питчить меньшему кругу людей с более широкими полномочиями.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21 · Pomeroy",
+     "url": "https://www.c21media.net/news/channel-4-appoints-alisa-pomeroy-as-head-of-unscripted/"
+    },
+    {
+     "label": "C21 · уходы",
+     "url": "https://www.c21media.net/news/channel-4-comedy-head-charlie-perkins-entertainment-chief-steve-handley-exiting/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-05",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-05.webp",
+    "small": "img/n261029-05-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Премьера",
+   "country": "США",
+   "title": "America's Funniest People · VH1",
+   "cover_word": "AFP",
+   "headline": "Создатели «Смешного домашнего видео» сделали шоу, где креаторы соревнуются вирусными роликами за денежный приз",
+   "dek": "Премьера на VH1 — 16 ноября, по два эпизода в неделю; ведущая — комик Ms. Pat.",
+   "what": "VH1 покажет America's Funniest People от продюсеров America's Funniest Home Videos. Ведёт шоу комик Патрисия «Ms. Pat» Уильямс-Ли. Премьера — 16 ноября, два эпизода подряд, дальше по два в неделю.",
+   "mechanics": "В каждом выпуске три контент-креатора соревнуются за денежный приз; основа шоу — пранки, трюки и вирусные ролики из соцсетей. Продюсер — V10 Entertainment. Для Ms. Pat проект расширяет её сделку с BET Studios и Paramount.",
+   "why": "Классический клип-шоу формат перезапускают на контенте креаторов: соцсети становятся поставщиком готового материала для линейного ТВ.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/ms-pat-americas-funniest-people-premiere-date-trailer-1237206699/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-06",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-06.webp",
+    "small": "img/n261029-06-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Производство",
+   "country": "Великобритания",
+   "title": "Dashcam Justice · BBC",
+   "cover_word": "12 серий",
+   "headline": "BBC заказала сериал из записей видеорегистраторов: 12 эпизодов о том, как водители ловят нарушителей и мошенников",
+   "dek": "Tomos TV (Zinc Media) снимает для BBC Daytime и BBC Wales.",
+   "what": "Tomos TV, лейбл Zinc Media, производит 12-серийный Dashcam Justice для BBC Daytime и BBC Wales. Герои — водители по всей Британии, которые снимают на видеорегистраторы, нашлемные камеры и телефоны опасное вождение, мошенников и организованную преступность и передают записи в полицию.",
+   "mechanics": "Закадровый текст читает валлийский теле- и радиоведущий. Tomos TV и родственная Raw Cut работали больше чем с половиной полицейских подразделений страны — на Police Interceptors, Street Cops и Major Crimes Unit.",
+   "why": "Пользовательское видео становится основой дневного эфира: дешёвый материал, понятный жанр и готовая база партнёров.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/bbc-demands-dashcam-justice-from-tomos-tv/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-07",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-07.webp",
+    "small": "img/n261029-07-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Анонс",
+   "country": "Великобритания",
+   "title": "TOWIE · спин-оффы",
+   "cover_word": "TOWIE",
+   "headline": "ITV выпускает два мини-спин-оффа реалити The Only Way Is Essex — про рождение ребёнка и свадьбу участников",
+   "dek": "Двухсерийный и трёхсерийный спецпроекты выйдут на ITV2 и ITVX в начале ноября.",
+   "what": "ITV анонсировал два спин-оффа франшизы The Only Way Is Essex для ITV2 и стриминга ITVX. «Jordan & Sophie: A TOWIE Baby» — две серии о том, как пара участников становится родителями. «Amy Childs: A TOWIE Wedding» — три серии о свадьбе одной из самых популярных героинь шоу в Испании.",
+   "mechanics": "Оба проекта производит Objective Entertainment, входящая в Banijay. Премьеры — в начале ноября.",
+   "why": "Долгоживущие реалити-франшизы монетизируют сюжетные линии отдельных героев в коротких событийных спецвыпусках.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/towie-couple-spin-offs-heading-to-itv2-itvx/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-08",
+   "issue": "i2026-10-29",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-08.webp",
+    "small": "img/n261029-08-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Премия",
+   "country": "США",
+   "title": "IDA Documentary Awards",
+   "cover_word": "16",
+   "headline": "IDA назвала шорт-лист лучших доков года: в нём фильм о Theranos и вторая часть «Моих нежелательных друзей» Юлии Локтев",
+   "dek": "16 полнометражных фильмов поборются за главный приз 4 декабря; без номинаций остались «Musk» и газовские «American Doctor» и «NAZA».",
+   "what": "International Documentary Association объявила шорт-листы своей премии — важный ориентир оскаровской гонки. В основной категории 16 фильмов, среди них «You Can See Everything» об Элизабет Холмс, ставший кассовым хитом, «Nuisance Bear», «The Eyes of Ghana» Бена Прудфута и «Rehearsals for a Revolution», обладатель «Золотого глаза» Канн.",
+   "mechanics": "В список попала «My Undesirable Friends: Part II – Exile» Юлии Локтев — продолжение фильма о независимых журналистах из Москвы, первая часть которого была в оскаровском шорт-листе. Без номинаций остались «Musk», «14th» и два фильма о Газе — «American Doctor» и «NAZA». Церемония — 4 декабря в Лос-Анджелесе.",
+   "why": "Для дистрибьюторов документального кино шорт-лист IDA — сигнал, какие фильмы стоит продвигать в оскаровской кампании.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/ida-documentary-awards-2026-shortlists-1237206811/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-09",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-09.webp",
+    "small": "img/n261029-09-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Премьера",
+   "country": "США · Великобритания",
+   "title": "Kiss: End of the Road",
+   "cover_word": "KISS",
+   "headline": "Документалку о прощальном туре Kiss сначала покажут на собственной платформе группы, а не на стриминге",
+   "dek": "Двухчастный фильм Mercury Studios и Pophouse выйдет на KISSOnline 19 ноября.",
+   "what": "Mercury Studios (контентное подразделение Universal Music Group) и шведская Pophouse анонсировали двухчастный документальный фильм «Kiss: End of the Road» о последней концертной главе группы — вплоть до прощального шоу в Madison Square Garden.",
+   "mechanics": "Продакшн — Big Dreams Entertainment и Elemeno Productions. Премьера 19 ноября на KISSOnline, затем фильм выйдет на других платформах по миру; их пока не назвали.",
+   "why": "Владельцы музыкальных брендов используют доки как продукт для своих D2C-платформ: сначала фанаты, потом лицензирование.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/mercury-studios-pophouse-share-kiss-rockumentary/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-10",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-10.webp",
+    "small": "img/n261029-10-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Назначение",
+   "country": "Великобритания",
+   "title": "Sky · документальное кино",
+   "cover_word": "Sky Docs",
+   "headline": "Sky усиливает документальный блок: новым комиссионером станет продюсер нетфликсовских тру-крайм-доков",
+   "dek": "Клэр Гудласс из Minnow Films придёт в Sky в конце года.",
+   "what": "Sky назначила Клэр Гудласс комиссионером документальных проектов. Она перейдёт из Minnow Films, где девять лет работала в девелопменте и производстве и была исполнительным продюсером.",
+   "mechanics": "В её фильмографии — «Kidnapped: Elizabeth Smart» и «Crime Stories: India Detectives» для Netflix, «Dead in the Water» для Prime Video, «The Tribe» и «SAS: Who Dares Wins» для Channel 4. Она также помогала разработать «Jerry Springer: Fights, Camera, Action» и «Ashley Madison: Sex, Lies & Scandal» для Netflix.",
+   "why": "Sky наращивает собственный документальный слейт и берёт людей с опытом стриминговых тру-крайм-хитов.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/minnow-films-claire-goodlass-joins-sky-as-commissioning-editor-for-docs/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-11",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-11.webp",
+    "small": "img/n261029-11-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Исследование",
+   "country": "Россия",
+   "title": "Онлайн-кинотеатры · III квартал",
+   "cover_word": "53%",
+   "headline": "Подписками на онлайн-кинотеатры пользуются 53% горожан, платными — 43%; лидер — «Кинопоиск»",
+   "dek": "Показатели чуть ниже, чем во втором квартале, но выше, чем год назад. Wink вернулся к уровню конца 2023 года.",
+   "what": "По данным ICMR (ООО «ГФК-Русь»), в третьем квартале 2026 года подписками на онлайн-кинотеатры, включая бесплатные и пробные, пользовались 53% жителей российских городов 16–55 лет, платными — 43%.",
+   "mechanics": "«Кинопоиск» — 26% (платная подписка — 22%), Okko — 13% и 10%, «Иви» — 11% и 9%, Wink — 10% и 8%, KION — 8% и 6%. 77% горожан смотрят фильмы и сериалы онлайн хотя бы раз в неделю, 38% — почти каждый день. Самая активная группа — 25–34 года: 43% из них смотрят почти ежедневно. Опрошено 7200 человек.",
+   "why": "Рынок подписок в России вышел на плато: борьба идёт за удержание, а не за новых пользователей.",
+   "note": "Опрос проводился в июле–сентябре 2026 года.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/bolee-poloviny-rossiyan-polzovalis-podpiskami-na-onlajn-kinoteatry-v-tretem-kvartale-2026-go-88116.html"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-12",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-12.webp",
+    "small": "img/n261029-12-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Отчётность",
+   "country": "Россия",
+   "title": "VK · 9 месяцев 2026",
+   "cover_word": "+44%",
+   "headline": "Видеореклама — самая быстрорастущая статья у VK: in-stream за девять месяцев вырос на 44%",
+   "dek": "Выручка холдинга — 128 млрд рублей (+15%), онлайн-реклама — 76,8 млрд (+11%).",
+   "what": "VK опубликовала результаты за девять месяцев 2026 года. Выручка выросла на 15%, до 128 млрд рублей, доходы от онлайн-рекламы — на 11%, до 76,8 млрд. In-stream-видеореклама принесла 7,6 млрд рублей, на 44% больше, чем годом ранее.",
+   "mechanics": "В третьем квартале in-stream вырос на 48%, до 2,7 млрд рублей; онлайн-реклама — на 18%, до 28,2 млрд. Реклама крупного бизнеса за квартал прибавила 29%. Мессенджер «Макс» с июля по октябрь заработал на бизнес-сервисах и рекламе более 700 млн рублей. Скорректированная EBITDA за девять месяцев — 20,2 млрд рублей (+30%).",
+   "why": "Рекламные бюджеты в России переходят в видео быстрее, чем растёт рынок онлайн-рекламы в целом.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/vyruchka-ot-onlajn-reklamy-vk-vyrosla-na-11-za-devyat-mesyatsev-88108.html"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-13",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-13.webp",
+    "small": "img/n261029-13-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Тест",
+   "country": "США · Индия · Индонезия",
+   "title": "YouTube · порог выплат",
+   "cover_word": "$20",
+   "headline": "YouTube тестирует выплаты авторам начиная с $20 вместо $100",
+   "dek": "Эксперимент идёт в США, Индии и Индонезии для случайной группы участников партнёрской программы.",
+   "what": "YouTube снизил порог вывода дохода AdSense с $100 до $20 для части участников партнёрской программы в США, Индии и Индонезии. Тест действует с выплат за октябрь 2026 года для случайно выбранных авторов.",
+   "mechanics": "Порог можно настроить в аккаунте AdSense. Для авторов из Индии и Индонезии, где местные валюты слабы к доллару, разница в $80 существенна: начинающим проще быстрее получить первые деньги.",
+   "why": "YouTube конкурирует за авторов на растущих рынках, где платформа становится профессией для небольших городов и сёл.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/28/youtube-partner-program-lower-payout-threshold-test/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-14",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-14.webp",
+    "small": "img/n261029-14-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Сделка",
+   "country": "США",
+   "title": "The 85 South Show · Tubi",
+   "cover_word": "750 млн",
+   "headline": "Комедийный YouTube-подкаст The 85 South Show выходит на Tubi",
+   "dek": "Первыми на бесплатном стриминге покажут 10 лучших эпизодов шоу с 750 млн просмотров на YouTube.",
+   "what": "Атлантская 85 South Media заключила дистрибуционную сделку с Tubi. На платформе выйдет подборка «The Best of The 85 South Show» — 10 эпизодов с комиками Карлусом Миллером, DC Young Fly и Чико Бином.",
+   "mechanics": "Шоу выросло из независимого комедийного подкаста во франшизу с турами и собственным продакшеном: больше 750 млн просмотров и 2,56 млн подписчиков на YouTube. Сделка — первый шаг, следующий контент для Tubi объявят позже.",
+   "why": "FAST- и AVOD-сервисы забирают у YouTube готовые креаторские бренды: это дешевле, чем разрабатывать комедию с нуля.",
+   "note": "Накануне Tubi анонсировал 10 сериалов от тиктокеров в инкубаторе Creatorverse.",
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/85-south-tubi-distribution-deal-1237207194/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-15",
+   "issue": "i2026-10-29",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-15.webp",
+    "small": "img/n261029-15-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Кампания",
+   "country": "Глобально",
+   "title": "Fanta · Хэллоуин",
+   "cover_word": "Halloween",
+   "headline": "Fanta строит вокруг Хэллоуина собственную вселенную: оригинальные персонажи и креаторы вместо разовой рекламы",
+   "dek": "Coca-Cola хочет сделать Fanta таким же символом Хэллоуина, каким Coca-Cola стала для Рождества.",
+   "what": "Почти десять лет маркетинг Fanta связывает напиток с Хэллоуином; в 2024 году вышла первая глобальная кампания «Wanta Fanta» с 60-секундным роликом и коллаборацией со студией. Теперь бренд, по данным Adweek, развивает оригинальных персонажей, чтобы закрепить связь с праздником на годы вперёд, и работает с креаторами.",
+   "mechanics": "Ориентир — рождественская история Coca-Cola: сезонный праздник превращается в ежегодную франшизу бренда с узнаваемыми героями.",
+   "why": "Бренды переходят от кампаний к собственному IP: персонажи живут дольше одного ролика и работают в соцсетях круглый год.",
+   "note": "Подробности кампании Adweek публикует для подписчиков.",
+   "sources": [
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/brand-marketing/fantas-long-game-for-halloween-starts-with-creators-and-original-characters/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-16",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-16.webp",
+    "small": "img/n261029-16-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Тренд",
+   "country": "США",
+   "title": "Автобренды · реклама",
+   "cover_word": "8,9%",
+   "headline": "Автобренды отказываются от дорогих роликов со звёздами в пользу простой рекламы со скидками",
+   "dek": "Доля автопрома в рекламных расходах США упала с 14,8% до 8,9%; оставшиеся бюджеты уходят в стриминг.",
+   "what": "По данным WSJ (пересказ AdIndex), имиджевые ролики «первого уровня» с погонями и кинозвёздами вытесняет утилитарная реклама «второго уровня» с призывом приехать к дилеру, пока действует скидка.",
+   "mechanics": "Причины: давление на быструю окупаемость при высоких ставках и росте цен, сокращение модельных линеек и переход аудитории в стриминг. Доля автопрома в рекламных расходах США снизилась с 14,8% до 8,9%.",
+   "why": "Один из крупнейших заказчиков дорогого видеопродакшена сокращает имиджевые бюджеты — продакшенам нужно перестраиваться на performance-форматы.",
+   "note": null,
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/tendencies/2026/10/28/350614.phtml"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-17",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-17.webp",
+    "small": "img/n261029-17-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Исследование",
+   "country": "США",
+   "title": "iSpot · стриминг против ТВ",
+   "cover_word": "×5",
+   "headline": "Реклама в стриминге конвертирует в пять раз лучше линейного ТВ — 3,49% против 0,69%",
+   "dek": "Бюджеты рекламодателей уже делятся между ТВ и стримингом примерно поровну.",
+   "what": "По данным iSpot за третий квартал 2026 года, средняя конверсия рекламы на стриминговых платформах составила 3,49%, на традиционном ТВ — 0,69%. Конверсией считали целевое действие после просмотра, например добавление товара в корзину.",
+   "mechanics": "Линейное ТВ по-прежнему даёт 78% показов против 22% у стриминга, но расходы распределены почти поровну. Крупнейшие категории рекламодателей — страхование, e-commerce и фарма. Исследование охватило 30 брендов за 14 дней.",
+   "why": "Аргумент для перераспределения ТВ-бюджетов в CTV и интеграции в стриминговый контент.",
+   "note": "Данные iSpot приводит MediaPost, пересказ — Sostav.",
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/strimingovaya-reklama-pokazala-konversiyu-v-pyat-raz-vyshe-linejnoj-88091.html"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-18",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-18.webp",
+    "small": "img/n261029-18-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Кампания",
+   "country": "США",
+   "title": "7-Eleven · A Convenient Love",
+   "cover_word": "K-drama",
+   "headline": "7-Eleven снял к-дораму для Instagram: семь серий о любви на ночных перекусах, каждая — про блюдо со скидкой",
+   "dek": "Мини-сериал «A Convenient Love» выходит со 2 ноября и продвигает корейское меню сети.",
+   "what": "Сеть магазинов 7-Eleven 2 ноября запускает в Instagram семисерийный мини-сериал «A Convenient Love» в жанре к-дорамы. Герои — двое студентов, чьи жизни переплетаются во время ночных походов за перекусом.",
+   "mechanics": "Сериал продвигает меню Flavors of Korea — например, пельмени Bibigo и крылышки в соусе кочхуджан. Каждая серия посвящена отдельному блюду и связана с ограниченной по времени скидкой.",
+   "why": "Ритейл берёт у микродрам их механику — серийность и эмоциональный крючок — и привязывает каждую серию к покупке.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/brand-marketing/7-eleven-bets-on-korean-food-and-drama-with-a-spicy-new-social-miniseries/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-19",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-19.webp",
+    "small": "img/n261029-19-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Кампания",
+   "country": "США",
+   "title": "Public Storage · хоррор-микродрамы",
+   "cover_word": "Horror",
+   "headline": "Сеть складов Public Storage сняла хоррор-микродрамы к Хэллоуину с режиссёрами-лауреатами «Эмми»",
+   "dek": "Четыре коротких фильма ужасов, действие которых происходит в арендных боксах, выходят в соцсетях до 31 октября.",
+   "what": "Public Storage вместе с агентством The Infinite Agency выпускает серию микродрам, превращающих складские боксы в декорации фильмов ужасов. Ролики выходят в Instagram, TikTok, Facebook и YouTube до 31 октября.",
+   "mechanics": "Режиссёры — лауреат «Эмми» Брэндон Уокер, Элейн Фрост, Эрик Оранж и Джесси Бланшар из Puppetcore. Фильмы оформлены как пронумерованные видеофайлы: «Коллекция», «Вечная молодость», «Двигаясь дальше», «Тедди». Слоган кампании: «Эти истории пугают. Хранение у нас — нет».",
+   "why": "Даже «скучные» категории идут в вертикальный сторителлинг и нанимают жанровых режиссёров, а не рекламных.",
+   "note": null,
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/adyummy/2026/10/28/350516.phtml"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-20",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-20.webp",
+    "small": "img/n261029-20-s.webp",
+    "credit": "Public Storage / AdIndex",
+    "link": "https://adindex.ru/news/adyummy/2026/10/28/350516.phtml"
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Спецпроект",
+   "country": "Россия",
+   "title": "«Одноклассники» · «Спросите старших»",
+   "cover_word": "ОК",
+   "headline": "«Одноклассники» сделали серию коротких видео из ответов пожилых людей на вопросы пользователей",
+   "dek": "Проект с фондом «Старость в радость» вышел ко Дню бабушек и дедушек.",
+   "what": "«Одноклассники» и благотворительный фонд «Старость в радость» запустили проект «Спросите старших». Пользователи задавали подопечным фонда вопросы о любви, семье, дружбе, счастье и жизненном опыте, а из ответов сделали серию коротких роликов.",
+   "mechanics": "Героями стали четыре подопечных фонда. Они рассказали, что помогает сохранять опору в трудные периоды, как переживать потери и где искать радость в повседневности. Проект приурочен к 28 октября — Дню бабушек и дедушек.",
+   "why": "Платформа делает короткий видеоформат из пользовательских вопросов — механика вовлечения, которую легко масштабировать на брендовые проекты.",
+   "note": null,
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/social_advertising/2026/10/28/350514.phtml"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-21",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-21.webp",
+    "small": "img/n261029-21-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Уход",
+   "country": "США",
+   "title": "Inside the NBA",
+   "cover_word": "37 сезонов",
+   "headline": "Эрни Джонсон уходит из Inside the NBA — самой титулованной студийной программы о баскетболе",
+   "dek": "Ведущий шоу сказал, что этот сезон для него последний, но на пенсию не уходит.",
+   "what": "Эрни Джонсон объявил в видеообращении, что покинет Inside the NBA после текущего сезона. «После 37 сезонов пора», — сказал он. Среди причин — проблемы с сердцем: 14 месяцев назад он перенёс шунтирование. Джонсон подчеркнул, что не уходит на пенсию, а сокращает нагрузку.",
+   "mechanics": "Джонсон восемь раз получал спортивную «Эмми» как лучший студийный ведущий, включая два последних года. Сама программа шесть раз становилась лучшим ежедневным студийным шоу. Её формат держится на химии ведущего с бывшими чемпионами НБА Шакилом О'Нилом, Кенни Смитом и Чарльзом Баркли.",
+   "why": "Inside the NBA — эталон спортивно-развлекательной студии, где разговор звёзд важнее разбора игры. Смена ведущего — главный риск для такого формата.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/ernie-johnson-leaving-inside-the-nba-1237207406/"
+    },
+    {
+     "label": "Front Office Sports",
+     "url": "https://frontofficesports.com/article/ernie-johnson-leaving-inside-the-nba-after-37-years/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-22",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-22.webp",
+    "small": "img/n261029-22-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Назначение",
+   "country": "США",
+   "title": "LA28 · церемонии",
+   "cover_word": "Stars Align",
+   "headline": "Церемонии Олимпиады-2028 в Лос-Анджелесе поставит экс-глава Lucasfilm Кэтлин Кеннеди",
+   "dek": "LA28 также представил слоган Игр — «Stars Align».",
+   "what": "Кэтлин Кеннеди, многолетний руководитель Lucasfilm и продюсер «Звёздных войн», назначена главой церемоний и контента LA28. Она сменила Питера Райса, который на этой неделе стал контент-директором Netflix; Райс останется исполнительным продюсером церемоний открытия и закрытия.",
+   "mechanics": "Игры откроются 14 июля 2028 года на SoFi Stadium и стадионе Los Angeles Memorial Coliseum. В тот же день оргкомитет показал официальный слоган Олимпиады и Паралимпиады — «Stars Align» — с промо-роликом.",
+   "why": "Олимпиада в Лос-Анджелесе делает ставку на голливудскую режиссуру: церемония становится главным развлекательным шоу Игр.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/kathleen-kennedy-la28-peter-rice-star-wars-1237207164/"
+    },
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/convergent-tv/la28-reveals-star-powered-slogan-set-to-shine-across-olympics-marketing/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-23",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-23.webp",
+    "small": "img/n261029-23-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Фестиваль",
+   "country": "США · Япония",
+   "title": "Diamond Diplomacy",
+   "cover_word": "Baseball",
+   "headline": "Документальный фильм о 150 годах бейсбола между США и Японией впервые покажут за пределами Америки — на фестивале в Токио",
+   "dek": "Картина Юрико Гамо Ромер прошла американский фестивальный круг и теперь ищет зрителя в Японии.",
+   "what": "«Diamond Diplomacy» режиссёра Юрико Гамо Ромер получает первый международный показ на Токийском кинофестивале. Фильм прослеживает общую бейсбольную историю двух стран — от появления игры в Японии эпохи Мэйдзи и тура Бейба Рута 1934 года до Второй мировой и эпохи Итиро Судзуки и Сёхэя Отани.",
+   "mechanics": "В центре — Масанори Мураками, первый японец в МЛБ, и американец Уоррен Кромарти, звезда «Ёмиури Джайентс». Фильм построен на редких архивных съёмках; через спорт он рассказывает о дипломатии, войне, расизме и примирении.",
+   "why": "Спортивная документалистика работает как кросс-культурный продукт: один материал продаётся двум рынкам.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/yuriko-gamo-romer-marc-smolowitz-diamond-diplomacy-tokyo-1237206812/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-24",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-24.webp",
+    "small": "img/n261029-24-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Фестиваль",
+   "country": "Россия",
+   "title": "«Красное Яблоко» · шорт-лист",
+   "cover_word": "368",
+   "headline": "В шорт-лист фестиваля рекламы «Красное Яблоко» вошли 368 работ; победителей назовут 12 ноября",
+   "dek": "36-й сезон оценивало жюри из более чем 90 экспертов из 45 стран.",
+   "what": "Московский международный фестиваль рекламы «Красное Яблоко» (Red Apple) объявил шорт-лист 36-го сезона — 368 работ в блоках «Креатив», «Маркетинг», «Медиа» и «Молодые креаторы».",
+   "mechanics": "Церемония награждения — 12 ноября. Президент жюри Сиро Рибейро Роша (Enredo Brand Innovation, Бразилия) отметил, что жюри смотрело не только на показы и просмотры, но и на то, находят ли идеи отклик в реальной жизни аудитории.",
+   "why": "Шорт-лист — срез лучших брендовых видеопроектов года в России и ориентир для агентств и продакшенов.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/v-short-list-festivalya-krasnoe-yabloko-88067.html"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-25",
+   "issue": "i2026-10-29",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-25.webp",
+    "small": "img/n261029-25-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Фестиваль",
+   "country": "США",
+   "title": "Sundance 2027 · Боулдер",
+   "cover_word": "Legacy",
+   "headline": "Sundance объявил первую программу своего первого фестиваля в Боулдере — классику инди вместе с Letterboxd",
+   "dek": "Фестиваль пройдёт 21–31 января 2027 года; онлайн-часть — 28–31 января.",
+   "what": "Sundance Film Festival 2027 впервые пройдёт в Боулдере (Колорадо), а не в Парк-Сити. Первой объявлена программа Legacy — бывшая From the Collection: архивные и отреставрированные показы инди-классики, стартовавшей на Sundance. Сопрезентер программы — соцсеть для киноманов Letterboxd.",
+   "mechanics": "В программе — версия «Better Luck Tomorrow» Джастина Лина, показанная на фестивале 2002 года, 4K-реставрация «Dogtown and Z-Boys» Стейси Перальты и юбилейные показы «Real Women Have Curves» и «Swoon». Legacy пройдёт 27–31 января; Letterboxd обещает активации на площадке.",
+   "why": "Фестиваль на новом месте опирается на своё наследие и на партнёра с молодой аудиторией киноманов.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/sundance-2027-legacy-lineup-memento-y-tu-mama-tambien-1237207067/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-26",
+   "issue": "i2026-10-29",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-26.webp",
+    "small": "img/n261029-26-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Анонс",
+   "country": "США",
+   "title": "Alan Jackson: The Last Show",
+   "cover_word": "NBC",
+   "headline": "Прощальный концерт Алана Джексона на стадионе выйдет двухчасовым спецвыпуском на NBC",
+   "dek": "Эфир 8 декабря, на следующий день — на Peacock; режиссёр — Сэм Ренч.",
+   "what": "NBC покажет «Alan Jackson: The Last Show» — двухчасовой спецвыпуск о последнем концерте кантри-звезды, снятый в июне на распроданном стадионе Nissan Stadium в Нэшвилле. Эфир — 8 декабря, стриминг на Peacock — со следующего дня.",
+   "mechanics": "В программе — хиты Джексона, выступления Люка Брайана, Эрика Чёрча, Люка Комбса, Миранды Ламберт, Кэрри Андервуд, Лэйни Уилсон и других, а также два дуэта с Джорджем Стрейтом. Продюсеры — Joan of Arc StudioWorks и EverWonder Studio.",
+   "why": "Прощальные стадионные концерты становятся событийным контентом для прайм-тайма и стриминга — с ценностью, которую сложно получить другими форматами.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/alan-jackson-the-last-show-special-nbc-1237206783/"
+    }
+   ],
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "id": "n261029-27",
+   "issue": "i2026-10-29",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261029-27.webp",
+    "small": "img/n261029-27-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  }
+ ]
+}
