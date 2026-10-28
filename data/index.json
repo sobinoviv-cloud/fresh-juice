@@ -3,7 +3,7 @@
  "config": {
   "sheet_url": "https://docs.google.com/spreadsheets/d/1eWExUUnOBvHPphjYEI_hfVhCzLph5f5PU9ZDUtfo4DU/edit",
   "last_success": {
-   "daily": "2026-10-27T22:30:00+03:00"
+   "daily": "2026-10-28T07:50:00+03:00"
   },
   "watchlist": [
    "тревел-шоу",
@@ -41,7 +41,7 @@
    "date": "2026-10-28",
    "mode": "daily",
    "chip": "28 окт",
-   "count": 27,
+   "count": 29,
    "url": "https://sobinoviv-cloud.github.io/fresh-juice/2026-10-28/"
   },
   {

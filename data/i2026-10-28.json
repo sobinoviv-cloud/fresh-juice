@@ -9,10 +9,10 @@
   "period_start": "2026-10-27",
   "period_end": "2026-10-28",
   "lead_id": "n261028-01",
-  "count": 27,
+  "count": 29,
   "generated_at": "2026-10-27T23:00:00+03:00",
-  "search_note": "Поиск завершён 27 октября в 22:30 МСК.",
-  "intro": "Главное за сутки: реалити-франшизы уходят в вертикальные сериалы, стриминги встраивают национальное ТВ в подписку, а медиа делают из редакций студии соцвидео. В спорте — лига стримеров Пике в Эр-Рияде.",
+  "search_note": "Поиск завершён 28 октября в 07:50 МСК (ночной добор).",
+  "intro": "Главное за сутки: реалити-франшизы уходят в вертикальные сериалы, а их аудитория взрослеет; стриминги встраивают национальное ТВ в подписку и превращают тиктокеров в шоураннеров. В спорте — лига стримеров Пике в Эр-Рияде.",
   "agenda": [
    {
     "date": "Эта неделя",
@@ -104,41 +104,37 @@
    }
   },
   {
-   "rubric": "scripted",
-   "status": "Заказ",
-   "country": "США",
-   "title": "MGM+ · The Black Tapes",
-   "cover_word": "The Black Tapes",
-   "headline": "MGM+ снимает сериал по хоррор-подкасту The Black Tapes с 60+ млн загрузок",
-   "dek": "Восемь эпизодов, в главных ролях Николай Костер-Вальдау и Сози Бейкон, съёмки — в 2027 году в Ванкувере.",
-   "what": "MGM+ заказал восьмисерийную сверхъестественную драму по подкасту The Black Tapes Терри Майлза и Пола Бэя. 27 октября к Костер-Вальдау присоединилась Сози Бейкон.",
-   "mechanics": "Психиатр и одержимая физик разоблачают паранормальные случаи — «чёрные кассеты» — и выходят на заговор многовековой давности. Производство MGM+ Studios; авторы подкаста — сценаристы и исполнительные продюсеры. Сериал выйдет на MGM+ в США, Великобритании, Ирландии, Германии, Италии, Испании, Бенилюксе и Латинской Америке.",
-   "why": "Подкаст с большой аудиторией работает как готовый IP с проверенным сюжетом — стримеры охотно покупают такие истории.",
-   "note": null,
-   "sources": [
-    {
-     "label": "C21Media",
-     "url": "https://www.c21media.net/news/game-of-thrones-star-to-lead-mgm-adaptation-of-horror-podcast-the-black-tapes/"
-    },
-    {
-     "label": "Deadline",
-     "url": "https://deadline.com/2026/10/sosie-bacon-mgm-plus-series-the-black-tapes-1237191989/"
-    }
-   ],
-   "date_iso": "2026-10-27",
-   "date_label": "27 октября",
-   "id": "n261028-03",
+   "id": "n261028-28",
    "issue": "i2026-10-28",
-   "order": 3,
+   "rubric": "scripted",
    "lead": false,
-   "found_late": false,
+   "found_late": true,
    "terms": null,
    "image": {
-    "url": "img/n261028-03.webp",
-    "small": "img/n261028-03-s.webp",
+    "url": "img/n261028-28.webp",
+    "small": "img/n261028-28-s.webp",
     "credit": "Иллюстрация Fresh Juice",
-    "illustration": true
-   }
+    "link": "https://telesputnik.ru/materials/content/article/vanta-grup-dolya-smotryashhix-vertikalnye-serialy-rastyot-bystree-za-predelami-molodyoznogo-yadra"
+   },
+   "country": "Россия",
+   "status": "Исследование",
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "title": "«Ванта Груп» · вертикальные сериалы",
+   "cover_word": "35+",
+   "headline": "Вертикальные сериалы выходят за пределы молодёжи: быстрее всего растут зрители 25–34 и 35+",
+   "dek": "Смотрят 46% подростков и 33% зрителей 18–24, но прирост — у старших: +9 п.п. в группах 25–34 и 35+.",
+   "what": "«Ванта Груп» рассказала «Телеспутнику», что происходит с вертикальными сериалами к концу 2026 года. В группе 25–34 лет доля смотрящих выросла до 23%, в группе 35+ — до 19%, в обоих случаях на девять пунктов. В ядре 18–24 лет доля почти не изменилась — около 33%.",
+   "mechanics": "67% зрителей вертикальных сериалов смотрят их каждую неделю, 34% — почти каждый день. Две трети кинозрителей готовы платить за формат деньгами или просмотром рекламы. Доля тех, кто смотрит «чтобы поднять настроение», снизилась на 7 п.п., до 47%.",
+   "why": "Это ответ на тезис «Газпром-Медиа» о том, что микродрамы остаются нишей: рост идёт не в ядре, а у взрослой аудитории, и зрители начинают ждать от формата не только быстрой эмоции.",
+   "note": "Данные «Ванта Груп», опрос кинозрителей.",
+   "sources": [
+    {
+     "label": "Телеспутник",
+     "url": "https://telesputnik.ru/materials/content/article/vanta-grup-dolya-smotryashhix-vertikalnye-serialy-rastyot-bystree-za-predelami-molodyoznogo-yadra"
+    }
+   ],
+   "order": 3
   },
   {
    "rubric": "scripted",
@@ -195,7 +191,7 @@
    "date_label": "27 октября",
    "id": "n261028-05",
    "issue": "i2026-10-28",
-   "order": 1,
+   "order": 5,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -228,7 +224,7 @@
    "date_label": "27 октября",
    "id": "n261028-06",
    "issue": "i2026-10-28",
-   "order": 2,
+   "order": 6,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -261,7 +257,7 @@
    "date_label": "27 октября",
    "id": "n261028-07",
    "issue": "i2026-10-28",
-   "order": 3,
+   "order": 7,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -302,7 +298,7 @@
    "date_label": "27 октября",
    "id": "n261028-08",
    "issue": "i2026-10-28",
-   "order": 1,
+   "order": 8,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -335,7 +331,7 @@
    "date_label": "27 октября",
    "id": "n261028-09",
    "issue": "i2026-10-28",
-   "order": 2,
+   "order": 9,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -368,7 +364,7 @@
    "date_label": "27 октября",
    "id": "n261028-10",
    "issue": "i2026-10-28",
-   "order": 3,
+   "order": 10,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -378,6 +374,39 @@
     "credit": "Иллюстрация Fresh Juice",
     "illustration": true
    }
+  },
+  {
+   "id": "n261028-30",
+   "issue": "i2026-10-28",
+   "rubric": "doc",
+   "lead": false,
+   "found_late": true,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-30.webp",
+    "small": "img/n261028-30-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "link": "https://variety.com/2026/tv/news/altadena-one-fire-after-another-documentary-60-minutes-1236932172/"
+   },
+   "country": "США",
+   "status": "Производство",
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "title": "«Altadena: One Fire After Another»",
+   "cover_word": "Altadena",
+   "headline": "Бывшие продюсеры «60 Minutes» сняли док о жизни Альтадены после пожара Eaton",
+   "dek": "Фильм начинается там, где закончились новости: спустя год после пожара жители восстанавливают дома и район.",
+   "what": "Климатический журналист Билл Маккиббен и бывший продюсер «60 Minutes» Дэвид Гелбер сделали документальный фильм о последствиях пожара Eaton 2025 года в Лос-Анджелесе. Герои — жители Альтадены, которые восстанавливают дома и сообщество; рядом — эксперты по климату, экономике и госполитике.",
+   "mechanics": "Режиссёр и продюсер — Джонатан Шайнберг, монтаж — Ванесса Гулд. Фильм на постпродакшене, команда ищет дистрибуцию.",
+   "why": "Новостной док всё чаще уходит от «ночи катастрофы» к долгим последствиям — и выходит на рынок готовым продуктом, без заказа платформы.",
+   "note": "",
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/news/altadena-one-fire-after-another-documentary-60-minutes-1236932172/"
+    }
+   ],
+   "order": 11
   },
   {
    "rubric": "digital",
@@ -401,7 +430,7 @@
    "date_label": "27 октября",
    "id": "n261028-11",
    "issue": "i2026-10-28",
-   "order": 1,
+   "order": 12,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -434,7 +463,7 @@
    "date_label": "27 октября",
    "id": "n261028-12",
    "issue": "i2026-10-28",
-   "order": 2,
+   "order": 13,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -467,7 +496,7 @@
    "date_label": "27 октября",
    "id": "n261028-13",
    "issue": "i2026-10-28",
-   "order": 3,
+   "order": 14,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -479,37 +508,37 @@
    }
   },
   {
-   "rubric": "digital",
-   "status": "Кейс",
-   "country": "США",
-   "title": "What’s Your Source",
-   "cover_word": "30+ минут",
-   "headline": "Бывшее «лицо» TikTok Washington Post делает получасовое шоу на YouTube",
-   "dek": "Дэйв Йоргенсон перешёл от коротких видео к длинным: интервью с экспертами плюс скетчи.",
-   "what": "Дэйв Йоргенсон, который вёл короткие видео Washington Post, выпускает на YouTube шоу What’s Your Source.",
-   "mechanics": "Эпизоды идут больше 30 минут: быстрый разбор темы, 20-минутное интервью с экспертом и комедийный скетч. Йоргенсон признаёт, что длинный формат требует куда больше работы, чем кажется.",
-   "why": "Авторы, выросшие на вертикальных видео, уходят в длинный YouTube — там другой уровень вовлечения и монетизации.",
-   "note": null,
-   "sources": [
-    {
-     "label": "Variety",
-     "url": "https://variety.com/2026/tv/news/dave-jorgenson-video-washington-post-youtube-1236931962/"
-    }
-   ],
-   "date_iso": "2026-10-27",
-   "date_label": "27 октября",
-   "id": "n261028-14",
+   "id": "n261028-29",
    "issue": "i2026-10-28",
-   "order": 4,
+   "rubric": "digital",
    "lead": false,
-   "found_late": false,
+   "found_late": true,
    "terms": null,
    "image": {
-    "url": "img/n261028-14.webp",
-    "small": "img/n261028-14-s.webp",
+    "url": "img/n261028-29.webp",
+    "small": "img/n261028-29-s.webp",
     "credit": "Иллюстрация Fresh Juice",
-    "illustration": true
-   }
+    "link": "https://www.tubefilter.com/2026/10/27/tubi-tiktok-creatorverse-incubator-program-original-slate/"
+   },
+   "country": "США",
+   "status": "Анонс",
+   "date_iso": "2026-10-27",
+   "date_label": "27 октября",
+   "title": "Tubi × TikTok · Creatorverse",
+   "cover_word": "10",
+   "headline": "Tubi заказал десять сериалов у звёзд TikTok",
+   "dek": "Первый слейт инкубатора Creatorverse: анимация, дейтинг-шоу, хоррор и тревелог от 12 тиктокеров.",
+   "what": "AVOD-сервис Fox Tubi показал первые шоу инкубатора Creatorverse, запущенного вместе с TikTok. В слейте десять проектов с 12 авторами TikTok в главных ролях: анимационная супергеройская комедия Feeling Super, дейтинг-шоу Kai Picks the Guy, хоррор Scare Tours, тревелог по Австралии и другие.",
+   "mechanics": "TikTok помог отобрать авторов, готовых к длинному формату, и будет продвигать премьеры через свой инструмент Spotlight. Даты релизов пока не объявлены. Ставка — на жанры, которые уже работают на Tubi: хоррор, молодёжный контент и комедия.",
+   "why": "Платформы перестают просто лицензировать контент блогеров и превращают их в шоураннеров: TikTok даёт аудиторию и промо, стриминг — длинный формат и бюджет.",
+   "note": "",
+   "sources": [
+    {
+     "label": "Tubefilter",
+     "url": "https://www.tubefilter.com/2026/10/27/tubi-tiktok-creatorverse-incubator-program-original-slate/"
+    }
+   ],
+   "order": 15
   },
   {
    "rubric": "branded",
@@ -533,7 +562,7 @@
    "date_label": "27 октября",
    "id": "n261028-15",
    "issue": "i2026-10-28",
-   "order": 1,
+   "order": 16,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -566,7 +595,7 @@
    "date_label": "27 октября",
    "id": "n261028-16",
    "issue": "i2026-10-28",
-   "order": 2,
+   "order": 17,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -599,7 +628,7 @@
    "date_label": "27 октября",
    "id": "n261028-17",
    "issue": "i2026-10-28",
-   "order": 3,
+   "order": 18,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -632,7 +661,7 @@
    "date_label": "27 октября",
    "id": "n261028-18",
    "issue": "i2026-10-28",
-   "order": 1,
+   "order": 19,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -665,7 +694,7 @@
    "date_label": "27 октября",
    "id": "n261028-19",
    "issue": "i2026-10-28",
-   "order": 2,
+   "order": 20,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -698,7 +727,7 @@
    "date_label": "27 октября",
    "id": "n261028-20",
    "issue": "i2026-10-28",
-   "order": 3,
+   "order": 21,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -708,6 +737,39 @@
     "credit": "Иллюстрация Fresh Juice",
     "illustration": true
    }
+  },
+  {
+   "id": "n261028-31",
+   "issue": "i2026-10-28",
+   "rubric": "short",
+   "lead": false,
+   "found_late": true,
+   "terms": null,
+   "image": {
+    "url": "img/n261028-31.webp",
+    "small": "img/n261028-31-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "link": "https://digiday.com/media/one-year-in-dmg-medias-social-only-briefs-account-for-30-of-new-media-revenue/"
+   },
+   "country": "Великобритания",
+   "status": "Кейс",
+   "date_iso": "2026-10-28",
+   "date_label": "28 октября",
+   "title": "DMG Media · New Media",
+   "cover_word": "30%",
+   "headline": "Daily Mail за год сделал соцвидео отдельным бизнесом: 30% выручки — заказы только на соцсети",
+   "dek": "Подразделение New Media: 100+ сотрудников, 25 штатных креаторов, 3 млрд просмотров в месяц.",
+   "what": "Подразделению New Media издательского дома DMG Media (Daily Mail, Mail Sport, This Is Money) исполнился год. Брифы только на соцсети — без печати и сайта — дают уже 30% его выручки. В октябре DMG подписал кросс-платформенную кампанию, где одна соцсетевая часть стоит семизначную сумму.",
+   "mechanics": "В штате 25 креаторов, которые работают вместе с продюсерами и операторами; они участвуют в 90% брендированного контента. Около 2000 публикаций в месяц в Instagram и TikTok, IP остаётся у компании. Пример форматов — шоу «PM for a Day».",
+   "why": "Рекламодатели начинают покупать соцформаты медиа как самостоятельные площадки, а не как приложение к основному бренду издателя.",
+   "note": "",
+   "sources": [
+    {
+     "label": "Digiday",
+     "url": "https://digiday.com/media/one-year-in-dmg-medias-social-only-briefs-account-for-30-of-new-media-revenue/"
+    }
+   ],
+   "order": 22
   },
   {
    "rubric": "sport",
@@ -731,7 +793,7 @@
    "date_label": "27 октября",
    "id": "n261028-21",
    "issue": "i2026-10-28",
-   "order": 1,
+   "order": 23,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -764,7 +826,7 @@
    "date_label": "27 октября",
    "id": "n261028-22",
    "issue": "i2026-10-28",
-   "order": 2,
+   "order": 24,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -797,7 +859,7 @@
    "date_label": "27 октября",
    "id": "n261028-23",
    "issue": "i2026-10-28",
-   "order": 3,
+   "order": 25,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -830,7 +892,7 @@
    "date_label": "27 октября",
    "id": "n261028-24",
    "issue": "i2026-10-28",
-   "order": 1,
+   "order": 26,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -863,7 +925,7 @@
    "date_label": "27 октября",
    "id": "n261028-25",
    "issue": "i2026-10-28",
-   "order": 2,
+   "order": 27,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -896,7 +958,7 @@
    "date_label": "27 октября",
    "id": "n261028-26",
    "issue": "i2026-10-28",
-   "order": 3,
+   "order": 28,
    "lead": false,
    "found_late": false,
    "terms": null,
@@ -929,7 +991,7 @@
    "date_label": "27 октября",
    "id": "n261028-27",
    "issue": "i2026-10-28",
-   "order": 4,
+   "order": 29,
    "lead": false,
    "found_late": false,
    "terms": null,
