@@ -1,0 +1,916 @@
+{
+ "issue": {
+  "id": "i2026-10-30",
+  "date": "2026-10-30",
+  "mode": "daily",
+  "manual": true,
+  "chip": "30 окт",
+  "period_label": "29 октября",
+  "period_start": "2026-10-29",
+  "period_end": "2026-10-30",
+  "lead_id": "n261030-01",
+  "count": 26,
+  "generated_at": "2026-10-29T23:00:00+03:00",
+  "search_note": "Поиск завершён 29 октября в 23:00 МСК.",
+  "intro": "Главное за сутки: Netflix и Disney+ закупают в основном неанглоязычный контент, японское ТВ ищет союзников в Корее и Голливуде, а Wildberries встроил Wink в свою подписку. В спорте — креаторы, звёзды и деньги вокруг шоу: от Good Good Golf до команды Backstreet Boys.",
+  "agenda": [
+   {
+    "date": "5 ноября",
+    "label": "Конференция Brand Analytics и итоги «Хрустального шара»",
+    "url": "https://adindex.ru/news/releases/2026/10/29/350635.phtml"
+   },
+   {
+    "date": "6 ноября",
+    "label": "Премия «Проксима»: лучшие проекты российского диджитала",
+    "url": "https://adindex.ru/news/marketing/2026/10/27/350485.phtml"
+   },
+   {
+    "date": "7–14 ноября",
+    "label": "Camerimage, Торунь: фестиваль операторов",
+    "url": "https://variety.com/2026/film/news/darren-aronofsky-directors-award-2026-camerimage-festival-1236934175/"
+   },
+   {
+    "date": "12 ноября",
+    "label": "«Красное Яблоко»: церемония награждения",
+    "url": "https://www.sostav.ru/publication/v-short-list-festivalya-krasnoe-yabloko-88067.html"
+   }
+  ],
+  "coverage_note": "Только новости, вышедшие после выпуска 29 октября. Проверены ленты C21, Deadline, Variety, THR, TheWrap, Adweek, Marketing Dive, Digiday, Social Media Today, Tubefilter, Front Office Sports, Sportico, Inside World Football, SBC News, Sostav, AdIndex, Cossa, «Телеспутник», «Ведомости». Свежих новостей медиалиг, Kings League, букмекерских шоу и микродрам за сутки не нашлось. В Short media сегодня две истории. Часть материалов Adweek и C21 закрыта платным доступом."
+ },
+ "stories": [
+  {
+   "rubric": "scripted",
+   "status": "Исследование",
+   "country": "Глобально",
+   "title": "Ampere · закупки стримингов",
+   "cover_word": "65%",
+   "headline": "Две трети закупок Netflix — контент не на английском; у Disney+ — половина",
+   "dek": "Netflix чаще всего покупает японские и корейские тайтлы, Disney+ — немецкие и японские. Главные недооценённые рынки, по Ampere, — Япония, Франция, Корея и Турция.",
+   "what": "По данным Ampere Analysis на сентябрь 2026 года, неанглоязычный контент составляет 65% лицензионных закупок Netflix и 50% у Disney+. У Netflix в лидерах японские и корейские тайтлы, у Disney+ — немецкие и японские.",
+   "mechanics": "Ampere считает самыми перспективными для покупки японский, французский, корейский и турецкий контент: спрос на него высокий, а экспортируется мало. За пределами Японии доступно только 40% японского стримингового контента; среди англоязычных тайтлов эксклюзивами своей страны остаются лишь 5%. Почти половина корейских тайтлов (45%) до сих пор есть только на местных сервисах.",
+   "why": "Для продавцов неанглоязычных сериалов это прямой сигнал: глобальные стриминги покупают, а предложения из многих стран на рынке всё ещё мало.",
+   "note": "Ampere отмечает, что Prime Video, HBO Max и Disney+ тоже расширяют лицензирование неанглоязычных тайтлов.",
+   "sources": [
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/non-english-content-makes-up-65-of-netflix-acquisitions-50-on-disney-ampere/"
+    },
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/disney-netflix-non-english-acquisitions-ampere-1237207916/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-01",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": true,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-01.webp",
+    "small": "img/n261030-01-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Разработка",
+   "country": "США · Корея",
+   "title": "PUBG · Netflix",
+   "cover_word": "PUBG",
+   "headline": "Netflix экранизирует игру PUBG: режиссёр, сценарист и исполнитель главной роли — Дональд Гловер",
+   "dek": "Игровой сериал по королевской битве Krafton пишет Гловер вместе с братом Стивеном.",
+   "what": "Netflix разрабатывает игровой сериал по PUBG — королевской битве корейского издателя Krafton. Дональд Гловер («Атланта») снимет его, сыграет главную роль и напишет сценарий вместе с братом Стивеном Гловером.",
+   "mechanics": "Исполнительные продюсеры — Майкл Шефер (Neon TV), Фам Удеорджи (Gilga), а также Тэсок Чан и Суджин Ли из LV3H, развлекательного подразделения Krafton. Сделку, по данным Deadline, обсуждали долго. С 2017 года PUBG установила семь рекордов Гиннесса; фильм и сериал по игре Krafton анонсировала ещё в 2020-м.",
+   "why": "Стриминги продолжают охоту за игровым IP с готовой аудиторией, и на такие проекты теперь зовут авторов уровня Гловера.",
+   "note": "Сделка Гловера с Amazon MGM Studios стала first-look, поэтому он может работать с другими студиями.",
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-02",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-02.webp",
+    "small": "img/n261030-02-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Стратегия",
+   "country": "Япония",
+   "title": "TBS · J-content",
+   "cover_word": "J-content",
+   "headline": "Японский TBS хочет сделать из J-content то же, что Корея сделала из K-drama, — с Legendary и CJ ENM",
+   "dek": "Создатели «Ниндзя-воина» рассказали на TIFFCOM о партнёрствах с голливудской и корейской студиями.",
+   "what": "Руководители глобального бизнеса TBS Holdings рассказали на TIFFCOM, как группа выводит японский контент на мировой рынок. Опора — партнёрство с Legendary Entertainment и новое совместное предприятие Studio Monowa с корейской CJ ENM и японским стримингом U-Next.",
+   "mechanics": "Сэтогути Кацуаки, глава The Seven, признал, что 20 лет назад не предвидел мирового успеха корейского контента. Теперь он формулирует задачу так: не заработать для TBS, а создать новый жанр J-content. На TIFFCOM о японо-корейских копродукциях говорили и Nippon TV с CJ ENM.",
+   "why": "Японские вещатели отказываются конкурировать с Кореей в одиночку и строят копродукционные альянсы, чтобы попасть на глобальные платформы.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/markets-festivals/ninja-warrior-tbs-legendary-cj-enm-tokyo-market-j-content-1236933988/"
+    },
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/japanese-tv-must-collaborate-to-catch-up-with-korea-says-tbss-setoguchi/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-03",
+   "issue": "i2026-10-30",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-03.webp",
+    "small": "img/n261030-03-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "scripted",
+   "status": "Производство",
+   "country": "Индия",
+   "title": "Beta Builder · ИИ-фильм",
+   "cover_word": "AI",
+   "headline": "В Мумбаи начали снимать «Beta Builder» — первый фильм из слейта ИИ-картин Abundantia и InVideo",
+   "dek": "Слейт рассчитан на пять ИИ-фильмов за три года, бюджет — ₹100 крор (около $10,5 млн).",
+   "what": "Индийская Abundantia Entertainment через подразделение Abundantia AiOn и видеосервис InVideo начали съёмки «Beta Builder» — первого фильма из совместного слейта картин, сделанных с помощью ИИ. В главных ролях — Маюр Море и Ашлеша Тхакур, режиссёр — креативный руководитель InVideo Хридайе Нагпал.",
+   "mechanics": "Сюжет: самоучка-архитектор из трущоб Дхарави получает шанс реализовать мечты в виртуальной реальности. Абундантия называет свой подход «human-first and AI-empowered»: живые актёры и съёмки плюс ИИ-производство. Партнёры обещают пять таких фильмов за три года.",
+   "why": "Индия становится полигоном для гибридного кино, где ИИ снижает стоимость сложного визуального мира, а не заменяет актёров.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-04",
+   "issue": "i2026-10-30",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-04.webp",
+    "small": "img/n261030-04-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Рейтинги",
+   "country": "Великобритания",
+   "title": "The Celebrity Traitors · BBC",
+   "cover_word": "15,7 млн",
+   "headline": "Второй сезон «Предателей» со звёздами стал самым смотрибельным шоу года в Британии: 15,7 млн зрителей за неделю",
+   "dek": "Финал выходит в пятницу. Рейтинги рекордные, хотя критики пишут, что сезону не хватает напряжения.",
+   "what": "BBC сообщила, что премьеру второго сезона The Celebrity Traitors за семь дней посмотрели 15,7 млн человек, второй эпизод — 15,2 млн. Это самый популярный эфир года в Великобритании и рекорд франшизы.",
+   "mechanics": "В шоу 21 знаменитость; трое «предателей» тайно выбивают «верных» в шотландском замке Ардросс. Финал первого сезона в 2025 году посмотрели 11,1 млн человек в прямом эфире — лучший результат года для отдельного сериала. The Hollywood Reporter при этом пишет, что второму сезону не хватает остроты.",
+   "why": "Звёздная версия реалити-формата собирает аудиторию, которую линейное ТВ почти потеряло, — и показывает, сколько стоит сильный каст.",
+   "note": null,
+   "sources": [
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/tv/tv-features/the-celebrity-traitors-finale-bbc-maya-james-acaster-season-1236741685/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-05",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-05.webp",
+    "small": "img/n261030-05-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Производство",
+   "country": "США · Австралия",
+   "title": "DWTS: The Next Pro",
+   "cover_word": "L.A.",
+   "headline": "BBC Studios хочет перенести съёмки спин-оффа «Танцев со звёздами» из Австралии в Лос-Анджелес",
+   "dek": "Компания подала заявку на калифорнийский налоговый кредит для второго сезона The Next Pro.",
+   "what": "Первый сезон Dancing with the Stars: The Next Pro для ABC снимали в Брисбене. Для второго BBC Studios подала документы на калифорнийский налоговый кредит и прошла во второй этап отбора.",
+   "mechanics": "В шоу 12 молодых профессиональных танцоров живут в одном доме и борются за место в основном шоу. Победительница Адель Заикман уже танцует в 35-м сезоне DWTS. Ведущий — Роберт Ирвин, судьи — Марк и Ширли Баллас. Всё основное шоу с 2005 года снимают в Лос-Анджелесе.",
+   "why": "Налоговые льготы решают, где снимают нон-скрипт: недавно American Idol ушёл из Лос-Анджелеса в Джорджию, а этот проект может пойти обратным путём.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/dancing-with-the-star-the-next-pro-la-production-move-1237207698/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-06",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-06.webp",
+    "small": "img/n261030-06-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "unscripted",
+   "status": "Назначение",
+   "country": "Великобритания",
+   "title": "Channel 4 · своя студия",
+   "cover_word": "The Cube",
+   "headline": "Создатель шоу The Cube возглавил креатив в собственной продакшен-студии Channel 4",
+   "dek": "Канал строит своё IP после отмены запрета на собственное производство, продюсеры против.",
+   "what": "Адам Адлер, лауреат BAFTA, создатель и шоураннер The Cube, стал креативным директором внутреннего продакшен-бизнеса Channel 4. Это первое назначение Сары Диллистоун, которая руководит студией с февраля.",
+   "mechanics": "Адлер начинал в Endemol (Bar Wars, The Games), работал в Granada, Objective и Potato, был комиссионером развлекательных программ Channel 4. Сейчас он делает для канала реалити Derren Brown: Incognito. Студия стала возможна после того, как Media Act 2024 снял с Channel 4 статус чистого заказчика. Ассоциация продюсеров Pact оценивает возможные потери независимого сектора почти в £5 млрд.",
+   "why": "Британский вещатель начинает конкурировать за форматы с независимыми продюсерами, которых раньше только заказывал.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/adam-adler-joins-channel-4s-in-house-production-business-as-creative-director/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-07",
+   "issue": "i2026-10-30",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-07.webp",
+    "small": "img/n261030-07-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Премьера",
+   "country": "США",
+   "title": "Andrew Tate: Toxic Empire · ID",
+   "cover_word": "ID",
+   "headline": "Investigation Discovery выпустит четырёхсерийный док об Эндрю Тейте",
+   "dek": "Премьера — 25 ноября; в фильме бывшие последователи и партнёры рассказывают, как устроен бренд Тейта.",
+   "what": "Канал Investigation Discovery (принадлежит Skydance) заказал документальный сериал «Andrew Tate: Toxic Empire». Он проследит путь Тейта от бывшего кикбоксера до инфлюенсера и разберёт обвинения против его бизнеса.",
+   "mechanics": "Премьера 25 ноября — сразу два часа, остальные серии выйдут в следующие три недели. В июле Эндрю и Тристан Тейты были арестованы в Майами и сейчас оспаривают экстрадицию в Великобританию, где им предъявлены обвинения, в том числе в торговле людьми. В фильме выступают бывшие последователи и соратники.",
+   "why": "Тру-крайм о фигурах из соцсетей становится отдельным жанром: аудиторию приводит известность героя в интернете.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/andrew-tate-docuseries-investigation-discovery-1237207209/"
+    },
+    {
+     "label": "The Hollywood Reporter",
+     "url": "https://www.hollywoodreporter.com/tv/tv-news/andrew-tate-toxic-empire-docuseries-id-1236741879/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-08",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-08.webp",
+    "small": "img/n261030-08-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Премьера",
+   "country": "США",
+   "title": "When a Witness Recants · HBO",
+   "cover_word": "HBO",
+   "headline": "HBO покажет док Дон Портер о трёх подростках, отсидевших 36 лет за убийство, которого они не совершали",
+   "dek": "Фильм с исполнительным продюсером Та-Нехиси Коутсом выходит 17 ноября на HBO и HBO Max.",
+   "what": "HBO назначил на 17 ноября премьеру фильма Дон Портер «When a Witness Recants» — о самом долгом совокупном сроке по ошибочному приговору в истории США. В 1983 году в Балтиморе троих подростков осудили на пожизненное за убийство 14-летнего школьника.",
+   "mechanics": "Все трое провели в тюрьме 36 лет, пока их не освободили при участии прокурорского отдела по пересмотру приговоров. Исполнительный продюсер — писатель Та-Нехиси Коутс. Фильм показали на Sundance, на фестивале в Милл-Вэлли он получил приз зрителей.",
+   "why": "HBO продолжает брать фестивальную документалистику с общественной темой как событийный продукт для подписки.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/when-a-witness-recants-hbo-premiere-and-trailer-1237207991/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-09",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-09.webp",
+    "small": "img/n261030-09-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "doc",
+   "status": "Запуск",
+   "country": "Великобритания",
+   "title": "The News Movement · TNM Network",
+   "cover_word": "TNM",
+   "headline": "The News Movement будет лицензировать документалки независимых авторов и перемонтировать их для TikTok и Instagram",
+   "dek": "Издание для поколения Z открыло приём работ, а в 2027 году начнёт заказывать собственные доки.",
+   "what": "Лондонское издание The News Movement (принадлежит Caliber) запустило TNM Network. Сеть берёт расследования и документальные фильмы с YouTube и от независимых авторов и переупаковывает их в короткие ролики для TikTok и Instagram.",
+   "mechanics": "Авторы могут подавать работы через портал. Первые тайтлы — «Behind the Scenes of a Predator Sting» о самодеятельных ловцах преступников, «My AI Relationship», «Hobby Horsing», «Between Here & War». В 2027 году TNM начнёт заказывать оригинальные доки под эту сеть.",
+   "why": "Короткие соцсетевые версии становятся новым окном дистрибуции документалистики, особенно для авторов без доступа к телеканалам.",
+   "note": null,
+   "sources": [
+    {
+     "label": "C21",
+     "url": "https://www.c21media.net/news/news-movement-sets-up-creator-distribution-network-unveils-doc-slate/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-10",
+   "issue": "i2026-10-30",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-10.webp",
+    "small": "img/n261030-10-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Партнёрство",
+   "country": "Россия",
+   "title": "Wink × «WB Клуб»",
+   "cover_word": "Wink",
+   "headline": "Wildberries добавил в свою подписку «WB Клуб» онлайн-кинотеатр Wink и 130 ТВ-каналов",
+   "dek": "Позже подписчикам откроют расширенную версию с Wink Originals и проектами СТС. Свой онлайн-кинотеатр Wildberries, по данным «Коммерсанта», пока делать не будет.",
+   "what": "Подписчики «WB Клуба» получили доступ к основному каталогу фильмов и сериалов Wink («Ростелеком») и к 130 телеканалам. Функцию включают на странице подписки, в разделе преимуществ.",
+   "mechanics": "Позже станет доступна версия Wink «Всё в одном» с премьерами Wink Originals, проектами СТС и дополнительными коллекциями. Wink рассчитывает получить аудиторию маркетплейса. По данным «Коммерсанта», Wildberries пока отказался от планов создать собственный онлайн-кинотеатр.",
+   "why": "Видео в России всё чаще продают в пакете с ритейлом и банками, а не отдельной подпиской.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/wildberries-podklyuchil-wink-k-podpiske-wb-klub-88125.html"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-11",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-11.webp",
+    "small": "img/n261030-11-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Стратегия",
+   "country": "Россия",
+   "title": "Rutube · ИИ-агенты",
+   "cover_word": "API",
+   "headline": "Rutube откроет платформу для персональных ИИ-агентов: они смогут подключаться через API и собирать просмотр под зрителя",
+   "dek": "Уже больше половины просмотров на Rutube приходит из рекомендаций.",
+   "what": "Rutube планирует стать открытой платформой для нейроагентов. ИИ-агенты смогут подключаться к сервису через API и формировать для пользователя индивидуальные сценарии просмотра.",
+   "mechanics": "Директор по продукту Евгений Ильчук сказал на дискуссии в рамках «Креативного кода», что сегодня более 50% просмотра на Rutube формируют рекомендательные алгоритмы. Следующим этапом компания называет «агентоадаптивную» модель, в которой видеоплатформа становится точкой интеграции контента и агентов.",
+   "why": "Если зритель приходит через своего ИИ-агента, продюсерам придётся оптимизировать контент не только под алгоритм платформы, но и под чужих ассистентов.",
+   "note": null,
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/digital/2026/10/29/350638.phtml"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-12",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-12.webp",
+    "small": "img/n261030-12-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Отчётность",
+   "country": "США · Мексика",
+   "title": "TelevisaUnivision · III квартал",
+   "cover_word": "ViX",
+   "headline": "ЧМ-2026 и стриминг ViX вытянули квартал TelevisaUnivision, а реклама в США упала на 24%",
+   "dek": "Доходы от подписок и лицензий выросли на 30%, но компания показала операционный убыток $119 млн.",
+   "what": "Выручка TelevisaUnivision от подписок и лицензирования в третьем квартале выросла на 30%, до $640 млн. Около $90 млн дала сублицензия прав на ЧМ-2026 в испаноязычной Латинской Америке, остальной рост — премиум-тариф ViX.",
+   "mechanics": "Рекламная выручка снизилась на 5%, до $717 млн; $389 млн из неё пришлись на трансляции чемпионата мира в Мексике. В США реклама упала на 24%, до $328 млн, — в прошлом году базу подняли трансляции Золотого кубка. Операционный убыток — $119 млн, включая списание $372 млн по лицензиям на вещание.",
+   "why": "Большие спортивные права остаются главным драйвером для вещателей, но без них реклама на линейном ТВ быстро проседает.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/tv/news/televisaunivsion-q3-world-cup-mexico-streaming-1236933808/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-13",
+   "issue": "i2026-10-30",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-13.webp",
+    "small": "img/n261030-13-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "digital",
+   "status": "Продукт",
+   "country": "США",
+   "title": "Walmart · Vibe",
+   "cover_word": "CTV",
+   "headline": "Walmart открыл свои данные о покупках рекламодателям CTV-платформы Vibe",
+   "dek": "Малый и средний бизнес сможет таргетировать рекламу на ТВ по 3300 сегментам покупателей Walmart.",
+   "what": "С этой недели на Vibe, платформе самостоятельной закупки рекламы на connected TV, доступно более 3300 аудиторных сегментов Walmart. Их строят на данных о покупках на сайте и в магазинах сети.",
+   "mechanics": "Это первый крупный продукт после того, как Walmart купил Vibe в июне. Основные клиенты платформы — малый и средний бизнес. По словам Райана Мейуорда из Walmart Connect, они смогут планировать рекламу на ТВ по реальному покупательскому поведению.",
+   "why": "Ритейлеры выходят на рынок ТВ-рекламы со своими данными о покупках, которых нет у телеканалов.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Adweek",
+     "url": "https://www.adweek.com/media/months-after-buying-vibe-walmart-opens-shopper-audiences-to-ctv-advertisers/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-14",
+   "issue": "i2026-10-30",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-14.webp",
+    "small": "img/n261030-14-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Кампания",
+   "country": "Россия",
+   "title": "ALROSA Diamonds · «Бриллианты и мы»",
+   "cover_word": "Мини-фильм",
+   "headline": "ALROSA Diamonds сняла мини-фильм о взрослении героини, которую на всех этапах жизни сопровождают бриллианты",
+   "dek": "Сказочный сюжет с переходами между сном и реальностью продаёт идею украшений на каждый день.",
+   "what": "Ювелирный бренд ALROSA Diamonds выпустил кампанию «Бриллианты и мы» с мини-фильмом. Девочка просыпается среди плюшевых игрушек, взрослеет, и обычные ситуации вокруг неё приобретают сказочные черты; украшения с природными бриллиантами остаются частью её образа.",
+   "mechanics": "Сквозная деталь фильма — кольцо-солитер с жёлтым бриллиантом оттенка Light Fancy Yellow, которое героиня носит на разных этапах жизни. Задача кампании — показать бриллианты как украшение на каждый день, а не только для праздника.",
+   "why": "Люксовые бренды в России переходят от каталожной съёмки к короткому кино с сюжетом.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sostav",
+     "url": "https://www.sostav.ru/publication/brend-alrosa-diamonds-predstavil-mini-film-brillianty-i-my-88149.html"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-15",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-15.webp",
+    "small": "img/n261030-15-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Кампания",
+   "country": "Россия",
+   "title": "Сбер · 185 лет",
+   "cover_word": "185",
+   "headline": "Сбер к 185-летию переписал пословицы: в ролике «Не знать, как нельзя» разрешают ходить по траве",
+   "dek": "Манифест — часть юбилейной кампании «Сбер. Зелёный на все 185».",
+   "what": "Сбер выпустил рекламный манифест «Не знать, как нельзя» к 185-летию банка. Герои — люди, которые экспериментируют и меняют привычное. Авторы переосмысляют пословицы вроде «За двумя зайцами погонишься — ни одного не поймаешь» и «Лучше синица в руках».",
+   "mechanics": "Ролик — часть кампании «Сбер. Зелёный на все 185», которая объединяет рекламу, культурные и технологические проекты. Зелёный цвет в ней означает движение вперёд.",
+   "why": "Крупнейшие бренды страны делают юбилейные ролики как высказывание, а не как рассказ о продуктах.",
+   "note": null,
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/creative/2026/10/29/350641.phtml"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-16",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-16.webp",
+    "small": "img/n261030-16-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "branded",
+   "status": "Кампания",
+   "country": "США",
+   "title": "Warner Bros. · «Кот в шляпе»",
+   "cover_word": "Amazon",
+   "headline": "Warner Bros. продвигает «Кота в шляпе» мини-игрой в Amazon, навыками Alexa и модулями в Roblox",
+   "dek": "Персонажа во всех интерактивах озвучивает Билл Хейдер, голос кота в фильме.",
+   "what": "Перед ноябрьской премьерой новой экранизации Доктора Сьюза Warner Bros. запустила кампанию «Open to Fun» в рекламной экосистеме Amazon. Amazon Brand Innovation Lab сделала мобильную мини-игру, где нужно ловить персонажей Things.",
+   "mechanics": "У Alexa появились два навыка: ежедневные «Cat-ffirmations» и шутки от кота. На странице бренда в Amazon — эксклюзивные материалы, трейлеры и покупка билетов. Неделей раньше студия встроила модули «Кота в шляпе» в три популярные игры Roblox. Билл Хейдер озвучивает кота и в фильме, и в интерактивах.",
+   "why": "Студии продают кино через игры и голосовых ассистентов: семейной аудитории нужен повод провести время с героем до похода в кинотеатр.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Marketing Dive",
+     "url": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-17",
+   "issue": "i2026-10-30",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-17.webp",
+    "small": "img/n261030-17-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Кампания",
+   "country": "США",
+   "title": "Disney · TikTok Shop",
+   "cover_word": "TikTok Shop",
+   "headline": "Disney впервые проводит праздничную распродажу в TikTok Shop — вместе с 20+ брендами-лицензиатами",
+   "dek": "Super Brand Day в ноябре объединит Disney Store, Old Navy, Crocs, ColourPop и других.",
+   "what": "Disney впервые выводит праздничный маркетинг в TikTok Shop. В ноябре пройдёт Super Brand Day с подарками по мотивам Disney, Pixar, Marvel и Star Wars: дом, игрушки, косметика, одежда, аксессуары.",
+   "mechanics": "В акции участвуют Disney Store и более 20 брендов, включая Old Navy, Crocs и ColourPop. Формат Super Brand Day TikTok Shop запустил в 2024 году; раньше в нём участвовали e.l.f. Cosmetics, QVC и Maybelline. По прогнозу Emarketer, продажи TikTok Shop в США в 2026 году вырастут на 48%, до $23,4 млрд.",
+   "why": "Большие медиабренды продают в коротком видео напрямую: ролик в ленте становится витриной.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Marketing Dive",
+     "url": "https://www.marketingdive.com/news/disney-plans-tiktok-shop-holiday-experience-with-over-20-brands/873072/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-18",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-18.webp",
+    "small": "img/n261030-18-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "short",
+   "status": "Исследование",
+   "country": "Россия",
+   "title": "Rafinad · e-com блогеры",
+   "cover_word": "51%",
+   "headline": "Половина e-com блогеров перед осенним сезоном получает меньше рекламы, 44% потеряли доход",
+   "dek": "Главной площадкой заработка остаётся Telegram — для 72% авторов. 93% расширяются на новые площадки.",
+   "what": "По опросу Rafinad (Kokoc Group), 51% блогеров, которые зарабатывают на e-commerce, получают меньше рекламных предложений: у 28% снижение небольшое, у 23% — значительное. Доход за год упал у 44%, у 33% остался прежним.",
+   "mechanics": "Изменения платформ и регулирования повлияли на доход 70% авторов. Telegram остаётся основным источником заработка для 72%. 63% уже завели аккаунты на новых площадках, ещё 21% собираются.",
+   "why": "Бюджеты на авторскую рекламу в e-commerce сжимаются и дробятся по площадкам; брендам придётся искать авторов на нескольких платформах.",
+   "note": null,
+   "sources": [
+    {
+     "label": "AdIndex",
+     "url": "https://adindex.ru/news/tendencies/2026/10/29/350663.phtml"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-19",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-19.webp",
+    "small": "img/n261030-19-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Спонсорство",
+   "country": "США",
+   "title": "Good Good Golf · PGA Tour",
+   "cover_word": "$6 млн",
+   "headline": "PGA Tour нашёл спонсора, чтобы закрыть часть дыры в $6 млн после ухода YouTube-группы Good Good Golf",
+   "dek": "Турнир, который должен был стать первым PGA Tour под брендом креаторов, пройдёт в Остине 12–15 ноября.",
+   "what": "Креаторская группа Good Good Golf в августе отказалась от титульного спонсорства турнира PGA Tour в Остине после скандала с рекламой драйвера Callaway. Турнир переименовали в Austin Championship. Теперь презентующим спонсором на этот год стала налоговая компания Compliance Solutions.",
+   "mechanics": "Призовой фонд — $6 млн; PGA Tour обещал выплатить его полностью. По данным Front Office Sports, новый спонсор покрывает не всю сумму. Турнир пройдёт 12–15 ноября на Omni Barton Creek.",
+   "why": "История показывает предел союза креаторов и спортивных лиг: аудитория YouTube-группы быстро переносит скандал на партнёров.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Front Office Sports",
+     "url": "https://frontofficesports.com/article/pga-tour-fills-part-of-6m-void-left-by-good-good-split/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-20",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-20.webp",
+    "small": "img/n261030-20-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Запуск",
+   "country": "США",
+   "title": "Backstreet Gamers · GGL",
+   "cover_word": "GGL",
+   "headline": "Backstreet Boys завели киберспортивную команду в лиге знаменитостей Global Gaming League",
+   "dek": "Соперники — команды T-Pain, Ne-Yo, Хоуи Мэндела и Flavor Flav; игроков ищут через открытый отбор.",
+   "what": "Участники Backstreet Boys стали владельцами команды Backstreet Gamers в Global Gaming League. Группа показала логотип, маскота и объявила поиск игроков для состава.",
+   "mechanics": "В GGL команды знаменитостей играют в разные видеоигры, а матчи сочетают геймплей с музыкой, выступлениями звёзд и шоу. Среди владельцев других команд — T-Pain, Ne-Yo, Хоуи Мэндел, Flavor Flav, GilliedaKing и Wallo26. Основатель лиги — Клинтон Спаркс.",
+   "why": "Это киберспортивный аналог медиалиг: звёзды приводят фанатов, а лига продаёт шоу вокруг соревнования.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/digital/news/backstreet-boys-gamers-global-gaming-league-1236933707/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-21",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-21.webp",
+    "small": "img/n261030-21-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Расследование",
+   "country": "США",
+   "title": "Texas Tech · The Program",
+   "cover_word": "$999 999",
+   "headline": "Texas Tech сам заплатил Skydance $999 999 за съёмку докусериала о своей футбольной команде",
+   "dek": "Обычно платформы и студии платят за доступ к команде, здесь — наоборот.",
+   "what": "По документу, который получил Sportico, университет Texas Tech согласился заплатить Skydance Sports $999 999 за производство «The Program» — четырёхсерийного докусериала о футбольной команде с полным доступом. Сериал вышел 4 сентября на Paramount+.",
+   "mechanics": "По февральскому term sheet деньги платились тремя траншами, последний — к началу постпродакшена. Платежей от продюсера университету договор не предусматривает. Команда дала доступ к игрокам, тренерам, медблоку, тренировкам и переговорам по NIL, а также отдельный производственный офис. Сумма на доллар меньше миллиона позволила не переходить порог «крупного контракта».",
+   "why": "Спортивные докусериалы становятся маркетинговым инструментом самих команд, и те готовы за них платить.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Sportico",
+     "url": "https://www.sportico.com/leagues/college-sports/2026/texas-tech-football-documentary-series-agreement-skydance-1234956850/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-22",
+   "issue": "i2026-10-30",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-22.webp",
+    "small": "img/n261030-22-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "sport",
+   "status": "Эфир",
+   "country": "США",
+   "title": "Fox Sports · Боб Юкер",
+   "cover_word": "Brewers",
+   "headline": "Fox собрал из архивных записей репортаж покойного комментатора о первом титуле «Брюэрс» — без ИИ",
+   "dek": "Голос Боба Юкера, 54 года комментировавшего клуб на радио, наложили на хайлайты финала 2026 года.",
+   "what": "После первой в 57-летней истории победы «Милуоки Брюэрс» в Мировой серии Fox Sports показал минутный ролик: как бы этот титул прокомментировал Боб Юкер, умерший в 2025 году в 90 лет.",
+   "mechanics": "ИИ не использовали: редакторы подобрали реальные фразы Юкера из трансляций плей-офф последних лет и единственной прошлой Мировой серии клуба в 1982 году и смонтировали их с видео 2026 года.",
+   "why": "Архив комментаторов становится контентным активом: эмоциональный ролик можно собрать из того, что уже записано.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/fox-video-bob-uecker-milwaukee-brewers-world-series-1237208074/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-23",
+   "issue": "i2026-10-30",
+   "order": 4,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-23.webp",
+    "small": "img/n261030-23-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Анонс",
+   "country": "Франция · Япония",
+   "title": "Japan IP Market · Канны",
+   "cover_word": "Japan IP",
+   "headline": "Канский кинорынок и TIFFCOM снова проведут Japan IP Market — 14–15 мая 2027 года",
+   "dek": "Площадка для продажи японских прав иностранным продюсерам появилась в 2026-м и станет ежегодной.",
+   "what": "Marché du Film и TIFFCOM объявили, что второй год подряд вместе проведут в Каннах Japan IP Market — 14–15 мая 2027 года.",
+   "mechanics": "Первый Japan IP Market прошёл в мае 2026 года, когда Япония была почётной страной рынка. Японские правообладатели — Kadokawa, Shochiku, Toei — проводили питчи и встречи один на один с иностранными продюсерами. Среди спикеров был исполнительный продюсер «One Piece» Тэцу Фудзимура.",
+   "why": "Японское IP получает постоянную витрину на главном мировом кинорынке, а покупатели — понятную точку входа.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/cannes-marche-du-film-tiffcom-japan-ip-market-2027-1237207994/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-24",
+   "issue": "i2026-10-30",
+   "order": 1,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-24.webp",
+    "small": "img/n261030-24-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Анонс",
+   "country": "США",
+   "title": "Critics Choice Awards 2027",
+   "cover_word": "3 января",
+   "headline": "Церемонию Critics Choice 3 января проведёт Дженель Джеймс из «Начальной школы Эбботт»",
+   "dek": "Премия открывает сезон телевизионных наград и выйдет на E! и USA Network.",
+   "what": "Актриса и комик Дженель Джеймс, пятикратная номинантка на «Эмми», ведёт 32-ю церемонию Critics Choice Awards 3 января 2027 года. Она сменит Челси Хэндлер, которая вела премию несколько последних лет.",
+   "mechanics": "Церемонию покажут E! и USA Network, принадлежащие Versant. Critics Choice по традиции открывает сезон телевизионных премий.",
+   "why": "Ставка на комика из ситкома, а не на ведущую ток-шоу, — попытка сделать церемонию шоу, а не формальностью.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/janelle-james-host-32nd-annual-critics-choice-awards-1237208264/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-25",
+   "issue": "i2026-10-30",
+   "order": 2,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-25.webp",
+    "small": "img/n261030-25-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  },
+  {
+   "rubric": "event",
+   "status": "Фестиваль",
+   "country": "Польша",
+   "title": "Camerimage 2026",
+   "cover_word": "Camerimage",
+   "headline": "Фестиваль операторов Camerimage наградит Даррена Аронофски и клипмейкера Хайпа Уильямса",
+   "dek": "34-й фестиваль пройдёт в Торуни 7–14 ноября.",
+   "what": "Даррен Аронофски получит награду для режиссёров на 34-м фестивале Camerimage в Торуни. Почётную награду также вручат Хайпу Уильямсу, режиссёру музыкальных клипов.",
+   "mechanics": "Фестиваль посвящён операторскому искусству и пройдёт 7–14 ноября. Организаторы отметили многолетнюю работу Аронофски с оператором Мэтью Либатиком, который снял большинство его фильмов.",
+   "why": "Camerimage — главная встреча операторов и продакшенов, и клипмейкеры там уже на равных с кинорежиссёрами.",
+   "note": null,
+   "sources": [
+    {
+     "label": "Variety",
+     "url": "https://variety.com/2026/film/news/darren-aronofsky-directors-award-2026-camerimage-festival-1236934175/"
+    },
+    {
+     "label": "Deadline",
+     "url": "https://deadline.com/2026/10/camerimage-hype-williams-darren-aronofsky-honorary-awards-1237208131/"
+    }
+   ],
+   "date_iso": "2026-10-29",
+   "date_label": "29 октября",
+   "id": "n261030-26",
+   "issue": "i2026-10-30",
+   "order": 3,
+   "lead": false,
+   "found_late": false,
+   "terms": null,
+   "image": {
+    "url": "img/n261030-26.webp",
+    "small": "img/n261030-26-s.webp",
+    "credit": "Иллюстрация Fresh Juice",
+    "illustration": true
+   }
+  }
+ ]
+}
