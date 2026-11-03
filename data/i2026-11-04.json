@@ -1,0 +1,1960 @@
+{
+  "issue": {
+    "id": "i2026-11-04",
+    "date": "2026-11-04",
+    "mode": "daily",
+    "chip": "4 ноя",
+    "period_start": "2026-10-29T10:00:00+03:00",
+    "period_end": "2026-11-03T22:44:35+03:00",
+    "publication_window_end": "2026-11-04T10:00:00+03:00",
+    "generated_at": "2026-11-03T22:44:35+03:00",
+    "period_label": "Сборный выпуск 4 ноября: лучшее за перерыв после 29 октября, 10:00 мск. Поиск завершён 3 ноября в 22:44 мск",
+    "intro": "Fresh news Juice возвращается расширенным сборным выпуском: 36 историй из восьми рубрик. Netflix работает с игровой IP и интернет-комедией, бренды снимают собственные миры, а спортивные франшизы соединяют эфир, креаторов и события.",
+    "count": 36,
+    "lead_id": "n261104-01",
+    "agenda": [],
+    "coverage_note": "Проверены международные и российские ленты, оригинальные отраслевые сообщения и релизы компаний. Из 14 RSS-адресов TBI перенаправляет на посторонний сайт; доступные остальные ленты проверены. Поиск выполнен на русском и английском, дополнительно на французском, немецком, турецком и тайском; прочитаны испанские материалы PRODU. Глубина местного поиска Европы и Турции ограничена, полный охват не заявлен. Сверены 136 карточек архива сайта 27–30 октября, 4 карточки локального теста 3 ноября и 58 строк реестра; более ранний архив за 180 дней недоступен. По указанию Ильи последняя фактическая доставка в Telegram — 29 октября: недоставленные истории из 30 октября и локального теста разрешены к повторному включению с происхождением. У публикаций 29 октября без времени сохраняется пограничная неопределённость относительно 10:00 мск; точность указана в данных карточек. Все будущие премьеры и сделки отделены от уже состоявшихся событий. Полный релиз Youth недоступен, продление сверено по официальному пресс-центру и опубликованному заявлению. Видеоссылки ведут на материалы из первоисточников; воспроизведение всех внешних плееров не гарантируется.",
+    "revision": "v2",
+    "revised_at": "2026-11-03T23:09:08+03:00",
+    "approval_version": "v2"
+  },
+  "stories": [
+    {
+      "id": "n261104-01",
+      "issue": "i2026-11-04",
+      "rubric": "scripted",
+      "order": 1,
+      "lead": true,
+      "status": "Разработка",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США / Южная Корея",
+      "title": "Netflix разрабатывает сериал по PUBG с Дональдом Гловером",
+      "headline": "Netflix разрабатывает сериал по PUBG с Дональдом Гловером",
+      "cover_word": "ИГРА СТАНЕТ СЕРИАЛОМ",
+      "dek": "Гловер заявлен режиссёром, сценаристом, исполнительным продюсером и актёром будущей игровой экранизации.",
+      "what": "Netflix и KRAFTON работают над live-action-сериалом по PUBG. Сценарий вместе с Дональдом пишет Стивен Гловер; со стороны владельца игры участвует продакшен LV3H.",
+      "mechanics": "В основе — игровая вселенная battle royale: участники оказываются в одной зоне и борются за выживание. Каким именно будет сюжет сериала и насколько буквально он перенесёт правила игры, пока не раскрыто.",
+      "why": "У проекта уже есть автор с выраженным собственным стилем и владелец исходной IP. Следующий существенный шаг — подтверждённый заказ и переход к производству.",
+      "note": "Это разработка. Количество эпизодов, бюджет, дата съёмок и премьеры не объявлены.",
+      "sources": [
+        {
+          "label": "KRAFTON — официальный релиз, 30 октября",
+          "url": "https://www.gamespress.com/en-US/KRAFTON-ANNOUNCES-PUBG-LIVE-ACTION-SERIES-IN-DEVELOPMENT-AT-NETFLIX"
+        },
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-01.webp",
+        "small": "img/n261104-01-s.webp",
+        "credit": "Deadline",
+        "link": "https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/10/donald-glover-pubg.jpg?w=1024",
+        "alt": "'PUBG': Donald Glover Stars In Live-Action Series In Works At Netflix",
+        "caption": "Коллаж из материала Deadline: Дональд Гловер и промо PUBG. Кадров будущего сериала пока нет.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "fc2b8c30db12211b45ce4a2a2bbaf20dc1084507b6313516c1038c1e603a2741"
+      },
+      "found_late": false,
+      "event_key": "n261030-02|scripted|2026-10-29",
+      "first_published_at": "2026-10-29T17:30:02+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "У проекта уже есть автор с выраженным собственным стилем и владелец исходной IP. Следующий существенный шаг — подтверждённый заказ и переход к производству.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-02",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-02",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-02",
+      "issue": "i2026-11-04",
+      "rubric": "scripted",
+      "order": 2,
+      "lead": false,
+      "status": "Производство",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Индия",
+      "title": "В Мумбаи начались съёмки Beta Builder с использованием ИИ",
+      "headline": "В Мумбаи начались съёмки Beta Builder с использованием ИИ",
+      "cover_word": "ИИ НА СЪЁМКАХ",
+      "dek": "Abundantia и InVideo перевели первый совместный полнометражный проект из разработки в съёмочный этап.",
+      "what": "По сообщению Deadline, 29 октября стартовало производство Beta Builder. Главные роли играют Mayur More и Ashlesha Thakur; режиссёр — Hridaye Nagpal.",
+      "mechanics": "Фильм соединяет работу с живыми актёрами и инструменты ИИ. Герой — самоучка из Дхарави, который осваивает архитектуру и виртуальную реальность; технологический подход связан и с темой истории.",
+      "why": "Появился конкретный производственный кейс внутри ранее объявленного партнёрства AiOn и InVideo. Его результат можно будет оценивать по готовому фильму, а не по обещаниям технологии.",
+      "note": "План пяти фильмов за три года объявляли раньше. Заявленные вложения в слейт нельзя считать бюджетом этой картины; экономия пока не доказана.",
+      "sources": [
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-02.webp",
+        "small": "img/n261104-02-s.webp",
+        "credit": "Deadline",
+        "link": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png?w=1024",
+        "alt": "Mayur More & Ashlesha Thakur To Lead AI Hybrid Movie 'Beta Builder'",
+        "caption": "Промо-фотографии исполнителей главных ролей из материала Deadline; это не кадр готового фильма.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "975b4bc4ae685906038be0ec4dea5b290205adf18adc6aa5d2153bf0d0a171f1"
+      },
+      "found_late": false,
+      "event_key": "n261030-04|scripted|2026-10-29",
+      "first_published_at": "2026-10-29T09:43:08+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Появился конкретный производственный кейс внутри ранее объявленного партнёрства AiOn и InVideo. Его результат можно будет оценивать по готовому фильму, а не по обещаниям технологии.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-04",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-04",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-03",
+      "issue": "i2026-11-04",
+      "rubric": "scripted",
+      "order": 3,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "США / Эквадор",
+      "title": "Pure Flix Familia запустил канал микродрам Novelitas",
+      "headline": "Pure Flix Familia запустил канал микродрам Novelitas",
+      "cover_word": "МИКРОДРАМЫ ДЛЯ СЕМЬИ",
+      "dek": "Внутри сервиса для латиноамериканской аудитории появилась отдельная линейка вертикальных историй о семье и вере.",
+      "what": "Great American Media объявила запуск Novelitas с тремя проектами Minivela: Alquilé Un Novio Para Navidad, Cholita Takes L.A. и Sabrina.",
+      "mechanics": "Стартовая рождественская романтическая комедия снята в Эквадоре вместе с Red Minds Films. Вертикальные сериалы доступны внутри подписного Pure Flix Familia.",
+      "why": "Микродрама получает чёткую аудиторию и редакционный профиль. Вертикальные истории встроены в тематический стриминг с подпиской.",
+      "note": "Состав и позиционирование — данные компании. Показатели просмотра, бюджеты и финансовые результаты пока не раскрыты.",
+      "sources": [
+        {
+          "label": "Great American Media — релиз на Standard Newswire",
+          "url": "https://standardnewswire.com/pure-flix-familia-launches-novelitas-a-vertical-microdrama-channel-celebrating-faith-family-and-latino-culture/"
+        },
+        {
+          "label": "Испанская версия релиза — Noticias Newswire",
+          "url": "https://www.lanota-latina.com/noticias-newswire/?l=pure-flix-familia-lanza-novelitas"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-03.webp",
+        "small": "img/n261104-03-s.webp",
+        "credit": "Pure Flix Familia",
+        "link": "https://standardnewswire.com/pure-flix-familia-launches-novelitas-a-vertical-microdrama-channel-celebrating-faith-family-and-latino-culture/",
+        "source_url": "https://standardnewswire.com/wp-content/uploads/Novelitas-Pure-Flix-Familia-Press-Release-Image-2-English-scaled-1.jpg",
+        "alt": "Pure Flix Familia Launches Novelitas™, a Vertical Microdrama Channel Celebrating Faith, Family, and Latino Culture - Standard Newswire",
+        "caption": "Официальные постеры микродрам Novelitas — Pure Flix Familia.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "512cd0bf22591bc2fa0ebab4f57e2527c258b6afb0700aee4b0379a947cbd509"
+      },
+      "found_late": false,
+      "event_key": "pure-flix-familia|novelitas-launch|us-latino|2026-11-02",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Микродрама получает чёткую аудиторию и редакционный профиль. Вертикальные истории встроены в тематический стриминг с подпиской.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261103-03",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-11-03",
+      "source_story_id": "n261103-03",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-04",
+      "issue": "i2026-11-04",
+      "rubric": "scripted",
+      "order": 4,
+      "lead": false,
+      "status": "Продление",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "Великобритания / США",
+      "title": "HBO продлил комедию Шэрон Хорган Youth на второй сезон",
+      "headline": "HBO продлил комедию Шэрон Хорган Youth на второй сезон",
+      "cover_word": "СВИДАНИЯ ПРОДОЛЖАЮТСЯ",
+      "dek": "История о свиданиях после пятидесяти и семье, которая требует внимания одновременно с личной жизнью, получит продолжение.",
+      "what": "HBO объявил о втором сезоне Youth 2 ноября. Хорган остаётся центральным автором и исполнительницей главной роли; в актёрском составе первого сезона — Rupert Friend, Sharlene Whyte и Aran Murphy.",
+      "mechanics": "Главная героиня Алекс после развода ищет новые отношения, одновременно заботясь о родителях и взрослом сыне. Комедия строится на столкновении этих обязанностей с её собственными желаниями.",
+      "why": "Продление подтверждает продолжение истории с героиней среднего возраста в центре романтической комедии. Новый сезон уже заказан, но его производственные параметры ещё не раскрыты.",
+      "note": "Продление подтверждено заголовком официального пресс-центра HBO и опубликованным заявлением Хорган. Полная страница релиза HBO возвращает 403; дату премьеры и число серий второго сезона не утверждаем.",
+      "sources": [
+        {
+          "label": "HBO — пресс-центр, объявление 2 ноября",
+          "url": "https://press.wbd.com/us"
+        },
+        {
+          "label": "UPI — заявление о продлении",
+          "url": "https://www.upi.com/Entertainment_News/TV/2026/11/03/hbo-renews-sharon-horgan-youth/2891793698673/"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "found_late": false,
+      "event_key": "youth|scripted|2026-11-02",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Продление подтверждает продолжение истории с героиней среднего возраста в центре романтической комедии. Новый сезон уже заказан, но его производственные параметры ещё не раскрыты.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "youth",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-05",
+      "issue": "i2026-11-04",
+      "rubric": "unscripted",
+      "order": 5,
+      "lead": false,
+      "status": "Намерение",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США / Австралия",
+      "title": "BBC Studios ищет возможность перевезти The Next Pro в Лос-Анджелес",
+      "headline": "BBC Studios ищет возможность перевезти The Next Pro в Лос-Анджелес",
+      "cover_word": "ПРИЗ — МЕСТО В ШОУ",
+      "dek": "Производитель подал заявку на калифорнийский налоговый стимул для возможного второго сезона спин-оффа Dancing with the Stars.",
+      "what": "Deadline сообщает о плане перенести съёмки из Брисбена в Лос-Анджелес. Окончательное решение зависит от финансирования, бюджета и переговоров с ABC.",
+      "mechanics": "В конкурсе двенадцать профессиональных танцоров живут вместе и борются за место среди профессиональных партнёров в Dancing with the Stars. Ведущий — Robert Irwin, среди судей — Mark и Shirley Ballas.",
+      "why": "Приз встроен в другой действующий телевизионный формат: реалити одновременно развлекает зрителя и отбирает нового участника основной франшизы.",
+      "note": "По состоянию на источник второй сезон официально не продлён. Подача заявки не означает получения льготы или подтверждённого переезда.",
+      "sources": [
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/10/dancing-with-the-star-the-next-pro-la-production-move-1237207698/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-05.webp",
+        "small": "img/n261104-05-s.webp",
+        "credit": "ABC / Deadline",
+        "link": "https://deadline.com/2026/10/dancing-with-the-star-the-next-pro-la-production-move-1237207698/",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/10/181642_8667.jpg?w=1024",
+        "alt": "'Dancing With The Stars’ Spinoff ‘The Next Pro’ Eyes Move To Los Angeles",
+        "caption": "Материал из источника: ABC / Deadline.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "8980549ce11e15eef0cf30157872f745af98bd1680349e87f00871471e268dbe"
+      },
+      "found_late": false,
+      "event_key": "n261030-06|unscripted|2026-10-29",
+      "first_published_at": "2026-10-29T19:01:00+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Приз встроен в другой действующий телевизионный формат: реалити одновременно развлекает зрителя и отбирает нового участника основной франшизы.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-06",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-06",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-06",
+      "issue": "i2026-11-04",
+      "rubric": "unscripted",
+      "order": 6,
+      "lead": false,
+      "status": "Назначение",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Великобритания",
+      "title": "Автор The Cube возглавил креатив собственной студии Channel 4",
+      "headline": "Автор The Cube возглавил креатив собственной студии Channel 4",
+      "cover_word": "КАНАЛ СОЗДАЁТ ФОРМАТЫ",
+      "dek": "Adam Adler стал первым назначением Sarah Dillistone в новой производственной структуре телеканала.",
+      "what": "Channel 4 объявил, что Adler займёт позицию Creative Director. Его опыт включает игровые форматы, реалити и проекты Derren Brown.",
+      "mechanics": "Студия будет разрабатывать собственную интеллектуальную собственность. По заявлению канала, её работа организационно отделена от подразделения, которое заказывает программы у производителей.",
+      "why": "Это конкретный кадровый шаг в переходе вещателя к созданию собственных форматов. У студии появляется руководитель, специализирующийся на правилах игры и телевизионной интриге.",
+      "note": "Новые названия, покупатели и объёмы производства в этом объявлении не раскрыты.",
+      "sources": [
+        {
+          "label": "Channel 4 — официальное назначение",
+          "url": "https://www.channel4.com/press/news/adam-adler-joins-channel-4s-house-production-business-creative-director"
+        },
+        {
+          "label": "C21",
+          "url": "https://www.c21media.net/news/adam-adler-joins-channel-4s-in-house-production-business-as-creative-director/"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "found_late": false,
+      "event_key": "n261030-07|unscripted|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Это конкретный кадровый шаг в переходе вещателя к созданию собственных форматов. У студии появляется руководитель, специализирующийся на правилах игры и телевизионной интриге.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-07",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-07",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-07",
+      "issue": "i2026-11-04",
+      "rubric": "unscripted",
+      "order": 7,
+      "lead": false,
+      "status": "Разработка",
+      "date_iso": "2026-11-03",
+      "date_label": "3 ноября 2026",
+      "country": "Германия / Турция",
+      "title": "The Greatest Duo готовят к немецкой адаптации",
+      "headline": "The Greatest Duo готовят к немецкой адаптации",
+      "cover_word": "ПАРА НА ВЫБОР",
+      "dek": "Global Agency объявила о передаче немецких прав BriskPace Unlimited. Заказчик эфира пока не назван.",
+      "what": "По сообщению C21Media, немецкую версию музыкального конкурса разрабатывает BriskPace Unlimited; продюсером заявлен Sebastian Wimmer.",
+      "mechanics": "Участники соревнуются дуэтами, но получают индивидуальные оценки и принимают решения о партнёрах. Музыкальный результат связан с тем, сохранится ли сама пара.",
+      "why": "Интрига строится одновременно на исполнении и отношениях: смена партнёра меняет ход конкурса. Это новая территория для формата после итальянского соглашения.",
+      "note": "Сделка описана в C21Media и Señal News с заявлениями сторон; отдельный первичный релиз о Германии не найден. Это разработка адаптации, а не подтверждённый заказ телеканала. Количество серий немецкой версии не утверждаем.",
+      "sources": [
+        {
+          "label": "C21Media — сообщение о сделке",
+          "url": "https://www.c21media.net/news/singing-competition-the-greatest-duo-heads-to-germany-with-briskpace-unlimited/"
+        },
+        {
+          "label": "Señal News — заявления сторон",
+          "url": "https://senalnews.com/en/content/global-agency-sold-the-greatest-duo-to-briskpace-unlimited-for-german-version"
+        },
+        {
+          "label": "Global Agency — происхождение формата, 11 октября",
+          "url": "https://www.theglobalagency.tv/global-agency-hosts-exclusive-world-premiere-for-its-new-format-in-cannes"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-07.webp",
+        "small": "img/n261104-07-s.webp",
+        "credit": "Global Agency / C21",
+        "link": "https://www.c21media.net/news/singing-competition-the-greatest-duo-heads-to-germany-with-briskpace-unlimited/",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/the-greatest-duo-artwork-logosuz.jpg",
+        "alt": "Singing competition The Greatest Duo heads to Germany with BriskPace Unlimited | News | C21Media",
+        "caption": "Промо-арт формата The Greatest Duo — Global Agency / C21.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "19959ae4f641bf9ab34f107ec39004bbbce37c412e6bb5d280d45f7d633bba98"
+      },
+      "found_late": false,
+      "event_key": "greatest-duo|german-adaptation-rights|germany|2026-11-03",
+      "first_published_at": "2026-11-03T09:07:34+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Интрига строится одновременно на исполнении и отношениях: смена партнёра меняет ход конкурса. Это новая территория для формата после итальянского соглашения.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261103-01",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-11-03",
+      "source_story_id": "n261103-01",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-08",
+      "issue": "i2026-11-04",
+      "rubric": "unscripted",
+      "order": 8,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Великобритания",
+      "title": "Hearst Canvas превращает помощь малому бизнесу в Pitch, Please!",
+      "headline": "Hearst Canvas превращает помощь малому бизнесу в Pitch, Please!",
+      "cover_word": "ПИТЧ С УЛИЦЫ",
+      "dek": "Два ведущих, одна настоящая проблема предпринимателя и два конкурирующих питча — в еженедельном YouTube-шоу.",
+      "what": "Hearst Canvas и Objekt представили первый собственный программный бренд. В объявлении 29 октября компания сообщила о выходе второго эпизода с King Kenny и Adeola Patronne.",
+      "mechanics": "Ведущие получают задачу от малого бизнеса, выходят на улицу за мнениями прохожих и превращают ответы в два разных решения. Пятнадцатиминутный выпуск сначала появляется на YouTube, затем контент распространяется в других соцсетях.",
+      "why": "Реальный предпринимательский запрос становится поводом для импровизации и соревнования. У каждого выпуска есть повторяемая структура, а комический материал рождается из общения с людьми.",
+      "note": "Это объявление бренда и второго эпизода, а не утверждение, что первая серия вышла 29 октября.",
+      "sources": [
+        {
+          "label": "HEARST CANVAS GETS DOWN TO BUSINESS WITH FIRST ORIGINAL BRAND PITCH, PLEASE!",
+          "url": "https://www.hearstnetworks.com/news/uk/hearst-canvas-gets-down-business-first-original-brand-pitch-please"
+        }
+      ],
+      "video": {
+        "label": "Официальный канал Pitch, Please!",
+        "url": "https://www.youtube.com/@pitchplease_tv"
+      },
+      "image": {
+        "url": "img/n261104-08.webp",
+        "small": "img/n261104-08-s.webp",
+        "credit": "Hearst Canvas",
+        "link": "https://www.hearstnetworks.com/news/uk/hearst-canvas-gets-down-business-first-original-brand-pitch-please",
+        "source_url": "https://www.hearstnetworks.com/s3/files/styles/social_card/public/2026-10/PITCH%20PLEASE%20KING%20KENNY%20EP%202.jpg?itok=5wLiK7Ti",
+        "alt": "HEARST CANVAS GETS DOWN TO BUSINESS WITH FIRST ORIGINAL BRAND PITCH, PLEASE! | Hearst Networks EMEA",
+        "caption": "Материал из источника: Hearst Canvas.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "a4bd005bb9b5f53a83cd2a0d915ea70586355d8bf1022678a63767ce1bc406e7"
+      },
+      "found_late": false,
+      "event_key": "extra-02|unscripted|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Реальный предпринимательский запрос становится поводом для импровизации и соревнования. У каждого выпуска есть повторяемая структура, а комический материал рождается из общения с людьми.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "extra-02",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-09",
+      "issue": "i2026-11-04",
+      "rubric": "unscripted",
+      "order": 9,
+      "lead": false,
+      "status": "Продление",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "Великобритания",
+      "title": "More4 заказал сразу два новых сезона Our Farm Next Door",
+      "headline": "More4 заказал сразу два новых сезона Our Farm Next Door",
+      "cover_word": "ДОМ НА ДВА СЕЗОНА",
+      "dek": "Семья Оуэн продолжит восстанавливать старую ферму в Йоркшире ещё десять часовых эпизодов.",
+      "what": "Channel 4 подтвердил пятый и шестой сезоны Our Farm Next Door: Amanda, Clive & Kids. Wise Owl Films произведёт две серии по пять выпусков.",
+      "mechanics": "Amanda, Clive и их девять детей приводят в порядок заброшенный фермерский дом Anty John’s. Истории ремонта соединены с сельским календарём, жизнью большой семьи и прошлым этого места.",
+      "why": "Долгий реальный проект даёт программе естественное продолжение: прогресс дома и семейные изменения развиваются одновременно. Двойной заказ позволяет сохранять наблюдение за героями на длинной дистанции.",
+      "note": "Указан подтверждённый заказ: 2 × 5 × 60 минут. Даты новых сезонов в релизе не названы.",
+      "sources": [
+        {
+          "label": "Channel 4 — официальный заказ сезонов",
+          "url": "https://www.channel4.com/press/news/our-farm-next-door-amanda-clive-and-kids-renewed-two-more-series-more4"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-09.webp",
+        "small": "img/n261104-09-s.webp",
+        "credit": "Channel 4 / More4",
+        "link": "https://www.channel4.com/press/news/our-farm-next-door-amanda-clive-and-kids-renewed-two-more-series-more4",
+        "source_url": "https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2026-11/72dpi_S4_Our_Farm_Next_Door_S4_1024x730.jpg?h=6f2e5a3f&itok=SrZccaxI",
+        "alt": "More4 заказал сразу два новых сезона Our Farm Next Door",
+        "caption": "Материал из источника: Channel 4 / More4.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "f30f3371987c7876062f6f3b82d720e33acc39884a0a7d3500b128a2ea085c6f"
+      },
+      "found_late": false,
+      "event_key": "Channel 4 — официальный заказ сезонов|unscripted|2026-11-02",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Долгий реальный проект даёт программе естественное продолжение: прогресс дома и семейные изменения развиваются одновременно. Двойной заказ позволяет сохранять наблюдение за героями на длинной дистанции.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "Channel 4 — официальный заказ сезонов",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-10",
+      "issue": "i2026-11-04",
+      "rubric": "doc",
+      "order": 10,
+      "lead": false,
+      "status": "Заказ",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "Investigation Discovery заказал Andrew Tate: Toxic Empire",
+      "headline": "Investigation Discovery заказал Andrew Tate: Toxic Empire",
+      "cover_word": "УСТРОЙСТВО ВЛИЯНИЯ",
+      "dek": "Четырёхчастный документальный проект разбирает устройство медийного бренда и сообщества его последователей.",
+      "what": "По сообщению Deadline, премьера назначена на 25 ноября с двухчасовым стартом. Режиссёры и продюсеры — Julian P. Hobbs, Elli Hakami и Adrian Murray.",
+      "mechanics": "Авторы используют интервью с бывшими последователями и людьми из окружения Тейта, чтобы исследовать его путь к известности и бизнес вокруг публичного образа.",
+      "why": "В центре — устройство влияния интернет-персонажа и отношений внутри его аудитории. Для документального телевидения это история о том, как цифровая популярность превращается в организованное сообщество.",
+      "note": "Дата и заказ атрибутированы Deadline. Обвинения и оценки участников будущего фильма не выдаются за установленные факты.",
+      "sources": [
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/10/andrew-tate-docuseries-investigation-discovery-1237207209/"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "found_late": false,
+      "event_key": "n261030-08|doc|2026-10-29",
+      "first_published_at": "2026-10-29T17:00:00+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "В центре — устройство влияния интернет-персонажа и отношений внутри его аудитории. Для документального телевидения это история о том, как цифровая популярность превращается в организованное сообщество.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-08",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-08",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-11",
+      "issue": "i2026-11-04",
+      "rubric": "doc",
+      "order": 11,
+      "lead": false,
+      "status": "Анонс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "HBO назначил премьеру When a Witness Recants на 17 ноября",
+      "headline": "HBO назначил премьеру When a Witness Recants на 17 ноября",
+      "cover_word": "ПОСЛЕ ТРИДЦАТИ ШЕСТИ ЛЕТ",
+      "dek": "Документальный фильм Дон Портер о трёх мужчинах, освобождённых после 36 лет заключения, получил дату телеэфира и трейлер.",
+      "what": "Фильм выйдет на HBO и HBO Max. Исполнительный продюсер — Ta-Nehisi Coates; фестивальная премьера состоялась раньше на Sundance.",
+      "mechanics": "Интервью с участниками дела соединены с анимацией и записями показаний 2022 года. История прослеживает последствия ложных свидетельств и встречу освобождённых мужчин с человеком, отказавшимся от прежних показаний.",
+      "why": "Документальный рассказ сосредоточен на восстановлении жизни после освобождения и ответственности свидетелей. Новое событие для рынка — подтверждённый выход фильма к широкой аудитории.",
+      "note": "Не новый заказ и не начало съёмок: в этом окне объявлены эфирная премьера и трейлер.",
+      "sources": [
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/10/when-a-witness-recants-hbo-premiere-and-trailer-1237207991/"
+        }
+      ],
+      "video": {
+        "label": "Трейлер, встроенный в публикацию Deadline",
+        "url": "https://www.youtube.com/watch?v=CV04IYt-n_g"
+      },
+      "image": {
+        "url": "img/n261104-11.webp",
+        "small": "img/n261104-11-s.webp",
+        "credit": "HBO / Deadline",
+        "link": "https://deadline.com/2026/10/when-a-witness-recants-hbo-premiere-and-trailer-1237207991/",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/10/When-a-Witness-recants-trio.png?w=1024",
+        "alt": "'When A Witness Recants' To Premiere On HBO In November",
+        "caption": "Материал из источника: HBO / Deadline.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "025522147fff878d4425c774d5fce5c2c93055075b3f6644e4331168093ac8a3"
+      },
+      "found_late": false,
+      "event_key": "n261030-09|doc|2026-10-29",
+      "first_published_at": "2026-10-29T16:00:00+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Документальный рассказ сосредоточен на восстановлении жизни после освобождения и ответственности свидетелей. Новое событие для рынка — подтверждённый выход фильма к широкой аудитории.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-09",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-09",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-12",
+      "issue": "i2026-11-04",
+      "rubric": "doc",
+      "order": 12,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Великобритания / международный рынок",
+      "title": "The News Movement открыл сеть для лицензирования авторских документалок",
+      "headline": "The News Movement открыл сеть для лицензирования авторских документалок",
+      "cover_word": "ДОКУМЕНТАЛКА В НОВОЙ ЛЕНТЕ",
+      "dek": "TNM Network покупает права на независимые фактические истории и адаптирует их для распространения в соцсетях.",
+      "what": "Компания объявила о запуске лицензионного направления и портала приёма заявок. Среди первых названий — My AI Relationship, Hobby Horsing и Between Here & War.",
+      "mechanics": "Исходные документальные работы, в том числе созданные для YouTube, превращаются в короткие материалы и кампании для TikTok и Instagram. TNM заявляет редакционную работу над адаптацией и расширением дистрибуции.",
+      "why": "У независимого автора появляется дополнительный покупатель прав после создания длинного фильма. Предмет сделки — существующая история и возможность переработать её под другую аудиторию.",
+      "note": "Собственные документальные заказы обозначены как следующий этап на 2027 год. Цены лицензий и условия эксклюзивности не раскрыты; источник — C21 с заявлениями компании.",
+      "sources": [
+        {
+          "label": "C21",
+          "url": "https://www.c21media.net/news/news-movement-sets-up-creator-distribution-network-unveils-doc-slate/"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "found_late": false,
+      "event_key": "n261030-10|doc|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "У независимого автора появляется дополнительный покупатель прав после создания длинного фильма. Предмет сделки — существующая история и возможность переработать её под другую аудиторию.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-10",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-10",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-13",
+      "issue": "i2026-11-04",
+      "rubric": "doc",
+      "order": 13,
+      "lead": false,
+      "status": "Премьера",
+      "date_iso": "2026-10-30",
+      "date_label": "30 октября 2026",
+      "country": "США",
+      "title": "PBS выпустил Coming Home — историю возвращения земли, снятую за 14 лет",
+      "headline": "PBS выпустил Coming Home — историю возвращения земли, снятую за 14 лет",
+      "cover_word": "ЧЕТЫРНАДЦАТЬ ЛЕТ НАБЛЮДЕНИЯ",
+      "dek": "Девяностоминутный фильм о народе кашайя получил национальный эфир 2 ноября и одновременный стриминг.",
+      "what": "PBS объявил дату выхода 30 октября. Проект создан J. Mitchell Johnson, Daniel Golding и Bob Elfstrom при участии Vision Maker Media.",
+      "mechanics": "Современная линия возвращения родовой земли на побережье Сономы идёт параллельно исторической. Наблюдение за героями соединено с фотографиями, архивами, анимацией и реконструкциями; внешнего рассказчика нет.",
+      "why": "Длительное наблюдение позволяет показать процесс с реальными изменениями, а исторические материалы объясняют его масштаб. Голос сообщества остаётся главным способом рассказа.",
+      "note": "В окне выпуска находится объявление PBS и эфирная премьера, а не старт многолетнего производства.",
+      "sources": [
+        {
+          "label": "PBS Announces New Documentary, COMING HOME: FROM SHADOWLAND TO SPIRITWORLD",
+          "url": "https://www.pbs.org/about/about-pbs/blogs/news/pbs-announces-new-documentary-coming-home-from-shadowland-to-spiritworld/"
+        }
+      ],
+      "video": {
+        "label": "Официальный трейлер PBS",
+        "url": "https://www.pbs.org/video/trailer-ypu2qx/"
+      },
+      "image": {
+        "url": "img/n261104-13.webp",
+        "small": "img/n261104-13-s.webp",
+        "credit": "PBS",
+        "link": "https://www.pbs.org/about/about-pbs/blogs/news/pbs-announces-new-documentary-coming-home-from-shadowland-to-spiritworld/",
+        "source_url": "https://image.pbs.org/bento3-prod/pbsabout-bento-live-pbs/1d346b8f52_coming%20home%20press%20release%20pic.png",
+        "alt": "PBS Announces New Documentary, COMING HOME: FROM SHADOWLAND TO SPIRITWORLD",
+        "caption": "Изображение к документальному фильму Coming Home из пресс-релиза PBS.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "ee69d66f874409cb7ac56fb063f2466cc58a6adebdc88a6973dfd157954f18f9"
+      },
+      "found_late": false,
+      "event_key": "extra-03|doc|2026-10-30",
+      "first_published_at": "2026-10-30",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Длительное наблюдение позволяет показать процесс с реальными изменениями, а исторические материалы объясняют его масштаб. Голос сообщества остаётся главным способом рассказа.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "extra-03",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-14",
+      "issue": "i2026-11-04",
+      "rubric": "digital",
+      "order": 14,
+      "lead": false,
+      "status": "Сделка",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "США",
+      "title": "Netflix заключил многолетнюю сделку с Druski",
+      "headline": "Netflix заключил многолетнюю сделку с Druski",
+      "cover_word": "ИЗ СКЕТЧА В СЕРИАЛ",
+      "dek": "Netflix и 4LIFERS Entertainment договорились об эксклюзивном контенте. Первым проектом станет Collect & Praise.",
+      "what": "Netflix объявил партнёрство с Druski; премьеру новой полусценарной комедии назначили на 1 декабря.",
+      "mechanics": "Вирусный персонаж пастора получает собственный сериал. Параллельно Netflix лицензирует часть прежнего каталога автора, включая Coulda Been Love и Coulda Been Records Auditions.",
+      "why": "Платформа приобретает и будущие проекты автора, и уже существующую библиотеку. Сделка связывает узнаваемого интернет-персонажа с производством новых длинных историй.",
+      "note": "Стоимость и точная продолжительность соглашения не раскрыты. Речь о новом эксклюзивном контенте и части прежнего каталога автора.",
+      "sources": [
+        {
+          "label": "Netflix Tudum — официальное объявление",
+          "url": "https://www.netflix.com/tudum/articles/druski-netflix-deal-collect-and-praise-series-news"
+        },
+        {
+          "label": "C21Media — 2 ноября, 20:29 UTC",
+          "url": "https://www.c21media.net/news/netflix-inks-development-production-pact-with-us-comedian-druski/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-14.webp",
+        "small": "img/n261104-14-s.webp",
+        "credit": "Netflix / Tudum",
+        "link": "https://www.netflix.com/tudum/articles/druski-netflix-deal-collect-and-praise-series-news",
+        "source_url": "https://dnm.nflximg.net/api/v6/s0XAg4q_jvYbSSbLvySyUsliNSg/AAAAQYzQtndMyXJY9XBvGwmMDzW-JXFXjkGJhzlken9KwV9EYtoeM5ceYyLOxvfOmJB0ZlLe3g3fKV2iqnbyja5ZYQ04URvf8BDjfcHz3hW0IwCkTPU9_WMldXzj-6wNaPTsKG93p3qyVEYKLtG3Tu8xdPdt2nE.jpg?r=96c",
+        "alt": "Druski Netflix Deal: New Comedy Series Collect & Praise - Netflix Tudum",
+        "caption": "Материал из источника: Netflix / Tudum.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "3454f38870db5c50293e5cf8a1594a49f361d2e00404c26e4cc529d93e48a5b6"
+      },
+      "found_late": false,
+      "event_key": "druski-netflix|multiyear-production-license|global|2026-11-02",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Платформа приобретает и будущие проекты автора, и уже существующую библиотеку. Сделка связывает узнаваемого интернет-персонажа с производством новых длинных историй.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261103-02",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-11-03",
+      "source_story_id": "n261103-02",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-15",
+      "issue": "i2026-11-04",
+      "rubric": "digital",
+      "order": 15,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "Walmart открыл покупательские аудитории для видеорекламы через Vibe",
+      "headline": "Walmart открыл покупательские аудитории для видеорекламы через Vibe",
+      "cover_word": "ПОКУПКИ ОПРЕДЕЛЯЮТ РЕКЛАМУ",
+      "dek": "Рекламодатели подключённого телевидения получили доступ к сегментам, основанным на покупках в магазинах и онлайн.",
+      "what": "Walmart Connect подтвердил запуск интеграции 29 октября. Аудитории доступны непосредственно в конструкторе кампаний Vibe.",
+      "mechanics": "Рекламодатель выбирает группы по покупкам в товарных категориях, жизненным этапам и сезонным интересам. Walmart поддерживает аудитории, а Vibe отвечает за закупку размещений, оптимизацию и отчётность.",
+      "why": "Знание поведения покупателя становится частью продажи рекламы в стриминговом видео. Это расширяет способы монетизации телевизионного просмотра через привычный рекламодателю самостоятельный интерфейс.",
+      "note": "Наличие функции подтверждено компанией; улучшение эффективности конкретных кампаний ещё не доказано. Дата приобретения Vibe расходится в источниках и в карточку не включена.",
+      "sources": [
+        {
+          "label": "Walmart Connect — официальный запуск",
+          "url": "https://www.walmartconnect.com/resources/articles/2026/walmart-connect-audiences-on-vibe"
+        },
+        {
+          "label": "Adweek",
+          "url": "https://www.adweek.com/media/months-after-buying-vibe-walmart-opens-shopper-audiences-to-ctv-advertisers/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-15.webp",
+        "small": "img/n261104-15-s.webp",
+        "credit": "Walmart Connect",
+        "link": "https://www.walmartconnect.com/resources/articles/2026/walmart-connect-audiences-on-vibe",
+        "source_url": "https://walmartconnect.com/content/dam/walmart-connect-us/resources/articles/2026/walmart-s-first-party-audiences-are-now-available-in-vibe/Walmart_Connect_VIbe_announcement_Hero_image.jpg",
+        "alt": "Walmart’s first-party audiences are now available in Vibe",
+        "caption": "Изображение из официального анонса Walmart Connect и Vibe.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "c84a65539df42787d87598240328fccac173225df798b0ba015c438995b0992d"
+      },
+      "found_late": false,
+      "event_key": "n261030-14|digital|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Знание поведения покупателя становится частью продажи рекламы в стриминговом видео. Это расширяет способы монетизации телевизионного просмотра через привычный рекламодателю самостоятельный интерфейс.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-14",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-14",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-16",
+      "issue": "i2026-11-04",
+      "rubric": "digital",
+      "order": 16,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "США",
+      "title": "ElectricNOW добавляет 20 FAST-каналов, включая микродрамы VueWho",
+      "headline": "ElectricNOW добавляет 20 FAST-каналов, включая микродрамы VueWho",
+      "cover_word": "МИКРОДРАМЫ В FAST",
+      "dek": "Бесплатный сервис Electric Entertainment расширил программное предложение через FAST Channels TV.",
+      "what": "C21 сообщает о дистрибуционном соглашении и добавлении двадцати рекламных линейных каналов. Среди них — VueWho, CaribVision, Gaming Insights & Reviews и Pickle TV.",
+      "mechanics": "Подборка объединяет узкие тематические каналы и короткую драму. VueWho содержит также разговорные и lifestyle-программы: его сетка не ограничена одними микросериалами.",
+      "why": "Короткие истории получают ещё одну модель распространения — внутри бесплатного линейного потока. Такой переход меняет способ знакомства с контентом и рекламное окружение.",
+      "note": "Официальный релиз партнёра датирован 2 ноября. Новость о дистрибуции двадцати каналов, не о заказе двадцати новых сериалов; условия сделки и коммерческие результаты не раскрыты.",
+      "sources": [
+        {
+          "label": "FAST Channels TV — официальный релиз от 2 ноября",
+          "url": "https://fastchannels.tv/news/electricnow-adds-20-new-channels-through-fast-channels-tv-partnership-headlined-by-vuewho-a-free-micro-drama-channel"
+        },
+        {
+          "label": "ElectricNOW adds 20 FAST channels including microdrama service VueWho",
+          "url": "https://www.c21media.net/news/electricnow-adds-20-fast-channels-including-microdrama-service-vuewho/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-16.webp",
+        "small": "img/n261104-16-s.webp",
+        "credit": "FAST Channels TV",
+        "link": "https://fastchannels.tv/news/electricnow-adds-20-new-channels-through-fast-channels-tv-partnership-headlined-by-vuewho-a-free-micro-drama-channel",
+        "source_url": "https://images.squarespace-cdn.com/content/v1/61eae66f9e94563e26af4882/767b2307-20e0-47dd-b7bd-7d66bad251e5/VueWhoPressGraphic_301026_SM+1.png",
+        "alt": "VueWho — официальный материал к запуску на ElectricNOW",
+        "caption": "Официальный промо-материал запуска VueWho на ElectricNOW.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "f6120b6ef70aecc16a9815e653f8f9101ddc4726486d8a9d23792cc3e0c03087"
+      },
+      "found_late": false,
+      "event_key": "extra-06|digital|2026-11-03",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Короткие истории получают ещё одну модель распространения — внутри бесплатного линейного потока. Такой переход меняет способ знакомства с контентом и рекламное окружение.",
+      "verification": {
+        "checked_at": "2026-11-03T23:09:08+03:00",
+        "evidence_key": "extra-06",
+        "status": "reviewed",
+        "primary_source": "https://fastchannels.tv/news/electricnow-adds-20-new-channels-through-fast-channels-tv-partnership-headlined-by-vuewho-a-free-micro-drama-channel"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-17",
+      "issue": "i2026-11-04",
+      "rubric": "digital",
+      "order": 17,
+      "lead": false,
+      "status": "Анонс",
+      "date_iso": "2026-10-30",
+      "date_label": "30 октября 2026",
+      "country": "США",
+      "title": "Jubilee делает первый прямой спецэфир The Split в ночь выборов",
+      "headline": "Jubilee делает первый прямой спецэфир The Split в ночь выборов",
+      "cover_word": "YOUTUBE В ПРЯМОМ ЭФИРЕ",
+      "dek": "YouTube-компания переносит свой разговорный формат в событийный live.",
+      "what": "Jubilee объявила специальный эфир на 3 ноября с ведущими David Mauricio и Austin Julio Broughton. По сообщению Tubefilter со ссылкой на релиз компании, запланированы и приглашённые гости.",
+      "mechanics": "Ведущие с разными политическими позициями будут обсуждать поступающие результаты. В основе — уже существующее шоу The Split и привычка аудитории смотреть дискуссии на YouTube.",
+      "why": "Для цифрового продюсера выборная ночь становится проверкой способности удерживать зрителя в длинном прямом эфире. Новое событие — live-спецвыпуск, а не запуск самого The Split.",
+      "note": "На момент вечернего черновика результат трансляции и её аудитория ещё не подтверждены. Политические прогнозы из статьи не включены.",
+      "sources": [
+        {
+          "label": "Jubilee Media is capping off its most active election year with a live midterm special - Tubefilter",
+          "url": "https://www.tubefilter.com/2026/10/30/jubilee-media-the-split-midterm-election-live-special/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-17.webp",
+        "small": "img/n261104-17-s.webp",
+        "credit": "Jubilee / Tubefilter",
+        "link": "https://www.tubefilter.com/2026/10/30/jubilee-media-the-split-midterm-election-live-special/",
+        "source_url": "https://www.tubefilter.com/wp-content/uploads/2026/10/jubilee-media-the-split.jpg",
+        "alt": "Jubilee Media is capping off its most active election year with a live midterm special - Tubefilter",
+        "caption": "Материал из источника: Jubilee / Tubefilter.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "a81ae2a55882787329e216ad80325b80cd2a2830871fd705e073052956f88427"
+      },
+      "found_late": false,
+      "event_key": "jubilee|digital|2026-10-30",
+      "first_published_at": "2026-10-30T21:37:59+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Для цифрового продюсера выборная ночь становится проверкой способности удерживать зрителя в длинном прямом эфире. Новое событие — live-спецвыпуск, а не запуск самого The Split.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "jubilee",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-18",
+      "issue": "i2026-11-04",
+      "rubric": "digital",
+      "order": 18,
+      "lead": false,
+      "status": "Намерение",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Россия",
+      "title": "Rutube планирует открыть подключение персональных ИИ-агентов",
+      "headline": "Rutube планирует открыть подключение персональных ИИ-агентов",
+      "cover_word": "АГЕНТ ВЫБЕРЕТ ПРОСМОТР",
+      "dek": "Платформа заявила о будущем доступе через API для помощников, подбирающих просмотр под пользователя.",
+      "what": "Как сообщил Rutube изданию AdIndex, сервис намерен поддержать сторонних персональных агентов. Срок публичного запуска в сообщении не указан.",
+      "mechanics": "Предполагается, что агент сможет обращаться к платформе и помогать пользователю находить подходящий контент. Это отдельный план развития поверх существующих рекомендательных инструментов.",
+      "why": "Появляется возможный новый посредник между каталогом и зрителем — персональный помощник. Пока предмет новости ограничен заявленным направлением развития, а не работающим массовым продуктом.",
+      "note": "API для таких агентов не объявлен открытым и доступным всем. Октябрьский тест ИИ-помощника студии — другой продукт, его не выдаём за этот запуск.",
+      "sources": [
+        {
+          "label": "AdIndex",
+          "url": "https://adindex.ru/news/digital/2026/10/29/350638.phtml"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "found_late": false,
+      "event_key": "n261030-12|digital|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Появляется возможный новый посредник между каталогом и зрителем — персональный помощник. Пока предмет новости ограничен заявленным направлением развития, а не работающим массовым продуктом.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-12",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-12",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-19",
+      "issue": "i2026-11-04",
+      "rubric": "branded",
+      "order": 19,
+      "lead": false,
+      "status": "Кейс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Россия",
+      "title": "ALROSA Diamonds рассказала о взрослении через мини-фильм «Бриллианты и мы»",
+      "headline": "ALROSA Diamonds рассказала о взрослении через мини-фильм «Бриллианты и мы»",
+      "cover_word": "УКРАШЕНИЕ СКВОЗЬ ВРЕМЯ",
+      "dek": "Украшение становится сквозной деталью истории, которая проходит через разные этапы жизни героини.",
+      "what": "Бренд представил фильм, соединяющий детское воображение, мечты и взрослый опыт. Центральный визуальный мотив — кольцо с жёлтым бриллиантом.",
+      "mechanics": "Изменения возраста и жизненных обстоятельств связываются через один предмет. Фантазийные эпизоды позволяют менять мир вокруг героини, сохраняя узнаваемую эмоциональную линию.",
+      "why": "Продукт получает роль внутри повествования: зритель видит не перечень характеристик, а связь украшения с личной памятью и жизненными переходами.",
+      "note": "Художественная конструкция описана по опубликованному кейсу бренда. Эффективность кампании и коммерческие результаты не заявлены.",
+      "sources": [
+        {
+          "label": "Sostav",
+          "url": "https://www.sostav.ru/publication/brend-alrosa-diamonds-predstavil-mini-film-brillianty-i-my-88149.html"
+        }
+      ],
+      "video": {
+        "label": "Фильм в публикации бренда",
+        "url": "https://vkvideo.ru/video_ext.php?oid=-197634028&id=456239389&hash=bb2e89003595a326"
+      },
+      "image": {
+        "url": "img/n261104-19.webp",
+        "small": "img/n261104-19-s.webp",
+        "credit": "ALROSA Diamonds / Sostav",
+        "link": "https://www.sostav.ru/publication/brend-alrosa-diamonds-predstavil-mini-film-brillianty-i-my-88149.html",
+        "source_url": "https://www.sostav.ru/images/news/2026/10/29/preview/88149_st.jpg",
+        "alt": "Бренд ALROSA Diamonds представил мини-фильм «Бриллианты и мы»",
+        "caption": "Кадр из мини-фильма «Бриллианты и мы» — ALROSA Diamonds / Sostav.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "323f79b24d4a644f347e00fc7386342049d7abe16da9f1d0c2944ba2a35d29e4"
+      },
+      "found_late": false,
+      "event_key": "n261030-15|branded|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Продукт получает роль внутри повествования: зритель видит не перечень характеристик, а связь украшения с личной памятью и жизненными переходами.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-15",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-15",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-20",
+      "issue": "i2026-11-04",
+      "rubric": "branded",
+      "order": 20,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "«Кот в шляпе» получил мини-игру в Amazon и голосовые шутки в Alexa",
+      "headline": "«Кот в шляпе» получил мини-игру в Amazon и голосовые шутки в Alexa",
+      "cover_word": "ПЕРСОНАЖ В AMAZON",
+      "dek": "Warner Bros. добавила новый интерактивный этап продвижения фильма к ноябрьской премьере.",
+      "what": "Amazon Brand Innovation Lab и Warner Bros. запустили часть кампании Open to Fun: мобильную игру и голосовые активации с персонажем, которого озвучивает Bill Hader.",
+      "mechanics": "В игре пользователь наклоняет телефон, чтобы ловить персонажей Things. Alexa отвечает тематическими шутками и «кошачьими аффирмациями»; кампания также использует площадки Prime Video, IMDb и Twitch.",
+      "why": "Персонаж существует как набор действий и коротких взаимодействий вне фильма. Премьера получает точки контакта в игровом, голосовом и видеоконтенте одного рекламного партнёра.",
+      "note": "Новое здесь — активация Amazon. Модули Roblox уже были в выпуске 27 октября и повторно отдельной новостью не считаются.",
+      "sources": [
+        {
+          "label": "Marketing Dive",
+          "url": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-20.webp",
+        "small": "img/n261104-20-s.webp",
+        "credit": "Warner Bros. / Marketing Dive",
+        "link": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/",
+        "source_url": "https://imgproxy.divecdn.com/ryxmC5TaEOGJvt-8-Rwx09MrtuDtmuOz0KY27s8U2Bg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CSUwtQ2F0aW50aGVIYXQtbWluaS1nYW1lLTR1cC5qcGc=.webp",
+        "alt": "Warner Bros. chases ‘Cat in the Hat’ across Amazon’s ad ecosystem | Marketing Dive",
+        "caption": "Материал из источника: Warner Bros. / Marketing Dive.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "de4bae68e6c3f56dbd9b6271022f8d98617705f1f3d81bc09306a2f5124159aa"
+      },
+      "found_late": false,
+      "event_key": "n261030-17|branded|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Персонаж существует как набор действий и коротких взаимодействий вне фильма. Премьера получает точки контакта в игровом, голосовом и видеоконтенте одного рекламного партнёра.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-17",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-17",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-21",
+      "issue": "i2026-11-04",
+      "rubric": "branded",
+      "order": 21,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-11-03",
+      "date_label": "3 ноября 2026",
+      "country": "Россия",
+      "title": "«Брусника» и «Восход» сняли рекламу как трейлер триллера",
+      "headline": "«Брусника» и «Восход» сняли рекламу как трейлер триллера",
+      "cover_word": "РЕКЛАМА КАК ТРИЛЛЕР",
+      "dek": "Ладо Кватания превратил страх упущенной возможности в историю бесконечно опаздывающего героя.",
+      "what": "К кампании «Чёрной пятницы» застройщик представил ролик со слоганом «Пора». Креатив создало агентство «Восход», производство — Daddy’s Film.",
+      "mechanics": "Напряжение строится вокруг движения героя, который всё время пытается успеть. Режиссёр описывает эту конструкцию как метафору страха упущенной выгоды; предложение бренда завершает историю возможностью изменить ситуацию.",
+      "why": "Кинематографический жанр задаёт ролику ритм и конфликт. Слово «пора» связывает переживание героя с конкретным моментом принятия решения.",
+      "note": "Описание режиссёрского решения — из заявления автора в опубликованном кейсе. Результаты кампании ещё не представлены.",
+      "sources": [
+        {
+          "label": "«Брусника» и «Восход» сняли мотивационный ролик к «Черной пятнице»",
+          "url": "https://www.sostav.ru/publication/kogda-esli-ne-sejchas-brusnika-i-voskhod-snyali-motivatsionnyj-rolik-k-chernoj-pyatnitse-88256.html"
+        }
+      ],
+      "video": {
+        "label": "Ролик в кейсе «Брусники»",
+        "url": "https://vkvideo.ru/video_ext.php?oid=-22382635&id=456240845&hash=a3a9dc45332ef49c"
+      },
+      "image": {
+        "url": "img/n261104-21.webp",
+        "small": "img/n261104-21-s.webp",
+        "credit": "Брусника / Восход / Sostav",
+        "link": "https://www.sostav.ru/publication/kogda-esli-ne-sejchas-brusnika-i-voskhod-snyali-motivatsionnyj-rolik-k-chernoj-pyatnitse-88256.html",
+        "source_url": "https://www.sostav.ru/images/news/2026/11/03/preview/88256_st.jpg",
+        "alt": "«Брусника» и «Восход» сняли мотивационный ролик к «Черной пятнице»",
+        "caption": "Кадр из ролика «Брусники» и «Восхода» — Sostav.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "0332ebb81ac15d850a184bdebcce3eaf6982f518039a49ed2ee58f4c99fee825"
+      },
+      "found_late": false,
+      "event_key": "brusnika|branded|2026-11-03",
+      "first_published_at": "2026-11-03",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Кинематографический жанр задаёт ролику ритм и конфликт. Слово «пора» связывает переживание героя с конкретным моментом принятия решения.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "brusnika",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-22",
+      "issue": "i2026-11-04",
+      "rubric": "branded",
+      "order": 22,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "Международный рынок",
+      "title": "Levi’s вернул пластилиновую анимацию в праздничный фильм Let’s Get Fuzzy",
+      "headline": "Levi’s вернул пластилиновую анимацию в праздничный фильм Let’s Get Fuzzy",
+      "cover_word": "ТЕПЛО РУЧНОЙ РАБОТЫ",
+      "dek": "Бренд запустил историю о пушистом существе, которое проходит путь от пугающего чужака до желанного гостя.",
+      "what": "Мировая кампания стартовала 2 ноября. Её герой — Fuzzyeti по имени Gus, а центральный продуктовый акцент сделан на свитерах и тёплых слоях одежды.",
+      "mechanics": "Декорации и персонажи изготовлены вручную, одежда воспроизведена в миниатюре. По данным Levi’s, на секунду готовой stop-motion-анимации приходилось четыре часа съёмки.",
+      "why": "Тактильность материала работает вместе с темой тепла и принятия. Бренд возвращается к знакомой анимационной технике и строит новый мир вокруг сезонной категории одежды.",
+      "note": "Производственная трудоёмкость — заявление бренда; это не оценка бюджета или общей длительности всех работ.",
+      "sources": [
+        {
+          "label": "Levi Strauss & Co. — официальный запуск",
+          "url": "https://www.levistrauss.com/2026/11/02/levis-holiday-2026/"
+        }
+      ],
+      "video": {
+        "label": "Официальный фильм Levi’s",
+        "url": "https://www.youtube.com/watch?v=JLt9A07POhY"
+      },
+      "image": {
+        "url": "img/n261104-22.webp",
+        "small": "img/n261104-22-s.webp",
+        "credit": "Levi’s",
+        "link": "https://www.youtube.com/watch?v=JLt9A07POhY",
+        "source_url": "https://i.ytimg.com/vi/JLt9A07POhY/hqdefault.jpg",
+        "alt": "LET'S GET FUZZY | Levi's® Holiday Horror Film",
+        "caption": "Кадр с обложки официального ролика Let’s Get Fuzzy — Levi’s.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "7b0122fcad7d7bfe5a6beb70c2fdddec5aa3b154411ab14c875e828a3d5d36be"
+      },
+      "found_late": false,
+      "event_key": "levis|branded|2026-11-02",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Тактильность материала работает вместе с темой тепла и принятия. Бренд возвращается к знакомой анимационной технике и строит новый мир вокруг сезонной категории одежды.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "levis",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-23",
+      "issue": "i2026-11-04",
+      "rubric": "branded",
+      "order": 23,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "Великобритания",
+      "title": "Very расширил семью фламинго в кампании с CGI и ИИ-анимацией",
+      "headline": "Very расширил семью фламинго в кампании с CGI и ИИ-анимацией",
+      "cover_word": "СЕМЬЯ В РОЗОВОМ ПОРТАЛЕ",
+      "dek": "Праздничный ролик превращает фирменную розовую коробку в портал к мечтам каждого члена семьи.",
+      "what": "The Very Group представила That’s the Very Thing, созданную The Gate и M3Labs. Режиссёр — Peter Lee-Scott; телевизионный старт указан на 1 ноября.",
+      "mechanics": "В тридцатисекундном фильме молодой фламинго ищет свой подарок и попадает в воображаемые миры родственников. Производство сочетает CGI и ИИ-инструменты; отдельное продолжение кампании запланировано к Black Friday.",
+      "why": "Существующий маскот развивается в ансамбль персонажей, каждый со своим желанием и сценой. Одна семейная конструкция позволяет выпускать несколько продуктовых и сезонных историй.",
+      "note": "Точная доля работы ИИ и экономия не раскрыты. Результаты предварительного рекламного теста не принимаются за доказанные продажи.",
+      "sources": [
+        {
+          "label": "Very — официальный запуск кампании",
+          "url": "https://www.theverygroup.com/media/news/2026/new-flamingo-family-leads-verys-christmas-creative/"
+        }
+      ],
+      "video": {
+        "label": "Ролик по ссылке Very",
+        "url": "https://www.youtube.com/watch?v=kBs3pANW30w"
+      },
+      "image": {
+        "url": "img/n261104-23.webp",
+        "small": "img/n261104-23-s.webp",
+        "credit": "Very",
+        "link": "https://www.youtube.com/watch?v=kBs3pANW30w",
+        "source_url": "https://i.ytimg.com/vi/kBs3pANW30w/hqdefault.jpg",
+        "alt": "Very Christmas Ad 2026 | That's the Very thing",
+        "caption": "Кадр с обложки официального рождественского ролика — Very.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "876d6f1ef547a1310589dca800fca3b6ab1f104bf90f7c54b41a8dab2f1e07fb"
+      },
+      "found_late": false,
+      "event_key": "very|branded|2026-11-02",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Существующий маскот развивается в ансамбль персонажей, каждый со своим желанием и сценой. Одна семейная конструкция позволяет выпускать несколько продуктовых и сезонных историй.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "very",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-24",
+      "issue": "i2026-11-04",
+      "rubric": "short",
+      "order": 24,
+      "lead": false,
+      "status": "Анонс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "Disney собирает более 20 брендов на первом общем Super Brand Day в TikTok Shop",
+      "headline": "Disney собирает более 20 брендов на первом общем Super Brand Day в TikTok Shop",
+      "cover_word": "ПЕРСОНАЖ В КОРЗИНЕ",
+      "dek": "С 4 по 10 ноября товары по Disney, Pixar, Marvel и Star Wars объединят в одной торговой активации.",
+      "what": "Disney объявила недельную программу вместе с лицензиатами, включая Crocs, Old Navy и ColourPop. Новые товары Disney Store сначала появятся на этой площадке.",
+      "mechanics": "Короткий контент креаторов и прямые эфиры ведут к покупке внутри приложения. На 4 ноября заявлен live Disney Store, а часть эксклюзивных позиций переходит в основной интернет-магазин 11 ноября.",
+      "why": "Один экран соединяет знакомство с персонажем, демонстрацию товара и покупку. Лицензиаты и владелец IP объединяют контент вокруг общего события.",
+      "note": "Первый именно Super Brand Day с Disney. Сам Disney Store присутствует в TikTok Shop с ноября 2025 года.",
+      "sources": [
+        {
+          "label": "Disney — официальный гид",
+          "url": "https://disneyparksblog.com/products/first-tiktok-super-brand-day-featuring-disney-details/"
+        },
+        {
+          "label": "Marketing Dive",
+          "url": "https://www.marketingdive.com/news/disney-plans-tiktok-shop-holiday-experience-with-over-20-brands/873072/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-24.webp",
+        "small": "img/n261104-24-s.webp",
+        "credit": "Disney",
+        "link": "https://disneyparksblog.com/products/first-tiktok-super-brand-day-featuring-disney-details/",
+        "source_url": "https://disneyparksblog.com/app/uploads/2026/10/2026-DCP-TikTok-Super-Brand-Day-Header.png",
+        "alt": "Everything You Need to Know About the First TikTok Shop Super Brand Day Featuring Disney - Disney Parks Blog",
+        "caption": "Материал из источника: Disney.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "8194110fa064396193609420957425278a14d3e9e8c76dab32d9c465d890d6b9"
+      },
+      "found_late": false,
+      "event_key": "n261030-18|short|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Один экран соединяет знакомство с персонажем, демонстрацию товара и покупку. Лицензиаты и владелец IP объединяют контент вокруг общего события.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-18",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-18",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-25",
+      "issue": "i2026-11-04",
+      "rubric": "short",
+      "order": 25,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-11-03",
+      "date_label": "3 ноября 2026",
+      "country": "Россия",
+      "title": "«Буп» и фонд «Ника» представили короткие видео для поиска хозяев животным",
+      "headline": "«Буп» и фонд «Ника» представили короткие видео для поиска хозяев животным",
+      "cover_word": "ХАРАКТЕР ЗА ОДИН РОЛИК",
+      "dek": "В новой вертикальной ленте главным героем становится питомец; первый совместный ролик — о собаке Золе.",
+      "what": "Соцсеть «Буп» объявила формат «бупсов». Команда объясняет его как дополнительный инструмент для приютов: показать животное до личного знакомства с будущим хозяином.",
+      "mechanics": "Короткие видео демонстрируют повседневное поведение питомца, их можно комментировать и оценивать. Первый пример создан с фондом «Ника» и двухлетней собакой.",
+      "why": "Вертикальный контент выполняет конкретную задачу — помогает узнать характер животного, который трудно передать одной фотографией. Социальная организация становится автором истории о своём подопечном.",
+      "note": "Функция и цель подтверждены заявлением команды в AdIndex. Число пристроенных благодаря видео животных пока не раскрыто.",
+      "sources": [
+        {
+          "label": "Соцсеть «Буп» представила формат вертикальных видео для помощи приютам для животных",
+          "url": "https://adindex.ru/news/social_advertising/2026/11/3/350785.phtml"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-25.webp",
+        "small": "img/n261104-25-s.webp",
+        "credit": "Буп / фонд Ника / AdIndex",
+        "link": "https://adindex.ru/news/social_advertising/2026/11/3/350785.phtml",
+        "source_url": "https://adindex.ru/assets/seo/2026_11/facebook_350785.png?ts=1793697086",
+        "alt": "Соцсеть «Буп» представила формат вертикальных видео для помощи приютам для животных | Социальные проекты | Новости | AdIndex.ru",
+        "caption": "Материал из источника: Буп / фонд Ника / AdIndex.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "b81803e41a9e47442422ae31f96c8a781c7b75cb0d20b2c0f11d4a0760471a53"
+      },
+      "found_late": false,
+      "event_key": "boop|short|2026-11-03",
+      "first_published_at": "2026-11-03",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Вертикальный контент выполняет конкретную задачу — помогает узнать характер животного, который трудно передать одной фотографией. Социальная организация становится автором истории о своём подопечном.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "boop",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-26",
+      "issue": "i2026-11-04",
+      "rubric": "short",
+      "order": 26,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Индия",
+      "title": "Haldiram’s уложил три истории о подарках в Reels короче 25 секунд",
+      "headline": "Haldiram’s уложил три истории о подарках в Reels короче 25 секунд",
+      "cover_word": "ПОДАРОК ЗА ДВАДЦАТЬ СЕКУНД",
+      "dek": "Серия к Дивали строится на небольших жестах благодарности и внимания, а не на большом праздничном сюжете.",
+      "what": "В сообщении бренда от 29 октября представлены три ролика Khushiyan Baatne Se Khushiyan Milti Hain. Креатив и производство выполнил партнёр Crownex.",
+      "mechanics": "Каждый фильм берёт отдельную повседневную ситуацию и доводит её до эмоционального результата за короткий хронометраж. Подарок со сладостями связывает героя с человеком, которому он хочет выразить признательность.",
+      "why": "Единая тема превращается в три самостоятельные короткие истории. Серийность здесь держится на повторяемом человеческом действии и общем продуктовом мире.",
+      "note": "Релиз датирован 29 октября, опубликован 30-го; точного часа исходного объявления нет. Просмотры и эффективность не заявлены.",
+      "sources": [
+        {
+          "label": "Haldiram’s Celebrates Diwali With Joy of Giving Campaign",
+          "url": "https://www.passionateinmarketing.com/haldirams-celebrates-the-joy-of-giving-this-diwali-with-khushiyan-baatne-se-khushiyan-milti-hain/"
+        }
+      ],
+      "video": {
+        "label": "Первый ролик — ссылка из релиза",
+        "url": "https://www.youtube.com/shorts/scwPyrbIxSI"
+      },
+      "image": {
+        "url": "img/n261104-26.webp",
+        "small": "img/n261104-26-s.webp",
+        "credit": "Haldiram’s",
+        "link": "https://www.passionateinmarketing.com/haldirams-celebrates-the-joy-of-giving-this-diwali-with-khushiyan-baatne-se-khushiyan-milti-hain/",
+        "source_url": "https://pimwp.s3-accelerate.amazonaws.com/2026/10/Diwali-Gifting.webp",
+        "alt": "Haldiram’s Celebrates Diwali With Joy of Giving Campaign",
+        "caption": "Материал из источника: Haldiram’s.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "7907bd146ad40233da684263eafc3c003ad794d2c80b99a9bbc6d2d276c1169d"
+      },
+      "found_late": false,
+      "event_key": "haldiram|short|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Единая тема превращается в три самостоятельные короткие истории. Серийность здесь держится на повторяемом человеческом действии и общем продуктовом мире.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "haldiram",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-27",
+      "issue": "i2026-11-04",
+      "rubric": "short",
+      "order": 27,
+      "lead": false,
+      "status": "Кейс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "Oroweat и Дилан Эфрон превратили ролики-подсказки в охоту за сэндвичем",
+      "headline": "Oroweat и Дилан Эфрон превратили ролики-подсказки в охоту за сэндвичем",
+      "cover_word": "ДОГОНИ СЭНДВИЧ",
+      "dek": "Кампания Get that bread вывела аудиторию Instagram и TikTok на улицы Нью-Йорка перед марафоном.",
+      "what": "Bimbo Bakeries USA объявила активацию 29 октября. Дилан Эфрон публиковал подсказки к поиску ростового сэндвича, который появлялся в городе 30–31 октября.",
+      "mechanics": "Зрители следовали за подсказками в соцсетях, находили героя и сканировали QR-код для участия в розыгрыше $50 000. Историю продолжил фирменный поп-ап 1 ноября.",
+      "why": "Короткие публикации автора выступают эпизодами городской игры. Между просмотром следующего ролика и действием зрителя есть понятная связь: найти персонажа по новой подсказке.",
+      "note": "Розыгрыш уже завершён; это разбор прошедшей активации, не приглашение участвовать. Итоговые охваты и победитель в проверенных материалах не указаны.",
+      "sources": [
+        {
+          "label": "Bimbo Bakeries USA — официальный релиз",
+          "url": "https://www.prnewswire.com/news-releases/oroweat-challenges-fans-to-get-that-bread-with-a-life-sized-sandwich-chase-through-new-york-city-302922659.html"
+        },
+        {
+          "label": "Forbes / Yahoo — интервью с участниками",
+          "url": "https://finance.yahoo.com/media-advertising/articles/dylan-efron-kicks-off-50-151421770.html"
+        }
+      ],
+      "video": {
+        "label": "Reel, на который ссылается интервью",
+        "url": "https://www.instagram.com/reel/DfDTYffTELR/"
+      },
+      "image": {
+        "url": "img/n261104-27.webp",
+        "small": "img/n261104-27-s.webp",
+        "credit": "Oroweat / Bimbo Bakeries USA",
+        "link": "https://www.prnewswire.com/news-releases/oroweat-challenges-fans-to-get-that-bread-with-a-life-sized-sandwich-chase-through-new-york-city-302922659.html",
+        "source_url": "https://mmx.prnewswire.com/media/MS2022033/MOVI_102026A_0082.jpg?id=OA3042985&p=facebook",
+        "alt": "Oroweat® Challenges Fans to \"Get that bread\" with a Life-Sized Sandwich Chase Through New York City",
+        "caption": "Материал из источника: Oroweat / Bimbo Bakeries USA.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "dd0eb6a13258502f23fd9fb67f4bf626a08eb0950b78a5684acfc590972e14a8"
+      },
+      "found_late": false,
+      "event_key": "oroweat|short|2026-10-29",
+      "first_published_at": "2026-10-29",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Короткие публикации автора выступают эпизодами городской игры. Между просмотром следующего ролика и действием зрителя есть понятная связь: найти персонажа по новой подсказке.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "oroweat",
+        "status": "reviewed",
+        "boundary_note": "Источник указывает день без часа; точное положение относительно отсечения 10:00 мск не подтверждено."
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-28",
+      "issue": "i2026-11-04",
+      "rubric": "sport",
+      "order": 28,
+      "lead": false,
+      "status": "Анонс",
+      "date_iso": "2026-11-03",
+      "date_label": "3 ноября 2026",
+      "country": "США",
+      "title": "WWE и Disney объединяют два шоу, Avengers и фанатское событие",
+      "headline": "WWE и Disney объединяют два шоу, Avengers и фанатское событие",
+      "cover_word": "РЕСЛИНГ В МИРЕ MARVEL",
+      "dek": "На 14–15 декабря объявлена программа на ESPN Wide World of Sports: John Cena Classic и Worlds Collide в оформлении Avengers: Doomsday.",
+      "what": "WWE сообщила о расширении партнёрства с Disney. John Cena Classic выйдет на Netflix как специальный выпуск Monday Night Raw; следующий день посвящён Worlds Collide с участниками WWE, NXT и AAA.",
+      "mechanics": "В John Cena Classic участники Club WWE выберут лучшее выступление голосованием в реальном времени. Рядом пройдёт WWE World от WWE и Fanatics; к программе привязан совместный мерч Avengers.",
+      "why": "Телешоу, участие аудитории, продвижение кинофраншизы и офлайн-опыт собраны вокруг двух дней. Спортивное развлечение становится общим пространством нескольких IP.",
+      "note": "Это объявленная программа; мероприятия ещё не состоялись. Релиз подтверждает Netflix для John Cena Classic, но не объявляет там же показ Worlds Collide.",
+      "sources": [
+        {
+          "label": "WWE — официальный релиз",
+          "url": "https://www.wwe.com/article/wwe-walt-disney-company-john-cena-classic-avenger-doomsday-worlds-collide"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-28.webp",
+        "small": "img/n261104-28-s.webp",
+        "credit": "WWE",
+        "link": "https://www.wwe.com/article/wwe-walt-disney-company-john-cena-classic-avenger-doomsday-worlds-collide",
+        "source_url": "https://www.wwe.com/f/styles/og_image/public/2026/11/RawCena_WC_Combo_Announce_1920x1080.jpg",
+        "alt": "WWE & Walt Disney Company expand partnership with two-day takeover of ESPN Wide World of Sports Complex featuring the John Cena Classic & Marvel Studios' 'Avengers: Doomsday'-themed Worlds Collide | WWE",
+        "caption": "Официальная афиша двухдневного события WWE и Disney.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "4f916a67b1d1356dbbd6d0de7efc255ff74a6e9c9b0653df140aa9c5fc241bcd"
+      },
+      "found_late": false,
+      "event_key": "wwe-disney|avengers-worlds-collide-cena-classic|us|2026-11-03",
+      "first_published_at": "2026-11-03",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Телешоу, участие аудитории, продвижение кинофраншизы и офлайн-опыт собраны вокруг двух дней. Спортивное развлечение становится общим пространством нескольких IP.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261103-04",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-11-03",
+      "source_story_id": "n261103-04",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-29",
+      "issue": "i2026-11-04",
+      "rubric": "sport",
+      "order": 29,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США / международный рынок",
+      "title": "Backstreet Boys создают команду Backstreet Gamers в лиге знаменитостей",
+      "headline": "Backstreet Boys создают команду Backstreet Gamers в лиге знаменитостей",
+      "cover_word": "БОЙЗ-БЕНД НАБИРАЕТ ГЕЙМЕРОВ",
+      "dek": "Группа присоединилась к Global Gaming League как владелец команды и объявила поиск игроков.",
+      "what": "Все пять участников Backstreet Boys участвуют в новой франшизе. В GGL уже представлены команды, связанные с T-Pain, Ne-Yo, Howie Mandel и другими медийными владельцами.",
+      "mechanics": "Лига соединяет соревнования в нескольких видеоиграх, музыку и выступления знаменитостей. Игроки могут проявить себя через платформу GGL Primes и попасть в состав команды; группа отдельно пригласила к участию женщин-геймеров.",
+      "why": "Поп-группа переносит связь со своей аудиторией в конкурентный формат: у фанатов появляются команда, соперники и возможность самим стать участниками.",
+      "note": "Подтверждено создание команды и набор игроков. Аудитория трансляций и коммерческие результаты ещё не раскрыты.",
+      "sources": [
+        {
+          "label": "Variety",
+          "url": "https://variety.com/2026/digital/news/backstreet-boys-gamers-global-gaming-league-1236933707/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-29.webp",
+        "small": "img/n261104-29-s.webp",
+        "credit": "Global Gaming League / Variety",
+        "link": "https://variety.com/2026/digital/news/backstreet-boys-gamers-global-gaming-league-1236933707/",
+        "source_url": "https://variety.com/wp-content/uploads/2026/10/GGL_BackstreetBoysGamingTeam.jpeg?w=1000&h=563&crop=1",
+        "alt": "Backstreet Boys Launch Backstreet Gamers in Global Gaming League",
+        "caption": "Материал из источника: Global Gaming League / Variety.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "f51e13db77d34d4d52c3aa7292b9397ca47f05a963333a10c1620d89442b2474"
+      },
+      "found_late": false,
+      "event_key": "n261030-21|sport|2026-10-29",
+      "first_published_at": "2026-10-29T13:00:00+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Поп-группа переносит связь со своей аудиторией в конкурентный формат: у фанатов появляются команда, соперники и возможность самим стать участниками.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-21",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-21",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-30",
+      "issue": "i2026-11-04",
+      "rubric": "sport",
+      "order": 30,
+      "lead": false,
+      "status": "Кейс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "Sportico: Texas Tech заплатил Skydance $999 999 за докусериал о своей команде",
+      "headline": "Sportico: Texas Tech заплатил Skydance $999 999 за докусериал о своей команде",
+      "cover_word": "КОМАНДА ПЛАТИТ ЗА ДОК",
+      "dek": "В раскрытых условиях The Program заказчик спортивной истории сам финансирует доступ камеры к собственной жизни.",
+      "what": "Sportico изучил февральский документ об условиях сотрудничества: университет обязался выплатить Skydance Sports студийный гонорар тремя частями. Четырёхсерийный проект уже вышел на Paramount+ в сентябре.",
+      "mechanics": "Соглашение открывало доступ к игрокам, персоналу, тренировкам и внутренним встречам. В изученном документе не указаны встречные выплаты университету или раздел выручки.",
+      "why": "Новое в этой истории — раскрытая экономика производства. Она показывает вариант, при котором спортивная организация оплачивает создание документальной истории о себе.",
+      "note": "Атрибутировано расследованию Sportico. Это не новый заказ сериала; университет и Skydance не предоставили изданию комментарии до публикации.",
+      "sources": [
+        {
+          "label": "Sportico",
+          "url": "https://www.sportico.com/leagues/college-sports/2026/texas-tech-football-documentary-series-agreement-skydance-1234956850/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-30.webp",
+        "small": "img/n261104-30-s.webp",
+        "credit": "Sportico",
+        "link": "https://www.sportico.com/leagues/college-sports/2026/texas-tech-football-documentary-series-agreement-skydance-1234956850/",
+        "source_url": "https://www.sportico.com/wp-content/uploads/2026/10/texas-tech-documentary-skydance.png?w=1024",
+        "alt": "Texas Tech Agreed to Pay Skydance Sports $1M for Paramount+ Docuseries",
+        "caption": "Материал из источника: Sportico.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "fdebbf33228f78821dc57390ed210603a77095b2932aa7160d825f0034f4d090"
+      },
+      "found_late": false,
+      "event_key": "n261030-22|sport|2026-10-29",
+      "first_published_at": "2026-10-29T14:07:14+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Новое в этой истории — раскрытая экономика производства. Она показывает вариант, при котором спортивная организация оплачивает создание документальной истории о себе.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-22",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-22",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-31",
+      "issue": "i2026-11-04",
+      "rubric": "sport",
+      "order": 31,
+      "lead": false,
+      "status": "Кейс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "США",
+      "title": "Fox смонтировал победный репортаж Боба Юкера из архивного голоса",
+      "headline": "Fox смонтировал победный репортаж Боба Юкера из архивного голоса",
+      "cover_word": "АРХИВ СНОВА КОММЕНТИРУЕТ",
+      "dek": "Памятный ролик позволил услышать покойного комментатора на кадрах чемпионства Milwaukee Brewers.",
+      "what": "После финала World Series Fox Sports показал минутный видеотрибьют Юкеру. В нём использованы реальные фрагменты его прежних комментариев.",
+      "mechanics": "Архивные реплики подобраны и синхронизированы с новыми игровыми кадрами, создавая связный рассказ о событии, которого комментатор не застал.",
+      "why": "Монтаж превращает спортивный архив в эмоциональное завершение новой истории. Эффект присутствия рождается из контекста и выбора реплик.",
+      "note": "Deadline отдельно указывает, что для голоса не использовали ИИ. Это архивный монтаж, а не синтез новой речи.",
+      "sources": [
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/10/fox-video-bob-uecker-milwaukee-brewers-world-series-1237208074/"
+        }
+      ],
+      "video": {
+        "label": "Ролик FOX Sports",
+        "url": "https://x.com/FOXSports/status/2115655730803909003"
+      },
+      "image": {
+        "url": "img/n261104-31.webp",
+        "small": "img/n261104-31-s.webp",
+        "credit": "Deadline",
+        "link": "https://deadline.com/2026/10/fox-video-bob-uecker-milwaukee-brewers-world-series-1237208074/",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/10/Bob-Uecker.jpg?w=1024",
+        "alt": "Fox Video Imagines The Late Bob Uecker Calling Milwaukee Brewers' First World Series Title",
+        "caption": "Архивная фотография Боба Юкера из материала Deadline; не кадр нового видеотрибьюта.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "6220e39f5b975cb66ec5e8c3ea12c5643142c06484f09c8322ee17991a60fe8c"
+      },
+      "found_late": false,
+      "event_key": "n261030-23|sport|2026-10-29",
+      "first_published_at": "2026-10-29T13:54:25+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Монтаж превращает спортивный архив в эмоциональное завершение новой истории. Эффект присутствия рождается из контекста и выбора реплик.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-23",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-23",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-32",
+      "issue": "i2026-11-04",
+      "rubric": "sport",
+      "order": 32,
+      "lead": false,
+      "status": "Сделка",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "Международный рынок",
+      "title": "WTA и TikTok расширяют контентное партнёрство: игроки, креаторы и live",
+      "headline": "WTA и TikTok расширяют контентное партнёрство: игроки, креаторы и live",
+      "cover_word": "ТЕННИС МЕЖДУ МАТЧАМИ",
+      "dek": "Женский теннис получит тематические хабы GamePlan и дополнительный контент о жизни спортсменок вне корта.",
+      "what": "Стороны объявили глобальное соглашение 2 ноября. В него входят развитие WTA Creator Club и эксклюзивный TikTok-эфир жеребьёвки итогового турнира 3 ноября.",
+      "mechanics": "Креаторы получают доступ к событиям тура, а игроки рассказывают о себе через личные истории. Хабы собирают официальный контент вокруг отдельных турниров.",
+      "why": "Партнёрство выделяет самостоятельный медиапродукт вокруг спорта: характеры, закулисье и церемонии, которые можно смотреть между матчами.",
+      "note": "Эксклюзивность относится к объявленной трансляции жеребьёвки. Продажу прав на показ самих матчей этот релиз не подтверждает.",
+      "sources": [
+        {
+          "label": "TikTok and WTA announce global content partnership to connect the next generation of women's tennis fans - Newsroom | TikTok",
+          "url": "https://newsroom.tiktok.com/tiktok-and-wta-announce-global-content-partnership?lang=en&preview=true"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-32.webp",
+        "small": "img/n261104-32-s.webp",
+        "credit": "TikTok / WTA",
+        "link": "https://newsroom.tiktok.com/tiktok-and-wta-announce-global-content-partnership?lang=en&preview=true",
+        "source_url": "https://p16-ttark-useastred.tiktokcdn-eu.com/tos-useast2a-i-mysv9ld3jo-euttp/04aa714f8d960511846d2ccc36f4082e.jpg~tplv-mysv9ld3jo-default:0:0:q75.image",
+        "alt": "TikTok and WTA announce global content partnership to connect the next generation of women's tennis fans - Newsroom | TikTok",
+        "caption": "Материал из источника: TikTok / WTA.",
+        "fit": "contain",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "9682512701bf0b649e72e7a5f8864cc03f4666a8cce54e10a25f88fc6dc9ceb1"
+      },
+      "found_late": false,
+      "event_key": "wta|sport|2026-11-02",
+      "first_published_at": "2026-11-02",
+      "date_precision": "day",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Партнёрство выделяет самостоятельный медиапродукт вокруг спорта: характеры, закулисье и церемонии, которые можно смотреть между матчами.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "wta",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-33",
+      "issue": "i2026-11-04",
+      "rubric": "event",
+      "order": 33,
+      "lead": false,
+      "status": "Анонс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Франция / Япония",
+      "title": "Japan IP Market вернётся в Канны 14–15 мая 2027 года",
+      "headline": "Japan IP Market вернётся в Канны 14–15 мая 2027 года",
+      "cover_word": "ЯПОНСКИЕ ИСТОРИИ В КАННАХ",
+      "dek": "Marché du Film и TIFFCOM подтвердили второй совместный рынок японской интеллектуальной собственности.",
+      "what": "Продолжение партнёрства объявлено 29 октября на TIFFCOM. Первая встреча прошла в Каннах в мае 2026 года.",
+      "mechanics": "Правообладатели из Японии встречаются с международными продюсерами через питчи, индивидуальные переговоры и отраслевые дискуссии. Задача — развитие адаптаций и сделок вокруг японских историй.",
+      "why": "Специальная программа превращается в повторяющуюся точку встречи покупателей и владельцев IP. Интерес к японскому контенту получает отдельную деловую инфраструктуру.",
+      "note": "Состав участников и подробную программу 2027 года объявят позднее; прошлогодних участников нельзя считать подтверждёнными на следующий рынок.",
+      "sources": [
+        {
+          "label": "Marché du Film — официальный анонс на французском",
+          "url": "https://www.marchedufilm.com/fr/news/le-marche-du-film-et-tiffcom-reconduisent-le-japan-ip-market-a-cannes-en-2027/"
+        },
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/10/cannes-marche-du-film-tiffcom-japan-ip-market-2027-1237207994/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-33.webp",
+        "small": "img/n261104-33-s.webp",
+        "credit": "Marché du Film / TIFFCOM",
+        "link": "https://www.marchedufilm.com/fr/news/le-marche-du-film-et-tiffcom-reconduisent-le-japan-ip-market-a-cannes-en-2027/",
+        "source_url": "https://www.marchedufilm.com/wp-content/thumbnails/uploads/2026/10/mdf26_news_japan_ip_market_cannes_2027-tt-width-1100-height-630-fill-0-crop-1-bgcolor-f0f2f7.jpg",
+        "alt": "Le Marché du Film et TIFFCOM reconduisent le Japan IP Market à Cannes en 2027 - Marché du Film",
+        "caption": "Архивное фото Japan IP Market из нового анонса организаторов.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "b71b666680abf87e479976222604c332b8d43c03a5bba3bd1c46e0ce4a46f10d"
+      },
+      "found_late": false,
+      "event_key": "n261030-24|event|2026-10-29",
+      "first_published_at": "2026-10-29T08:22:15+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Специальная программа превращается в повторяющуюся точку встречи покупателей и владельцев IP. Интерес к японскому контенту получает отдельную деловую инфраструктуру.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-24",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-24",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-34",
+      "issue": "i2026-11-04",
+      "rubric": "event",
+      "order": 34,
+      "lead": false,
+      "status": "Анонс",
+      "date_iso": "2026-10-29",
+      "date_label": "29 октября 2026",
+      "country": "Польша",
+      "title": "Camerimage объявил режиссёрскую награду Даррену Аронофски",
+      "headline": "Camerimage объявил режиссёрскую награду Даррену Аронофски",
+      "cover_word": "НАГРАДА ЗА ЯЗЫК КИНО",
+      "dek": "На фестивале операторского искусства 7–14 ноября отметят автора, для которого визуальная форма определяет рассказ.",
+      "what": "Организаторы объявили Award for Director на 34-м фестивале в Торуни. В сообщении особо отмечены длительные творческие отношения режиссёра с операторами, прежде всего Matthew Libatique.",
+      "mechanics": "Почётная награда включена в программу события, посвящённого кинематографии и работе операторов. Она дополняет конкурс, в котором оценивается визуальное решение фильмов.",
+      "why": "В фокусе оказывается сотрудничество режиссёра и оператора: узнаваемый экранный язык рассматривается как результат совместной работы.",
+      "note": "Подтверждена награда Аронофски. Дополнительные имена из прежней карточки не перенесены без отдельной проверки.",
+      "sources": [
+        {
+          "label": "Variety",
+          "url": "https://variety.com/2026/film/news/darren-aronofsky-directors-award-2026-camerimage-festival-1236934175/"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "found_late": false,
+      "event_key": "n261030-26|event|2026-10-29",
+      "first_published_at": "2026-10-29T14:35:51+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "В фокусе оказывается сотрудничество режиссёра и оператора: узнаваемый экранный язык рассматривается как результат совместной работы.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "n261030-26",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent",
+      "source_issue_id": "i2026-10-30",
+      "source_story_id": "n261030-26",
+      "reuse_reason": "Сборный выпуск после подтвержденного перерыва в Telegram; исходный материал не доставлен в Juice."
+    },
+    {
+      "id": "n261104-35",
+      "issue": "i2026-11-04",
+      "rubric": "event",
+      "order": 35,
+      "lead": false,
+      "status": "Анонс",
+      "date_iso": "2026-11-02",
+      "date_label": "2 ноября 2026",
+      "country": "Мексика / Латинская Америка",
+      "title": "MIP Cancun впервые проведёт гала-вечер с Estudios RCN и MegaLive",
+      "headline": "MIP Cancun впервые проведёт гала-вечер с Estudios RCN и MegaLive",
+      "cover_word": "У РЫНКА ПОЯВИЛАСЬ ГАЛА",
+      "dek": "Новый общий вечер рынка назначен на 19 ноября в Moon Palace Resort.",
+      "what": "Организаторы вместе с колумбийской Estudios RCN и чилийской MegaLive представили первую MIP Cancun Gala. В музыкальной программе заявлен Magic Juan.",
+      "mechanics": "Событие начнётся в 21:00 по местному времени; доступ предусмотрен для всех аккредитованных участников рынка. Деловые встречи получают общую вечернюю программу.",
+      "why": "Рынок добавляет собственный формат неформального общения, опираясь на региональных производителей и музыку. Это новый элемент программы, а не отдельный рынок.",
+      "note": "Дата и условия — из сообщения организаторов, опубликованного PRODU 2 ноября.",
+      "sources": [
+        {
+          "label": "MIP Cancun lanza gala inaugural en alianza con Estudios RCN y MegaLive",
+          "url": "https://www.produ.com/television/noticias/mip-cancun-lanza-gala-inaugural-en-alianza-con-estudios-rcn-y-megalive/"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "found_late": false,
+      "event_key": "extra-08|event|2026-11-02",
+      "first_published_at": "2026-11-02T18:58:33+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Рынок добавляет собственный формат неформального общения, опираясь на региональных производителей и музыку. Это новый элемент программы, а не отдельный рынок.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "extra-08",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    },
+    {
+      "id": "n261104-36",
+      "issue": "i2026-11-04",
+      "rubric": "event",
+      "order": 36,
+      "lead": false,
+      "status": "Запуск",
+      "date_iso": "2026-11-03",
+      "date_label": "3 ноября 2026",
+      "country": "Мексика",
+      "title": "Advertising Week LATAM открылся с программой о креаторах, CTV и ИИ",
+      "headline": "Advertising Week LATAM открылся с программой о креаторах, CTV и ИИ",
+      "cover_word": "КОНТЕНТ ВСТРЕЧАЕТ РЕКЛАМУ",
+      "dek": "С 3 по 5 ноября в Мехико проходит встреча рекламного, технологического и контентного рынков.",
+      "what": "Место проведения — Papalote Museo del Niño. В программе более ста сессий; среди представленных компаний — Google, Meta, Disney и Roku.",
+      "mechanics": "Обсуждения соединяют производство, распространение, авторские сообщества и рекламу. PRODU участвует в трёх панелях, включая разговоры о новых технологиях и телевизионном просмотре через интернет.",
+      "why": "Программа показывает, где встречаются покупатели рекламы, платформы и создатели контента. Несколько частей одной производственной цепочки обсуждаются на общей площадке.",
+      "note": "Количество сессий — данные программы организаторов. Итоги панелей и посещаемость на момент черновика ещё не подведены.",
+      "sources": [
+        {
+          "label": "Advertising Week LATAM — программа",
+          "url": "https://latam2026.advertisingweek.com/aw/schedule"
+        },
+        {
+          "label": "PRODU — участник программы",
+          "url": "https://www.produ.com/mercadeo/noticias/awlatam-2026-inicia-hoy-en-ciudad-de-mexico-con-mas-de-100-sesiones-y-produ-al-frente-de-tres-paneles/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261104-36.webp",
+        "small": "img/n261104-36-s.webp",
+        "credit": "PRODU",
+        "link": "https://www.produ.com/mercadeo/noticias/awlatam-2026-inicia-hoy-en-ciudad-de-mexico-con-mas-de-100-sesiones-y-produ-al-frente-de-tres-paneles/",
+        "source_url": "https://images.produ.com/wp-content/uploads/2025/11/11195200/bigwp-AWLATAMAmbient.jpg",
+        "alt": "AWLATAM 2026 inicia hoy en Ciudad de México con más de 100 sesiones y PRODU al frente de tres paneles - PRODU",
+        "caption": "Архивный снимок Advertising Week LATAM, опубликованный PRODU в материале об открытии 2026 года.",
+        "fit": "cover",
+        "position": "50% 40%",
+        "illustration": false,
+        "verified_at": "2026-11-03T23:09:08+03:00",
+        "provenance_sha256": "250c5386f5bc2e81bf52059ae8b422fa4bb4642f80b8321eaa53efcc0827a6a0"
+      },
+      "found_late": false,
+      "event_key": "extra-09|event|2026-11-03",
+      "first_published_at": "2026-11-03T00:24:06+00:00",
+      "date_precision": "timestamp",
+      "discovered_at": "2026-11-03T22:44:35+03:00",
+      "selected_because": "Программа показывает, где встречаются покупатели рекламы, платформы и создатели контента. Несколько частей одной производственной цепочки обсуждаются на общей площадке.",
+      "verification": {
+        "checked_at": "2026-11-03T22:44:35+03:00",
+        "evidence_key": "extra-09",
+        "status": "reviewed"
+      },
+      "delivery_status": "draft_not_sent"
+    }
+  ]
+}

@@ -72,7 +72,7 @@ img{max-width:100%;display:block}
 .lead-card{display:block;text-decoration:none;color:inherit;background:var(--card);border-radius:22px;overflow:hidden;position:relative}
 .lead-card .cover{aspect-ratio:4/3}
 .lead-card .txt{padding:18px 18px 22px;display:flex;flex-direction:column;gap:10px}
-.lead-card h2{margin:0;font-family:var(--f-display);font-weight:800;font-size:clamp(24px,7vw,44px);line-height:1.08;letter-spacing:-.02em;overflow-wrap:break-word}
+.lead-card h2{margin:0;font-family:var(--f-display);font-weight:800;font-size:clamp(24px,7vw,44px);line-height:1.08;letter-spacing:-.02em;overflow-wrap:normal;word-break:normal;hyphens:none}
 .lead-card p{margin:0;font-size:16.5px;color:var(--ink-2);max-width:60ch}
 .label{align-self:flex-start;font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--bg);background:var(--juice);padding:4px 9px;border-radius:6px}
 @media (min-width:860px){.lead-card{display:grid;grid-template-columns:1.25fr 1fr}.lead-card .cover{aspect-ratio:auto;min-height:440px}.lead-card .txt{justify-content:center;padding:36px}}
@@ -94,9 +94,9 @@ img{max-width:100%;display:block}
 @media (min-width:640px){.rail{grid-auto-columns:calc((100% - 12px*2 - var(--gut))/2.2)}}
 @media (min-width:1000px){.rail{grid-auto-columns:calc((100% - 16px*2 - var(--gut)*2)/3);gap:16px;margin:0;padding:0 0 4px;scroll-padding:0}}
 .card{scroll-snap-align:start;display:flex;flex-direction:column;text-decoration:none;color:inherit;background:var(--card);border-radius:20px;overflow:hidden;min-width:0}
-.card .cover{aspect-ratio:4/3}
+.card .cover{aspect-ratio:16/10}
 .card .txt{padding:16px 16px 18px;display:flex;flex-direction:column;gap:9px;flex:1}
-.card h3{margin:0;font-family:var(--f-display);font-weight:800;font-size:19px;line-height:1.18;letter-spacing:-.01em;overflow-wrap:break-word}
+.card h3{margin:0;font-family:var(--f-display);font-weight:800;font-size:19px;line-height:1.18;letter-spacing:-.01em;overflow-wrap:normal;word-break:normal;hyphens:none}
 .card p{margin:0;font-size:14.5px;color:var(--ink-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .card .more{margin-top:auto;padding-top:4px;font-size:13px;font-weight:700;color:var(--rc)}
 .card:hover h3,.lead-card:hover h2{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
@@ -110,15 +110,17 @@ img{max-width:100%;display:block}
 
 /* covers */
 .cover{position:relative;overflow:hidden;background:var(--rc);container-type:inline-size}
+.cover:has(img){background:#101014}
 .cover img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .cover.typo{background:var(--rc)}
 .cover.typo::before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,rgba(0,0,0,.09) 0 14px,transparent 14px 28px)}
 .cover.typo::after{content:"";position:absolute;inset:auto 0 0 0;height:55%;background:linear-gradient(transparent,rgba(0,0,0,.28))}
-.cover .cw{position:absolute;left:16px;right:16px;bottom:14px;z-index:1;font-family:var(--f-display);font-weight:900;color:#fff;font-size:min(40px,calc((100cqw - 32px)/(var(--L,8)*.9)));line-height:.98;letter-spacing:-.03em;overflow-wrap:break-word;text-wrap:balance}
+.cover .cw{position:absolute;left:16px;right:16px;bottom:14px;z-index:1;font-family:var(--f-display);font-weight:900;color:#fff;font-size:min(40px,calc((100cqw - 32px)/(var(--L,8)*1.15)));line-height:.98;letter-spacing:-.03em;overflow-wrap:normal;word-break:normal;hyphens:none;text-wrap:balance}
 .cover[data-r="branded"] .cw,.cover[data-r="short"] .cw{color:#16130F}
+.cover .cw-word{display:inline-block;white-space:nowrap}
 .cover .credit{position:absolute;right:10px;bottom:8px;z-index:1;font-size:10px;color:#fff;background:rgba(0,0,0,.5);padding:2px 7px;border-radius:5px}
 .cover .num{position:absolute;left:14px;top:12px;z-index:1;font-family:var(--f-display);font-weight:800;font-size:13px;color:#fff;background:rgba(0,0,0,.35);border-radius:999px;padding:3px 10px}
-.lead-card .cover .cw{font-size:min(72px,calc((100cqw - 32px)/(var(--L,8)*.9)))}
+.lead-card .cover .cw{font-size:min(72px,calc((100cqw - 32px)/(var(--L,8)*1.15)))}
 
 .vbadge{position:absolute;right:12px;top:12px;z-index:2;font-size:12px;font-weight:800;color:#fff;background:rgba(0,0,0,.6);border-radius:999px;padding:5px 11px;-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
 .play{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;background:linear-gradient(transparent 40%,rgba(0,0,0,.45));color:#fff;font-weight:800;font-size:15px}
@@ -164,10 +166,10 @@ footer a{font-weight:600;color:var(--ink-2)}
 .s-in{max-width:760px;margin:0 auto;padding-bottom:calc(44px + env(safe-area-inset-bottom,0px))}
 .s-in .cover{aspect-ratio:16/10}
 .s-in .cover.playing{aspect-ratio:16/9}
-.s-in .cover .cw{font-size:min(60px,calc((100cqw - 32px)/(var(--L,8)*.9)))}
+.s-in .cover .cw{font-size:min(60px,calc((100cqw - 32px)/(var(--L,8)*1.15)))}
 @media (min-width:800px){.s-in{padding-top:20px}.s-in .cover{border-radius:20px}}
 .s-body{padding:18px var(--gut-r) 0 var(--gut);display:flex;flex-direction:column;gap:16px}
-.s-body h2{margin:0;font-family:var(--f-display);font-weight:800;font-size:clamp(25px,7vw,40px);line-height:1.1;letter-spacing:-.02em;overflow-wrap:break-word}
+.s-body h2{margin:0;font-family:var(--f-display);font-weight:800;font-size:clamp(25px,7vw,40px);line-height:1.1;letter-spacing:-.02em;overflow-wrap:normal;word-break:normal;hyphens:none}
 .dek{margin:0;font-size:18.5px;line-height:1.5;font-weight:500}
 .why{border-left:4px solid var(--rc);background:var(--card);border-radius:0 14px 14px 0;padding:14px 16px}
 .why b{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--rc);margin-bottom:4px}
@@ -197,7 +199,7 @@ footer a{font-weight:600;color:var(--ink-2)}
   </div>
 </header>
 <nav class="nav" aria-label="Рубрики"><div class="wrap" id="nav"></div></nav>
-<main class="wrap" id="main"><section class="state"><h2>Загружаю выпуск…</h2><p>Свежие новости появляются здесь каждый вечер к 18:00 по Москве.</p></section></main>
+<main class="wrap" id="main"><section class="state"><h2>Загружаю выпуск…</h2><p>Свежие новости появляются здесь каждое утро к 10:00 по Москве.</p></section></main>
 <footer><div class="wrap" id="foot"></div></footer>
 
 <div class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-label="Выпуски"><div class="box"><h3>Выпуски</h3><div id="issueList"></div></div></div>
@@ -224,6 +226,21 @@ let idx=null,issues=[],cur=null,stories=[],deck=[],rIdx=0;
 
 const SIZES={card:"(min-width:1000px) 370px, (min-width:640px) 45vw, 86vw",lead:"(min-width:860px) 650px, 100vw",reader:"(min-width:800px) 760px, 100vw"};
 const ytId=u=>{const m=String(u||"").match(/(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([A-Za-z0-9_-]{11})/);return m?m[1]:null};
+// Fit whole words to the available cover width, including after web fonts load.
+const fitCoverWord = cover => {
+  const text=cover.querySelector('.cw');if(!text)return;
+  text.style.removeProperty('font-size');
+  const available=text.clientWidth;if(!available)return;
+  const longest=Math.max(0,...[...text.children].map(word=>word.getBoundingClientRect().width));
+  if(longest>available)text.style.fontSize=(parseFloat(getComputedStyle(text).fontSize)*available/longest*.98)+'px';
+};
+const coverWordObserver=new ResizeObserver(entries=>entries.forEach(entry=>fitCoverWord(entry.target)));
+function watchCoverWords(){
+  coverWordObserver.disconnect();
+  document.querySelectorAll('.cover.typo').forEach(cover=>{coverWordObserver.observe(cover);fitCoverWord(cover)});
+}
+document.fonts.ready.then(watchCoverWords);
+
 function cover(s,num,ctx="card"){
   const im=s.image&&s.image.url;
   const n=num?`<span class="num">${num}</span>`:"";
@@ -232,10 +249,10 @@ function cover(s,num,ctx="card"){
   const play=vid&&ctx==="reader"?`<button class="play" type="button" data-play="${vid}" aria-label="Смотреть: ${esc(s.video.label||"видео")}"><i>▶</i><span>${esc(s.video.label||"видео")}</span></button>`:"";
   const cr=im&&s.image.credit&&!s.image.illustration&&ctx!=="reader"?`<span class="credit">${esc(s.image.credit)}</span>`:"";
   if(im){const sm=s.image.small;const src=sm?`src="${esc(sm)}" srcset="${esc(sm)} 640w, ${esc(im)} 1200w" sizes="${SIZES[ctx]}"`:`src="${esc(im)}"`;
-    return `<div class="cover" data-r="${s.rubric}" style="${rc(s.rubric)}"><img ${src} alt="" loading="${ctx==="lead"?"eager":"lazy"}" decoding="async">${n}${vb}${cr}${play}</div>`}
-  return `<div class="cover typo" data-r="${s.rubric}" style="${rc(s.rubric)}" aria-hidden="true">${n}${vb}<span class="cw" style="--L:${Math.max(6,...String(s.cover_word||s.title||"").split(/\s+/).map(w=>w.length))}">${esc(s.cover_word||s.title||"")}</span>${play}</div>`;
+    return `<div class="cover" data-r="${s.rubric}" style="${rc(s.rubric)}"><img ${src} alt="${esc(s.image.alt||s.headline||"")}" style="object-position:${esc(s.image.position||"50% 50%")};object-fit:${s.image.fit==="contain"?"contain":"cover"}" loading="${ctx==="lead"?"eager":"lazy"}" decoding="async">${n}${vb}${cr}${play}</div>`}
+  return `<div class="cover typo" data-r="${s.rubric}" style="${rc(s.rubric)}" aria-hidden="true">${n}${vb}<span class="cw" style="--L:${Math.max(6,...String(s.cover_word||s.title||"").split(/\s+/).map(w=>w.length))}">${String(s.cover_word||s.title||"").trim().split(/\s+/).map(word=>`<span class="cw-word">${esc(word)}</span>`).join(" ")}</span>${play}</div>`;
 }
-const credit=s=>{const i=s.image||{};if(!i.url)return "";if(i.illustration)return `<p class="cap">Иллюстрация Fresh Juice по мотивам новости</p>`;return `<p class="cap">Фото: ${esc(i.credit||"источник")}${i.link?` · <a href="${esc(i.link)}" target="_blank" rel="noopener">источник ↗</a>`:""}</p>`};
+const credit=s=>{const i=s.image||{};if(!i.url)return "";if(i.illustration)return `<p class="cap">Иллюстрация Fresh Juice по мотивам новости</p>`;return `<p class="cap">${esc(i.caption||("Изображение: "+(i.credit||"источник")))}${i.link?` · <a href="${esc(i.link)}" target="_blank" rel="noopener">источник ↗</a>`:""}</p>`};
 const kick=(s,rub)=>`<div class="kick" style="${rc(s.rubric)}">${rub?`<span class="r">${RUB[s.rubric]}</span>`:""}<span>${esc(s.status||"")}</span><span>${esc(s.date_label||fd(s.date_iso))}${s.country?" · "+esc(s.country):""}</span></div>`;
 const card=(s,i,n)=>`<a class="card" href="#${esc(s.id)}" data-open="${esc(s.id)}" style="${rc(s.rubric)}">${cover(s,`${i+1}/${n}`,"card")}<div class="txt">${kick(s,false)}<h3>${esc(s.headline)}</h3><p>${esc(s.dek)}</p><span class="more">Читать →</span></div></a>`;
 
@@ -262,6 +279,7 @@ function render(){
   document.querySelectorAll(".rail").forEach(rl=>rl.addEventListener("scroll",()=>{const r=rl.id.slice(5);const d=document.getElementById("dots-"+r);if(!d)return;const w=rl.children[0]?rl.children[0].getBoundingClientRect().width+12:1;const i=Math.round(rl.scrollLeft/w);[...d.children].forEach((x,k)=>x.classList.toggle("on",k===i))},{passive:true}));
   const c=(idx&&idx.config)||{};
   $("#foot").innerHTML=`<span>Fresh Juice — ежедневный журнал JUICE о рынке видеоконтента.</span><span>Период: ${esc(cur.period_label||"")}. ${esc(cur.search_note||"")}</span>${cur.coverage_note?`<span>${esc(cur.coverage_note)}</span>`:""}${c.sheet_url?`<a href="${esc(c.sheet_url)}" target="_blank" rel="noopener">Реестр новостей</a>`:""}`;
+  watchCoverWords();
   spy();
 }
 function spy(){
@@ -282,6 +300,7 @@ function openReader(id){
   $("#reader").hidden=false;document.documentElement.style.overflow="hidden";
   const sl=$("#slides");sl.style.scrollBehavior="auto";sl.scrollLeft=i*sl.clientWidth;sl.style.scrollBehavior="";
   setPos(i);
+  watchCoverWords();
 }
 function stopVideos(keep){document.querySelectorAll(".slide .cover.playing").forEach(cv=>{const sl=cv.closest(".slide");if(sl!==keep){const k=[...sl.parentNode.children].indexOf(sl);cv.outerHTML=cover(deck[k],"","reader")}})}
 function setPos(i){
