@@ -224,6 +224,9 @@ const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&
 const rc=r=>`--rc:var(--${RUB[r]?r:"scripted"})${r==="short"||r==="branded"?";--rci:#16131C":""}`;
 const fd=iso=>{const d=new Date(iso+"T12:00:00");return isNaN(d)?(iso||""):`${d.getDate()} ${MON[d.getMonth()]}`};
 const plural=(n,f)=>{const a=n%10,b=n%100;return f[(a===1&&b!==11)?0:(a>=2&&a<=4&&(b<10||b>=20))?1:2]};
+const dailyNumbers=new Map();
+const issueLabel=i=>dailyNumbers.has(i.id)?("Выпуск № "+dailyNumbers.get(i.id)):(MODE[i.mode]||"Выпуск");
+const newsCount=n=>n+" "+plural(n,["новость","новости","новостей"]);
 let idx=null,issues=[],cur=null,stories=[],deck=[],rIdx=0;
 
 const SIZES={card:"(min-width:1000px) 370px, (min-width:640px) 45vw, 86vw",lead:"(min-width:860px) 650px, 100vw",reader:"(min-width:800px) 760px, 100vw"};
@@ -269,7 +272,7 @@ function render(){
   Object.values(by).forEach(a=>a.sort((x,y)=>(x.order||0)-(y.order||0)));
   const lead=stories.find(s=>s.id===cur.lead_id)||stories.find(s=>s.lead)||stories[0];
   deck=[];if(lead)deck.push(lead);ORDER.forEach(r=>by[r].forEach(s=>{if(s!==lead)deck.push(s)}));
-  $("#meta").innerHTML=`<b>${esc(MODE[cur.mode]||"Выпуск")} · ${esc(fd(cur.date))}</b> · ${stories.length} ${plural(stories.length,["новость","новости","новостей"])}`;
+  $("#meta").innerHTML=`<b>${esc(issueLabel(cur))} · ${esc(fd(cur.date))}</b> · ${stories.length} ${plural(stories.length,["новость","новости","новостей"])}`;
   $("#nav").innerHTML=ORDER.filter(r=>by[r].length).map(r=>`<a href="#sec-${r}" data-sec="${r}" style="${rc(r)}"><i></i>${NAV[r]}</a>`).join("");
   let h="";
   if(!stories.length){h=`<section class="state"><h2>Сегодня без новостей</h2><p>${esc(cur.empty_note||"За период новых подтверждённых новостей для подборки не нашёл.")}</p></section>`}
@@ -347,7 +350,8 @@ async function boot(){
   try{idx=await getJSON("data/index.json")}catch(e){state("Не получилось загрузить выпуски","Обновите страницу через минуту.");return}
   issues=(idx.issues||[]).slice().sort((a,b)=>String(b.date).localeCompare(String(a.date))||((a.mode==="pilot")-(b.mode==="pilot"))||String(b.id).localeCompare(String(a.id)));
   if(!issues.length){state("Первый выпуск скоро","Свежие новости появляются здесь каждый вечер к 18:00 по Москве.");return}
-  $("#issueList").innerHTML=issues.map(i=>`<button class="it" type="button" data-issue="${esc(i.id)}">${esc(fd(i.date))} <span>${esc(MODE[i.mode]||"Выпуск")} · ${i.count||0}</span></button>`).join("");
+  issues.filter(i=>i.mode==="daily").slice().reverse().forEach((i,n)=>dailyNumbers.set(i.id,n+1));
+  $("#issueList").innerHTML=issues.map(i=>`<button class="it" type="button" data-issue="${esc(i.id)}">${esc(issueLabel(i))} · ${esc(fd(i.date))} <span>${newsCount(i.count||0)}</span></button>`).join("");
   const h=decodeURIComponent((location.hash||"").slice(1));const si=idx.story_index||{};
   await loadIssue(si[h]||(issues.some(i=>i.id===h)?h:issues[0].id));
   if(si[h])openReader(h);

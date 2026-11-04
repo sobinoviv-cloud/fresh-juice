@@ -5,15 +5,15 @@
     "mode": "daily",
     "chip": "5 ноя",
     "lead_id": "n261105-01",
-    "count": 6,
+    "count": 24,
     "period_start": "2026-11-04T10:00:00+03:00",
-    "period_end": "2026-11-04T21:26:12+03:00",
+    "period_end": "2026-11-05T00:08:03+03:00",
     "publication_window_end": "2026-11-05T10:00:00+03:00",
-    "generated_at": "2026-11-04T21:26:12+03:00",
-    "period_label": "С 10:00 до 21:26 мск 4 ноября",
-    "revision": "v1",
-    "intro": "На этой неделе платье получает главную роль в мультфильме Dior, а у телемагазина появляется собственное варьете. Ещё в выпуске — два проекта автора «Грызни» и норвежский формат, который снимают в Сиднее.",
-    "coverage_note": "Отраслевые ленты, сообщения вещателей и правообладателей на 21:26 мск 4 ноября. В календаре указана дата окончания приёма заявок.",
+    "generated_at": "2026-11-05T00:08:03+03:00",
+    "period_label": "С 10:00 мск 4 ноября до ночной сверки 5 ноября, 00:08 мск",
+    "revision": "v2",
+    "intro": "Dior даёт голос рождественской звезде, а NBC оставляет камеру с одним ведущим на десять с половиной часов. В этом выпуске — 24 истории: от новой японской микродрамы до того, как устроен запуск женской лиги аренного гольфа.",
+    "coverage_note": "Новости 4 ноября из восьми направлений. Проверены даты объявлений, исходные сообщения, доступные материалы правообладателей и история журнала. Время события указано с точностью источника.",
     "agenda": [
       {
         "date": "10 ноября",
@@ -322,6 +322,854 @@
         "status": "reviewed",
         "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
       }
+    },
+    {
+      "id": "n261105-07",
+      "issue": "i2026-11-05",
+      "order": 7,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "Премьера",
+      "country": "Япония",
+      "title": "BUMP",
+      "cover_word": "Семейный суд",
+      "headline": "BUMP выпустил микродраму, в которой шестиклассник судит собственную мать",
+      "dek": "Вместо взрослых в зале суда — школьники. Мальчик, который ведёт хозяйство и растит младшую сестру, пытается разобраться, где кончается помощь семье.",
+      "what": "4 ноября в японском приложении BUMP вышел сериал 小学生が親を捨てるのは罪ですか？. В центре истории — ребёнок, которому дома досталась роль взрослого.",
+      "mechanics": "Одноклассница предлагает устроить суд прямо в школе. Один конфликт между матерью и сыном даёт сквозной сюжет для коротких эпизодов.",
+      "why": "Редкий для микродрамы выбор героя: решение, вокруг которого строится семейная история, должен принять сам ребёнок.",
+      "sources": [
+        {
+          "label": "emole · релиз издателя BUMP",
+          "url": "https://prtimes.jp/main/html/rd/p/000000200.000039336.html"
+        },
+        {
+          "label": "BUMP · страница сериала",
+          "url": "https://www.bump.studio/news/oyasute"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-07.webp",
+        "source_url": "https://prcdn.freetls.fastly.net/release_image/39336/200/39336-200-099baaa15e8a9cc2e296b392acae7751-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+        "link": "https://prtimes.jp/main/html/rd/p/000000200.000039336.html",
+        "credit": "emole / BUMP",
+        "illustration": false,
+        "fit": "contain",
+        "alt": "Официальный постер микродрамы BUMP",
+        "caption": "Официальный постер микродрамы BUMP.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T19:00:02+09:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "bump-oyasute-premiere-jp-2026",
+      "selected_because": "Редкий для микродрамы выбор героя: решение, вокруг которого строится семейная история, должен принять сам ребёнок.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-08",
+      "issue": "i2026-11-05",
+      "order": 8,
+      "lead": false,
+      "rubric": "unscripted",
+      "status": "Назначение",
+      "country": "США",
+      "title": "Amazon MGM Studios",
+      "cover_word": "Покупатель форматов",
+      "headline": "Дженни Грум возглавит MGM Alternative и займётся новыми телеформатами",
+      "dek": "В её ведение переходят каталоги Survivor, Shark Tank и The Voice. Новые шоу команда сможет разрабатывать и для Prime Video, и для внешних заказчиков.",
+      "what": "О назначении сообщила сотрудникам руководитель документальных и развлекательных проектов Amazon MGM Studios Дженн Леви. Deadline ознакомился с её письмом. Грум начинает в конце ноября.",
+      "mechanics": "Грум переходит из BBC Studios, где отвечала за разработку развлекательных программ. В новой должности она совмещает развитие собственных проектов с работой над существующими франшизами.",
+      "why": "Для независимого вещателя это означает, что подразделение Amazon по-прежнему может быть поставщиком форматов.",
+      "sources": [
+        {
+          "label": "Deadline · письмо руководителя Amazon MGM Studios",
+          "url": "https://deadline.com/2026/11/jenny-groom-amazon-head-of-mgm-alternative-1237213288/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-08.webp",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000_152f05.jpg?w=1000",
+        "link": "https://deadline.com/2026/11/jenny-groom-amazon-head-of-mgm-alternative-1237213288/",
+        "credit": "Deadline / Amazon MGM Studios",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Дженни Грум и логотип Amazon MGM Studios",
+        "caption": "Дженни Грум и логотип Amazon MGM Studios.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T18:05:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "agent-groom-head-mgm-alternative-2026",
+      "selected_because": "Для независимого вещателя это означает, что подразделение Amazon по-прежнему может быть поставщиком форматов.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-09",
+      "issue": "i2026-11-05",
+      "order": 9,
+      "lead": false,
+      "rubric": "unscripted",
+      "status": "Анонс",
+      "country": "США",
+      "title": "Hulu × Бобби Ли",
+      "cover_word": "Тридцать лет спустя",
+      "headline": "Hulu показал трейлер первого часового стендапа Бобби Ли",
+      "dek": "После более чем тридцати лет на сцене комик выпустит первый сольный час. Bobby Lee: Finally появится на Hulu 27 ноября.",
+      "what": "Сам контракт объявили ещё в январе. Новость 4 ноября — дата премьеры и первый трейлер, где Ли вспоминает прямолинейность своих родителей.",
+      "mechanics": "Выступление записали в театре Balboa в родном для комика Сан-Диего. Режиссёр — Луис Кац, среди исполнительных продюсеров — Билл Бёрр.",
+      "why": "Hulu продаёт премьеру как событие даже для давней аудитории: у известного актёра и подкастера до сих пор не было собственного часового спешла.",
+      "sources": [
+        {
+          "label": "Deadline · трейлер Hulu",
+          "url": "https://deadline.com/2026/11/bobby-lee-hulu-comedy-special-premiere-date-trailer-1237213279/"
+        }
+      ],
+      "video": {
+        "label": "Трейлер Hulu",
+        "url": "https://www.youtube.com/watch?v=9e0nhJc3GAE"
+      },
+      "image": {
+        "url": "img/n261105-09.webp",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/11/180814_0110_V1.jpg?w=1024",
+        "link": "https://deadline.com/2026/11/bobby-lee-hulu-comedy-special-premiere-date-trailer-1237213279/",
+        "credit": "Hulu / Deadline",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Бобби Ли на сцене",
+        "caption": "Бобби Ли на сцене.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T17:30:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "hulu-bobby-lee-finally-trailer-2026",
+      "selected_because": "Hulu продаёт премьеру как событие даже для давней аудитории: у известного актёра и подкастера до сих пор не было собственного часового спешла.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-10",
+      "issue": "i2026-11-05",
+      "order": 10,
+      "lead": false,
+      "rubric": "unscripted",
+      "status": "Анонс",
+      "country": "США",
+      "title": "Netflix × Джанмарко Сорези",
+      "cover_word": "Из клуба на Netflix",
+      "headline": "Netflix выпустит первый сольный спешл Джанмарко Сорези для платформы",
+      "dek": "God Forbid выйдет по всему миру 3 декабря. Предыдущий час комик сам выложил на YouTube.",
+      "what": "Сорези объявил дату новой записи, снятой в чикагском Thalia Hall. В программе — брак, отцовство и тревоги человека, который слишком хорошо научился их распознавать.",
+      "mechanics": "Его предыдущий спешл Thief of Joy набрал на YouTube свыше миллиона просмотров за первую неделю, по данным Deadline. На Netflix Сорези до сих пор появлялся в сборной программе Verified Stand-Up.",
+      "why": "Самостоятельный релиз дал комику измеримую аудиторию до того, как стример взял его полный сольный концерт.",
+      "sources": [
+        {
+          "label": "Deadline · сообщение и комментарий Сорези",
+          "url": "https://deadline.com/2026/11/gianmarco-soresi-netflix-special-premiere-date-1237213183/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-10.webp",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/11/Gianmarco-Soresi-God-Forbid-Derick-Smith-1.jpg?w=1024",
+        "link": "https://deadline.com/2026/11/gianmarco-soresi-netflix-special-premiere-date-1237213183/",
+        "credit": "Дерик Смит / Deadline",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Джанмарко Сорези во время выступления",
+        "caption": "Джанмарко Сорези во время выступления.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T16:30:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "soresi-god-forbid-netflix-premiere-2026",
+      "selected_because": "Самостоятельный релиз дал комику измеримую аудиторию до того, как стример взял его полный сольный концерт.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-11",
+      "issue": "i2026-11-05",
+      "order": 11,
+      "lead": false,
+      "rubric": "doc",
+      "status": "Анонс",
+      "country": "Словения / Европа",
+      "title": "Eurosport × HBO Max",
+      "cover_word": "Анатомия чемпиона",
+      "headline": "Eurosport открывает документальный цикл фильмом о Тадее Погачаре",
+      "dek": "Anatomy of a G.O.A.T. начинает с вопроса о том, как устроено преимущество выдающегося спортсмена. Первый выпуск длится 45 минут.",
+      "what": "Eurosport представил новый документальный формат. Для первого фильма команда записала словенского велогонщика, его родителей, товарищей по команде и спортивных учёных.",
+      "mechanics": "Семейные воспоминания и наблюдения соперников авторы сопоставляют с научным разбором физических качеств гонщика. В Словении премьера на Eurosport 2 и HBO Max назначена на 7 ноября.",
+      "why": "У цикла есть воспроизводимая конструкция: одного героя можно рассмотреть одновременно изнутри семьи, команды и спортивной лаборатории.",
+      "sources": [
+        {
+          "label": "Eurosport · пресс-служба в Словении",
+          "url": "https://press-si.wbd.eu/post/tadej-pogacar-v-srediscu-eurosportovega-novega-dokumentarnega-fi"
+        }
+      ],
+      "video": {
+        "label": "Промо из релиза Eurosport",
+        "url": "https://www.youtube.com/watch?v=iMd8AUw3sio"
+      },
+      "image": {
+        "url": "img/n261105-11.webp",
+        "source_url": "https://image-proxy.clipsource.com/eyJidWNrZXQiOiJjbGlwc291cmNlLWZyb250ZW5kLWFzc2V0cyIsImtleSI6IndiZC02M2Q5MmY1MmI0MjRkXC9hbmF0b215LW9mLWEtZy1vLWEtdC1zbG8tZXVyb3Nwb3J0XzZhZWIzYTM1MjRhZjJfdGh1bWJuYWlsLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwLCJoZWlnaHQiOm51bGwsInBvc2l0aW9uIjoiYXR0ZW50aW9uIiwiZml0IjoiY292ZXIiLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==?format=webp",
+        "link": "https://press-si.wbd.eu/post/tadej-pogacar-v-srediscu-eurosportovega-novega-dokumentarnega-fi",
+        "credit": "Eurosport",
+        "illustration": false,
+        "fit": "contain",
+        "alt": "Промоматериал фильма Eurosport о Тадее Погачаре",
+        "caption": "Промоматериал фильма Eurosport о Тадее Погачаре.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "pogi-eurosport-anatomy-series-2026",
+      "selected_because": "У цикла есть воспроизводимая конструкция: одного героя можно рассмотреть одновременно изнутри семьи, команды и спортивной лаборатории.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-12",
+      "issue": "i2026-11-05",
+      "order": 12,
+      "lead": false,
+      "rubric": "doc",
+      "status": "Награда",
+      "country": "Великобритания",
+      "title": "Dependence × BFI",
+      "cover_word": "Семейные плёнки",
+      "headline": "Зрители Лондонского кинофестиваля выбрали семейную документалку Dependence",
+      "dek": "Фильм Грейс Харпер Бригхаус победил в категории Best British Discovery. Результаты зрительского голосования BFI объявил 4 ноября, уже после закрытия фестиваля.",
+      "what": "Режиссёр разбирает домашние записи нескольких десятилетий после смерти отца. Семейная хроника становится материалом для разговора о жизни рядом с человеком с зависимостью.",
+      "mechanics": "На фестивале картину показывали в документальном конкурсе Grierson. Нынешняя награда присуждена по голосованию публики в отдельной категории британских открытий.",
+      "why": "Фильм, сделанный из частного архива, получил самостоятельный повод для внимания спустя несколько недель после показа.",
+      "sources": [
+        {
+          "label": "BFI · результаты зрительского голосования",
+          "url": "https://www.bfi.org.uk/london-film-festival/news/70th-bfi-london-film-festival-announces-lff-audience-award-winners"
+        },
+        {
+          "label": "Deadline · результат и история создания",
+          "url": "https://deadline.com/2026/11/london-film-festival-la-bola-negra-audience-award-2026-1237212998/"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "sdep-dependence-bfi-discovery-2026",
+      "selected_because": "Фильм, сделанный из частного архива, получил самостоятельный повод для внимания спустя несколько недель после показа.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-13",
+      "issue": "i2026-11-05",
+      "order": 13,
+      "lead": false,
+      "rubric": "digital",
+      "status": "Запуск",
+      "country": "США",
+      "title": "AdsWizz × Apple Podcasts",
+      "cover_word": "Из аудио в видео",
+      "headline": "AdsWizz открывает издателям продажу рекламы в видеоподкастах Apple",
+      "dek": "У существующего аудиоролика появляется визуальная пара. Рекламодатель может выйти в видеоподкаст без отдельной съёмки.",
+      "what": "После тестов с ограниченным числом издателей AdsWizz расширил доступ к монетизации видео на Apple Podcasts для издателей и авторов.",
+      "mechanics": "При просмотре видео к звуковому объявлению добавляется баннер бренда. Автор сохраняет контроль над контентом и отношениями с рекламодателями, сообщает компания.",
+      "why": "Переход к видео обычно требует ещё одного комплекта рекламных материалов. Здесь продавец может начать с того, что уже записано для аудио.",
+      "sources": [
+        {
+          "label": "SiriusXM · сообщение AdsWizz",
+          "url": "https://investor.siriusxm.com/news-events/press-releases/detail/2318/adswizz-powers-a-new-era-of-podcast-video-monetization-on"
+        }
+      ],
+      "video": null,
+      "image": null,
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "adwizz-apple-podcasts-video-ads-access-2026",
+      "selected_because": "Переход к видео обычно требует ещё одного комплекта рекламных материалов. Здесь продавец может начать с того, что уже записано для аудио.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-14",
+      "issue": "i2026-11-05",
+      "order": 14,
+      "lead": false,
+      "rubric": "digital",
+      "status": "Результаты",
+      "country": "США",
+      "title": "NBC News × YouTube",
+      "cover_word": "Камера не выключается",
+      "headline": "Отдельная камера NBC со Стивом Корнаки собрала 6,1 млн просмотров на YouTube",
+      "dek": "В ночь американских выборов зритель мог провести десять с половиной часов у карты вместе с одним аналитиком. На всех площадках NBC насчитал 29 млн просмотров.",
+      "what": "NBC опубликовал результаты Kornacki Cam. Пока основной телеэфир переключался между сюжетами, интернет-трансляция оставалась со Стивом Корнаки, который разбирал поступавшие цифры.",
+      "mechanics": "На YouTube пик одновременного просмотра превысил 300 тысяч. Это отдельный показатель: 6,1 млн — просмотры за трансляцию, 29 млн — суммарные просмотры на всех площадках.",
+      "why": "Непрерывная работа одного ведущего стала самостоятельным продуктом со своей аудиторией, хотя съёмка шла в том же штабе, что и телевизионный эфир.",
+      "sources": [
+        {
+          "label": "TheWrap · данные NBC News",
+          "url": "https://www.thewrap.com/media-platforms/tv/nbc-news-kornacki-cam-viewership-youtube-top-election-livestream/"
+        },
+        {
+          "label": "NBC News · сообщение вещателя",
+          "url": "https://nbcuniversalnewsgroup.com/nbcnews/2026/11/04/nbc-news-kornacki-cam-is-the-1-election-livestream-on-youtube-with-a-record-29-million-views-across-all-platforms/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-14.webp",
+        "source_url": "https://www.thewrap.com/wp-content/uploads/2026/11/unnamed-3-e1793816857387.jpg",
+        "link": "https://www.thewrap.com/media-platforms/tv/nbc-news-kornacki-cam-viewership-youtube-top-election-livestream/",
+        "credit": "NBC News / TheWrap",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Стив Корнаки у экрана во время трансляции NBC",
+        "caption": "Стив Корнаки у экрана во время трансляции NBC.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T18:38:47+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "nbc2-kornacki-cam-midterms-results-2026",
+      "selected_because": "Непрерывная работа одного ведущего стала самостоятельным продуктом со своей аудиторией, хотя съёмка шла в том же штабе, что и телевизионный эфир.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-15",
+      "issue": "i2026-11-05",
+      "order": 15,
+      "lead": false,
+      "rubric": "digital",
+      "status": "Разработка",
+      "country": "Великобритания",
+      "title": "BossaNova × Energy UK",
+      "cover_word": "Как это работает",
+      "headline": "BossaNova запустила разработку коротких видео об энергетике из съёмок самих предприятий",
+      "dek": "Energy Explained начнётся с пилотного сотрудничества с отраслевой ассоциацией Energy UK. За цифровую дистрибуцию и развитие аудитории отвечает Klik Studios.",
+      "what": "Продюсер и ассоциация договорились использовать архивы энергетических компаний и допуск на объекты. Вопросы для выпусков берут из того, что люди ищут в интернете.",
+      "mechanics": "На таких кадрах можно показать путь электричества от станции до дома или объяснить, как сеть справляется с переменчивым ветром. Дата премьеры и количество серий пока не объявлены.",
+      "why": "Продюсер получает доступ к редкой натуре, а у отраслевой ассоциации появляется редакционный партнёр, способный превратить технические съёмки в понятное видео.",
+      "sources": [
+        {
+          "label": "Señal News · комментарии BossaNova и Energy UK",
+          "url": "https://senalnews.com/en/content/bossanova-media-expands-into-digital-first-factual-content-alongside-energy-uk-and-klik-studios"
+        },
+        {
+          "label": "C21 · пилотный проект",
+          "url": "https://www.c21media.net/news/bossanova-media-forges-digital-first-content-alliance-with-uk-energy-industry-body/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-15.webp",
+        "source_url": "https://senalnews.com/adjuntos/imagenes/000/187/0000187803.jpg",
+        "link": "https://senalnews.com/en/content/bossanova-media-expands-into-digital-first-factual-content-alongside-energy-uk-and-klik-studios",
+        "credit": "Señal News",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Промышленная площадка на фото из анонса проекта",
+        "caption": "Промышленная площадка на фото из анонса проекта.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T08:48:30+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "energycom-energy-explained-pilot-uk-2026",
+      "selected_because": "Продюсер получает доступ к редкой натуре, а у отраслевой ассоциации появляется редакционный партнёр, способный превратить технические съёмки в понятное видео.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-16",
+      "issue": "i2026-11-05",
+      "order": 16,
+      "lead": false,
+      "rubric": "branded",
+      "status": "Запуск",
+      "country": "Великобритания",
+      "title": "Boots × VML",
+      "cover_word": "Подаркомания",
+      "headline": "Boots снял рождественскую рекламу о том, что бывает с подарками после праздника",
+      "dek": "Получательница LED-маски так к ней привязывается, что выносит в ней мусор и позирует на семейной фотографии. Другой подарок добирается до романтического ужина.",
+      "what": "4 ноября сеть Boots начала показ For Gifts They’ll Really Love на своих цифровых каналах. Режиссёр Фиби Арстайн сняла фильм для команды WPP и VML.",
+      "mechanics": "После сцены у ёлки история перепрыгивает на месяцы вперёд. Помимо 60-секундного фильма марка подготовила 20-секундные версии и отдельные ролики с товарными предложениями.",
+      "why": "Для целой линейки подарков нашли один комедийный приём: показать покупку спустя месяцы, когда новая вещь уже стала привычкой.",
+      "sources": [
+        {
+          "label": "Boots · фильм и план кампании",
+          "url": "https://www.boots-uk.com/newsroom/features/boots-celebrates-christmas-gifting-with-bold-new-festive-campaign-for-gifts-they-ll-really-love/"
+        }
+      ],
+      "video": {
+        "label": "Фильм кампании Boots",
+        "url": "https://www.youtube.com/watch?v=powSmKDgxnI"
+      },
+      "image": {
+        "url": "img/n261105-16.webp",
+        "source_url": "https://www.boots-uk.com/media/fhmfiqg0/boots_christmas_ad_for_the_gifts_theyll_really_love_still_2.png",
+        "link": "https://www.boots-uk.com/newsroom/features/boots-celebrates-christmas-gifting-with-bold-new-festive-campaign-for-gifts-they-ll-really-love/",
+        "credit": "Boots",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Кадр из рождественского фильма Boots",
+        "caption": "Кадр из рождественского фильма Boots.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "boots-gifts-theyll-really-love-release-2026",
+      "selected_because": "Для целой линейки подарков нашли один комедийный приём: показать покупку спустя месяцы, когда новая вещь уже стала привычкой.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-17",
+      "issue": "i2026-11-05",
+      "order": 17,
+      "lead": false,
+      "rubric": "short",
+      "status": "Запуск",
+      "country": "Бразилия",
+      "title": "Adobe Lightroom × TikTok",
+      "cover_word": "Проявить потом",
+      "headline": "Adobe превратит ролики пользователей Lightroom в рекламу на TikTok",
+      "dek": "Кампания Revela Depois стартовала 4 ноября. Фотографы Бриан Балдрати и Дебора Габрич вместе с певицей Ajuliacosta показывают, как обрабатывать случайные снимки с событий и из поездок.",
+      "what": "Adobe начала кампанию в Instagram и TikTok. С 11 по 19 ноября зрители смогут ответить своим роликом по хештегу #RevelaDepois в формате TikTok Branded Mission.",
+      "mechanics": "Отобранные видео получат платное продвижение и попадут в общую подборку. Правило участия связывает ролик с конкретным действием в мобильном редакторе.",
+      "why": "Вместо одинаковых видео по брифу у бренда появится серия разных исходных кадров, на которых зрители сами демонстрируют продукт.",
+      "sources": [
+        {
+          "label": "Propmark · комментарий Adobe",
+          "url": "https://propmark.com.br/digital/adobe-lanca-campanha-no-tiktok-para-o-aplicativo-lightroom-mobile/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-17.webp",
+        "source_url": "https://propmark.com.br/wp-content/uploads/2026/11/Design-sem-nome.webp",
+        "link": "https://propmark.com.br/digital/adobe-lanca-campanha-no-tiktok-para-o-aplicativo-lightroom-mobile/",
+        "credit": "Adobe / Propmark",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Участники кампании Adobe Lightroom Mobile",
+        "caption": "Участники кампании Adobe Lightroom Mobile.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T15:53:00-03:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "adobe-revela-depois-brazil-2026",
+      "selected_because": "Вместо одинаковых видео по брифу у бренда появится серия разных исходных кадров, на которых зрители сами демонстрируют продукт.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-18",
+      "issue": "i2026-11-05",
+      "order": 18,
+      "lead": false,
+      "rubric": "short",
+      "status": "Запуск",
+      "country": "Польша",
+      "title": "Żabka × Ван Дамм × Skolim",
+      "cover_word": "Съедобный баттл",
+      "headline": "Żabka перенесла TikTok-дуэль Ван Дамма и Skolim к кассе",
+      "dek": "В октябрьских тизерах актёр и польский певец обменивались вызовами. 4 ноября сеть запустила Hot Dog Challenge с двумя реальными вкусами и голосованием покупателей.",
+      "what": "В TikTok бренда появился сгенерированный с помощью ИИ Ван Дамм, а Skolim ответил со своего аккаунта. Теперь роли «старой» и «новой» школы закреплены за двумя лимитированными хот-догами.",
+      "mechanics": "Для участия в конкурсе покупатель регистрирует код с чека. Голосование продлится до 1 декабря; среди призов — поездка в Гонконг или встреча со Skolim.",
+      "why": "Развязка противостояния зависит от выбора аудитории уже в магазине. Новость — запуск этой механики, а не повторный показ октябрьского тизера.",
+      "sources": [
+        {
+          "label": "Wiadomości Spożywcze · старт голосования",
+          "url": "https://wiadomoscispozywcze.pl/artykuly/16797/jean-claude-van-damme-walczy-w-zabce-aktor-wystapi-w-kampanii-ze-skolimem/"
+        },
+        {
+          "label": "Żabka · тизер в TikTok",
+          "url": "https://www.tiktok.com/@zabkapolska/video/7702127133631450401"
+        }
+      ],
+      "video": {
+        "label": "Тизер Żabka в TikTok",
+        "url": "https://www.tiktok.com/@zabkapolska/video/7702127133631450401"
+      },
+      "image": {
+        "url": "img/n261105-18.webp",
+        "source_url": "https://wiadomoscispozywcze.pl/media/seo/skolim-zabka-2.jpg",
+        "link": "https://wiadomoscispozywcze.pl/artykuly/16797/jean-claude-van-damme-walczy-w-zabce-aktor-wystapi-w-kampanii-ze-skolimem/",
+        "credit": "Wiadomości Spożywcze / Żabka",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Витрина Żabka с двумя участниками Hot Dog Challenge",
+        "caption": "Витрина Żabka с двумя участниками Hot Dog Challenge.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "zabka-hot-dog-challenge-purchase-vote-2026",
+      "selected_because": "Развязка противостояния зависит от выбора аудитории уже в магазине. Новость — запуск этой механики, а не повторный показ октябрьского тизера.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-19",
+      "issue": "i2026-11-05",
+      "order": 19,
+      "lead": false,
+      "rubric": "short",
+      "status": "Данные компании",
+      "country": "Бразилия",
+      "title": "Shopee Vídeo",
+      "cover_word": "Ролик ведёт к товару",
+      "headline": "Shopee сообщила о 700 тысячах новых видео в день в бразильской ленте покупок",
+      "dek": "Перед распродажами 11.11 и Black Friday бразильское подразделение раскрыло масштаб Shopee Vídeo. Маркетплейс отдельно сообщает о более чем 20 тысячах прямых трансляций в день.",
+      "what": "В материале с комментарием директора по маркетингу Фелипе Пиринжера Shopee описала, как готовит сезон распродаж. Короткие видео и прямые эфиры работают внутри самого приложения.",
+      "mechanics": "Автор прикрепляет к ролику товар. Партнёры могут заработать комиссию, если покупатель переходит из видео и оформляет заказ. 700 тысяч — число публикаций, не просмотров или покупок.",
+      "why": "Эта цифра показывает объём контента, который поступает в собственную видеоленту магазина ежедневно. Источник показателя — сама Shopee.",
+      "sources": [
+        {
+          "label": "Propmark · данные Shopee Brasil",
+          "url": "https://propmark.com.br/anunciantes/famosa-em-datas-duplas-shopee-amplia-a-ideia-com-o-social-commerce/"
+        },
+        {
+          "label": "Shopee Brasil · как устроена видеолента",
+          "url": "https://help.shopee.com.br/portal/10/article/164977-Conhe%C3%A7a-a-Shopee-Video"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-19.webp",
+        "source_url": "https://propmark.com.br/wp-content/uploads/2026/11/Felipe-Piringer-Diretor-de-Marketing-1024x576.webp",
+        "link": "https://propmark.com.br/anunciantes/famosa-em-datas-duplas-shopee-amplia-a-ideia-com-o-social-commerce/",
+        "credit": "Shopee / Propmark",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Фелипе Пиринжер, директор по маркетингу Shopee",
+        "caption": "Фелипе Пиринжер, директор по маркетингу Shopee.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T13:00:00-03:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "sho-brasil-video-volume-disclosure-2026",
+      "selected_because": "Эта цифра показывает объём контента, который поступает в собственную видеоленту магазина ежедневно. Источник показателя — сама Shopee.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-20",
+      "issue": "i2026-11-05",
+      "order": 20,
+      "lead": false,
+      "rubric": "sport",
+      "status": "Сделка",
+      "country": "Великобритания / Ирландия",
+      "title": "Sky Sports × WTGL",
+      "cover_word": "Гольф под микрофоном",
+      "headline": "Sky Sports купил эксклюзивные права на женскую лигу аренного гольфа WTGL",
+      "dek": "Зрители Великобритании и Ирландии увидят каждый матч первых двух сезонов, включая плей-офф. Старт назначен на 8 ноября.",
+      "what": "Sky Sports объявил о расширении пакета прав. Он включает женские соревнования 2026 и 2027 годов и ещё два года мужской TGL.",
+      "mechanics": "Пять женских команд играют на специально построенной крытой арене во Флориде. Игроки носят микрофоны, поэтому зритель слышит, как команда обсуждает очередной рискованный удар.",
+      "why": "За один сезон зрители смогут узнать составы пяти команд и следить за тем, как спортсменки обсуждают тактику прямо во время матчей.",
+      "sources": [
+        {
+          "label": "Sky Sports · объявление о правах",
+          "url": "https://www.skysports.com/golf/news/13607905/womens-tgl-sky-sports-to-show-exclusive-live-coverage-of-new-womens-team-golf-league-featuring-lpga-tour-stars"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-20.webp",
+        "source_url": "https://e0.365dm.com/26/11/1600x900/skysports-lottie-woad-jeeno-thitikul_7396859.png?20261104125117",
+        "link": "https://www.skysports.com/golf/news/13607905/womens-tgl-sky-sports-to-show-exclusive-live-coverage-of-new-womens-team-golf-league-featuring-lpga-tour-stars",
+        "credit": "Sky Sports",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Участницы женской лиги аренного гольфа",
+        "caption": "Участницы женской лиги аренного гольфа.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "wtgl-sky-uk-ie-rights-2026",
+      "selected_because": "За один сезон зрители смогут узнать составы пяти команд и следить за тем, как спортсменки обсуждают тактику прямо во время матчей.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-21",
+      "issue": "i2026-11-05",
+      "order": 21,
+      "lead": false,
+      "rubric": "sport",
+      "status": "Партнёрство",
+      "country": "Германия",
+      "title": "НХЛ × Kö on Ice",
+      "cover_word": "Город перед матчем",
+      "headline": "НХЛ готовит болельщиков Дюссельдорфа к двум матчам через городской каток",
+      "dek": "С 6 ноября хоккейная лига станет партнёром площадки Kö on Ice. Сами матчи «Оттавы» и «Чикаго» пройдут только 18 и 20 декабря.",
+      "what": "НХЛ и организаторы катка объявили программу на зимний сезон. Посетители увидят пятиметровую ёлку из 264 использованных клюшек.",
+      "mechanics": "Лига привезёт цифровую фабрику праздничных открыток и фотостудию NHL Memory Studio. Посетитель сможет унести собственный сувенир с площадки до приезда команд. В неделю матчей на катке запишут при публике немецкоязычный подкаст НХЛ Schlagschuss.",
+      "why": "Так два матча регулярного сезона получают несколько недель местной фан-программы, в которой можно участвовать без билета на хоккей.",
+      "sources": [
+        {
+          "label": "НХЛ · программа в Дюссельдорфе",
+          "url": "https://www.nhl.com/news/nhl-partners-with-dusseldorf-s-ko-on-ice-ahead-of-global-series"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-21.webp",
+        "source_url": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/wtvzzaq0xylqk3uinttu.png",
+        "link": "https://www.nhl.com/news/nhl-partners-with-dusseldorf-s-ko-on-ice-ahead-of-global-series",
+        "credit": "НХЛ / Kö on Ice",
+        "illustration": false,
+        "fit": "contain",
+        "alt": "Символика партнёрства Kö on Ice и НХЛ",
+        "caption": "Символика партнёрства Kö on Ice и НХЛ.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "nhl-ko-on-ice-dusseldorf-2026",
+      "selected_because": "Так два матча регулярного сезона получают несколько недель местной фан-программы, в которой можно участвовать без билета на хоккей.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-22",
+      "issue": "i2026-11-05",
+      "order": 22,
+      "lead": false,
+      "rubric": "event",
+      "status": "Открытие",
+      "country": "Россия",
+      "title": "Якутский международный кинофестиваль",
+      "cover_word": "Ледяная дорожка",
+      "headline": "Якутский кинофестиваль открылся экранизацией Лескова и красной дорожкой изо льда",
+      "dek": "Первым фильмом IX фестиваля стала картина Эдуарда Новикова «На краю света». Открытие состоялось 4 ноября в Якутске.",
+      "what": "На церемонию пригласили авторов и гостей фестиваля. Они прошли по красной ледяной дорожке среди фигур изо льда; после церемонии зрителям показали фильм-открытие.",
+      "mechanics": "В расписании организатора отдельно указаны сеансы и площадки. Для открытия выбрали историю Лескова в интерпретации якутского режиссёра.",
+      "why": "Самое узнаваемое изображение дня родилось из материала, связанного именно с местом проведения. Оно рассказывает о фестивале ещё до первого кадра фильма.",
+      "sources": [
+        {
+          "label": "ЯСИА · репортаж с открытия",
+          "url": "https://ysia.ru/film-na-krayu-sveta-otkryl-ix-yakutskij-mezhdunarodnyj-kinofestival/"
+        },
+        {
+          "label": "Фестиваль · официальная программа",
+          "url": "https://yktfilmfest.org/ru/program"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-22.webp",
+        "source_url": "https://ysia.ru/wp-content/uploads/2026/11/325141bb-488a-420b-9f2c-58520ba3da5d-960x640.webp",
+        "link": "https://ysia.ru/film-na-krayu-sveta-otkryl-ix-yakutskij-mezhdunarodnyj-kinofestival/",
+        "credit": "ЯСИА",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Открытие IX Якутского кинофестиваля",
+        "caption": "Открытие IX Якутского кинофестиваля.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T19:34:55+09:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "yak-yakutsk-festival-opening-2026",
+      "selected_because": "Самое узнаваемое изображение дня родилось из материала, связанного именно с местом проведения. Оно рассказывает о фестивале ещё до первого кадра фильма.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-23",
+      "issue": "i2026-11-05",
+      "order": 23,
+      "lead": false,
+      "rubric": "event",
+      "status": "Объявление программы",
+      "country": "Франция",
+      "title": "Les Arcs Film Festival",
+      "cover_word": "Испанский акцент",
+      "headline": "Les Arcs объявил программу и председателя жюри полного метра",
+      "dek": "18-й фестиваль пройдёт с 12 по 19 декабря. Один из акцентов программы — испанское кино.",
+      "what": "Организаторы представили конкурсы европейского полного и короткого метра, премьерные показы и специальную программу. Короткий метр будет оценивать отдельное жюри во главе с Луизой Курвуазье.",
+      "mechanics": "В жюри полного метра вместе с бразильским режиссёром вошли, среди прочих, актриса Голшифте Фарахани и испанская постановщица Пилар Паломеро.",
+      "why": "Для короткого метра сохранили отдельную кураторскую и конкурсную линию. По объявленным составам уже видно, кто будет принимать решения в декабре.",
+      "sources": [
+        {
+          "label": "Les Arcs · программа фестиваля",
+          "url": "https://lesarcs-filmfest.com/en/festival/news-programmation?modefesti=c9257a"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-23.webp",
+        "source_url": "https://lesarcs-filmfest.com/laff/up/2026/refonte/programmation.png",
+        "link": "https://lesarcs-filmfest.com/en/festival/news-programmation?modefesti=c9257a",
+        "credit": "Les Arcs Film Festival",
+        "illustration": false,
+        "fit": "cover",
+        "alt": "Промоматериал программы Les Arcs",
+        "caption": "Промоматериал программы Les Arcs.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T10:43:39+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "lesarcs-18th-programme-2026",
+      "selected_because": "Для короткого метра сохранили отдельную кураторскую и конкурсную линию. По объявленным составам уже видно, кто будет принимать решения в декабре.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
+    },
+    {
+      "id": "n261105-24",
+      "issue": "i2026-11-05",
+      "order": 24,
+      "lead": false,
+      "rubric": "event",
+      "status": "Анонс",
+      "country": "Япония",
+      "title": "Ubisoft × HUB",
+      "cover_word": "Турнир за пределами арены",
+      "headline": "У турнира по Rainbow Six в Осаке появятся площадки для совместного просмотра в двух городах",
+      "dek": "Ubisoft объявила о просмотрах BLAST R6 Osaka Major в пабах HUB в Токио и Осаке. Они охватывают все три этапа турнира, а не только финал.",
+      "what": "Первая фаза стартует 6 ноября, последняя пройдёт с 13 по 15 ноября. Трансляции на участвующих площадках планируют включать с полудня по японскому времени.",
+      "mechanics": "К напитку зритель получит тематическую подставку, а за заказ от 1 000 иен — случайную наклейку, пока хватает тиража. Для площадок предусмотрены локальные варианты сувениров.",
+      "why": "Зрители за пределами основной арены получают повод возвращаться на разные стадии турнира. Один эфир превращается в серию очных встреч.",
+      "sources": [
+        {
+          "label": "Ubisoft · расписание совместных просмотров",
+          "url": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates/56Vbjlp0e5EFPGY24PlD5P/r6se-osaka-major-watch-party-announcement"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-24.webp",
+        "source_url": "https://staticctf.ubisoft.com/p0f8o8d25gmk/4oC04WBlZfQo6PCanljOVg/8ef5e7474a1b74e1d9904c53a56a0809/EN_THUMBNAIL_OVERVIEW.jpg",
+        "link": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates/56Vbjlp0e5EFPGY24PlD5P/r6se-osaka-major-watch-party-announcement",
+        "credit": "Ubisoft / BLAST R6",
+        "illustration": false,
+        "fit": "contain",
+        "alt": "Постер встреч болельщиков в Осаке и Токио",
+        "caption": "Постер встреч болельщиков в Осаке и Токио.",
+        "verified_at": "2026-11-05T00:08:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:08:03+03:00",
+      "event_key": "ubi-osaka-major-hub-watch-parties-2026",
+      "selected_because": "Зрители за пределами основной арены получают повод возвращаться на разные стадии турнира. Один эфир превращается в серию очных встреч.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:08:03+03:00"
+      },
+      "note": ""
     }
   ]
 }
