@@ -1,0 +1,327 @@
+{
+  "issue": {
+    "id": "i2026-11-05",
+    "date": "2026-11-05",
+    "mode": "daily",
+    "chip": "5 ноя",
+    "lead_id": "n261105-01",
+    "count": 6,
+    "period_start": "2026-11-04T10:00:00+03:00",
+    "period_end": "2026-11-04T21:26:12+03:00",
+    "publication_window_end": "2026-11-05T10:00:00+03:00",
+    "generated_at": "2026-11-04T21:26:12+03:00",
+    "period_label": "С 10:00 до 21:26 мск 4 ноября",
+    "revision": "v1",
+    "intro": "На этой неделе платье получает главную роль в мультфильме Dior, а у телемагазина появляется собственное варьете. Ещё в выпуске — два проекта автора «Грызни» и норвежский формат, который снимают в Сиднее.",
+    "coverage_note": "Отраслевые ленты, сообщения вещателей и правообладателей на 21:26 мск 4 ноября. В календаре указана дата окончания приёма заявок.",
+    "agenda": [
+      {
+        "date": "10 ноября",
+        "label": "Vertipitch Calvià · последний день подачи испанских проектов вертикальных сериалов. Организаторы отберут десять.",
+        "url": "https://www.calvia.com/es/calvia-al-dia/noticias/calvia-vertifest-y-aima-dos-festivales-de-cine-innovadores-para-afianzar-magaluf-como-destino-cultural"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "id": "n261105-01",
+      "issue": "i2026-11-05",
+      "order": 1,
+      "lead": true,
+      "rubric": "branded",
+      "status": "Релиз",
+      "country": "Франция",
+      "title": "Dior",
+      "cover_word": "Ночь в цвете",
+      "headline": "Dior снял мультфильм о платье, которое нужно переделать за одну ночь",
+      "dek": "Режиссёр «Трио из Бельвилля» Сильвен Шоме придумал для Dior рождественскую историю. За одну ночь кутюрье должен спасти съёмки Марлен Дитрих.",
+      "what": "В короткометражке Christian Dior’s Night in Color действие происходит в 1949 году. Из Голливуда звонят в парижское ателье: картину решили снимать в цвете, и актрисе срочно нужно другое платье.",
+      "mechanics": "Кристиану Диору помогают пчёлы, говорящее кресло и звезда на ёлке. Рассказ читает Роберт Паттинсон, кресло озвучил Джош О’Коннор, а звезду — Рианна.",
+      "why": "В основе сюжета — реальная дружба кутюрье и актрисы. Знание истории марки зрителю не понадобится: достаточно понять, что до начала съёмок осталась ночь.",
+      "note": "",
+      "sources": [
+        {
+          "label": "Dior · фильм и персонажи",
+          "url": "https://www.dior.com/en_no/fashion/news-savoir-faire/folder-news-and-events/christian-dior-s-night-in-color"
+        },
+        {
+          "label": "TheWrap · релиз",
+          "url": "https://www.thewrap.com/culture-lifestyle/culture/christian-dior-night-in-color-animated-short-rihanna/"
+        }
+      ],
+      "video": {
+        "label": "Смотреть фильм Dior",
+        "url": "https://www.youtube.com/watch?v=G3kIas8ooUQ"
+      },
+      "image": {
+        "url": "img/n261105-01.webp",
+        "source_url": "https://www.thewrap.com/wp-content/uploads/2026/11/Dior-Night-in-Color.jpg",
+        "link": "https://www.thewrap.com/culture-lifestyle/culture/christian-dior-night-in-color-animated-short-rihanna/",
+        "provenance_sha256": "b03301d7a614bddbf343eb225801f8cab67fd0aa36f67e561901e02f54d06183",
+        "alt": "Кадр из Christian Dior’s Night in Color.",
+        "credit": "Dior · кадр из фильма",
+        "caption": "Кадр из Christian Dior’s Night in Color.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T17:26:37+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "dior-night-in-color-animated-film-launch-2026",
+      "selected_because": "В основе сюжета — реальная дружба кутюрье и актрисы. Знание истории марки зрителю не понадобится: достаточно понять, что до начала съёмок осталась ночь.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
+      "id": "n261105-02",
+      "issue": "i2026-11-05",
+      "order": 2,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "В разработке",
+      "country": "США",
+      "title": "Lila Pictures × Netflix",
+      "cover_word": "После «Грызни»",
+      "headline": "Автор «Грызни» открыл Lila Pictures и разрабатывает два сериала для Netflix",
+      "dek": "Ли Сон Джин снова работает с Али Вонг. В мини-сериале The Only Child она сыграет мать профессиональной лучницы, которая готовится побороться за своё первое золото.",
+      "what": "Основатель Lila Pictures объявил о двух проектах в рамках сотрудничества с Netflix. Али Вонг также выступит продюсером The Only Child.",
+      "mechanics": "Второй проект, Citizen’s Arrest, придумал Джин Хонг, продюсер «Грызни». Двое друзей-соседей так увлекаются расследованием местного преступления, что могут и дальше откладывать разговор о собственных проблемах.",
+      "why": "У новой компании сразу две сценарные команды из круга «Грызни». По обоим проектам объявлена разработка. Дат съёмок пока нет.",
+      "note": "",
+      "sources": [
+        {
+          "label": "Deadline · заявление Ли Сон Джина",
+          "url": "https://deadline.com/2026/11/beef-creator-lee-sung-jin-lila-pictures-netflix-ali-wong-1237212702/"
+        },
+        {
+          "label": "Variety",
+          "url": "https://variety.com/2026/tv/news/beef-lee-sung-jin-netflix-shows-ali-wong-gene-hong-1236939410/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-02.webp",
+        "source_url": "https://deadline.com/wp-content/uploads/2026/11/Lee-Sung-Jin-PC_-Sela-Shiloni.jpeg?w=1024",
+        "link": "https://deadline.com/2026/11/beef-creator-lee-sung-jin-lila-pictures-netflix-ali-wong-1237212702/",
+        "provenance_sha256": "f581df210e13c3148b13d7927c6252b5dc0df0a04b6f5eeb70a73ca1f314ff18",
+        "alt": "Ли Сон Джин. Фото Селы Шилони.",
+        "credit": "Sela Shiloni / Deadline",
+        "caption": "Ли Сон Джин. Фото Селы Шилони.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T18:00:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "lila-pictures-netflix-two-development-projects-2026",
+      "selected_because": "У новой компании сразу две сценарные команды из круга «Грызни». По обоим проектам объявлена разработка. Дат съёмок пока нет.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
+      "id": "n261105-03",
+      "issue": "i2026-11-05",
+      "order": 3,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "Съёмки",
+      "country": "Австралия / Норвегия",
+      "title": "Apple TV × Made Up Stories",
+      "cover_word": "Из Осло в Сидней",
+      "headline": "Apple TV снимает в Сиднее свою версию норвежской «Пернилле»",
+      "dek": "В Lenni Тони Коллетт играет сотрудницу службы защиты детей. На работе она помогает чужим семьям, а дома пытается удержать на плаву собственную.",
+      "what": "Съёмки англоязычной версии уже начались в Австралии. Норвежскую драмеди адаптирует Сара Шеллер, соавтор австралийского сериала The Letdown.",
+      "mechanics": "Проект делают Made Up Stories и Keshet International. Создательница оригинала Хенриетте Стенструп вошла в команду исполнительных продюсеров. Тони Коллетт совмещает главную роль с продюсерской.",
+      "why": "При переносе сохранили двойную роль героини — мать и социальный работник. За местный контекст отвечает австралийская сценаристка, а за связь с оригиналом — его автор.",
+      "note": "",
+      "sources": [
+        {
+          "label": "Variety · сообщение о начале съёмок",
+          "url": "https://variety.com/2026/tv/news/toni-collette-apple-tv-lenni-norwegian-format-1236939304/"
+        },
+        {
+          "label": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/toni-collette-apple-tv-lenni-1236747702/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-03.webp",
+        "source_url": "https://variety.com/wp-content/uploads/2026/11/Toni-Collette-by-Christian-Hogstedt-e1793805510664.jpeg?w=1000&h=563&crop=1",
+        "link": "https://variety.com/2026/tv/news/toni-collette-apple-tv-lenni-norwegian-format-1236939304/",
+        "provenance_sha256": "e2c0c0298339bff914de95aca8b786c0c3c3422c2cc61adb9b83e10d5a36c284",
+        "alt": "Тони Коллетт. Портрет актрисы, опубликованный с анонсом.",
+        "credit": "Christian Högstedt / Variety",
+        "caption": "Тони Коллетт. Портрет актрисы, опубликованный с анонсом.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T16:00:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "apple-lenni-pernille-adaptation-sydney-production-2026",
+      "selected_because": "При переносе сохранили двойную роль героини — мать и социальный работник. За местный контекст отвечает австралийская сценаристка, а за связь с оригиналом — его автор.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
+      "id": "n261105-04",
+      "issue": "i2026-11-05",
+      "order": 4,
+      "lead": false,
+      "rubric": "branded",
+      "status": "Анонс",
+      "country": "США",
+      "title": "QVC+ × HSN+",
+      "cover_word": "Магазин ставит шоу",
+      "headline": "QVC пригласил Джона Ледженда в праздничное шоу о подарках",
+      "dek": "Merry Everything! — четыре выпуска для бесплатных стримингов QVC+ и HSN+. Премьера назначена на 6 ноября.",
+      "what": "Торговая телесеть представила праздничную программу. Ведущая Челси Филлипс Рид встретит в студии музыканта Джона Ледженда, актрис Дженни Гарт и Лори Лафлин и других гостей.",
+      "mechanics": "Гости рассказывают о своих семейных традициях, готовят, украшают стол и делятся идеями подарков. В программу также вошли музыкальные номера.",
+      "why": "У зрителя есть причина включить шоу до того, как он выбрал покупку: знакомый гость показывает, как сам отмечает праздник. Так торговая площадка строит собственную развлекательную программу.",
+      "note": "",
+      "sources": [
+        {
+          "label": "Variety · эксклюзив с программой от QVC",
+          "url": "https://variety.com/2026/tv/news/qvc-holiday-schedule-jennie-garth-john-legend-lori-loughlin-1236939238/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-04.webp",
+        "source_url": "https://variety.com/wp-content/uploads/2026/11/Merry-Everything-QVC.png?w=1000&h=563&crop=1",
+        "link": "https://variety.com/2026/tv/news/qvc-holiday-schedule-jennie-garth-john-legend-lori-loughlin-1236939238/",
+        "provenance_sha256": "41c725d60c301a68fa4219d8915cf38e7eff0c4107ff7e61b0bf861da4fa5ca2",
+        "alt": "Промокадр Merry Everything!, предоставленный для анонса.",
+        "credit": "QVC / Variety",
+        "caption": "Промокадр Merry Everything!, предоставленный для анонса.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T15:00:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "qvc-hsn-merry-everything-four-episodes-2026",
+      "selected_because": "У зрителя есть причина включить шоу до того, как он выбрал покупку: знакомый гость показывает, как сам отмечает праздник. Так торговая площадка строит собственную развлекательную программу.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
+      "id": "n261105-05",
+      "issue": "i2026-11-05",
+      "order": 5,
+      "lead": false,
+      "rubric": "doc",
+      "status": "Заказ",
+      "country": "Великобритания",
+      "title": "Channel 4 × Little Bird Films",
+      "cover_word": "Час документального ТВ",
+      "headline": "Channel 4 заказал часовой фильм The Hormone Fix",
+      "dek": "Валлийская Little Bird Films снимет для Channel 4 документальный спецвыпуск с Давинией Тейлор. Вещатель планирует показать его в 2027 году.",
+      "what": "Героиня будет разбираться, как гормоны связаны со сном, настроением и аппетитом, встречаясь со специалистами и участниками фильма.",
+      "mechanics": "Заказ рассчитан на один часовой выпуск. Элли Мерз совмещает роли режиссёра и продюсера.",
+      "why": "Редакция выбрала для широкой темы компактный формат: один проводник, истории участников и комментарии специалистов в одном эфирном часе.",
+      "note": "",
+      "sources": [
+        {
+          "label": "Channel 4 · заказ фильма",
+          "url": "https://www.channel4.com/press/news/channel-4-commissions-hormone-fix-davinia-taylor"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-05.webp",
+        "source_url": "https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2026-11/The%20Hormone%20Fix_TITLE%20CARD.jpg?h=02aa0ad8&itok=HFEzzTwj",
+        "link": "https://www.channel4.com/press/news/channel-4-commissions-hormone-fix-davinia-taylor",
+        "provenance_sha256": "8bfd296aaf80ae7e62f865f52617dbf618edc703ddad9a1ef5b8df881e628d2f",
+        "alt": "Официальная заставка The Hormone Fix.",
+        "credit": "Channel 4",
+        "caption": "Официальная заставка The Hormone Fix.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "channel4-littlebird-hormone-fix-commission-2026",
+      "selected_because": "Редакция выбрала для широкой темы компактный формат: один проводник, истории участников и комментарии специалистов в одном эфирном часе.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
+      "id": "n261105-06",
+      "issue": "i2026-11-05",
+      "order": 6,
+      "lead": false,
+      "rubric": "sport",
+      "status": "Анонс трансляции",
+      "country": "США",
+      "title": "ESPN × WWE",
+      "cover_word": "До и после ринга",
+      "headline": "ESPN начнёт эфир о WWE Crown Jewel за два часа до первого боя",
+      "dek": "7 ноября в США турнир покажет приложение ESPN по подписке Unlimited. Перед ним выйдет двухчасовое Countdown, а сразу после последнего боя — студийное шоу.",
+      "what": "ESPN расписал, как покажет Crown Jewel. Основная трансляция начнётся в полдень по восточному времени США. В программе — поединки Романа Рейнса с Сами Зейном и Коди Роудса с Рэнди Ортоном.",
+      "mechanics": "За два дня до турнира ESPN2 покажет отдельный выпуск о соперниках. Для соцсетей редакция готовит короткие истории, в том числе о том, как менялись отношения Рейнса и Зейна.",
+      "why": "У каждого экрана своя роль: телевидение и соцсети знакомят с конфликтом, а приложение собирает в одном месте предматчевый эфир, бои и разбор.",
+      "note": "",
+      "sources": [
+        {
+          "label": "ESPN · программа трансляции",
+          "url": "https://espnpressroom.com/press-release/wwe-crown-jewel-streams-saturday-nov-7-exclusively-on-the-espn-app-with-espn-unlimited-plan/"
+        }
+      ],
+      "video": {
+        "label": "Промо из пресс-релиза ESPN",
+        "url": "https://www.youtube.com/watch?v=Ppg76HNvkGc"
+      },
+      "image": {
+        "url": "img/n261105-06.webp",
+        "source_url": "https://espnpressroom.com/wp-content/uploads/Crown-Jewel-Pressroom-Featured-Image.jpg",
+        "link": "https://espnpressroom.com/press-release/wwe-crown-jewel-streams-saturday-nov-7-exclusively-on-the-espn-app-with-espn-unlimited-plan/",
+        "provenance_sha256": "ca8bb03171d947218482a2930bceefc429b047896edeb8ff2090f3b9e5f8ae0f",
+        "alt": "Промоматериал WWE Crown Jewel из пресс-центра ESPN.",
+        "credit": "ESPN / WWE",
+        "caption": "Промоматериал WWE Crown Jewel из пресс-центра ESPN.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "espn-wwe-crown-jewel-studio-countdown-coverage-nov-2026",
+      "selected_because": "У каждого экрана своя роль: телевидение и соцсети знакомят с конфликтом, а приложение собирает в одном месте предматчевый эфир, бои и разбор.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    }
+  ]
+}
