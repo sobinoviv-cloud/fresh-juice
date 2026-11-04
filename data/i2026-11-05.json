@@ -7,10 +7,10 @@
     "lead_id": "n261105-01",
     "count": 22,
     "period_start": "2026-11-04T10:00:00+03:00",
-    "period_end": "2026-11-05T00:41:28+03:00",
+    "period_end": "2026-11-05T00:43:03+03:00",
     "publication_window_end": "2026-11-05T10:00:00+03:00",
-    "generated_at": "2026-11-05T00:41:28+03:00",
-    "period_label": "С 10:00 мск 4 ноября до 00:41 мск 5 ноября",
+    "generated_at": "2026-11-05T00:43:03+03:00",
+    "period_label": "С 10:00 мск 4 ноября до 00:43 мск 5 ноября",
     "revision": "v3",
     "intro": "В Париже пианисты принимают конкурс талантов за съёмки документалки, а в Нью-Йорке зрителям Rockettes впервые показывают рисунок танца прямо сверху. Ещё в выпуске — как авторы YouTube-хоррора проверяют, готова ли аудитория платить за полный метр.",
     "coverage_note": "Восемь рубрик. В Non-scripted и Doc — по две истории. Дата карточки — новый факт: публикация первых кадров, результат, завершение съёмки или премьера, а не обязательно день первого анонса.",
@@ -78,153 +78,214 @@
       }
     },
     {
-      "id": "n261105-04",
+      "id": "n261105-25",
       "issue": "i2026-11-05",
       "order": 2,
       "lead": false,
-      "rubric": "branded",
-      "status": "Анонс",
-      "country": "США",
-      "title": "QVC+ × HSN+",
-      "cover_word": "Магазин ставит шоу",
-      "headline": "QVC пригласил Джона Ледженда в праздничное шоу о подарках",
-      "dek": "Merry Everything! — четыре выпуска для бесплатных стримингов QVC+ и HSN+. Премьера назначена на 6 ноября.",
-      "what": "Торговая телесеть представила праздничную программу. Ведущая Челси Филлипс Рид встретит в студии музыканта Джона Ледженда, актрис Дженни Гарт и Лори Лафлин и других гостей.",
-      "mechanics": "Гости рассказывают о своих семейных традициях, готовят, украшают стол и делятся идеями подарков. В программу также вошли музыкальные номера.",
-      "why": "У зрителя есть причина включить шоу до того, как он выбрал покупку: знакомый гость показывает, как сам отмечает праздник. Так торговая площадка строит собственную развлекательную программу.",
-      "note": "",
+      "rubric": "scripted",
+      "status": "Кейс",
+      "country": "Канада",
+      "title": "The Cat and the Hatchet",
+      "cover_word": "Из короткого в полный",
+      "headline": "Хоррор-пародия набрала 1,6 млн просмотров за четыре дня. Теперь её авторы собирают на полный метр",
+      "dek": "Авторы проверили идею на YouTube: что, если в дом к двум детям вместо доброго Кота в шляпе явится кот с топором? Теперь у зрителей просят денег на продолжение.",
+      "what": "Короткометражку The Cat and the Hatchet выложили на Хэллоуин. К 4 ноября Bloody Disgusting насчитал у фильма более 1,6 млн просмотров за четыре дня. Команда Марка Риччи и Калеба Кармайкла собирает на Kickstarter 75 тысяч долларов.",
+      "mechanics": "Режиссёр Кэмерон Додд говорит, что сценарий полного метра уже написан. По ссылке можно посмотреть весь короткий фильм, которым команда подкрепляет заявку. Это неофициальная пародия; деньги на производство ещё собирают.",
+      "why": "У одного пилота две разные аудитории: те, кто бесплатно посмотрел его на YouTube, и те, кто готов заплатить за следующий фильм. Успех первого теста ещё не гарантирует второй.",
       "sources": [
         {
-          "label": "Variety · эксклюзив с программой от QVC",
-          "url": "https://variety.com/2026/tv/news/qvc-holiday-schedule-jennie-garth-john-legend-lori-loughlin-1236939238/"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-04.webp",
-        "source_url": "https://variety.com/wp-content/uploads/2026/11/Merry-Everything-QVC.png?w=1000&h=563&crop=1",
-        "link": "https://variety.com/2026/tv/news/qvc-holiday-schedule-jennie-garth-john-legend-lori-loughlin-1236939238/",
-        "provenance_sha256": "41c725d60c301a68fa4219d8915cf38e7eff0c4107ff7e61b0bf861da4fa5ca2",
-        "alt": "Промокадр Merry Everything!, предоставленный для анонса.",
-        "credit": "QVC / Variety",
-        "caption": "Промокадр Merry Everything!, предоставленный для анонса.",
-        "illustration": false,
-        "fit": "cover"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T15:00:00+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-04T21:26:12+03:00",
-      "event_key": "qvc-hsn-merry-everything-four-episodes-2026",
-      "selected_because": "У зрителя есть причина включить шоу до того, как он выбрал покупку: знакомый гость показывает, как сам отмечает праздник. Так торговая площадка строит собственную развлекательную программу.",
-      "verification": {
-        "checked_at": "2026-11-04T21:26:12+03:00",
-        "status": "reviewed",
-        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
-      }
-    },
-    {
-      "id": "n261105-05",
-      "issue": "i2026-11-05",
-      "order": 3,
-      "lead": false,
-      "rubric": "doc",
-      "status": "Заказ",
-      "country": "Великобритания",
-      "title": "Channel 4 × Little Bird Films",
-      "cover_word": "Час документального ТВ",
-      "headline": "Channel 4 заказал часовой фильм The Hormone Fix",
-      "dek": "Валлийская Little Bird Films снимет для Channel 4 документальный спецвыпуск с Давинией Тейлор. Вещатель планирует показать его в 2027 году.",
-      "what": "Героиня будет разбираться, как гормоны связаны со сном, настроением и аппетитом, встречаясь со специалистами и участниками фильма.",
-      "mechanics": "Заказ рассчитан на один часовой выпуск. Элли Мерз совмещает роли режиссёра и продюсера.",
-      "why": "Редакция выбрала для широкой темы компактный формат: один проводник, истории участников и комментарии специалистов в одном эфирном часе.",
-      "note": "",
-      "sources": [
+          "label": "Movie Man Mark · фильм на канале соавтора",
+          "url": "https://www.youtube.com/watch?v=rCfwVrgsECw"
+        },
         {
-          "label": "Channel 4 · заказ фильма",
-          "url": "https://www.channel4.com/press/news/channel-4-commissions-hormone-fix-davinia-taylor"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-05.webp",
-        "source_url": "https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2026-11/The%20Hormone%20Fix_TITLE%20CARD.jpg?h=02aa0ad8&itok=HFEzzTwj",
-        "link": "https://www.channel4.com/press/news/channel-4-commissions-hormone-fix-davinia-taylor",
-        "provenance_sha256": "8bfd296aaf80ae7e62f865f52617dbf618edc703ddad9a1ef5b8df881e628d2f",
-        "alt": "Официальная заставка The Hormone Fix.",
-        "credit": "Channel 4",
-        "caption": "Официальная заставка The Hormone Fix.",
-        "illustration": false,
-        "fit": "cover"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-04T21:26:12+03:00",
-      "event_key": "channel4-littlebird-hormone-fix-commission-2026",
-      "selected_because": "Редакция выбрала для широкой темы компактный формат: один проводник, истории участников и комментарии специалистов в одном эфирном часе.",
-      "verification": {
-        "checked_at": "2026-11-04T21:26:12+03:00",
-        "status": "reviewed",
-        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
-      }
-    },
-    {
-      "id": "n261105-06",
-      "issue": "i2026-11-05",
-      "order": 4,
-      "lead": false,
-      "rubric": "sport",
-      "status": "Анонс трансляции",
-      "country": "США",
-      "title": "ESPN × WWE",
-      "cover_word": "До и после ринга",
-      "headline": "ESPN начнёт эфир о WWE Crown Jewel за два часа до первого боя",
-      "dek": "7 ноября в США турнир покажет приложение ESPN по подписке Unlimited. Перед ним выйдет двухчасовое Countdown, а сразу после последнего боя — студийное шоу.",
-      "what": "ESPN расписал, как покажет Crown Jewel. Основная трансляция начнётся в полдень по восточному времени США. В программе — поединки Романа Рейнса с Сами Зейном и Коди Роудса с Рэнди Ортоном.",
-      "mechanics": "За два дня до турнира ESPN2 покажет отдельный выпуск о соперниках. Для соцсетей редакция готовит короткие истории, в том числе о том, как менялись отношения Рейнса и Зейна.",
-      "why": "У каждого экрана своя роль: телевидение и соцсети знакомят с конфликтом, а приложение собирает в одном месте предматчевый эфир, бои и разбор.",
-      "note": "",
-      "sources": [
+          "label": "Bloody Disgusting · замер 4 ноября и комментарий режиссёра",
+          "url": "https://bloody-disgusting.com/movie/3974581/the-cat-and-the-hatchet-hits-1-6-million-views-and-a-feature-film-is-being-crowd-funded/"
+        },
         {
-          "label": "ESPN · программа трансляции",
-          "url": "https://espnpressroom.com/press-release/wwe-crown-jewel-streams-saturday-nov-7-exclusively-on-the-espn-app-with-espn-unlimited-plan/"
+          "label": "Kickstarter · кампания авторов",
+          "url": "https://www.kickstarter.com/projects/thecatandthehatchet/the-cat-and-the-hatchet-a-feature-length-horror-parody"
         }
       ],
       "video": {
-        "label": "Промо из пресс-релиза ESPN",
-        "url": "https://www.youtube.com/watch?v=Ppg76HNvkGc"
+        "label": "Смотреть короткометражку целиком",
+        "url": "https://www.youtube.com/watch?v=rCfwVrgsECw"
       },
       "image": {
-        "url": "img/n261105-06.webp",
-        "source_url": "https://espnpressroom.com/wp-content/uploads/Crown-Jewel-Pressroom-Featured-Image.jpg",
-        "link": "https://espnpressroom.com/press-release/wwe-crown-jewel-streams-saturday-nov-7-exclusively-on-the-espn-app-with-espn-unlimited-plan/",
-        "provenance_sha256": "ca8bb03171d947218482a2930bceefc429b047896edeb8ff2090f3b9e5f8ae0f",
-        "alt": "Промоматериал WWE Crown Jewel из пресс-центра ESPN.",
-        "credit": "ESPN / WWE",
-        "caption": "Промоматериал WWE Crown Jewel из пресс-центра ESPN.",
+        "url": "img/n261105-25.webp",
+        "source_url": "https://i.ytimg.com/vi/rCfwVrgsECw/hqdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=rCfwVrgsECw",
+        "alt": "Обложка фильма The Cat and the Hatchet на канале соавтора.",
+        "caption": "Обложка фильма The Cat and the Hatchet на канале соавтора.",
+        "credit": "Movie Man Mark",
         "illustration": false,
-        "fit": "cover"
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:43:03+03:00"
       },
       "date_iso": "2026-11-04",
       "date_label": "4 ноября 2026",
       "first_published_at": "2026-11-04",
       "date_precision": "day",
-      "discovered_at": "2026-11-04T21:26:12+03:00",
-      "event_key": "espn-wwe-crown-jewel-studio-countdown-coverage-nov-2026",
-      "selected_because": "У каждого экрана своя роль: телевидение и соцсети знакомят с конфликтом, а приложение собирает в одном месте предматчевый эфир, бои и разбор.",
+      "discovered_at": "2026-11-05T00:43:03+03:00",
+      "event_key": "cat-hatchet-youtube-four-day-viewership-kickstarter-2026",
+      "selected_because": "У одного пилота две разные аудитории: те, кто бесплатно посмотрел его на YouTube, и те, кто готов заплатить за следующий фильм. Успех первого теста ещё не гарантирует второй.",
       "verification": {
-        "checked_at": "2026-11-04T21:26:12+03:00",
         "status": "reviewed",
-        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+        "checked_at": "2026-11-05T00:43:03+03:00"
+      }
+    },
+    {
+      "id": "n261105-26",
+      "issue": "i2026-11-05",
+      "order": 3,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "Анонс",
+      "country": "Испания",
+      "title": "Proxies · Netflix",
+      "cover_word": "Два или три",
+      "headline": "В тизере Proxies убийца сдаётся сам. Он даже не уточняет, скольких убил",
+      "dek": "Двух человек или трёх? Так начинается допрос в новом триллере Ориола Пауло, режиссёра «Невидимого гостя».",
+      "what": "4 ноября Netflix показал первые кадры и тизер испанского фильма Proxies. Премьера назначена на 11 декабря.",
+      "mechanics": "Утром в сочельник мужчина приходит в полицию с признанием. Следователю предстоит понять, почему тот выбрал именно этот момент и чего хочет добиться. Разговор выводит на другое дело, которое считалось закрытым.",
+      "why": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
+      "sources": [
+        {
+          "label": "Netflix · тизер, кадры и слова режиссёра",
+          "url": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11"
+        }
+      ],
+      "video": {
+        "label": "Официальный тизер Netflix",
+        "url": "https://www.youtube.com/watch?v=O-BNo1l6yPI"
+      },
+      "image": {
+        "url": "img/n261105-26.webp",
+        "source_url": "https://images.ctfassets.net/4cd45et68cgf/4z4RmORBgrj8tqXbi9t4sv/9635dbc2e96e44d6137d211cdefd9d9a/Captura_de_pantalla_2026-11-04_a_las_12.02.17.png",
+        "link": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11",
+        "alt": "Персонажи Proxies на официальном промоизображении.",
+        "caption": "Персонажи Proxies на официальном промоизображении.",
+        "credit": "Netflix / Juanita Films",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:43:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:43:03+03:00",
+      "event_key": "proxies-netflix-first-teaser-es-2026",
+      "selected_because": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:43:03+03:00"
+      }
+    },
+    {
+      "id": "n261105-27",
+      "issue": "i2026-11-05",
+      "order": 4,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "Премьера",
+      "country": "США",
+      "title": "The Greatest · Prime Video",
+      "cover_word": "Четыре года Али",
+      "headline": "Prime Video уместил путь Али от олимпийского золота до первого чемпионского титула в восемь серий",
+      "dek": "Джаален Бест нашёл ключ к роли не в ударе: он включил запись поединка на повтор и попробовал заговорить в ритме шагов Али.",
+      "what": "4 ноября Prime Video выпустил сразу восемь серий The Greatest — первого игрового сериала о Мухаммеде Али, одобренного его семьёй. Его вдова Лонни Али выступила исполнительным продюсером.",
+      "mechanics": "Шоураннер Бен Уоткинс выбрал короткий отрезок: между Олимпиадой в Риме в 1960-м и боем с Сонни Листоном в 1964-м. В интервью Extra Бест рассказал, что по отдельности походка и голос не складывались в роль. Получилось, когда он стал говорить, двигаясь в ритме боксёра.",
+      "why": "Рамку задают два боя с заранее известным исходом. Между ними есть место другой интриге: как олимпийский чемпион становится взрослым и обретает тот самый голос, по которому его узнают.",
+      "sources": [
+        {
+          "label": "Prime Video · восемь серий и трейлер",
+          "url": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video"
+        },
+        {
+          "label": "Extra · интервью с актёром, Лонни Али и шоураннером",
+          "url": "https://extratv.com/2026/11/04/jaalen-best-on-becoming-muhammad-ali-and-moment-it-finally-clicked-exclusive/"
+        }
+      ],
+      "video": {
+        "label": "Трейлер Prime Video",
+        "url": "https://www.youtube.com/watch?v=RnRf-r-RdA4"
+      },
+      "image": {
+        "url": "img/n261105-27.webp",
+        "source_url": "https://assets.aboutamazon.com/dims4/default/5c6a458/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F1b%2Fca%2F0427af494822bb6d4176bd6cbc10%2Fthe-greatest-hero-amazon-news.png",
+        "link": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video",
+        "alt": "Джаален Бест в роли молодого Мухаммеда Али в The Greatest.",
+        "caption": "Джаален Бест в роли молодого Мухаммеда Али в The Greatest.",
+        "credit": "Prime Video",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:43:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:43:03+03:00",
+      "event_key": "the-greatest-prime-video-season-premiere-2026",
+      "selected_because": "Рамку задают два боя с заранее известным исходом. Между ними есть место другой интриге: как олимпийский чемпион становится взрослым и обретает тот самый голос, по которому его узнают.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:43:03+03:00"
+      }
+    },
+    {
+      "id": "n261105-28",
+      "issue": "i2026-11-05",
+      "order": 5,
+      "lead": false,
+      "rubric": "unscripted",
+      "status": "Производство",
+      "country": "Франция",
+      "title": "Le Piano · France 2",
+      "cover_word": "Жюри за стеной",
+      "headline": "France 2 снял конкурс на вокзале: пианист играет для прохожих, а жюри слушает из соседней комнаты",
+      "dek": "Участники думали, что снимаются в документальном фильме о фортепиано. На деле они проходили прослушивание.",
+      "what": "4 ноября на Восточном вокзале Парижа закончились съёмки шести выпусков Le Piano. Fremantle адаптирует для France 2 британский формат The Piano.",
+      "mechanics": "Наташа Сен-Пьер встречает музыканта у инструмента. Его слушают пассажиры, а в отдельной комнате — певица Камий Леллуш и пианист Жюльен Коэн. Они выбирают по одному исполнителю за выпуск, чтобы в 2027 году тот сыграл с одним из них на парижской сцене.",
+      "why": "У зрителя есть секрет, которого нет у исполнителя. Волнение возникает в момент, когда обычное выступление для прохожих внезапно оказывается отбором на настоящую сцену.",
+      "sources": [
+        {
+          "label": "France Télévisions · приглашение пианистов на съёмку",
+          "url": "https://www.francetelevisions.fr/et-vous/participer-a-une-emission/le-piano-58792"
+        },
+        {
+          "label": "CGTV · окончание съёмок, устройство жюри и репортаж Le Parisien",
+          "url": "https://www.cg-tv.com/articles/le-piano-camille-lellouche-et-julien-cohen-dans-le-jury-de-la-nouvelle-emission-de-natasha-st-pier-sur-france-2"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-28.webp",
+        "source_url": "https://static.francetelevisions.fr/styles/scale_728/public/2026-07/Visuel%20FTV%20et%20Vous%20Le%20Piano.jpg?itok=4o6VOuFw",
+        "link": "https://www.francetelevisions.fr/et-vous/participer-a-une-emission/le-piano-58792",
+        "alt": "Промоизображение из официального кастинга Le Piano; не кадр со съёмки.",
+        "caption": "Промоизображение из официального кастинга Le Piano; не кадр со съёмки.",
+        "credit": "France Télévisions",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:43:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T18:32:20.480Z",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:43:03+03:00",
+      "event_key": "le-piano-france2-gare-de-lest-six-episodes-filming-wrap-2026",
+      "selected_because": "У зрителя есть секрет, которого нет у исполнителя. Волнение возникает в момент, когда обычное выступление для прохожих внезапно оказывается отбором на настоящую сцену.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:43:03+03:00"
       }
     },
     {
       "id": "n261105-09",
       "issue": "i2026-11-05",
-      "order": 5,
+      "order": 6,
       "lead": false,
       "rubric": "unscripted",
       "status": "Анонс",
@@ -273,7 +334,7 @@
     {
       "id": "n261105-11",
       "issue": "i2026-11-05",
-      "order": 6,
+      "order": 7,
       "lead": false,
       "rubric": "doc",
       "status": "Анонс",
@@ -320,9 +381,56 @@
       "note": ""
     },
     {
+      "id": "n261105-05",
+      "issue": "i2026-11-05",
+      "order": 8,
+      "lead": false,
+      "rubric": "doc",
+      "status": "Заказ",
+      "country": "Великобритания",
+      "title": "Channel 4 × Little Bird Films",
+      "cover_word": "Час документального ТВ",
+      "headline": "Channel 4 заказал часовой фильм The Hormone Fix",
+      "dek": "Валлийская Little Bird Films снимет для Channel 4 документальный спецвыпуск с Давинией Тейлор. Вещатель планирует показать его в 2027 году.",
+      "what": "Героиня будет разбираться, как гормоны связаны со сном, настроением и аппетитом, встречаясь со специалистами и участниками фильма.",
+      "mechanics": "Заказ рассчитан на один часовой выпуск. Элли Мерз совмещает роли режиссёра и продюсера.",
+      "why": "Редакция выбрала для широкой темы компактный формат: один проводник, истории участников и комментарии специалистов в одном эфирном часе.",
+      "note": "",
+      "sources": [
+        {
+          "label": "Channel 4 · заказ фильма",
+          "url": "https://www.channel4.com/press/news/channel-4-commissions-hormone-fix-davinia-taylor"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-05.webp",
+        "source_url": "https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2026-11/The%20Hormone%20Fix_TITLE%20CARD.jpg?h=02aa0ad8&itok=HFEzzTwj",
+        "link": "https://www.channel4.com/press/news/channel-4-commissions-hormone-fix-davinia-taylor",
+        "provenance_sha256": "8bfd296aaf80ae7e62f865f52617dbf618edc703ddad9a1ef5b8df881e628d2f",
+        "alt": "Официальная заставка The Hormone Fix.",
+        "credit": "Channel 4",
+        "caption": "Официальная заставка The Hormone Fix.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "channel4-littlebird-hormone-fix-commission-2026",
+      "selected_because": "Редакция выбрала для широкой темы компактный формат: один проводник, истории участников и комментарии специалистов в одном эфирном часе.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
       "id": "n261105-13",
       "issue": "i2026-11-05",
-      "order": 7,
+      "order": 9,
       "lead": false,
       "rubric": "digital",
       "status": "Запуск",
@@ -358,7 +466,7 @@
     {
       "id": "n261105-14",
       "issue": "i2026-11-05",
-      "order": 8,
+      "order": 10,
       "lead": false,
       "rubric": "digital",
       "status": "Результаты",
@@ -408,7 +516,7 @@
     {
       "id": "n261105-15",
       "issue": "i2026-11-05",
-      "order": 9,
+      "order": 11,
       "lead": false,
       "rubric": "digital",
       "status": "Разработка",
@@ -456,9 +564,56 @@
       "note": ""
     },
     {
+      "id": "n261105-04",
+      "issue": "i2026-11-05",
+      "order": 12,
+      "lead": false,
+      "rubric": "branded",
+      "status": "Анонс",
+      "country": "США",
+      "title": "QVC+ × HSN+",
+      "cover_word": "Магазин ставит шоу",
+      "headline": "QVC пригласил Джона Ледженда в праздничное шоу о подарках",
+      "dek": "Merry Everything! — четыре выпуска для бесплатных стримингов QVC+ и HSN+. Премьера назначена на 6 ноября.",
+      "what": "Торговая телесеть представила праздничную программу. Ведущая Челси Филлипс Рид встретит в студии музыканта Джона Ледженда, актрис Дженни Гарт и Лори Лафлин и других гостей.",
+      "mechanics": "Гости рассказывают о своих семейных традициях, готовят, украшают стол и делятся идеями подарков. В программу также вошли музыкальные номера.",
+      "why": "У зрителя есть причина включить шоу до того, как он выбрал покупку: знакомый гость показывает, как сам отмечает праздник. Так торговая площадка строит собственную развлекательную программу.",
+      "note": "",
+      "sources": [
+        {
+          "label": "Variety · эксклюзив с программой от QVC",
+          "url": "https://variety.com/2026/tv/news/qvc-holiday-schedule-jennie-garth-john-legend-lori-loughlin-1236939238/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-04.webp",
+        "source_url": "https://variety.com/wp-content/uploads/2026/11/Merry-Everything-QVC.png?w=1000&h=563&crop=1",
+        "link": "https://variety.com/2026/tv/news/qvc-holiday-schedule-jennie-garth-john-legend-lori-loughlin-1236939238/",
+        "provenance_sha256": "41c725d60c301a68fa4219d8915cf38e7eff0c4107ff7e61b0bf861da4fa5ca2",
+        "alt": "Промокадр Merry Everything!, предоставленный для анонса.",
+        "credit": "QVC / Variety",
+        "caption": "Промокадр Merry Everything!, предоставленный для анонса.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T15:00:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "qvc-hsn-merry-everything-four-episodes-2026",
+      "selected_because": "У зрителя есть причина включить шоу до того, как он выбрал покупку: знакомый гость показывает, как сам отмечает праздник. Так торговая площадка строит собственную развлекательную программу.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
       "id": "n261105-16",
       "issue": "i2026-11-05",
-      "order": 10,
+      "order": 13,
       "lead": false,
       "rubric": "branded",
       "status": "Запуск",
@@ -507,7 +662,7 @@
     {
       "id": "n261105-17",
       "issue": "i2026-11-05",
-      "order": 11,
+      "order": 14,
       "lead": false,
       "rubric": "short",
       "status": "Запуск",
@@ -553,7 +708,7 @@
     {
       "id": "n261105-18",
       "issue": "i2026-11-05",
-      "order": 12,
+      "order": 15,
       "lead": false,
       "rubric": "short",
       "status": "Запуск",
@@ -606,7 +761,7 @@
     {
       "id": "n261105-19",
       "issue": "i2026-11-05",
-      "order": 13,
+      "order": 16,
       "lead": false,
       "rubric": "short",
       "status": "Данные компании",
@@ -654,9 +809,59 @@
       "note": ""
     },
     {
+      "id": "n261105-06",
+      "issue": "i2026-11-05",
+      "order": 17,
+      "lead": false,
+      "rubric": "sport",
+      "status": "Анонс трансляции",
+      "country": "США",
+      "title": "ESPN × WWE",
+      "cover_word": "До и после ринга",
+      "headline": "ESPN начнёт эфир о WWE Crown Jewel за два часа до первого боя",
+      "dek": "7 ноября в США турнир покажет приложение ESPN по подписке Unlimited. Перед ним выйдет двухчасовое Countdown, а сразу после последнего боя — студийное шоу.",
+      "what": "ESPN расписал, как покажет Crown Jewel. Основная трансляция начнётся в полдень по восточному времени США. В программе — поединки Романа Рейнса с Сами Зейном и Коди Роудса с Рэнди Ортоном.",
+      "mechanics": "За два дня до турнира ESPN2 покажет отдельный выпуск о соперниках. Для соцсетей редакция готовит короткие истории, в том числе о том, как менялись отношения Рейнса и Зейна.",
+      "why": "У каждого экрана своя роль: телевидение и соцсети знакомят с конфликтом, а приложение собирает в одном месте предматчевый эфир, бои и разбор.",
+      "note": "",
+      "sources": [
+        {
+          "label": "ESPN · программа трансляции",
+          "url": "https://espnpressroom.com/press-release/wwe-crown-jewel-streams-saturday-nov-7-exclusively-on-the-espn-app-with-espn-unlimited-plan/"
+        }
+      ],
+      "video": {
+        "label": "Промо из пресс-релиза ESPN",
+        "url": "https://www.youtube.com/watch?v=Ppg76HNvkGc"
+      },
+      "image": {
+        "url": "img/n261105-06.webp",
+        "source_url": "https://espnpressroom.com/wp-content/uploads/Crown-Jewel-Pressroom-Featured-Image.jpg",
+        "link": "https://espnpressroom.com/press-release/wwe-crown-jewel-streams-saturday-nov-7-exclusively-on-the-espn-app-with-espn-unlimited-plan/",
+        "provenance_sha256": "ca8bb03171d947218482a2930bceefc429b047896edeb8ff2090f3b9e5f8ae0f",
+        "alt": "Промоматериал WWE Crown Jewel из пресс-центра ESPN.",
+        "credit": "ESPN / WWE",
+        "caption": "Промоматериал WWE Crown Jewel из пресс-центра ESPN.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-04T21:26:12+03:00",
+      "event_key": "espn-wwe-crown-jewel-studio-countdown-coverage-nov-2026",
+      "selected_because": "У каждого экрана своя роль: телевидение и соцсети знакомят с конфликтом, а приложение собирает в одном месте предматчевый эфир, бои и разбор.",
+      "verification": {
+        "checked_at": "2026-11-04T21:26:12+03:00",
+        "status": "reviewed",
+        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
+      }
+    },
+    {
       "id": "n261105-20",
       "issue": "i2026-11-05",
-      "order": 14,
+      "order": 18,
       "lead": false,
       "rubric": "sport",
       "status": "Сделка",
@@ -702,7 +907,7 @@
     {
       "id": "n261105-21",
       "issue": "i2026-11-05",
-      "order": 15,
+      "order": 19,
       "lead": false,
       "rubric": "sport",
       "status": "Партнёрство",
@@ -746,9 +951,110 @@
       "note": ""
     },
     {
+      "id": "n261105-29",
+      "issue": "i2026-11-05",
+      "order": 20,
+      "lead": false,
+      "rubric": "event",
+      "status": "Премьера",
+      "country": "США",
+      "title": "Rockettes · Radio City",
+      "cover_word": "Танец с высоты",
+      "headline": "Radio City показывает танец Rockettes сразу из кресла, сбоку и сверху",
+      "dek": "По сторонам сцены появились два экрана. Пока зритель из зала видит шеренгу танцовщиц, на экране можно рассмотреть рисунок всей группы сверху.",
+      "what": "4 ноября в Нью-Йорке открывается сезон Christmas Spectacular. Впервые в этой постановке камеры передают танец на экраны зала в реальном времени — во всех номерах, а не только в финале.",
+      "mechanics": "Камеры спрятаны по периметру сцены; верхний план снимают со стороны арки над сценой. В программу также вошёл новый степ Ring: танцовщицы отбивают каблуками ритм Carol of the Bells. Организаторы запланировали на сезон 230 представлений.",
+      "why": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
+      "sources": [
+        {
+          "label": "MSG Entertainment · камеры, экраны и новый номер",
+          "url": "https://www.msgentertainment.com/rockettes-ring-in-their-next-century-with-new-tap-number-and-immersive-camera-technology-that-brings-audiences-closer-to-the-magic/"
+        },
+        {
+          "label": "Radio City · показ 4 ноября",
+          "url": "https://www.msg.com/events-tickets/christmas-spectacular-starring-the-radio-city-rockettes-radio-city-music-hall-november-2026/3C006457CDDF1EAE"
+        },
+        {
+          "label": "Rockettes · программа и число представлений",
+          "url": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/"
+        }
+      ],
+      "video": {
+        "label": "Тизер номера и камер у Rockettes",
+        "url": "https://www.instagram.com/p/DdoedZ7Ovdz/"
+      },
+      "image": {
+        "url": "img/n261105-29.webp",
+        "source_url": "https://assets.rockettes.com/wp-content/uploads/2026/07/On-Sale-Blog-Hero-Image.png",
+        "link": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/",
+        "alt": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
+        "caption": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
+        "credit": "Radio City Rockettes",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:43:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:43:03+03:00",
+      "event_key": "rockettes-ring-live-camera-screens-season-opening-2026",
+      "selected_because": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:43:03+03:00"
+      }
+    },
+    {
+      "id": "n261105-30",
+      "issue": "i2026-11-05",
+      "order": 21,
+      "lead": false,
+      "rubric": "event",
+      "status": "Анонс",
+      "country": "Бразилия",
+      "title": "Tomorrowland Brasil · Consciencia",
+      "cover_word": "Оркестр на рейве",
+      "headline": "Tomorrowland Brasil объявил программу: на техно-сцене каждый день сыграет оркестр",
+      "dek": "В бразильском Иту электронную классику исполнит Symphony of Unity. Оркестр встроили в расписание одной сцены с техно-диджеями.",
+      "what": "4 ноября Tomorrowland объявил состав бразильского фестиваля, который пройдёт 30 апреля – 2 мая 2027 года. Это заключительная остановка проекта Consciencia после Бельгии и Таиланда.",
+      "mechanics": "В программе шесть сцен. На Freedom by Bud наряду с диджей-сетами каждый день запланирован оркестр с переложениями электронной музыки. Алок выступит дважды: с сольным сетом на Crystal Garden и затем на главной сцене.",
+      "why": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
+      "sources": [
+        {
+          "label": "Tomorrowland · программа и распределение по сценам",
+          "url": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-30.webp",
+        "source_url": "https://cdn.assets.prezly.com/98ebc5be-5002-444c-a152-e1d765a76aae/-/preview/-/format/auto/260718-180647-TML26BE-PW%20(1).jpg",
+        "link": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up",
+        "alt": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
+        "caption": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
+        "credit": "Tomorrowland",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:43:03+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T14:00:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:43:03+03:00",
+      "event_key": "tomorrowland-brasil-2027-stage-programme-symphony-of-unity",
+      "selected_because": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:43:03+03:00"
+      }
+    },
+    {
       "id": "n261105-24",
       "issue": "i2026-11-05",
-      "order": 16,
+      "order": 22,
       "lead": false,
       "rubric": "event",
       "status": "Анонс",
@@ -790,312 +1096,6 @@
         "checked_at": "2026-11-05T00:08:03+03:00"
       },
       "note": ""
-    },
-    {
-      "id": "n261105-25",
-      "issue": "i2026-11-05",
-      "order": 17,
-      "lead": false,
-      "rubric": "scripted",
-      "status": "Кейс",
-      "country": "Канада",
-      "title": "The Cat and the Hatchet",
-      "cover_word": "Из короткого в полный",
-      "headline": "Хоррор-пародия набрала 1,6 млн просмотров за четыре дня. Теперь её авторы собирают на полный метр",
-      "dek": "Авторы проверили идею на YouTube: что, если в дом к двум детям вместо доброго Кота в шляпе явится кот с топором? Теперь у зрителей просят денег на продолжение.",
-      "what": "Короткометражку The Cat and the Hatchet выложили на Хэллоуин. К 4 ноября Bloody Disgusting насчитал у фильма более 1,6 млн просмотров за четыре дня. Команда Марка Риччи и Калеба Кармайкла собирает на Kickstarter 75 тысяч долларов.",
-      "mechanics": "Режиссёр Кэмерон Додд говорит, что сценарий полного метра уже написан. По ссылке можно посмотреть весь короткий фильм, которым команда подкрепляет заявку. Это неофициальная пародия; деньги на производство ещё собирают.",
-      "why": "У одного пилота две разные аудитории: те, кто бесплатно посмотрел его на YouTube, и те, кто готов заплатить за следующий фильм. Успех первого теста ещё не гарантирует второй.",
-      "sources": [
-        {
-          "label": "Movie Man Mark · фильм на канале соавтора",
-          "url": "https://www.youtube.com/watch?v=rCfwVrgsECw"
-        },
-        {
-          "label": "Bloody Disgusting · замер 4 ноября и комментарий режиссёра",
-          "url": "https://bloody-disgusting.com/movie/3974581/the-cat-and-the-hatchet-hits-1-6-million-views-and-a-feature-film-is-being-crowd-funded/"
-        },
-        {
-          "label": "Kickstarter · кампания авторов",
-          "url": "https://www.kickstarter.com/projects/thecatandthehatchet/the-cat-and-the-hatchet-a-feature-length-horror-parody"
-        }
-      ],
-      "video": {
-        "label": "Смотреть короткометражку целиком",
-        "url": "https://www.youtube.com/watch?v=rCfwVrgsECw"
-      },
-      "image": {
-        "url": "img/n261105-25.webp",
-        "source_url": "https://i.ytimg.com/vi/rCfwVrgsECw/hqdefault.jpg",
-        "link": "https://www.youtube.com/watch?v=rCfwVrgsECw",
-        "alt": "Обложка фильма The Cat and the Hatchet на канале соавтора.",
-        "caption": "Обложка фильма The Cat and the Hatchet на канале соавтора.",
-        "credit": "Movie Man Mark",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:41:28+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:41:28+03:00",
-      "event_key": "cat-hatchet-youtube-four-day-viewership-kickstarter-2026",
-      "selected_because": "У одного пилота две разные аудитории: те, кто бесплатно посмотрел его на YouTube, и те, кто готов заплатить за следующий фильм. Успех первого теста ещё не гарантирует второй.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:41:28+03:00"
-      }
-    },
-    {
-      "id": "n261105-26",
-      "issue": "i2026-11-05",
-      "order": 18,
-      "lead": false,
-      "rubric": "scripted",
-      "status": "Анонс",
-      "country": "Испания",
-      "title": "Proxies · Netflix",
-      "cover_word": "Два или три",
-      "headline": "В тизере Proxies убийца сдаётся сам. Он даже не уточняет, скольких убил",
-      "dek": "Двух человек или трёх? Так начинается допрос в новом триллере Ориола Пауло, режиссёра «Невидимого гостя».",
-      "what": "4 ноября Netflix показал первые кадры и тизер испанского фильма Proxies. Премьера назначена на 11 декабря.",
-      "mechanics": "Утром в сочельник мужчина приходит в полицию с признанием. Следователю предстоит понять, почему тот выбрал именно этот момент и чего хочет добиться. Разговор выводит на другое дело, которое считалось закрытым.",
-      "why": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
-      "sources": [
-        {
-          "label": "Netflix · тизер, кадры и слова режиссёра",
-          "url": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11"
-        }
-      ],
-      "video": {
-        "label": "Официальный тизер Netflix",
-        "url": "https://www.youtube.com/watch?v=O-BNo1l6yPI"
-      },
-      "image": {
-        "url": "img/n261105-26.webp",
-        "source_url": "https://images.ctfassets.net/4cd45et68cgf/4z4RmORBgrj8tqXbi9t4sv/9635dbc2e96e44d6137d211cdefd9d9a/Captura_de_pantalla_2026-11-04_a_las_12.02.17.png",
-        "link": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11",
-        "alt": "Персонажи Proxies на официальном промоизображении.",
-        "caption": "Персонажи Proxies на официальном промоизображении.",
-        "credit": "Netflix / Juanita Films",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:41:28+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:41:28+03:00",
-      "event_key": "proxies-netflix-first-teaser-es-2026",
-      "selected_because": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:41:28+03:00"
-      }
-    },
-    {
-      "id": "n261105-27",
-      "issue": "i2026-11-05",
-      "order": 19,
-      "lead": false,
-      "rubric": "scripted",
-      "status": "Премьера",
-      "country": "США",
-      "title": "The Greatest · Prime Video",
-      "cover_word": "Четыре года Али",
-      "headline": "Prime Video уместил путь Али от олимпийского золота до первого чемпионского титула в восемь серий",
-      "dek": "Джаален Бест нашёл ключ к роли не в ударе: он включил запись поединка на повтор и попробовал заговорить в ритме шагов Али.",
-      "what": "4 ноября Prime Video выпустил сразу восемь серий The Greatest — первого игрового сериала о Мухаммеде Али, одобренного его семьёй. Его вдова Лонни Али выступила исполнительным продюсером.",
-      "mechanics": "Шоураннер Бен Уоткинс выбрал короткий отрезок: между Олимпиадой в Риме в 1960-м и боем с Сонни Листоном в 1964-м. В интервью Extra Бест рассказал, что по отдельности походка и голос не складывались в роль. Получилось, когда он стал говорить, двигаясь в ритме боксёра.",
-      "why": "Рамку задают два боя с заранее известным исходом. Между ними есть место другой интриге: как олимпийский чемпион становится взрослым и обретает тот самый голос, по которому его узнают.",
-      "sources": [
-        {
-          "label": "Prime Video · восемь серий и трейлер",
-          "url": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video"
-        },
-        {
-          "label": "Extra · интервью с актёром, Лонни Али и шоураннером",
-          "url": "https://extratv.com/2026/11/04/jaalen-best-on-becoming-muhammad-ali-and-moment-it-finally-clicked-exclusive/"
-        }
-      ],
-      "video": {
-        "label": "Трейлер Prime Video",
-        "url": "https://www.youtube.com/watch?v=RnRf-r-RdA4"
-      },
-      "image": {
-        "url": "img/n261105-27.webp",
-        "source_url": "https://assets.aboutamazon.com/dims4/default/5c6a458/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F1b%2Fca%2F0427af494822bb6d4176bd6cbc10%2Fthe-greatest-hero-amazon-news.png",
-        "link": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video",
-        "alt": "Джаален Бест в роли молодого Мухаммеда Али в The Greatest.",
-        "caption": "Джаален Бест в роли молодого Мухаммеда Али в The Greatest.",
-        "credit": "Prime Video",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:41:28+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:41:28+03:00",
-      "event_key": "the-greatest-prime-video-season-premiere-2026",
-      "selected_because": "Рамку задают два боя с заранее известным исходом. Между ними есть место другой интриге: как олимпийский чемпион становится взрослым и обретает тот самый голос, по которому его узнают.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:41:28+03:00"
-      }
-    },
-    {
-      "id": "n261105-28",
-      "issue": "i2026-11-05",
-      "order": 20,
-      "lead": false,
-      "rubric": "unscripted",
-      "status": "Производство",
-      "country": "Франция",
-      "title": "Le Piano · France 2",
-      "cover_word": "Жюри за стеной",
-      "headline": "France 2 снял конкурс на вокзале: пианист играет для прохожих, а жюри слушает из соседней комнаты",
-      "dek": "Участники думали, что снимаются в документальном фильме о фортепиано. На деле они проходили прослушивание.",
-      "what": "4 ноября на Восточном вокзале Парижа закончились съёмки шести выпусков Le Piano. Fremantle адаптирует для France 2 британский формат The Piano.",
-      "mechanics": "Наташа Сен-Пьер встречает музыканта у инструмента. Его слушают пассажиры, а в отдельной комнате — певица Камий Леллуш и пианист Жюльен Коэн. Они выбирают по одному исполнителю за выпуск, чтобы в 2027 году тот сыграл с одним из них на парижской сцене.",
-      "why": "У зрителя есть секрет, которого нет у исполнителя. Волнение возникает в момент, когда обычное выступление для прохожих внезапно оказывается отбором на настоящую сцену.",
-      "sources": [
-        {
-          "label": "France Télévisions · приглашение пианистов на съёмку",
-          "url": "https://www.francetelevisions.fr/et-vous/participer-a-une-emission/le-piano-58792"
-        },
-        {
-          "label": "CGTV · окончание съёмок, устройство жюри и репортаж Le Parisien",
-          "url": "https://www.cg-tv.com/articles/le-piano-camille-lellouche-et-julien-cohen-dans-le-jury-de-la-nouvelle-emission-de-natasha-st-pier-sur-france-2"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-28.webp",
-        "source_url": "https://static.francetelevisions.fr/styles/scale_728/public/2026-07/Visuel%20FTV%20et%20Vous%20Le%20Piano.jpg?itok=4o6VOuFw",
-        "link": "https://www.francetelevisions.fr/et-vous/participer-a-une-emission/le-piano-58792",
-        "alt": "Промоизображение из официального кастинга Le Piano; не кадр со съёмки.",
-        "caption": "Промоизображение из официального кастинга Le Piano; не кадр со съёмки.",
-        "credit": "France Télévisions",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:41:28+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T18:32:20.480Z",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:41:28+03:00",
-      "event_key": "le-piano-france2-gare-de-lest-six-episodes-filming-wrap-2026",
-      "selected_because": "У зрителя есть секрет, которого нет у исполнителя. Волнение возникает в момент, когда обычное выступление для прохожих внезапно оказывается отбором на настоящую сцену.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:41:28+03:00"
-      }
-    },
-    {
-      "id": "n261105-29",
-      "issue": "i2026-11-05",
-      "order": 21,
-      "lead": false,
-      "rubric": "event",
-      "status": "Премьера",
-      "country": "США",
-      "title": "Rockettes · Radio City",
-      "cover_word": "Танец с высоты",
-      "headline": "Radio City показывает танец Rockettes сразу из кресла, сбоку и сверху",
-      "dek": "По сторонам сцены появились два экрана. Пока зритель из зала видит шеренгу танцовщиц, на экране можно рассмотреть рисунок всей группы сверху.",
-      "what": "4 ноября в Нью-Йорке открывается сезон Christmas Spectacular. Впервые в этой постановке камеры передают танец на экраны зала в реальном времени — во всех номерах, а не только в финале.",
-      "mechanics": "Камеры спрятаны по периметру сцены; верхний план снимают со стороны арки над сценой. В программу также вошёл новый степ Ring: танцовщицы отбивают каблуками ритм Carol of the Bells. Организаторы запланировали на сезон 230 представлений.",
-      "why": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
-      "sources": [
-        {
-          "label": "MSG Entertainment · камеры, экраны и новый номер",
-          "url": "https://www.msgentertainment.com/rockettes-ring-in-their-next-century-with-new-tap-number-and-immersive-camera-technology-that-brings-audiences-closer-to-the-magic/"
-        },
-        {
-          "label": "Radio City · показ 4 ноября",
-          "url": "https://www.msg.com/events-tickets/christmas-spectacular-starring-the-radio-city-rockettes-radio-city-music-hall-november-2026/3C006457CDDF1EAE"
-        },
-        {
-          "label": "Rockettes · программа и число представлений",
-          "url": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/"
-        }
-      ],
-      "video": {
-        "label": "Тизер номера и камер у Rockettes",
-        "url": "https://www.instagram.com/p/DdoedZ7Ovdz/"
-      },
-      "image": {
-        "url": "img/n261105-29.webp",
-        "source_url": "https://assets.rockettes.com/wp-content/uploads/2026/07/On-Sale-Blog-Hero-Image.png",
-        "link": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/",
-        "alt": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
-        "caption": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
-        "credit": "Radio City Rockettes",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:41:28+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:41:28+03:00",
-      "event_key": "rockettes-ring-live-camera-screens-season-opening-2026",
-      "selected_because": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:41:28+03:00"
-      }
-    },
-    {
-      "id": "n261105-30",
-      "issue": "i2026-11-05",
-      "order": 22,
-      "lead": false,
-      "rubric": "event",
-      "status": "Анонс",
-      "country": "Бразилия",
-      "title": "Tomorrowland Brasil · Consciencia",
-      "cover_word": "Оркестр на рейве",
-      "headline": "Tomorrowland Brasil объявил программу: на техно-сцене каждый день сыграет оркестр",
-      "dek": "В бразильском Иту электронную классику исполнит Symphony of Unity. Оркестр встроили в расписание одной сцены с техно-диджеями.",
-      "what": "4 ноября Tomorrowland объявил состав бразильского фестиваля, который пройдёт 30 апреля – 2 мая 2027 года. Это заключительная остановка проекта Consciencia после Бельгии и Таиланда.",
-      "mechanics": "В программе шесть сцен. На Freedom by Bud наряду с диджей-сетами каждый день запланирован оркестр с переложениями электронной музыки. Алок выступит дважды: с сольным сетом на Crystal Garden и затем на главной сцене.",
-      "why": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
-      "sources": [
-        {
-          "label": "Tomorrowland · программа и распределение по сценам",
-          "url": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-30.webp",
-        "source_url": "https://cdn.assets.prezly.com/98ebc5be-5002-444c-a152-e1d765a76aae/-/preview/-/format/auto/260718-180647-TML26BE-PW%20(1).jpg",
-        "link": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up",
-        "alt": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
-        "caption": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
-        "credit": "Tomorrowland",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:41:28+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T14:00:00+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:41:28+03:00",
-      "event_key": "tomorrowland-brasil-2027-stage-programme-symphony-of-unity",
-      "selected_because": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:41:28+03:00"
-      }
     }
   ]
 }
