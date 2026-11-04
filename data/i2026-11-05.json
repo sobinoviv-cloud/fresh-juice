@@ -5,22 +5,16 @@
     "mode": "daily",
     "chip": "5 ноя",
     "lead_id": "n261105-01",
-    "count": 22,
+    "count": 18,
     "period_start": "2026-11-04T10:00:00+03:00",
     "period_end": "2026-11-05T00:43:03+03:00",
     "publication_window_end": "2026-11-05T10:00:00+03:00",
-    "generated_at": "2026-11-05T00:43:03+03:00",
+    "generated_at": "2026-11-05T01:13:00+03:00",
     "period_label": "С 10:00 мск 4 ноября до 00:43 мск 5 ноября",
-    "revision": "v3",
-    "intro": "В Париже пианисты принимают конкурс талантов за съёмки документалки, а в Нью-Йорке зрителям Rockettes впервые показывают рисунок танца прямо сверху. Ещё в выпуске — как авторы YouTube-хоррора проверяют, готова ли аудитория платить за полный метр.",
-    "coverage_note": "Восемь рубрик. В Non-scripted и Doc — по две истории. Дата карточки — новый факт: публикация первых кадров, результат, завершение съёмки или премьера, а не обязательно день первого анонса.",
-    "agenda": [
-      {
-        "date": "10 ноября",
-        "label": "Vertipitch Calvià · последний день подачи испанских проектов вертикальных сериалов. Организаторы отберут десять.",
-        "url": "https://www.calvia.com/es/calvia-al-dia/noticias/calvia-vertifest-y-aima-dos-festivales-de-cine-innovadores-para-afianzar-magaluf-como-destino-cultural"
-      }
-    ]
+    "revision": "v4",
+    "intro": "В Париже пианисты играют для пассажиров вокзала, а жюри слушает их из соседней комнаты. В Канаде авторы хоррора выложили короткометражку на YouTube и теперь собирают деньги на полный метр.",
+    "coverage_note": "В этом выпуске — 18 новостей в семи рубриках.",
+    "agenda": []
   },
   "stories": [
     {
@@ -134,57 +128,9 @@
       }
     },
     {
-      "id": "n261105-26",
-      "issue": "i2026-11-05",
-      "order": 3,
-      "lead": false,
-      "rubric": "scripted",
-      "status": "Анонс",
-      "country": "Испания",
-      "title": "Proxies · Netflix",
-      "cover_word": "Два или три",
-      "headline": "В тизере Proxies убийца сдаётся сам. Он даже не уточняет, скольких убил",
-      "dek": "Двух человек или трёх? Так начинается допрос в новом триллере Ориола Пауло, режиссёра «Невидимого гостя».",
-      "what": "4 ноября Netflix показал первые кадры и тизер испанского фильма Proxies. Премьера назначена на 11 декабря.",
-      "mechanics": "Утром в сочельник мужчина приходит в полицию с признанием. Следователю предстоит понять, почему тот выбрал именно этот момент и чего хочет добиться. Разговор выводит на другое дело, которое считалось закрытым.",
-      "why": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
-      "sources": [
-        {
-          "label": "Netflix · тизер, кадры и слова режиссёра",
-          "url": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11"
-        }
-      ],
-      "video": {
-        "label": "Официальный тизер Netflix",
-        "url": "https://www.youtube.com/watch?v=O-BNo1l6yPI"
-      },
-      "image": {
-        "url": "img/n261105-26.webp",
-        "source_url": "https://images.ctfassets.net/4cd45et68cgf/4z4RmORBgrj8tqXbi9t4sv/9635dbc2e96e44d6137d211cdefd9d9a/Captura_de_pantalla_2026-11-04_a_las_12.02.17.png",
-        "link": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11",
-        "alt": "Персонажи Proxies на официальном промоизображении.",
-        "caption": "Персонажи Proxies на официальном промоизображении.",
-        "credit": "Netflix / Juanita Films",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:43:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:43:03+03:00",
-      "event_key": "proxies-netflix-first-teaser-es-2026",
-      "selected_because": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:43:03+03:00"
-      }
-    },
-    {
       "id": "n261105-27",
       "issue": "i2026-11-05",
-      "order": 4,
+      "order": 3,
       "lead": false,
       "rubric": "scripted",
       "status": "Премьера",
@@ -236,7 +182,7 @@
     {
       "id": "n261105-28",
       "issue": "i2026-11-05",
-      "order": 5,
+      "order": 4,
       "lead": false,
       "rubric": "unscripted",
       "status": "Производство",
@@ -285,7 +231,7 @@
     {
       "id": "n261105-09",
       "issue": "i2026-11-05",
-      "order": 6,
+      "order": 5,
       "lead": false,
       "rubric": "unscripted",
       "status": "Анонс",
@@ -334,7 +280,7 @@
     {
       "id": "n261105-11",
       "issue": "i2026-11-05",
-      "order": 7,
+      "order": 6,
       "lead": false,
       "rubric": "doc",
       "status": "Анонс",
@@ -383,7 +329,7 @@
     {
       "id": "n261105-05",
       "issue": "i2026-11-05",
-      "order": 8,
+      "order": 7,
       "lead": false,
       "rubric": "doc",
       "status": "Заказ",
@@ -430,7 +376,7 @@
     {
       "id": "n261105-13",
       "issue": "i2026-11-05",
-      "order": 9,
+      "order": 8,
       "lead": false,
       "rubric": "digital",
       "status": "Запуск",
@@ -466,7 +412,7 @@
     {
       "id": "n261105-14",
       "issue": "i2026-11-05",
-      "order": 10,
+      "order": 9,
       "lead": false,
       "rubric": "digital",
       "status": "Результаты",
@@ -516,7 +462,7 @@
     {
       "id": "n261105-15",
       "issue": "i2026-11-05",
-      "order": 11,
+      "order": 10,
       "lead": false,
       "rubric": "digital",
       "status": "Разработка",
@@ -566,7 +512,7 @@
     {
       "id": "n261105-04",
       "issue": "i2026-11-05",
-      "order": 12,
+      "order": 11,
       "lead": false,
       "rubric": "branded",
       "status": "Анонс",
@@ -613,7 +559,7 @@
     {
       "id": "n261105-16",
       "issue": "i2026-11-05",
-      "order": 13,
+      "order": 12,
       "lead": false,
       "rubric": "branded",
       "status": "Запуск",
@@ -662,7 +608,7 @@
     {
       "id": "n261105-17",
       "issue": "i2026-11-05",
-      "order": 14,
+      "order": 13,
       "lead": false,
       "rubric": "short",
       "status": "Запуск",
@@ -708,7 +654,7 @@
     {
       "id": "n261105-18",
       "issue": "i2026-11-05",
-      "order": 15,
+      "order": 14,
       "lead": false,
       "rubric": "short",
       "status": "Запуск",
@@ -761,7 +707,7 @@
     {
       "id": "n261105-19",
       "issue": "i2026-11-05",
-      "order": 16,
+      "order": 15,
       "lead": false,
       "rubric": "short",
       "status": "Данные компании",
@@ -811,7 +757,7 @@
     {
       "id": "n261105-06",
       "issue": "i2026-11-05",
-      "order": 17,
+      "order": 16,
       "lead": false,
       "rubric": "sport",
       "status": "Анонс трансляции",
@@ -861,7 +807,7 @@
     {
       "id": "n261105-20",
       "issue": "i2026-11-05",
-      "order": 18,
+      "order": 17,
       "lead": false,
       "rubric": "sport",
       "status": "Сделка",
@@ -907,7 +853,7 @@
     {
       "id": "n261105-21",
       "issue": "i2026-11-05",
-      "order": 19,
+      "order": 18,
       "lead": false,
       "rubric": "sport",
       "status": "Партнёрство",
@@ -944,153 +890,6 @@
       "discovered_at": "2026-11-05T00:08:03+03:00",
       "event_key": "nhl-ko-on-ice-dusseldorf-2026",
       "selected_because": "Так два матча регулярного сезона получают несколько недель местной фан-программы, в которой можно участвовать без билета на хоккей.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:08:03+03:00"
-      },
-      "note": ""
-    },
-    {
-      "id": "n261105-29",
-      "issue": "i2026-11-05",
-      "order": 20,
-      "lead": false,
-      "rubric": "event",
-      "status": "Премьера",
-      "country": "США",
-      "title": "Rockettes · Radio City",
-      "cover_word": "Танец с высоты",
-      "headline": "Radio City показывает танец Rockettes сразу из кресла, сбоку и сверху",
-      "dek": "По сторонам сцены появились два экрана. Пока зритель из зала видит шеренгу танцовщиц, на экране можно рассмотреть рисунок всей группы сверху.",
-      "what": "4 ноября в Нью-Йорке открывается сезон Christmas Spectacular. Впервые в этой постановке камеры передают танец на экраны зала в реальном времени — во всех номерах, а не только в финале.",
-      "mechanics": "Камеры спрятаны по периметру сцены; верхний план снимают со стороны арки над сценой. В программу также вошёл новый степ Ring: танцовщицы отбивают каблуками ритм Carol of the Bells. Организаторы запланировали на сезон 230 представлений.",
-      "why": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
-      "sources": [
-        {
-          "label": "MSG Entertainment · камеры, экраны и новый номер",
-          "url": "https://www.msgentertainment.com/rockettes-ring-in-their-next-century-with-new-tap-number-and-immersive-camera-technology-that-brings-audiences-closer-to-the-magic/"
-        },
-        {
-          "label": "Radio City · показ 4 ноября",
-          "url": "https://www.msg.com/events-tickets/christmas-spectacular-starring-the-radio-city-rockettes-radio-city-music-hall-november-2026/3C006457CDDF1EAE"
-        },
-        {
-          "label": "Rockettes · программа и число представлений",
-          "url": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/"
-        }
-      ],
-      "video": {
-        "label": "Тизер номера и камер у Rockettes",
-        "url": "https://www.instagram.com/p/DdoedZ7Ovdz/"
-      },
-      "image": {
-        "url": "img/n261105-29.webp",
-        "source_url": "https://assets.rockettes.com/wp-content/uploads/2026/07/On-Sale-Blog-Hero-Image.png",
-        "link": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/",
-        "alt": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
-        "caption": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
-        "credit": "Radio City Rockettes",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:43:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:43:03+03:00",
-      "event_key": "rockettes-ring-live-camera-screens-season-opening-2026",
-      "selected_because": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:43:03+03:00"
-      }
-    },
-    {
-      "id": "n261105-30",
-      "issue": "i2026-11-05",
-      "order": 21,
-      "lead": false,
-      "rubric": "event",
-      "status": "Анонс",
-      "country": "Бразилия",
-      "title": "Tomorrowland Brasil · Consciencia",
-      "cover_word": "Оркестр на рейве",
-      "headline": "Tomorrowland Brasil объявил программу: на техно-сцене каждый день сыграет оркестр",
-      "dek": "В бразильском Иту электронную классику исполнит Symphony of Unity. Оркестр встроили в расписание одной сцены с техно-диджеями.",
-      "what": "4 ноября Tomorrowland объявил состав бразильского фестиваля, который пройдёт 30 апреля – 2 мая 2027 года. Это заключительная остановка проекта Consciencia после Бельгии и Таиланда.",
-      "mechanics": "В программе шесть сцен. На Freedom by Bud наряду с диджей-сетами каждый день запланирован оркестр с переложениями электронной музыки. Алок выступит дважды: с сольным сетом на Crystal Garden и затем на главной сцене.",
-      "why": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
-      "sources": [
-        {
-          "label": "Tomorrowland · программа и распределение по сценам",
-          "url": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-30.webp",
-        "source_url": "https://cdn.assets.prezly.com/98ebc5be-5002-444c-a152-e1d765a76aae/-/preview/-/format/auto/260718-180647-TML26BE-PW%20(1).jpg",
-        "link": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up",
-        "alt": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
-        "caption": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
-        "credit": "Tomorrowland",
-        "illustration": false,
-        "fit": "cover",
-        "verified_at": "2026-11-05T00:43:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T14:00:00+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:43:03+03:00",
-      "event_key": "tomorrowland-brasil-2027-stage-programme-symphony-of-unity",
-      "selected_because": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:43:03+03:00"
-      }
-    },
-    {
-      "id": "n261105-24",
-      "issue": "i2026-11-05",
-      "order": 22,
-      "lead": false,
-      "rubric": "event",
-      "status": "Анонс",
-      "country": "Япония",
-      "title": "Ubisoft × HUB",
-      "cover_word": "Турнир за пределами арены",
-      "headline": "У турнира по Rainbow Six в Осаке появятся площадки для совместного просмотра в двух городах",
-      "dek": "Ubisoft объявила о просмотрах BLAST R6 Osaka Major в пабах HUB в Токио и Осаке. Они охватывают все три этапа турнира, а не только финал.",
-      "what": "Первая фаза стартует 6 ноября, последняя пройдёт с 13 по 15 ноября. Трансляции на участвующих площадках планируют включать с полудня по японскому времени.",
-      "mechanics": "К напитку зритель получит тематическую подставку, а за заказ от 1 000 иен — случайную наклейку, пока хватает тиража. Для площадок предусмотрены локальные варианты сувениров.",
-      "why": "Зрители за пределами основной арены получают повод возвращаться на разные стадии турнира. Один эфир превращается в серию очных встреч.",
-      "sources": [
-        {
-          "label": "Ubisoft · расписание совместных просмотров",
-          "url": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates/56Vbjlp0e5EFPGY24PlD5P/r6se-osaka-major-watch-party-announcement"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-24.webp",
-        "source_url": "https://staticctf.ubisoft.com/p0f8o8d25gmk/4oC04WBlZfQo6PCanljOVg/8ef5e7474a1b74e1d9904c53a56a0809/EN_THUMBNAIL_OVERVIEW.jpg",
-        "link": "https://www.ubisoft.com/en-us/esports/rainbow-six/siege/news-updates/56Vbjlp0e5EFPGY24PlD5P/r6se-osaka-major-watch-party-announcement",
-        "credit": "Ubisoft / BLAST R6",
-        "illustration": false,
-        "fit": "contain",
-        "alt": "Постер встреч болельщиков в Осаке и Токио",
-        "caption": "Постер встреч болельщиков в Осаке и Токио.",
-        "verified_at": "2026-11-05T00:08:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:08:03+03:00",
-      "event_key": "ubi-osaka-major-hub-watch-parties-2026",
-      "selected_because": "Зрители за пределами основной арены получают повод возвращаться на разные стадии турнира. Один эфир превращается в серию очных встреч.",
       "verification": {
         "status": "reviewed",
         "checked_at": "2026-11-05T00:08:03+03:00"
