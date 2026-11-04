@@ -52,11 +52,51 @@
     }),{threshold:.5});
     document.querySelectorAll('[data-open] h2,[data-open] h3').forEach(el=>observer.observe(el));
   }
+  const loadingScores = new Set();
+  let starObserver;
+
+  function loadScore(story) {
+    paint(story);
+    if (scores.has(story) || loadingScores.has(story) || saving.has(story)) return;
+    loadingScores.add(story);
+    request('/v1/rating/get', {issue_id: issue, story_id: story})
+      .then(result => {
+        if (!saving.has(story) && !scores.has(story)) {
+          scores.set(story, result.score);
+          paint(story);
+        }
+      })
+      .catch(() => {})
+      .finally(() => loadingScores.delete(story));
+  }
+
+  function restoreCardScores() {
+    starObserver?.disconnect();
+    const groups = document.querySelectorAll('.rating-compact');
+    if (!('IntersectionObserver' in window)) {
+      groups.forEach(group => loadScore(group.dataset.feedback));
+      return;
+    }
+    starObserver = new IntersectionObserver(entries => {
+      for (const entry of entries) {
+        if (!entry.isIntersecting) continue;
+        starObserver.unobserve(entry.target);
+        loadScore(entry.target.dataset.feedback);
+      }
+    });
+    groups.forEach(group => starObserver.observe(group));
+  }
+
   function paint(story,message){
     document.querySelectorAll('[data-feedback]').forEach(box=>{
       if(box.dataset.feedback!==story)return;
       const score=scores.get(story);
-      box.querySelectorAll('[data-score]').forEach(b=>{b.setAttribute('aria-pressed',String(Number(b.dataset.score)===score));b.disabled=saving.has(story)});
+      box.querySelectorAll('[data-score]').forEach(button => {
+        const value = Number(button.dataset.score);
+        button.setAttribute('aria-pressed', String(value === score));
+        button.classList.toggle('filled', value <= score);
+        button.disabled = saving.has(story);
+      });
       box.querySelector('[data-rating-status]').textContent=message||(score?`Ваша оценка: ${score} из 5. Можно изменить.`:'Без имени и входа. Оценку можно изменить.');
     });
   }
@@ -65,13 +105,17 @@
     const story=active;readTimer=setTimeout(()=>{if(active===story){emit('read15',story);flush()}},15000);
   }
   window.JuiceFeedback={
-    widget(story){return `<fieldset class="rating" data-feedback="${esc(story)}"><legend>Интересно читать такие новости?</legend><div class="rating-buttons" role="group" aria-label="Оценка интереса от 1 до 5">${[1,2,3,4,5].map(n=>`<button type="button" data-score="${n}" aria-label="${n} из 5${n===1?' — совсем неинтересно':n===5?' — очень интересно':''}" aria-pressed="false">${n}<span aria-hidden="true">★</span></button>`).join('')}</div><div class="rating-scale"><span>Совсем неинтересно</span><span>Очень интересно</span></div><p class="rating-status" data-rating-status role="status" aria-live="polite">Без имени и входа. Оценку можно изменить.</p></fieldset>`},
-    issue(id){issue=id;active=null;clearTimeout(readTimer);emit('visit');observe()},
+    widget(story){return `<fieldset class="rating" data-feedback="${esc(story)}"><legend>Оцени новость</legend><div class="rating-buttons" role="group" aria-label="Оценка интереса от 1 до 5">${[1,2,3,4,5].map(n=>`<button type="button" data-score="${n}" aria-label="${n} из 5${n===1?' — совсем неинтересно':n===5?' — очень интересно':''}" aria-pressed="false">${n}<span aria-hidden="true">★</span></button>`).join('')}</div><div class="rating-scale"><span>Совсем неинтересно</span><span>Очень интересно</span></div><p class="rating-status" data-rating-status role="status" aria-live="polite">Без имени и входа. Оценку можно изменить.</p></fieldset>`},
+    stars(story, title) {
+      const icon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.7 2.8 5.9 6.5.9-4.7 4.6 1.1 6.5-5.7-3.1-5.7 3.1 1.1-6.5-4.7-4.6 6.5-.9z"/></svg>';
+      const buttons = [1,2,3,4,5].map(value =>
+        `<button type="button" data-score="${value}" aria-label="${value} из 5" aria-pressed="false">${icon}</button>`
+      ).join('');
+      return `<div class="rating-compact" data-feedback="${esc(story)}" role="group" aria-label="Оцени новость «${esc(title)}»">${buttons}<span class="rating-sr" data-rating-status role="status"></span></div>`;
+    },
+    issue(id){issue=id;active=null;clearTimeout(readTimer);emit('visit');observe();restoreCardScores()},
     open(story){
-      if(active===story)return;active=story;clearImpressions();emit('open',story);paint(story);startRead();
-      if(!scores.has(story))request('/v1/rating/get',{issue_id:issue,story_id:story}).then(r=>{
-        if(!saving.has(story)&&!scores.has(story)){scores.set(story,r.score);paint(story)}
-      }).catch(()=>{});
+      if(active===story)return;active=story;clearImpressions();emit('open',story);loadScore(story);startRead();
     },
     close(){active=null;clearTimeout(readTimer);observe()},
     privacy:'<details class="feedback-privacy"><summary>Об оценках и статистике</summary><p>Оценки помогают выбирать темы следующих выпусков. Считаем посещения, показы заголовков, открытия и чтение новостей без имён, контактов и привязки к Telegram. В браузере сохраняется случайный код: он позволяет изменить свою оценку. Другой браузер или устройство учитывается отдельно. Общая статистика доступна редакции.</p></details>'

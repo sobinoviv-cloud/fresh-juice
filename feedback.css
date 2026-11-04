@@ -13,3 +13,17 @@
 .feedback-privacy{font-size:12px;line-height:1.5;max-width:660px;color:var(--ink-2)}
 .feedback-privacy summary{cursor:pointer;text-decoration:underline;text-underline-offset:3px}
 @media(max-width:400px){.rating{padding:16px 12px}.rating legend{font-size:16px}.rating-buttons{gap:7px}.rating-buttons button{font-size:20px;min-height:52px;gap:4px}.rating-scale{font-size:10px}}
+.card-open { display:flex; flex:1; flex-direction:column; color:inherit; text-decoration:none }
+.lead-entry { overflow:hidden; border-radius:22px; background:var(--card) }
+.lead-entry .lead-card { border-radius:0 }
+.rating-compact { display:flex; align-items:center; width:max-content; max-width:100%; margin:0 12px 12px; position:relative }
+.rating-compact button { display:grid; place-items:center; width:44px; height:44px; padding:0; background:transparent; color:var(--ink-3); border:0; border-radius:8px; cursor:pointer; touch-action:manipulation }
+.rating-compact svg { width:26px; height:26px; stroke:currentColor; stroke-width:1.6; stroke-linejoin:round; fill:transparent }
+.rating-compact .filled { color:var(--juice) }
+.rating-compact .filled svg { fill:currentColor }
+.rating-compact button:focus-visible { outline:2px solid var(--juice); outline-offset:-2px }
+.rating-compact button:disabled { cursor:wait; opacity:.65 }
+.rating-sr { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap }
+@media (hover:hover) {
+  .rating-compact button:hover { background:var(--card-2) }
+}

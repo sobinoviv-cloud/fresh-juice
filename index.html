@@ -99,7 +99,7 @@ img{max-width:100%;display:block}
 .card h3{margin:0;font-family:var(--f-display);font-weight:800;font-size:19px;line-height:1.18;letter-spacing:-.01em;overflow-wrap:normal;word-break:normal;hyphens:none}
 .card p{margin:0;font-size:14.5px;color:var(--ink-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .card .more{margin-top:auto;padding-top:4px;font-size:13px;font-weight:700;color:var(--rc)}
-.card:hover h3,.lead-card:hover h2{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
+.card-open:hover h3,.lead-card:hover h2{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
 .dots{display:flex;justify-content:center;gap:6px;padding-top:12px}
 .dots i{width:7px;height:7px;border-radius:4px;background:var(--line);transition:width .2s,background .2s}
 .dots i.on{width:22px;background:var(--rc)}
@@ -188,7 +188,7 @@ footer a{font-weight:600;color:var(--ink-2)}
 .s-next button:last-child{text-align:right}
 @media (prefers-reduced-motion:no-preference){.slides,.rail{scroll-behavior:smooth}}
 </style>
-<link rel="stylesheet" href="feedback.css?v=20261104">
+<link rel="stylesheet" href="feedback.css?v=20261104-stars">
 </head>
 <body>
 <header class="mast">
@@ -210,7 +210,7 @@ footer a{font-weight:600;color:var(--ink-2)}
   <div class="slides" id="slides"></div>
 </div>
 
-<script src="feedback.js?v=20261104"></script>
+<script src="feedback.js?v=20261104-stars"></script>
 <script>
 (function(){
 const RUB={scripted:"Scripted",unscripted:"Non-scripted",doc:"Doc",digital:"Digital",branded:"Branded content",short:"Short media",sport:"Sport content",event:"Event"};
@@ -256,7 +256,12 @@ function cover(s,num,ctx="card"){
 }
 const credit=s=>{const i=s.image||{};if(!i.url)return "";if(i.illustration)return `<p class="cap">Иллюстрация Fresh Juice по мотивам новости</p>`;return `<p class="cap">${esc(i.caption||("Изображение: "+(i.credit||"источник")))}${i.link?` · <a href="${esc(i.link)}" target="_blank" rel="noopener">источник ↗</a>`:""}</p>`};
 const kick=(s,rub)=>`<div class="kick" style="${rc(s.rubric)}">${rub?`<span class="r">${RUB[s.rubric]}</span>`:""}<span>${esc(s.status||"")}</span><span>${esc(s.date_label||fd(s.date_iso))}${s.country?" · "+esc(s.country):""}</span></div>`;
-const card=(s,i,n)=>`<a class="card" href="#${esc(s.id)}" data-open="${esc(s.id)}" style="${rc(s.rubric)}">${cover(s,`${i+1}/${n}`,"card")}<div class="txt">${kick(s,false)}<h3>${esc(s.headline)}</h3><p>${esc(s.dek)}</p><span class="more">Читать →</span></div></a>`;
+const stars = story => window.JuiceFeedback?.stars(story.id, story.headline) || "";
+const card = (s, i, n) => `<article class="card" style="${rc(s.rubric)}">
+  <a class="card-open" href="#${esc(s.id)}" data-open="${esc(s.id)}">
+    ${cover(s,`${i+1}/${n}`,"card")}<div class="txt">${kick(s,false)}<h3>${esc(s.headline)}</h3><p>${esc(s.dek)}</p><span class="more">Читать →</span></div>
+  </a>${stars(s)}
+</article>`;
 
 function render(){
   const by={};ORDER.forEach(r=>by[r]=[]);
@@ -269,7 +274,7 @@ function render(){
   let h="";
   if(!stories.length){h=`<section class="state"><h2>Сегодня без новостей</h2><p>${esc(cur.empty_note||"За период новых подтверждённых новостей для подборки не нашёл.")}</p></section>`}
   else{
-    if(lead)h+=`<section class="lead"><a class="lead-card" href="#${esc(lead.id)}" data-open="${esc(lead.id)}" style="${rc(lead.rubric)}">${cover(lead,"","lead")}<div class="txt"><span class="label">Главное</span>${kick(lead,true)}<h2>${esc(lead.headline)}</h2><p>${esc(lead.dek)}</p></div></a>${cur.intro?`<p class="intro">${esc(cur.intro)}</p>`:""}</section>`;
+    if(lead)h+=`<section class="lead"><div class="lead-entry"><a class="lead-card" href="#${esc(lead.id)}" data-open="${esc(lead.id)}" style="${rc(lead.rubric)}">${cover(lead,"","lead")}<div class="txt"><span class="label">Главное</span>${kick(lead,true)}<h2>${esc(lead.headline)}</h2><p>${esc(lead.dek)}</p></div></a>${stars(lead)}</div>${cur.intro?`<p class="intro">${esc(cur.intro)}</p>`:""}</section>`;
     ORDER.forEach(r=>{
       const list=by[r];if(!list.length)return;
       h+=`<section class="sec" id="sec-${r}" style="${rc(r)}"><div class="sec-h"><div><h2>${RUB[r]}</h2></div><div class="side"><span class="sub">${SUB[r]} · ${list.length} ${plural(list.length,["новость","новости","новостей"])}</span><div class="arrows"><button type="button" data-rail="${r}" data-dir="-1" aria-label="Назад">←</button><button type="button" data-rail="${r}" data-dir="1" aria-label="Вперёд">→</button></div></div></div><div class="rail" id="rail-${r}">${list.map((s,i)=>card(s,i,list.length)).join("")}</div>${list.length>1?`<div class="dots" id="dots-${r}">${list.map((_,i)=>`<i class="${i?"":"on"}"></i>`).join("")}</div>`:""}</section>`;
