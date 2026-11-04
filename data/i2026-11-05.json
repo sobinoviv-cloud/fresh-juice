@@ -5,15 +5,15 @@
     "mode": "daily",
     "chip": "5 ноя",
     "lead_id": "n261105-01",
-    "count": 24,
+    "count": 22,
     "period_start": "2026-11-04T10:00:00+03:00",
-    "period_end": "2026-11-05T00:08:03+03:00",
+    "period_end": "2026-11-05T00:41:28+03:00",
     "publication_window_end": "2026-11-05T10:00:00+03:00",
-    "generated_at": "2026-11-05T00:08:03+03:00",
-    "period_label": "С 10:00 мск 4 ноября до ночной сверки 5 ноября, 00:08 мск",
-    "revision": "v2",
-    "intro": "Dior даёт голос рождественской звезде, а NBC оставляет камеру с одним ведущим на десять с половиной часов. В этом выпуске — 24 истории: от новой японской микродрамы до того, как устроен запуск женской лиги аренного гольфа.",
-    "coverage_note": "Новости 4 ноября из восьми направлений. Проверены даты объявлений, исходные сообщения, доступные материалы правообладателей и история журнала. Время события указано с точностью источника.",
+    "generated_at": "2026-11-05T00:41:28+03:00",
+    "period_label": "С 10:00 мск 4 ноября до 00:41 мск 5 ноября",
+    "revision": "v3",
+    "intro": "В Париже пианисты принимают конкурс талантов за съёмки документалки, а в Нью-Йорке зрителям Rockettes впервые показывают рисунок танца прямо сверху. Ещё в выпуске — как авторы YouTube-хоррора проверяют, готова ли аудитория платить за полный метр.",
+    "coverage_note": "Восемь рубрик. В Non-scripted и Doc — по две истории. Дата карточки — новый факт: публикация первых кадров, результат, завершение съёмки или премьера, а не обязательно день первого анонса.",
     "agenda": [
       {
         "date": "10 ноября",
@@ -78,111 +78,9 @@
       }
     },
     {
-      "id": "n261105-02",
-      "issue": "i2026-11-05",
-      "order": 2,
-      "lead": false,
-      "rubric": "scripted",
-      "status": "В разработке",
-      "country": "США",
-      "title": "Lila Pictures × Netflix",
-      "cover_word": "После «Грызни»",
-      "headline": "Автор «Грызни» открыл Lila Pictures и разрабатывает два сериала для Netflix",
-      "dek": "Ли Сон Джин снова работает с Али Вонг. В мини-сериале The Only Child она сыграет мать профессиональной лучницы, которая готовится побороться за своё первое золото.",
-      "what": "Основатель Lila Pictures объявил о двух проектах в рамках сотрудничества с Netflix. Али Вонг также выступит продюсером The Only Child.",
-      "mechanics": "Второй проект, Citizen’s Arrest, придумал Джин Хонг, продюсер «Грызни». Двое друзей-соседей так увлекаются расследованием местного преступления, что могут и дальше откладывать разговор о собственных проблемах.",
-      "why": "У новой компании сразу две сценарные команды из круга «Грызни». По обоим проектам объявлена разработка. Дат съёмок пока нет.",
-      "note": "",
-      "sources": [
-        {
-          "label": "Deadline · заявление Ли Сон Джина",
-          "url": "https://deadline.com/2026/11/beef-creator-lee-sung-jin-lila-pictures-netflix-ali-wong-1237212702/"
-        },
-        {
-          "label": "Variety",
-          "url": "https://variety.com/2026/tv/news/beef-lee-sung-jin-netflix-shows-ali-wong-gene-hong-1236939410/"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-02.webp",
-        "source_url": "https://deadline.com/wp-content/uploads/2026/11/Lee-Sung-Jin-PC_-Sela-Shiloni.jpeg?w=1024",
-        "link": "https://deadline.com/2026/11/beef-creator-lee-sung-jin-lila-pictures-netflix-ali-wong-1237212702/",
-        "provenance_sha256": "f581df210e13c3148b13d7927c6252b5dc0df0a04b6f5eeb70a73ca1f314ff18",
-        "alt": "Ли Сон Джин. Фото Селы Шилони.",
-        "credit": "Sela Shiloni / Deadline",
-        "caption": "Ли Сон Джин. Фото Селы Шилони.",
-        "illustration": false,
-        "fit": "cover"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T18:00:00+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-04T21:26:12+03:00",
-      "event_key": "lila-pictures-netflix-two-development-projects-2026",
-      "selected_because": "У новой компании сразу две сценарные команды из круга «Грызни». По обоим проектам объявлена разработка. Дат съёмок пока нет.",
-      "verification": {
-        "checked_at": "2026-11-04T21:26:12+03:00",
-        "status": "reviewed",
-        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
-      }
-    },
-    {
-      "id": "n261105-03",
-      "issue": "i2026-11-05",
-      "order": 3,
-      "lead": false,
-      "rubric": "scripted",
-      "status": "Съёмки",
-      "country": "Австралия / Норвегия",
-      "title": "Apple TV × Made Up Stories",
-      "cover_word": "Из Осло в Сидней",
-      "headline": "Apple TV снимает в Сиднее свою версию норвежской «Пернилле»",
-      "dek": "В Lenni Тони Коллетт играет сотрудницу службы защиты детей. На работе она помогает чужим семьям, а дома пытается удержать на плаву собственную.",
-      "what": "Съёмки англоязычной версии уже начались в Австралии. Норвежскую драмеди адаптирует Сара Шеллер, соавтор австралийского сериала The Letdown.",
-      "mechanics": "Проект делают Made Up Stories и Keshet International. Создательница оригинала Хенриетте Стенструп вошла в команду исполнительных продюсеров. Тони Коллетт совмещает главную роль с продюсерской.",
-      "why": "При переносе сохранили двойную роль героини — мать и социальный работник. За местный контекст отвечает австралийская сценаристка, а за связь с оригиналом — его автор.",
-      "note": "",
-      "sources": [
-        {
-          "label": "Variety · сообщение о начале съёмок",
-          "url": "https://variety.com/2026/tv/news/toni-collette-apple-tv-lenni-norwegian-format-1236939304/"
-        },
-        {
-          "label": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/toni-collette-apple-tv-lenni-1236747702/"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-03.webp",
-        "source_url": "https://variety.com/wp-content/uploads/2026/11/Toni-Collette-by-Christian-Hogstedt-e1793805510664.jpeg?w=1000&h=563&crop=1",
-        "link": "https://variety.com/2026/tv/news/toni-collette-apple-tv-lenni-norwegian-format-1236939304/",
-        "provenance_sha256": "e2c0c0298339bff914de95aca8b786c0c3c3422c2cc61adb9b83e10d5a36c284",
-        "alt": "Тони Коллетт. Портрет актрисы, опубликованный с анонсом.",
-        "credit": "Christian Högstedt / Variety",
-        "caption": "Тони Коллетт. Портрет актрисы, опубликованный с анонсом.",
-        "illustration": false,
-        "fit": "cover"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T16:00:00+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-04T21:26:12+03:00",
-      "event_key": "apple-lenni-pernille-adaptation-sydney-production-2026",
-      "selected_because": "При переносе сохранили двойную роль героини — мать и социальный работник. За местный контекст отвечает австралийская сценаристка, а за связь с оригиналом — его автор.",
-      "verification": {
-        "checked_at": "2026-11-04T21:26:12+03:00",
-        "status": "reviewed",
-        "time_basis": "timestamp of earliest verified reporting or calendar day of the announcement"
-      }
-    },
-    {
       "id": "n261105-04",
       "issue": "i2026-11-05",
-      "order": 4,
+      "order": 2,
       "lead": false,
       "rubric": "branded",
       "status": "Анонс",
@@ -229,7 +127,7 @@
     {
       "id": "n261105-05",
       "issue": "i2026-11-05",
-      "order": 5,
+      "order": 3,
       "lead": false,
       "rubric": "doc",
       "status": "Заказ",
@@ -276,7 +174,7 @@
     {
       "id": "n261105-06",
       "issue": "i2026-11-05",
-      "order": 6,
+      "order": 4,
       "lead": false,
       "rubric": "sport",
       "status": "Анонс трансляции",
@@ -324,105 +222,9 @@
       }
     },
     {
-      "id": "n261105-07",
-      "issue": "i2026-11-05",
-      "order": 7,
-      "lead": false,
-      "rubric": "scripted",
-      "status": "Премьера",
-      "country": "Япония",
-      "title": "BUMP",
-      "cover_word": "Семейный суд",
-      "headline": "BUMP выпустил микродраму, в которой шестиклассник судит собственную мать",
-      "dek": "Вместо взрослых в зале суда — школьники. Мальчик, который ведёт хозяйство и растит младшую сестру, пытается разобраться, где кончается помощь семье.",
-      "what": "4 ноября в японском приложении BUMP вышел сериал 小学生が親を捨てるのは罪ですか？. В центре истории — ребёнок, которому дома досталась роль взрослого.",
-      "mechanics": "Одноклассница предлагает устроить суд прямо в школе. Один конфликт между матерью и сыном даёт сквозной сюжет для коротких эпизодов.",
-      "why": "Редкий для микродрамы выбор героя: решение, вокруг которого строится семейная история, должен принять сам ребёнок.",
-      "sources": [
-        {
-          "label": "emole · релиз издателя BUMP",
-          "url": "https://prtimes.jp/main/html/rd/p/000000200.000039336.html"
-        },
-        {
-          "label": "BUMP · страница сериала",
-          "url": "https://www.bump.studio/news/oyasute"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-07.webp",
-        "source_url": "https://prcdn.freetls.fastly.net/release_image/39336/200/39336-200-099baaa15e8a9cc2e296b392acae7751-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-        "link": "https://prtimes.jp/main/html/rd/p/000000200.000039336.html",
-        "credit": "emole / BUMP",
-        "illustration": false,
-        "fit": "contain",
-        "alt": "Официальный постер микродрамы BUMP",
-        "caption": "Официальный постер микродрамы BUMP.",
-        "verified_at": "2026-11-05T00:08:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T19:00:02+09:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:08:03+03:00",
-      "event_key": "bump-oyasute-premiere-jp-2026",
-      "selected_because": "Редкий для микродрамы выбор героя: решение, вокруг которого строится семейная история, должен принять сам ребёнок.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:08:03+03:00"
-      },
-      "note": ""
-    },
-    {
-      "id": "n261105-08",
-      "issue": "i2026-11-05",
-      "order": 8,
-      "lead": false,
-      "rubric": "unscripted",
-      "status": "Назначение",
-      "country": "США",
-      "title": "Amazon MGM Studios",
-      "cover_word": "Покупатель форматов",
-      "headline": "Дженни Грум возглавит MGM Alternative и займётся новыми телеформатами",
-      "dek": "В её ведение переходят каталоги Survivor, Shark Tank и The Voice. Новые шоу команда сможет разрабатывать и для Prime Video, и для внешних заказчиков.",
-      "what": "О назначении сообщила сотрудникам руководитель документальных и развлекательных проектов Amazon MGM Studios Дженн Леви. Deadline ознакомился с её письмом. Грум начинает в конце ноября.",
-      "mechanics": "Грум переходит из BBC Studios, где отвечала за разработку развлекательных программ. В новой должности она совмещает развитие собственных проектов с работой над существующими франшизами.",
-      "why": "Для независимого вещателя это означает, что подразделение Amazon по-прежнему может быть поставщиком форматов.",
-      "sources": [
-        {
-          "label": "Deadline · письмо руководителя Amazon MGM Studios",
-          "url": "https://deadline.com/2026/11/jenny-groom-amazon-head-of-mgm-alternative-1237213288/"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-08.webp",
-        "source_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000_152f05.jpg?w=1000",
-        "link": "https://deadline.com/2026/11/jenny-groom-amazon-head-of-mgm-alternative-1237213288/",
-        "credit": "Deadline / Amazon MGM Studios",
-        "illustration": false,
-        "fit": "cover",
-        "alt": "Дженни Грум и логотип Amazon MGM Studios",
-        "caption": "Дженни Грум и логотип Amazon MGM Studios.",
-        "verified_at": "2026-11-05T00:08:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T18:05:00+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:08:03+03:00",
-      "event_key": "agent-groom-head-mgm-alternative-2026",
-      "selected_because": "Для независимого вещателя это означает, что подразделение Amazon по-прежнему может быть поставщиком форматов.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:08:03+03:00"
-      },
-      "note": ""
-    },
-    {
       "id": "n261105-09",
       "issue": "i2026-11-05",
-      "order": 9,
+      "order": 5,
       "lead": false,
       "rubric": "unscripted",
       "status": "Анонс",
@@ -469,55 +271,9 @@
       "note": ""
     },
     {
-      "id": "n261105-10",
-      "issue": "i2026-11-05",
-      "order": 10,
-      "lead": false,
-      "rubric": "unscripted",
-      "status": "Анонс",
-      "country": "США",
-      "title": "Netflix × Джанмарко Сорези",
-      "cover_word": "Из клуба на Netflix",
-      "headline": "Netflix выпустит первый сольный спешл Джанмарко Сорези для платформы",
-      "dek": "God Forbid выйдет по всему миру 3 декабря. Предыдущий час комик сам выложил на YouTube.",
-      "what": "Сорези объявил дату новой записи, снятой в чикагском Thalia Hall. В программе — брак, отцовство и тревоги человека, который слишком хорошо научился их распознавать.",
-      "mechanics": "Его предыдущий спешл Thief of Joy набрал на YouTube свыше миллиона просмотров за первую неделю, по данным Deadline. На Netflix Сорези до сих пор появлялся в сборной программе Verified Stand-Up.",
-      "why": "Самостоятельный релиз дал комику измеримую аудиторию до того, как стример взял его полный сольный концерт.",
-      "sources": [
-        {
-          "label": "Deadline · сообщение и комментарий Сорези",
-          "url": "https://deadline.com/2026/11/gianmarco-soresi-netflix-special-premiere-date-1237213183/"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-10.webp",
-        "source_url": "https://deadline.com/wp-content/uploads/2026/11/Gianmarco-Soresi-God-Forbid-Derick-Smith-1.jpg?w=1024",
-        "link": "https://deadline.com/2026/11/gianmarco-soresi-netflix-special-premiere-date-1237213183/",
-        "credit": "Дерик Смит / Deadline",
-        "illustration": false,
-        "fit": "cover",
-        "alt": "Джанмарко Сорези во время выступления",
-        "caption": "Джанмарко Сорези во время выступления.",
-        "verified_at": "2026-11-05T00:08:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T16:30:00+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:08:03+03:00",
-      "event_key": "soresi-god-forbid-netflix-premiere-2026",
-      "selected_because": "Самостоятельный релиз дал комику измеримую аудиторию до того, как стример взял его полный сольный концерт.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:08:03+03:00"
-      },
-      "note": ""
-    },
-    {
       "id": "n261105-11",
       "issue": "i2026-11-05",
-      "order": 11,
+      "order": 6,
       "lead": false,
       "rubric": "doc",
       "status": "Анонс",
@@ -564,49 +320,9 @@
       "note": ""
     },
     {
-      "id": "n261105-12",
-      "issue": "i2026-11-05",
-      "order": 12,
-      "lead": false,
-      "rubric": "doc",
-      "status": "Награда",
-      "country": "Великобритания",
-      "title": "Dependence × BFI",
-      "cover_word": "Семейные плёнки",
-      "headline": "Зрители Лондонского кинофестиваля выбрали семейную документалку Dependence",
-      "dek": "Фильм Грейс Харпер Бригхаус победил в категории Best British Discovery. Результаты зрительского голосования BFI объявил 4 ноября, уже после закрытия фестиваля.",
-      "what": "Режиссёр разбирает домашние записи нескольких десятилетий после смерти отца. Семейная хроника становится материалом для разговора о жизни рядом с человеком с зависимостью.",
-      "mechanics": "На фестивале картину показывали в документальном конкурсе Grierson. Нынешняя награда присуждена по голосованию публики в отдельной категории британских открытий.",
-      "why": "Фильм, сделанный из частного архива, получил самостоятельный повод для внимания спустя несколько недель после показа.",
-      "sources": [
-        {
-          "label": "BFI · результаты зрительского голосования",
-          "url": "https://www.bfi.org.uk/london-film-festival/news/70th-bfi-london-film-festival-announces-lff-audience-award-winners"
-        },
-        {
-          "label": "Deadline · результат и история создания",
-          "url": "https://deadline.com/2026/11/london-film-festival-la-bola-negra-audience-award-2026-1237212998/"
-        }
-      ],
-      "video": null,
-      "image": null,
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04",
-      "date_precision": "day",
-      "discovered_at": "2026-11-05T00:08:03+03:00",
-      "event_key": "sdep-dependence-bfi-discovery-2026",
-      "selected_because": "Фильм, сделанный из частного архива, получил самостоятельный повод для внимания спустя несколько недель после показа.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:08:03+03:00"
-      },
-      "note": ""
-    },
-    {
       "id": "n261105-13",
       "issue": "i2026-11-05",
-      "order": 13,
+      "order": 7,
       "lead": false,
       "rubric": "digital",
       "status": "Запуск",
@@ -642,7 +358,7 @@
     {
       "id": "n261105-14",
       "issue": "i2026-11-05",
-      "order": 14,
+      "order": 8,
       "lead": false,
       "rubric": "digital",
       "status": "Результаты",
@@ -692,7 +408,7 @@
     {
       "id": "n261105-15",
       "issue": "i2026-11-05",
-      "order": 15,
+      "order": 9,
       "lead": false,
       "rubric": "digital",
       "status": "Разработка",
@@ -742,7 +458,7 @@
     {
       "id": "n261105-16",
       "issue": "i2026-11-05",
-      "order": 16,
+      "order": 10,
       "lead": false,
       "rubric": "branded",
       "status": "Запуск",
@@ -791,7 +507,7 @@
     {
       "id": "n261105-17",
       "issue": "i2026-11-05",
-      "order": 17,
+      "order": 11,
       "lead": false,
       "rubric": "short",
       "status": "Запуск",
@@ -837,7 +553,7 @@
     {
       "id": "n261105-18",
       "issue": "i2026-11-05",
-      "order": 18,
+      "order": 12,
       "lead": false,
       "rubric": "short",
       "status": "Запуск",
@@ -890,7 +606,7 @@
     {
       "id": "n261105-19",
       "issue": "i2026-11-05",
-      "order": 19,
+      "order": 13,
       "lead": false,
       "rubric": "short",
       "status": "Данные компании",
@@ -940,7 +656,7 @@
     {
       "id": "n261105-20",
       "issue": "i2026-11-05",
-      "order": 20,
+      "order": 14,
       "lead": false,
       "rubric": "sport",
       "status": "Сделка",
@@ -986,7 +702,7 @@
     {
       "id": "n261105-21",
       "issue": "i2026-11-05",
-      "order": 21,
+      "order": 15,
       "lead": false,
       "rubric": "sport",
       "status": "Партнёрство",
@@ -1030,105 +746,9 @@
       "note": ""
     },
     {
-      "id": "n261105-22",
-      "issue": "i2026-11-05",
-      "order": 22,
-      "lead": false,
-      "rubric": "event",
-      "status": "Открытие",
-      "country": "Россия",
-      "title": "Якутский международный кинофестиваль",
-      "cover_word": "Ледяная дорожка",
-      "headline": "Якутский кинофестиваль открылся экранизацией Лескова и красной дорожкой изо льда",
-      "dek": "Первым фильмом IX фестиваля стала картина Эдуарда Новикова «На краю света». Открытие состоялось 4 ноября в Якутске.",
-      "what": "На церемонию пригласили авторов и гостей фестиваля. Они прошли по красной ледяной дорожке среди фигур изо льда; после церемонии зрителям показали фильм-открытие.",
-      "mechanics": "В расписании организатора отдельно указаны сеансы и площадки. Для открытия выбрали историю Лескова в интерпретации якутского режиссёра.",
-      "why": "Самое узнаваемое изображение дня родилось из материала, связанного именно с местом проведения. Оно рассказывает о фестивале ещё до первого кадра фильма.",
-      "sources": [
-        {
-          "label": "ЯСИА · репортаж с открытия",
-          "url": "https://ysia.ru/film-na-krayu-sveta-otkryl-ix-yakutskij-mezhdunarodnyj-kinofestival/"
-        },
-        {
-          "label": "Фестиваль · официальная программа",
-          "url": "https://yktfilmfest.org/ru/program"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-22.webp",
-        "source_url": "https://ysia.ru/wp-content/uploads/2026/11/325141bb-488a-420b-9f2c-58520ba3da5d-960x640.webp",
-        "link": "https://ysia.ru/film-na-krayu-sveta-otkryl-ix-yakutskij-mezhdunarodnyj-kinofestival/",
-        "credit": "ЯСИА",
-        "illustration": false,
-        "fit": "cover",
-        "alt": "Открытие IX Якутского кинофестиваля",
-        "caption": "Открытие IX Якутского кинофестиваля.",
-        "verified_at": "2026-11-05T00:08:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T19:34:55+09:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:08:03+03:00",
-      "event_key": "yak-yakutsk-festival-opening-2026",
-      "selected_because": "Самое узнаваемое изображение дня родилось из материала, связанного именно с местом проведения. Оно рассказывает о фестивале ещё до первого кадра фильма.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:08:03+03:00"
-      },
-      "note": ""
-    },
-    {
-      "id": "n261105-23",
-      "issue": "i2026-11-05",
-      "order": 23,
-      "lead": false,
-      "rubric": "event",
-      "status": "Объявление программы",
-      "country": "Франция",
-      "title": "Les Arcs Film Festival",
-      "cover_word": "Испанский акцент",
-      "headline": "Les Arcs объявил программу и председателя жюри полного метра",
-      "dek": "18-й фестиваль пройдёт с 12 по 19 декабря. Один из акцентов программы — испанское кино.",
-      "what": "Организаторы представили конкурсы европейского полного и короткого метра, премьерные показы и специальную программу. Короткий метр будет оценивать отдельное жюри во главе с Луизой Курвуазье.",
-      "mechanics": "В жюри полного метра вместе с бразильским режиссёром вошли, среди прочих, актриса Голшифте Фарахани и испанская постановщица Пилар Паломеро.",
-      "why": "Для короткого метра сохранили отдельную кураторскую и конкурсную линию. По объявленным составам уже видно, кто будет принимать решения в декабре.",
-      "sources": [
-        {
-          "label": "Les Arcs · программа фестиваля",
-          "url": "https://lesarcs-filmfest.com/en/festival/news-programmation?modefesti=c9257a"
-        }
-      ],
-      "video": null,
-      "image": {
-        "url": "img/n261105-23.webp",
-        "source_url": "https://lesarcs-filmfest.com/laff/up/2026/refonte/programmation.png",
-        "link": "https://lesarcs-filmfest.com/en/festival/news-programmation?modefesti=c9257a",
-        "credit": "Les Arcs Film Festival",
-        "illustration": false,
-        "fit": "cover",
-        "alt": "Промоматериал программы Les Arcs",
-        "caption": "Промоматериал программы Les Arcs.",
-        "verified_at": "2026-11-05T00:08:03+03:00"
-      },
-      "date_iso": "2026-11-04",
-      "date_label": "4 ноября 2026",
-      "first_published_at": "2026-11-04T10:43:39+00:00",
-      "date_precision": "minute",
-      "discovered_at": "2026-11-05T00:08:03+03:00",
-      "event_key": "lesarcs-18th-programme-2026",
-      "selected_because": "Для короткого метра сохранили отдельную кураторскую и конкурсную линию. По объявленным составам уже видно, кто будет принимать решения в декабре.",
-      "verification": {
-        "status": "reviewed",
-        "checked_at": "2026-11-05T00:08:03+03:00"
-      },
-      "note": ""
-    },
-    {
       "id": "n261105-24",
       "issue": "i2026-11-05",
-      "order": 24,
+      "order": 16,
       "lead": false,
       "rubric": "event",
       "status": "Анонс",
@@ -1170,6 +790,312 @@
         "checked_at": "2026-11-05T00:08:03+03:00"
       },
       "note": ""
+    },
+    {
+      "id": "n261105-25",
+      "issue": "i2026-11-05",
+      "order": 17,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "Кейс",
+      "country": "Канада",
+      "title": "The Cat and the Hatchet",
+      "cover_word": "Из короткого в полный",
+      "headline": "Хоррор-пародия набрала 1,6 млн просмотров за четыре дня. Теперь её авторы собирают на полный метр",
+      "dek": "Авторы проверили идею на YouTube: что, если в дом к двум детям вместо доброго Кота в шляпе явится кот с топором? Теперь у зрителей просят денег на продолжение.",
+      "what": "Короткометражку The Cat and the Hatchet выложили на Хэллоуин. К 4 ноября Bloody Disgusting насчитал у фильма более 1,6 млн просмотров за четыре дня. Команда Марка Риччи и Калеба Кармайкла собирает на Kickstarter 75 тысяч долларов.",
+      "mechanics": "Режиссёр Кэмерон Додд говорит, что сценарий полного метра уже написан. По ссылке можно посмотреть весь короткий фильм, которым команда подкрепляет заявку. Это неофициальная пародия; деньги на производство ещё собирают.",
+      "why": "У одного пилота две разные аудитории: те, кто бесплатно посмотрел его на YouTube, и те, кто готов заплатить за следующий фильм. Успех первого теста ещё не гарантирует второй.",
+      "sources": [
+        {
+          "label": "Movie Man Mark · фильм на канале соавтора",
+          "url": "https://www.youtube.com/watch?v=rCfwVrgsECw"
+        },
+        {
+          "label": "Bloody Disgusting · замер 4 ноября и комментарий режиссёра",
+          "url": "https://bloody-disgusting.com/movie/3974581/the-cat-and-the-hatchet-hits-1-6-million-views-and-a-feature-film-is-being-crowd-funded/"
+        },
+        {
+          "label": "Kickstarter · кампания авторов",
+          "url": "https://www.kickstarter.com/projects/thecatandthehatchet/the-cat-and-the-hatchet-a-feature-length-horror-parody"
+        }
+      ],
+      "video": {
+        "label": "Смотреть короткометражку целиком",
+        "url": "https://www.youtube.com/watch?v=rCfwVrgsECw"
+      },
+      "image": {
+        "url": "img/n261105-25.webp",
+        "source_url": "https://i.ytimg.com/vi/rCfwVrgsECw/hqdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=rCfwVrgsECw",
+        "alt": "Обложка фильма The Cat and the Hatchet на канале соавтора.",
+        "caption": "Обложка фильма The Cat and the Hatchet на канале соавтора.",
+        "credit": "Movie Man Mark",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:41:28+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:41:28+03:00",
+      "event_key": "cat-hatchet-youtube-four-day-viewership-kickstarter-2026",
+      "selected_because": "У одного пилота две разные аудитории: те, кто бесплатно посмотрел его на YouTube, и те, кто готов заплатить за следующий фильм. Успех первого теста ещё не гарантирует второй.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:41:28+03:00"
+      }
+    },
+    {
+      "id": "n261105-26",
+      "issue": "i2026-11-05",
+      "order": 18,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "Анонс",
+      "country": "Испания",
+      "title": "Proxies · Netflix",
+      "cover_word": "Два или три",
+      "headline": "В тизере Proxies убийца сдаётся сам. Он даже не уточняет, скольких убил",
+      "dek": "Двух человек или трёх? Так начинается допрос в новом триллере Ориола Пауло, режиссёра «Невидимого гостя».",
+      "what": "4 ноября Netflix показал первые кадры и тизер испанского фильма Proxies. Премьера назначена на 11 декабря.",
+      "mechanics": "Утром в сочельник мужчина приходит в полицию с признанием. Следователю предстоит понять, почему тот выбрал именно этот момент и чего хочет добиться. Разговор выводит на другое дело, которое считалось закрытым.",
+      "why": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
+      "sources": [
+        {
+          "label": "Netflix · тизер, кадры и слова режиссёра",
+          "url": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11"
+        }
+      ],
+      "video": {
+        "label": "Официальный тизер Netflix",
+        "url": "https://www.youtube.com/watch?v=O-BNo1l6yPI"
+      },
+      "image": {
+        "url": "img/n261105-26.webp",
+        "source_url": "https://images.ctfassets.net/4cd45et68cgf/4z4RmORBgrj8tqXbi9t4sv/9635dbc2e96e44d6137d211cdefd9d9a/Captura_de_pantalla_2026-11-04_a_las_12.02.17.png",
+        "link": "https://about.netflix.com/en/news/proxies-is-coming-to-netflix-on-december-11",
+        "alt": "Персонажи Proxies на официальном промоизображении.",
+        "caption": "Персонажи Proxies на официальном промоизображении.",
+        "credit": "Netflix / Juanita Films",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:41:28+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:41:28+03:00",
+      "event_key": "proxies-netflix-first-teaser-es-2026",
+      "selected_because": "Обычно детектив приберегает признание для развязки. Здесь оно звучит в завязке: за героем интересно следить даже после того, как он назвался убийцей.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:41:28+03:00"
+      }
+    },
+    {
+      "id": "n261105-27",
+      "issue": "i2026-11-05",
+      "order": 19,
+      "lead": false,
+      "rubric": "scripted",
+      "status": "Премьера",
+      "country": "США",
+      "title": "The Greatest · Prime Video",
+      "cover_word": "Четыре года Али",
+      "headline": "Prime Video уместил путь Али от олимпийского золота до первого чемпионского титула в восемь серий",
+      "dek": "Джаален Бест нашёл ключ к роли не в ударе: он включил запись поединка на повтор и попробовал заговорить в ритме шагов Али.",
+      "what": "4 ноября Prime Video выпустил сразу восемь серий The Greatest — первого игрового сериала о Мухаммеде Али, одобренного его семьёй. Его вдова Лонни Али выступила исполнительным продюсером.",
+      "mechanics": "Шоураннер Бен Уоткинс выбрал короткий отрезок: между Олимпиадой в Риме в 1960-м и боем с Сонни Листоном в 1964-м. В интервью Extra Бест рассказал, что по отдельности походка и голос не складывались в роль. Получилось, когда он стал говорить, двигаясь в ритме боксёра.",
+      "why": "Рамку задают два боя с заранее известным исходом. Между ними есть место другой интриге: как олимпийский чемпион становится взрослым и обретает тот самый голос, по которому его узнают.",
+      "sources": [
+        {
+          "label": "Prime Video · восемь серий и трейлер",
+          "url": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video"
+        },
+        {
+          "label": "Extra · интервью с актёром, Лонни Али и шоураннером",
+          "url": "https://extratv.com/2026/11/04/jaalen-best-on-becoming-muhammad-ali-and-moment-it-finally-clicked-exclusive/"
+        }
+      ],
+      "video": {
+        "label": "Трейлер Prime Video",
+        "url": "https://www.youtube.com/watch?v=RnRf-r-RdA4"
+      },
+      "image": {
+        "url": "img/n261105-27.webp",
+        "source_url": "https://assets.aboutamazon.com/dims4/default/5c6a458/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F1b%2Fca%2F0427af494822bb6d4176bd6cbc10%2Fthe-greatest-hero-amazon-news.png",
+        "link": "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video",
+        "alt": "Джаален Бест в роли молодого Мухаммеда Али в The Greatest.",
+        "caption": "Джаален Бест в роли молодого Мухаммеда Али в The Greatest.",
+        "credit": "Prime Video",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:41:28+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:41:28+03:00",
+      "event_key": "the-greatest-prime-video-season-premiere-2026",
+      "selected_because": "Рамку задают два боя с заранее известным исходом. Между ними есть место другой интриге: как олимпийский чемпион становится взрослым и обретает тот самый голос, по которому его узнают.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:41:28+03:00"
+      }
+    },
+    {
+      "id": "n261105-28",
+      "issue": "i2026-11-05",
+      "order": 20,
+      "lead": false,
+      "rubric": "unscripted",
+      "status": "Производство",
+      "country": "Франция",
+      "title": "Le Piano · France 2",
+      "cover_word": "Жюри за стеной",
+      "headline": "France 2 снял конкурс на вокзале: пианист играет для прохожих, а жюри слушает из соседней комнаты",
+      "dek": "Участники думали, что снимаются в документальном фильме о фортепиано. На деле они проходили прослушивание.",
+      "what": "4 ноября на Восточном вокзале Парижа закончились съёмки шести выпусков Le Piano. Fremantle адаптирует для France 2 британский формат The Piano.",
+      "mechanics": "Наташа Сен-Пьер встречает музыканта у инструмента. Его слушают пассажиры, а в отдельной комнате — певица Камий Леллуш и пианист Жюльен Коэн. Они выбирают по одному исполнителю за выпуск, чтобы в 2027 году тот сыграл с одним из них на парижской сцене.",
+      "why": "У зрителя есть секрет, которого нет у исполнителя. Волнение возникает в момент, когда обычное выступление для прохожих внезапно оказывается отбором на настоящую сцену.",
+      "sources": [
+        {
+          "label": "France Télévisions · приглашение пианистов на съёмку",
+          "url": "https://www.francetelevisions.fr/et-vous/participer-a-une-emission/le-piano-58792"
+        },
+        {
+          "label": "CGTV · окончание съёмок, устройство жюри и репортаж Le Parisien",
+          "url": "https://www.cg-tv.com/articles/le-piano-camille-lellouche-et-julien-cohen-dans-le-jury-de-la-nouvelle-emission-de-natasha-st-pier-sur-france-2"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-28.webp",
+        "source_url": "https://static.francetelevisions.fr/styles/scale_728/public/2026-07/Visuel%20FTV%20et%20Vous%20Le%20Piano.jpg?itok=4o6VOuFw",
+        "link": "https://www.francetelevisions.fr/et-vous/participer-a-une-emission/le-piano-58792",
+        "alt": "Промоизображение из официального кастинга Le Piano; не кадр со съёмки.",
+        "caption": "Промоизображение из официального кастинга Le Piano; не кадр со съёмки.",
+        "credit": "France Télévisions",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:41:28+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T18:32:20.480Z",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:41:28+03:00",
+      "event_key": "le-piano-france2-gare-de-lest-six-episodes-filming-wrap-2026",
+      "selected_because": "У зрителя есть секрет, которого нет у исполнителя. Волнение возникает в момент, когда обычное выступление для прохожих внезапно оказывается отбором на настоящую сцену.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:41:28+03:00"
+      }
+    },
+    {
+      "id": "n261105-29",
+      "issue": "i2026-11-05",
+      "order": 21,
+      "lead": false,
+      "rubric": "event",
+      "status": "Премьера",
+      "country": "США",
+      "title": "Rockettes · Radio City",
+      "cover_word": "Танец с высоты",
+      "headline": "Radio City показывает танец Rockettes сразу из кресла, сбоку и сверху",
+      "dek": "По сторонам сцены появились два экрана. Пока зритель из зала видит шеренгу танцовщиц, на экране можно рассмотреть рисунок всей группы сверху.",
+      "what": "4 ноября в Нью-Йорке открывается сезон Christmas Spectacular. Впервые в этой постановке камеры передают танец на экраны зала в реальном времени — во всех номерах, а не только в финале.",
+      "mechanics": "Камеры спрятаны по периметру сцены; верхний план снимают со стороны арки над сценой. В программу также вошёл новый степ Ring: танцовщицы отбивают каблуками ритм Carol of the Bells. Организаторы запланировали на сезон 230 представлений.",
+      "why": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
+      "sources": [
+        {
+          "label": "MSG Entertainment · камеры, экраны и новый номер",
+          "url": "https://www.msgentertainment.com/rockettes-ring-in-their-next-century-with-new-tap-number-and-immersive-camera-technology-that-brings-audiences-closer-to-the-magic/"
+        },
+        {
+          "label": "Radio City · показ 4 ноября",
+          "url": "https://www.msg.com/events-tickets/christmas-spectacular-starring-the-radio-city-rockettes-radio-city-music-hall-november-2026/3C006457CDDF1EAE"
+        },
+        {
+          "label": "Rockettes · программа и число представлений",
+          "url": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/"
+        }
+      ],
+      "video": {
+        "label": "Тизер номера и камер у Rockettes",
+        "url": "https://www.instagram.com/p/DdoedZ7Ovdz/"
+      },
+      "image": {
+        "url": "img/n261105-29.webp",
+        "source_url": "https://assets.rockettes.com/wp-content/uploads/2026/07/On-Sale-Blog-Hero-Image.png",
+        "link": "https://www.rockettes.com/blog/the-christmas-spectacular-just-got-even-more-spectacular/",
+        "alt": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
+        "caption": "Труппа Rockettes на промофото к сезону 2026 года; не кадр с премьеры.",
+        "credit": "Radio City Rockettes",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:41:28+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T00:41:28+03:00",
+      "event_key": "rockettes-ring-live-camera-screens-season-opening-2026",
+      "selected_because": "В первом ряду лучше видно работу ног, сверху — как десятки людей складываются в один узор. Зрителю дают оба ракурса во время одного движения.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:41:28+03:00"
+      }
+    },
+    {
+      "id": "n261105-30",
+      "issue": "i2026-11-05",
+      "order": 22,
+      "lead": false,
+      "rubric": "event",
+      "status": "Анонс",
+      "country": "Бразилия",
+      "title": "Tomorrowland Brasil · Consciencia",
+      "cover_word": "Оркестр на рейве",
+      "headline": "Tomorrowland Brasil объявил программу: на техно-сцене каждый день сыграет оркестр",
+      "dek": "В бразильском Иту электронную классику исполнит Symphony of Unity. Оркестр встроили в расписание одной сцены с техно-диджеями.",
+      "what": "4 ноября Tomorrowland объявил состав бразильского фестиваля, который пройдёт 30 апреля – 2 мая 2027 года. Это заключительная остановка проекта Consciencia после Бельгии и Таиланда.",
+      "mechanics": "В программе шесть сцен. На Freedom by Bud наряду с диджей-сетами каждый день запланирован оркестр с переложениями электронной музыки. Алок выступит дважды: с сольным сетом на Crystal Garden и затем на главной сцене.",
+      "why": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
+      "sources": [
+        {
+          "label": "Tomorrowland · программа и распределение по сценам",
+          "url": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-30.webp",
+        "source_url": "https://cdn.assets.prezly.com/98ebc5be-5002-444c-a152-e1d765a76aae/-/preview/-/format/auto/260718-180647-TML26BE-PW%20(1).jpg",
+        "link": "https://press.brasil.tomorrowland.com/tomorrowland-brasil-2027-unveils-its-consciencia-line-up",
+        "alt": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
+        "caption": "Сцена Tomorrowland в Бельгии, 2026. Архивный кадр из анонса бразильского фестиваля.",
+        "credit": "Tomorrowland",
+        "illustration": false,
+        "fit": "cover",
+        "verified_at": "2026-11-05T00:41:28+03:00"
+      },
+      "date_iso": "2026-11-04",
+      "date_label": "4 ноября 2026",
+      "first_published_at": "2026-11-04T14:00:00+00:00",
+      "date_precision": "minute",
+      "discovered_at": "2026-11-05T00:41:28+03:00",
+      "event_key": "tomorrowland-brasil-2027-stage-programme-symphony-of-unity",
+      "selected_because": "Для оркестра не понадобился отдельный «вечер классики»: зритель приходит на техно-сцену и там же слышит знакомую музыку в живом исполнении.",
+      "verification": {
+        "status": "reviewed",
+        "checked_at": "2026-11-05T00:41:28+03:00"
+      }
     }
   ]
 }

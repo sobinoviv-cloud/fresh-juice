@@ -214,7 +214,7 @@ footer a{font-weight:600;color:var(--ink-2)}
 <script>
 (function(){
 const RUB={scripted:"Scripted",unscripted:"Non-scripted",doc:"Doc",digital:"Digital",branded:"Branded content",short:"Short media",sport:"Sport content",event:"Event"};
-const SUB={scripted:"кино и сериалы",unscripted:"шоу и форматы",doc:"документальное",digital:"YouTube и авторы",branded:"контент брендов",short:"вертикальный контент брендов",sport:"права, трансляции, спортивные шоу",event:"события, турниры, live-шоу"};
+const SUB={scripted:"кино и сериалы",unscripted:"шоу и форматы",doc:"документальное",digital:"YouTube и авторы",branded:"контент брендов",short:"вертикальный контент брендов",sport:"права, трансляции, спортивные шоу",event:"массовые шоу и их постановка"};
 const NAV={...RUB,branded:"Branded",short:"Short",sport:"Sport"};
 const ORDER=["scripted","unscripted","doc","digital","branded","short","sport","event"];
 const MON=["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"];
@@ -353,7 +353,7 @@ async function boot(){
   issues.filter(i=>i.mode==="daily").slice().reverse().forEach((i,n)=>dailyNumbers.set(i.id,n+1));
   $("#issueList").innerHTML=issues.map(i=>`<button class="it" type="button" data-issue="${esc(i.id)}">${esc(issueLabel(i))} · ${esc(fd(i.date))} <span>${newsCount(i.count||0)}</span></button>`).join("");
   const h=decodeURIComponent((location.hash||"").slice(1));const si=idx.story_index||{};
-  await loadIssue(si[h]||(issues.some(i=>i.id===h)?h:issues[0].id));
+  await loadIssue(si[h]||(idx.withdrawn_story_issues||{})[h]||(issues.some(i=>i.id===h)?h:issues[0].id));
   if(si[h])openReader(h);
 }
 boot();
