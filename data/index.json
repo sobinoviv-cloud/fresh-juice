@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:10:14+03:00",
+  "updated_at": "2026-11-05T16:04:50+03:00",
   "config": {
     "sheet_url": "https://docs.google.com/spreadsheets/d/1eWExUUnOBvHPphjYEI_hfVhCzLph5f5PU9ZDUtfo4DU/edit",
     "last_success": {
@@ -39,6 +39,13 @@
     }
   },
   "issues": [
+    {
+      "id": "a2026-11-05-1500",
+      "date": "2026-11-05",
+      "mode": "alert",
+      "chip": "5 ноя · 15:00",
+      "count": 1
+    },
     {
       "id": "i2026-11-05",
       "date": "2026-11-05",
@@ -276,7 +283,8 @@
     "n261105-21": "i2026-11-05",
     "n261105-25": "i2026-11-05",
     "n261105-27": "i2026-11-05",
-    "n261105-28": "i2026-11-05"
+    "n261105-28": "i2026-11-05",
+    "n261105-31": "a2026-11-05-1500"
   },
   "withdrawn_story_issues": {
     "n261105-02": "i2026-11-05",

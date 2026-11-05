@@ -1,0 +1,71 @@
+{
+  "issue": {
+    "id": "a2026-11-05-1500",
+    "date": "2026-11-05",
+    "mode": "alert",
+    "chip": "5 ноя · 15:00",
+    "period_start": "2026-11-05T10:58:59+03:00",
+    "period_end": "2026-11-05T14:59:43+03:00",
+    "generated_at": "2026-11-05T16:04:50+03:00",
+    "period_label": "5 ноября · с 10:58 до 14:59 мск",
+    "lead_id": "n261105-31",
+    "intro": "Sky Sports объединяет три футбольных шоу с продакшном Гарета Саутгейта.",
+    "agenda": [],
+    "coverage_note": "Проверены восемь направлений, 13 из 14 RSS, российские и международные источники. TBI не отдаёт RSS; ContentAsia без свежих записей. Локальный поиск Ближнего Востока и Африки частичный. Дедупликация: весь доступный архив с 27 октября, 190 карточек, и 112 строк реестра. Для сравнения с Telegram учтены фактически доставленные выпуски; архив 30 октября и локальный тест 3 ноября не считаются доставленными.",
+    "count": 1
+  },
+  "stories": [
+    {
+      "id": "n261105-31",
+      "issue": "a2026-11-05-1500",
+      "rubric": "sport",
+      "order": 1,
+      "lead": true,
+      "status": "Сделка",
+      "date_iso": "2026-11-05",
+      "date_label": "5 ноября 2026",
+      "country": "Великобритания",
+      "title": "Sky Sports × 1071 Media",
+      "cover_word": "Футбол между матчами",
+      "headline": "Sky Sports и продакшн Гарета Саутгейта объединяют три футбольных шоу для YouTube",
+      "dek": "В пакете — два новых формата и уже выходящий подкаст. Sky Media берёт коммерческое представительство всех трёх.",
+      "what": "5 ноября Sky Sports объявил партнёрство с 1071 Media, компанией Гарета Саутгейта и Джимми Уорролла: стороны будут вместе создавать и распространять длинные футбольные шоу на цифровых площадках.",
+      "mechanics": "The Football Dugout — еженедельные разговоры Марка Чапмана и Конора Коуди с тренерами и игроками; мобильная студия The Pod будет приезжать к гостям. The Football Data Room — разбор футбола через данные: до трёх 20-минутных выпусков в неделю на YouTube-канале Sky Sports Premier League. Действующий The Football Boardroom переименуют в The Football Boardcast; разговоры о деньгах и управлении клубами продолжат выходить на прежних каналах.",
+      "why": "Партнёрство объединяет производство, распространение и рекламные продажи трёх разных шоу. У каждого — своя тема и канал, а коммерческий представитель общий.",
+      "note": "Стоимость, срок соглашения и даты первых выпусков новых шоу не раскрыты.",
+      "sources": [
+        {
+          "label": "Sky Sports · первичный релиз",
+          "url": "https://www.skysports.com/football/news/13608289/sky-sports-and-sir-gareth-southgate-s-1071-media-partner-to-launch-new-football-content"
+        },
+        {
+          "label": "Deadline · подтверждение сделки",
+          "url": "https://deadline.com/2026/11/gareth-southgate-sky-sports-content-deal-football-dugout-1237214217/"
+        }
+      ],
+      "video": null,
+      "image": {
+        "url": "img/n261105-31.png",
+        "source_url": "https://e0.365dm.com/26/11/1600x900/skysports-football-dug-out_7397727.png?20261105100005",
+        "link": "https://www.skysports.com/football/news/13608289/sky-sports-and-sir-gareth-southgate-s-1071-media-partner-to-launch-new-football-content",
+        "credit": "Sky Sports / 1071 Media",
+        "caption": "Конор Коуди и Марк Чапман — фотография к анонсу The Football Dugout.",
+        "alt": "Конор Коуди и Марк Чапман — ведущие The Football Dugout.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "event_key": "sky-sports-1071-media-three-shows-production-distribution-ad-sales-uk-2026-11-05",
+      "first_published_at": "2026-11-05",
+      "date_precision": "day",
+      "discovered_at": "2026-11-05T15:00:00+03:00",
+      "found_late": false,
+      "selected_because": "Новый пакет трёх футбольных digital-шоу с раскрытыми механиками производства, каналами распространения и рекламным представителем; соответствует фокусу Sport content.",
+      "verification": {
+        "status": "verified_primary_source",
+        "time_note": "Видимая отметка первоисточника: 10:19 UK; JSON-LD datePublished: 11:00 UTC, dateModified: 10:19:14 UTC. Обе отметки внутри окна; из-за противоречия точный первый час не утверждается.",
+        "video_search": "Отдельное официальное видео новых шоу не найдено.",
+        "checked_at": "2026-11-05T16:04:50+03:00"
+      }
+    }
+  ]
+}
