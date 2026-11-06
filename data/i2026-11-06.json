@@ -4,22 +4,22 @@
     "date": "2026-11-06",
     "mode": "daily",
     "chip": "6 ноя",
-    "count": 18,
+    "count": 19,
     "lead_id": "n261105-31",
-    "revision": "v2-approved",
+    "revision": "v3-morning",
     "period_start": "2026-11-04T00:00:00+03:00",
-    "period_end": "2026-11-06T01:15:19+03:00",
+    "period_end": "2026-11-06T08:41:45+03:00",
     "publication_window_end": "2026-11-06T10:00:00+03:00",
-    "generated_at": "2026-11-06T01:15:19+03:00",
+    "generated_at": "2026-11-06T08:41:45+03:00",
     "period_label": "Новые события 5–6 ноября + пропущенные материалы 4 ноября, добавленные после редакторской проверки",
     "intro": "Кастинг на пять евро, офисные скетчи кадрового бренда и футбольные шоу Саутгейта. Подробности — внутри карточек.",
-    "coverage_note": "Пересборка после замечаний Ильи. Отдельно проверены прямые японские релизы, France Télévisions/Slash, S4C, Sky, Food Network, Netflix и авторские интервью. Два пропущенных кейса 4 ноября отмечены; повтор The Greatest из вчерашнего daily и слабый корпоративный анонс Creators’Hub сняты. В Event подходящая история не отобрана. Две сильные истории в Doc/Digital/Scripted сохранены без искусственного заполнения; это не исчерпывающий охват всех рынков. В Event подходящая история не отобрана; пустую рубрику не заполняем слабыми материалами.",
+    "coverage_note": "Пересборка после замечаний Ильи. Отдельно проверены прямые японские релизы, France Télévisions/Slash, S4C, Sky, Food Network, Netflix и авторские интервью. Два пропущенных кейса 4 ноября отмечены; повтор The Greatest из вчерашнего daily и слабый корпоративный анонс Creators’Hub сняты. В Event подходящая история не отобрана. Две сильные истории в Doc/Digital/Scripted сохранены без искусственного заполнения; это не исчерпывающий охват всех рынков. В Event подходящая история не отобрана; пустую рубрику не заполняем слабыми материалами. Утром добавлен Play Carnival: объявление 5 ноября, обнаружено в ночной ленте; первоисточник и дата будущего эфира проверены.",
     "rubric_counts": {
       "scripted": 2,
       "unscripted": 3,
       "doc": 2,
       "digital": 2,
-      "branded": 4,
+      "branded": 5,
       "short": 3,
       "sport": 2,
       "event": 0
@@ -969,6 +969,64 @@
       "order": 18,
       "reading_words": 178,
       "freshness_basis": "scheduled_release_2026-11-06_plus_context_interview_2026-11-02"
+    },
+    {
+      "id": "n261106-19",
+      "issue": "i2026-11-06",
+      "rubric": "branded",
+      "status": "Анонс",
+      "country": "США",
+      "title": "Carnival × iJustine",
+      "cover_word": "Чат управляет круизом",
+      "headline": "Carnival превращает круизный лайнер в игру, которой управляет чат",
+      "dek": "В Twitch-шоу Play Carnival зрители будут выбирать маршрут и задания для iJustine. Эфир назначен на 15 ноября.",
+      "what": "Carnival Cruise Line анонсировала Play Carnival — интерактивный эфир с iJustine на борту Carnival Celebration. Компания обещает провести его 15 ноября на своём Twitch-канале, а также в Instagram и TikTok. Вместе с автором в кадре будет круизный директор Эрин Вайганд. Главная роль аудитории — голосовать за перемещения героини по кораблю и выбирать дополнительные задания. Таким образом, маршрут рекламной экскурсии заранее отдают зрителям.",
+      "mechanics": "iJustine становится игроком, а Вайганд — её проводником: передаёт запросы чата, объясняет правила и вводит новые испытания. Общая цель — заработать значок круизного директора. За ходом приключения следит шкала Fun Meter: если она опустится до нуля, игра закончится. Пространства лайнера и развлечения Carnival встроены в задания; компания также обещает задействовать направления своей Paradise Collection. Конкретные испытания и способ расчёта шкалы в релизе пока не раскрыты.",
+      "why": "В этом приёме интересен перенос управления: вместо готового видео «посмотрите, как у нас хорошо» зрителю предлагают решать, что ведущая попробует дальше. Сам продукт становится игровой площадкой, а показ его возможностей — последовательностью действий с возможным проигрышем. Это часть рекламной кампании Carnival Is Calling, а не самостоятельное игровое шоу стороннего вещателя. Tubefilter отдельно связывает запуск с работой круизных брендов с авторами. Пока речь об анонсе: результатов, числа зрителей и записи состоявшегося эфира ещё нет.",
+      "date_iso": "2026-11-05",
+      "date_label": "5 ноября 2026",
+      "date_precision": "day",
+      "first_published_at": "2026-11-05",
+      "discovered_at": "2026-11-06T08:41:45+03:00",
+      "event_key": "carnival-play-carnival-twitch-ijustine-interactive-cruise-2026",
+      "order": 5,
+      "lead": false,
+      "delivery_status": "published_not_sent",
+      "selected_because": "Конкретная механика брендированного эфира: чат задаёт маршрут и задания, продукт работает игровой площадкой, шкала определяет окончание игры.",
+      "sources": [
+        {
+          "label": "Carnival Cruise Line · официальный анонс",
+          "url": "https://www.carnival-news.com/2026/11/05/carnival-cruise-line-launches-play-carnival-an-interactive-twitch-livestream-where-viewers-control-the-adventure"
+        },
+        {
+          "label": "Tubefilter · контекст creator-led cruises",
+          "url": "https://www.tubefilter.com/2026/11/05/play-carnival-celebration-cruise-ijustine-twitch/"
+        }
+      ],
+      "video": {
+        "label": "Официальный канал · эфир запланирован на 15 ноября",
+        "url": "https://www.twitch.tv/carnivalcruise"
+      },
+      "image": {
+        "url": "img/n261106-19.png",
+        "width": 1672,
+        "height": 941,
+        "source_url": "https://www.carnival-news.com/_gallery/get_file/?file_ext=.png&file_id=6aec86673d6332d6f29875c3&page_id=6aec861e3d6332d698987523",
+        "credit": "Carnival Cruise Line",
+        "alt": "Официальный промоарт Play Carnival: лайнер как игровая площадка.",
+        "caption": "Официальный промоарт Play Carnival. Будущий эфир, не кадр уже прошедшего шоу.",
+        "link": "https://www.carnival-news.com/2026/11/05/carnival-cruise-line-launches-play-carnival-an-interactive-twitch-livestream-where-viewers-control-the-adventure",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "verification": {
+        "checked_at": "2026-11-06T08:41:45+03:00",
+        "status": "primary_and_trade_read",
+        "date_basis": "Official release Nov5, day precision; Tubefilter RSS Nov5 22:59:57 UTC",
+        "primary_basis": "https://www.carnival-news.com/2026/11/05/carnival-cruise-line-launches-play-carnival-an-interactive-twitch-livestream-where-viewers-control-the-adventure"
+      },
+      "late_discovery": true,
+      "reading_words": 200
     }
   ]
 }
