@@ -340,9 +340,12 @@ document.addEventListener("click",e=>{
   if(e.target.id==="sheet")$("#sheet").hidden=true;
 });
 const getJSON=async p=>{const r=await fetch(p,{cache:"no-cache"});if(!r.ok)throw new Error(r.status);return r.json()};
+const DIRECTIONS={"tv-show":{rubrics:["unscripted"],label:"Non-scripted"},"doc":{rubrics:["doc"],label:"Doc"},"digital-branded":{rubrics:["digital","branded","short"],label:"Digital / Branded / Short media"},"sport":{rubrics:["sport"],label:"Sport content"}};
+const direction=DIRECTIONS[new URLSearchParams(location.search).get("direction")];
 async function loadIssue(id){
   const meta=issues.find(i=>i.id===id)||issues[0];
   try{const d=await getJSON("data/"+meta.id+".json");cur={...meta,...d.issue};stories=d.stories||[]}catch(e){cur=meta;stories=[]}
+  if(direction){stories=stories.filter(s=>direction.rubrics.includes(s.rubric));cur={...cur,lead_id:stories[0]?.id,refs:[],agenda:[],intro:direction.label+" · подборка из выпуска Fresh Juice",coverage_note:""};document.title="Fresh Juice · "+direction.label+" · "+fd(cur.date)}
   render();try{history.replaceState(null,"","#"+cur.id)}catch(e){}
 }
 function state(t,p){$("#main").innerHTML=`<section class="state"><h2>${esc(t)}</h2><p>${esc(p)}</p></section>`;$("#meta").textContent=""}
