@@ -345,6 +345,7 @@ const direction=DIRECTIONS[new URLSearchParams(location.search).get("direction")
 async function loadIssue(id){
   const meta=issues.find(i=>i.id===id)||issues[0];
   try{const d=await getJSON("data/"+meta.id+".json");cur={...meta,...d.issue};stories=d.stories||[]}catch(e){cur=meta;stories=[]}
+  if(!direction){stories=stories.filter(s=>!s.direction_only);cur.count=stories.length}
   if(direction){stories=stories.filter(s=>direction.rubrics.includes(s.rubric));cur={...cur,lead_id:stories[0]?.id,refs:[],agenda:[],intro:direction.label+" · подборка из выпуска Fresh Juice",coverage_note:""};document.title="Fresh Juice · "+direction.label+" · "+fd(cur.date)}
   render();try{history.replaceState(null,"","#"+cur.id)}catch(e){}
 }
