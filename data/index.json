@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T07:49:43.315575+03:00",
+  "updated_at": "2026-11-16T08:15:31.442577+03:00",
   "config": {
     "sheet_url": "https://docs.google.com/spreadsheets/d/1eWExUUnOBvHPphjYEI_hfVhCzLph5f5PU9ZDUtfo4DU/edit",
     "last_success": {
@@ -59,7 +59,7 @@
       "date": "2026-11-16",
       "mode": "daily",
       "chip": "16.11",
-      "count": 37
+      "count": 39
     },
     {
       "id": "i2026-11-13",
@@ -604,7 +604,9 @@
     "n261116-34": "i2026-11-16",
     "n261116-35": "i2026-11-16",
     "n261116-36": "i2026-11-16",
-    "n261116-37": "i2026-11-16"
+    "n261116-37": "i2026-11-16",
+    "n261116-38": "i2026-11-16",
+    "n261116-39": "i2026-11-16"
   },
   "withdrawn_story_issues": {
     "n261105-02": "i2026-11-05",
