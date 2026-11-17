@@ -340,7 +340,7 @@ document.addEventListener("click",e=>{
   if(e.target.id==="sheet")$("#sheet").hidden=true;
 });
 const getJSON=async p=>{const r=await fetch(p,{cache:"no-cache"});if(!r.ok)throw new Error(r.status);return r.json()};
-const DIRECTIONS={"tv-show":{rubrics:["unscripted"],label:"Non-scripted"},"doc":{rubrics:["doc"],label:"Doc"},"digital-branded":{rubrics:["digital","branded","short"],label:"Digital / Branded / Short media"},"sport":{rubrics:["sport"],label:"Sport content"}};
+const DIRECTIONS={"tv-show":{rubrics:["unscripted"],label:"Non-scripted"},"doc":{rubrics:["doc"],label:"Doc"},"digital-branded":{rubrics:["digital","branded","short"],label:"Digital / Branded / Short media"},"sport":{rubrics:["sport"],label:"Sport content"},"short-media":{rubrics:["short"],label:"Short media"}};
 const direction=DIRECTIONS[new URLSearchParams(location.search).get("direction")];
 async function loadIssue(id){
   const meta=issues.find(i=>i.id===id)||issues[0];
