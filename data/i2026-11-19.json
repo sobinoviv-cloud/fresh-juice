@@ -1,0 +1,543 @@
+{
+  "issue": {
+    "id": "i2026-11-19",
+    "date": "2026-11-19",
+    "mode": "daily",
+    "chip": "19.11",
+    "count": 9,
+    "lead_id": "n261119-05",
+    "period_start": "2026-11-18T07:45:02.219749+03:00",
+    "period_end": "2026-11-19T07:45:02.263693+03:00",
+    "generated_at": "2026-11-19T07:47:36.587108+03:00",
+    "period_label": "18.11 07:45 — 19.11 07:45",
+    "intro": "",
+    "coverage_note": "Physical: Asia: официальный Netflix Tudum и Deadline не открыты (paywall/редирект), основной источник Korea Times и Cineplay\nRadio Gaga: пресс-релиз Lineup Industries и Realscreen не открыты, только C21\nVariety по Tie Domi не открыт; упоминание Тома Брэди как гостя исключено как непроверенное\nIdilio TV: телеканал-партнёр и точная дата не названы; PRODU без цифр\nShort media: за утро найдено лишь одно новое дело при ориентире десять; VK Клипы, TikTok, корейские и индийские платформы глубоко не проверены\nНе открыты PR TIMES, France TV/Slash, Channel 4, Banijay, Tving, JioHotstar напрямую\nRSS tbivision.com недоступен\nScripted, Doc, Branded и Event: новых подтверждённых историй сверх вечернего пакета не найдено\nОбложки: для Radio Gaga, DAZN и Idilio официальных арт-материалов не открыто, нужна иллюстрация Fresh Juice\nПроверены все три карточки. Источники открыты через WebFetch, плюс пять поисковых запросов на английском, корейском, испанском и французском.\n\n1. Physical: Asia S2 (принята). Корейский и английский поиск подтвердил анонс Netflix 19.11.2026: сезон Unbroken выйдет в 2027 году, точной даты нет, Чан Хо Ги возвращается. Deadline, который в карточке помечен как «не открыт», на деле читается. Он вышел 18.11 вечером по US-времени и подтверждает заказ, цитаты Чана и продление Physical 100 Mexico. Лучше сделать Deadline primary вместо Korea Times, у которого текст написан с помощью ИИ. Цитата Чана из Korea Times совпадает с Deadline.\n2. Radio Gaga (принята). C21 от 18.11.2026 подтверждает заказ Radio-Canada, продюсера KOTV, эфир весной 2027, механику с 48 часами и мобильной студией, адаптации в пяти странах, 12-й сезон RTS и 7-й сезон NHK. Пресс-релиз Lineup не открыт. Realscreen и Playback сообщили то же самое, но Realscreen за пейволлом.\n3. Idilio TV (принята). PRODU от 18.11.2026 подтверждает слова Тафур: ТВ-эфир в декабре, бесплатный, пять стран, вертикальный кадр и серии по 1,5 минуты. Партнёр-вещатель не назван, операционные детали ещё планируются. Эти ограничения указаны в карточке. Другие источники этого запуска не подтверждают, так что опора только на интервью PRODU.\n\nНе проверялось: повторы в прежних выпусках журнала (архива нет), обложки (картинки не заданы, нужна иллюстрация Fresh Juice или кадр Netflix).\nФактически подготовлены карточки по рубрикам: {\"scripted\": 0, \"unscripted\": 4, \"doc\": 0, \"digital\": 2, \"branded\": 0, \"short\": 3, \"sport\": 0, \"event\": 0}\nRSS gaps: https://tbivision.com/feed/",
+    "agenda": [],
+    "rubric_counts": {
+      "scripted": 0,
+      "unscripted": 4,
+      "doc": 0,
+      "digital": 2,
+      "branded": 0,
+      "short": 3,
+      "sport": 0,
+      "event": 0
+    },
+    "delivery_note": "Опубликован. Доставка Telegram проверяется отдельно."
+  },
+  "stories": [
+    {
+      "title": "GH VIP 9: премьера с двумя галами в неделю, двумя 24-часовыми сигналами и сюрприз-участниками",
+      "headline": "Telecinco открыл GH VIP 9: две гала в неделю и участники, о которых узнают в эфире",
+      "cover_word": "Дом открыт заново",
+      "dek": "Премьера 18 ноября в 21:45, приз 100 тысяч евро, спин-офф с бывшими участниками выйдет 25 ноября.",
+      "what": "Telecinco запустил девятый сезон Gran Hermano VIP. Открытие в среду, 18 ноября, в 21:45, вёл Хорхе Хавьер Васкес. Приз победителя 100 тысяч евро. Официально подтверждены двенадцать участников, ещё одного, тринадцатого, называют в связи с «Островом искушений 11». Состав остаётся открытым: новые лица телеканал обещал показать прямо в первую ночь.",
+      "mechanics": "Номинации, спасения, выселения и главные повороты сосредоточены в двух еженедельных гала: по четвергам их ведёт Васкес, по воскресеньям Ион Арамендди. Mediaset Infinity держит две круглосуточные live-трансляции и выкладывает ежедневные эксклюзивные превью перед воскресной галой. Дом в Трес-Кантос перестроен: новая планировка, спа с джакузи, вращающийся экран вместо входной двери, новые тайные зоны. В доме живёт «домотический» пёс, первый нечеловеческий обитатель в истории формата. Параллельное шоу GH: Al otro lado de la casa с Адарой Молинеро, в котором возвращаются бывшие участники, стартует на Mediaset Infinity 25 ноября. По анализу elDiario.es, номинации стали быстрее и менее торжественными: их проводят за минуты до закрытия эфира около двух часов ночи, а в конфессионал ведёт коридор, чтобы сохранить «проход» участников. Конкретные правила номинаций первой недели (баллы, иммунитеты, вето) в источниках не раскрыты.",
+      "why": "Классический живой реалити-формат перестраивают под два эфира в неделю, вторую 24-часовую линию и отдельное шоу для бывших участников.",
+      "country": "Испания",
+      "status": "Премьера состоялась 18 ноября; первая гала в эфире",
+      "event_key": "mediaset-gh-vip-9-premiere-double-gala-two-feeds-spain-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Состоявшаяся премьера 18 ноября. Дом с робособакой уже был в журнале 16 ноября, а сам запуск и структура эфира (две гала, два сигнала, спин-офф 25 ноября) ещё не освещались.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.mediasetinfinity.es/noticias/gran-hermano-vip/proximo-miercoles-18-estreno-nueva-edicion_MS000000111805_t7wUn6dI0BN8Wpm63csw3yc",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "EDA TV: Telecinco prepara el gran estreno de GH VIP 9",
+          "url": "https://edatv.news/television/telecinco-prepara-gran-estreno-gh-vip-9-doble-gala-dos-senales-24-horas-concursantes-sorpresa",
+          "primary": false,
+          "evidence": "perro domótico, el primer habitante no humano de la historia del formato"
+        },
+        {
+          "label": "Mediaset Infinity: próximo miércoles 18, estreno",
+          "url": "https://www.mediasetinfinity.es/noticias/gran-hermano-vip/proximo-miercoles-18-estreno-nueva-edicion_MS000000111805_t7wUn6dI0BN8Wpm63csw3yc",
+          "primary": true,
+          "evidence": "una gala inaugural llena de sorpresas"
+        },
+        {
+          "label": "elDiario.es: el gran reto de su estreno",
+          "url": "https://www.eldiario.es/vertele/analisis/gh-vip-9-gran-reto-estreno-telecinco-demostrar-hablar-lenguaje-television-hoy_1_13663096.html",
+          "primary": false,
+          "evidence": "las nominaciones han perdido solemnidad y se hacen deprisa"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261119-01",
+      "issue": "i2026-11-19",
+      "order": 1,
+      "lead": false,
+      "discovered_at": "2026-11-18T23:58:14.042556+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/ill-7c8cb826d70265715ff4.svg",
+        "source_url": "",
+        "alt": "Telecinco открыл GH VIP 9: две гала в неделю и участники, о которых узнают в эфире",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.586184+03:00"
+      }
+    },
+    {
+      "title": "Disney подписала Zach King на 10 Illusion Shorts",
+      "headline": "Disney заказала у Зака Кинга десять фокус-роликов только для себя",
+      "cover_word": "Магия для Disney",
+      "dek": "Автор иллюзий сделает 10 Illusion Shorts для Disney+ и закулисье для соцсетей студии.",
+      "what": "18 ноября The Walt Disney Company объявила партнёрство с автором коротких видео Заком Кингом. Он создаст 10 оригинальных Illusion Shorts, которые Disney будет распространять эксклюзивно, в том числе на Disney+. Роли заказчика озвучил директор по маркетингу и бренду Асад Айяз.",
+      "mechanics": "В пакет входит Disney+ дебют Cardboard Wars: часового «пересказа» «Звёздных войн» 1977 года из картонных декораций, реквизита и костюмов. Кинг выложил его на YouTube в августе, по данным Variety, он собрал 3,9 млн просмотров. Кроме того, Кинг снимет закулисье о том, как сделаны его трюки и визуальные эффекты, для соцсетей Disney. По словам Variety, шорты вдохновлены фильмом Hexed (выход 25 ноября), «Звёздными войнами» и парками. Дата выхода роликов и дата показа Cardboard Wars на Disney+ не названы, как и условия сделки.",
+      "why": "Студия переходит от разовых рекламных заказов к долгосрочному партнёрству с автором и забирает права на распространение контента.",
+      "country": "США",
+      "status": "Анонс сделки; сроки выхода не раскрыты",
+      "event_key": "disney-zach-king-ten-illusion-shorts-partnership-us-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Свежая сделка 18 ноября, ещё не освещалась; показывает, как студия закрепляет автора эксклюзивным пакетом и переносит YouTube-хит на стриминг.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://thewaltdisneycompany.com/news/zach-king-original-content-partnership/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "The Walt Disney Company: Zach King partnership",
+          "url": "https://thewaltdisneycompany.com/news/zach-king-original-content-partnership/",
+          "primary": true,
+          "evidence": "10 original Illusion Shorts"
+        },
+        {
+          "label": "Variety",
+          "url": "https://variety.com/2026/tv/news/disney-zach-king-deal-original-illusion-shorts-1236951400/",
+          "primary": false,
+          "evidence": "Illusion Shorts inspired by Disney's movies and experiences"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261119-02",
+      "issue": "i2026-11-19",
+      "order": 2,
+      "lead": false,
+      "discovered_at": "2026-11-18T23:58:14.043350+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/ill-ed47c3d66df598fc73f5.svg",
+        "source_url": "",
+        "alt": "Disney заказала у Зака Кинга десять фокус-роликов только для себя",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.586381+03:00"
+      }
+    },
+    {
+      "title": "Эмоха́ру: вертикальная драма на сцене",
+      "headline": "Вертикальную драму #エモハルドラマ впервые поставили на сцене Токио: пять историй по 15 минут",
+      "cover_word": "Из ленты на сцену",
+      "dek": "Спектакль идёт 18–23 ноября, десять показов, билет 8500 иен.",
+      "what": "Агентство MMJ перенесло на сцену Theatre Alpha Tokyo популярный вертикальный сериал #エモハルドラマ, который выходит на TikTok и YouTube. Спектакль называется «Что такое эмоциональное?» и идёт с 18 по 23 ноября, всего десять показов.",
+      "mechanics": "Постановка собрана как омнибус: пролог и эпилог плюс четыре самостоятельных истории (в японской прессе называют «Пиво», «Учитель и ученик», «Обменный дневник», «Не здесь»). Каждый эпизод около 15 минут, как короткая серия в ленте. После спектакля проходит либо беседа с актёрами, либо игра, зависит от показа. В ролях восемь актёров, часть ролей дублируется. Тексты написали Гаку Кавасаки, Кэйта Мёдзё, Эрика Ота и Юна Мурата, ставит Кавасаки. Билеты 8500 иен. В источниках расходятся цифры просмотров: на официальной странице 46 млн за первый год, в новости накануне премьеры 120 млн, поэтому в тексте опираемся только на первую.",
+      "why": "Контент, рождённый для вертикальной ленты, получает офлайн-продолжение с живым контактом с фанатами: ещё одна точка монетизации для успешного канала.",
+      "country": "Япония",
+      "status": "Идёт с 18 ноября",
+      "event_key": "emoharu-drama-stage-adaptation-theatre-alpha-tokyo-japan-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-17",
+      "date_precision": "day",
+      "selected_because": "Состоявшееся открытие 18 ноября: переход вертикальной серии в живой формат, ещё не освещался.",
+      "image_url": "",
+      "image_credit": "PR TIMES / Mediamix Japan. Верхнее горизонтальное изображение релиза, вероятно ключевой визуал. Не подтверждено, размер маленький (400x218).",
+      "image_page": "https://prtimes.jp/main/html/rd/p/000004047.000013972.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Официальный сайт спектакля (MMJ)",
+          "url": "https://mmj-pro.co.jp/emoharu/",
+          "primary": true,
+          "evidence": "2026年11月18日〜23日 シアター・アルファ東京"
+        },
+        {
+          "label": "Entamerush: спектакль открывается завтра",
+          "url": "https://entamerush.jp/725188/",
+          "primary": false,
+          "evidence": "明日開幕"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261119-03",
+      "issue": "i2026-11-19",
+      "order": 3,
+      "lead": false,
+      "discovered_at": "2026-11-18T23:58:14.043717+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/ill-78ad10216b96db91615a.svg",
+        "source_url": "",
+        "alt": "Вертикальную драму #エモハルドラマ впервые поставили на сцене Токио: пять историй по 15 минут",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.586597+03:00"
+      }
+    },
+    {
+      "title": "Tatedora снимет вертикальную драму по манге",
+      "headline": "Вертикальное приложение «Татэдора» экранизирует мангу «Моя юри — это работа!»",
+      "cover_word": "Манга в вертикали",
+      "dek": "Живой сериал выйдет весной 2027 года с эпизодами около двух минут.",
+      "what": "DONUTS объявил 13 ноября, что его приложение вертикальных драм «Татэдора» выпустит игровой сериал по манге Михаты «Моя юри — это работа!» (Ichijinsha, тираж свыше миллиона экземпляров, есть аниме). Старт весной 2027 года.",
+      "mechanics": "Режиссёр Тайки Накаяма, сценарист Нисиока То Нейл, продюсер Ясухиро Вада (BACKS). Эпизоды длиной около двух минут, чтобы смотреть короткими подходами. Приложение бесплатное, часть материалов платная. Число серий и данные об аудитории приложения не названы. Это ранний анонс.",
+      "why": "Владелец вертикальной платформы берёт известное IP, а не создаёт историю с нуля: так вертикальные студии привлекают уже сформированную аудиторию манги.",
+      "country": "Япония",
+      "status": "Анонсирован, выход весной 2027",
+      "event_key": "donuts-tatedora-watashi-no-yuri-live-action-announcement-japan-2026-11-13",
+      "date_iso": "2026-11-13",
+      "first_published_at": "2026-11-13",
+      "date_precision": "day",
+      "selected_because": "Найден позже срока: сообщение от 13 ноября, дата сохранена реальная, это отмеченный пропуск.",
+      "image_url": "https://www.donuts.ne.jp/wp-content/uploads/2026/11/261113_tated_watayuri_1-1024x538.jpg",
+      "image_credit": "DONUTS / BACKS / Ichijinsha",
+      "image_page": "https://www.donuts.ne.jp/news/2026/1113_tated_watayuri_1/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "DONUTS: пресс-релиз",
+          "url": "https://www.donuts.ne.jp/news/2026/1113_tated_watayuri_1/",
+          "primary": true,
+          "evidence": "2027年春頃予定"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": true,
+      "id": "n261119-04",
+      "issue": "i2026-11-19",
+      "order": 4,
+      "lead": false,
+      "discovered_at": "2026-11-18T23:58:14.043881+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/30a6afe9e805e10f43ad.jpg",
+        "source_url": "https://www.donuts.ne.jp/wp-content/uploads/2026/11/261113_tated_watayuri_1-1024x538.jpg",
+        "alt": "Вертикальное приложение «Татэдора» экранизирует мангу «Моя юри — это работа!»",
+        "credit": "DONUTS / BACKS / Ichijinsha",
+        "link": "https://www.donuts.ne.jp/news/2026/1113_tated_watayuri_1/",
+        "caption": "DONUTS / BACKS / Ichijinsha",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.586755+03:00"
+      }
+    },
+    {
+      "title": "YouTube Creator Premieres 2026: Extract 14 и слейт авторских проектов",
+      "headline": "YouTube отдаёт зрителям $100 тысяч за раскрытое убийство в шоу Уэсли Вана",
+      "cover_word": "Зритель как детектив",
+      "dek": "Шесть серий Extract 14 строятся на улликах, а первый разгадавший дело получит приз.",
+      "what": "На втором показе Creator Premieres YouTube представил слейт авторских проектов, которые выйдут на платформе. Среди них Extract 14 Уэсли Вана, документальный цикл Эммы Чемберлен What Are You Waiting For?, Aryna's Arena: Unfiltered теннисистки Арины Соболенко и кулинарный Chef Ника ДиДжованни. Пост на блоге YouTube опубликован 18 ноября.",
+      "mechanics": "Extract 14: шесть серий, интерактивная детективная история, зритель играет следователя. Первому, кто раскроет дело, обещан приз $100 тысяч. Подсказки спрятаны в найденных записях. В блоге YouTube сказано, что три проекта Вана выйдут в начале и весной 2027 года, без точного разнесения дат. Там же Absolute Cinema: десять начинающих режиссёров за семь дней в нью-йоркском буткемпе борются за $100 тысяч на съёмку фильма. Чемберлен снимает людей в очередях на нью-йоркские аттракционы вместе с Amplify Pictures, дата не названа. Aryna's Arena делает UltraBoom Media, команда OFF DAY; сериал расширяет существующий канал. Короткие POV-серии Chef выходят ежедневно, полные эпизоды растянуты на 2026–27 годы. Среди ближайших дат: Ina Garten 25 ноября, Twilight (but better) Грейс Рейтер 18 февраля.",
+      "why": "YouTube показывает рынку, что авторское видео может быть событийным, с игрой и призом, а не только эпизодами канала.",
+      "country": "США",
+      "status": "Анонс слейта; Extract 14 выйдет в 2027 году, точная дата не названа",
+      "event_key": "youtube-creator-premieres-2026-extract-14-slate-us-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Крупнейший за день заказ платформы на авторские шоу; интерактивная механика с денежным призом интересна digital и non-scripted командам.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://blog.youtube/news-and-events/youtube-creator-premieres-slate-2026/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "YouTube Blog: Creator Premieres slate",
+          "url": "https://blog.youtube/news-and-events/youtube-creator-premieres-slate-2026/",
+          "primary": true,
+          "evidence": "interactive murder-mystery series; $100,000 to first to crack the case"
+        },
+        {
+          "label": "C21: YouTube unveils creator-fronted exclusives",
+          "url": "https://www.c21media.net/news/youtube-unveils-creator-fronted-exclusives-including-wesley-wang-murder-mystery/",
+          "primary": false,
+          "evidence": "creator-led unscripted projects fronted by Emma Chamberlain, Nick DiGiovanni, Aryna Sabalenka"
+        },
+        {
+          "label": "Tubefilter: Creator Premieres",
+          "url": "https://www.tubefilter.com/2026/11/17/youtube-creator-premieres-2026-new-series/",
+          "primary": false,
+          "evidence": "world-class, studio-quality creator programming"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261119-05",
+      "issue": "i2026-11-19",
+      "order": 5,
+      "lead": true,
+      "discovered_at": "2026-11-18T23:58:14.043971+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/ill-27e57427acba8243a4ad.svg",
+        "source_url": "",
+        "alt": "YouTube отдаёт зрителям $100 тысяч за раскрытое убийство в шоу Уэсли Вана",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.586815+03:00"
+      }
+    },
+    {
+      "title": "Music Therapy with Morgan Jay",
+      "headline": "Комик Морган Джей лечит гостей песнями, которые сочиняет с ними прямо в эфире",
+      "cover_word": "Терапия через песню",
+      "dek": "Шоу на YouTube стартовало 18 ноября, финансирует его Live Nation Studios.",
+      "what": "18 ноября на YouTube вышло интервью-шоу Music Therapy with Morgan Jay. Первый гость Кэм Паттерсон из Saturday Night Live. Далее заявлены Рон Фанчес, Мара Уилсон, Янг Грави и Джош Джонсон.",
+      "mechanics": "Джей играет «музыкального терапевта» для знаменитого гостя. Разговор без сценария и импровизация переходят в сочинение песни на ходу, а в финале пара исполняет оригинальную песню. Это интервью через действие: гость раскрывается не в ответах, а в совместном творчестве. Придумали шоу Морган Джей и Тай Стаффорд, Стаффорд режиссёр, шоураннер Брук Шли, она же соавтор текстов. Делает шоу агентство Hello Party из Остина. По данным Variety, проект профинансировала Live Nation Studios и дала доступ к своим артистам для гостей. Дата премьеры также указана в слейте YouTube. Число эпизодов сезона в доступных источниках не названо, как и условия сделки.",
+      "why": "Лейбл-концертный оператор финансирует YouTube-интервью, где гость вынужден творить, а не рассказывать.",
+      "country": "США",
+      "status": "Премьера состоялась 18 ноября",
+      "event_key": "youtube-morgan-jay-music-therapy-premiere-us-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Состоявшаяся премьера в день сбора; необычная механика интервью и модель финансирования через Live Nation Studios.",
+      "image_url": "",
+      "image_credit": "YouTube Blog, официальный ключевой арт Music Therapy with Morgan Jay. Найден только как миниатюра 100x100, версию крупнее получить не удалось (403), так что качества для обложки может не хватить.",
+      "image_page": "https://blog.youtube/news-and-events/youtube-creator-premieres-slate-2026/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "YouTube Blog: Creator Premieres slate",
+          "url": "https://blog.youtube/news-and-events/youtube-creator-premieres-slate-2026/",
+          "primary": true,
+          "evidence": "Music Therapy with Morgan Jay: Premieres November 18"
+        },
+        {
+          "label": "Variety exclusive",
+          "url": "https://variety.com/2026/tv/news/morgan-jay-music-therapy-show-youtube-1236951468/",
+          "primary": false,
+          "evidence": "part talk show, part improvised jam session"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261119-06",
+      "issue": "i2026-11-19",
+      "order": 6,
+      "lead": false,
+      "discovered_at": "2026-11-18T23:58:14.044490+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/ill-29205bd647255c329022.svg",
+        "source_url": "",
+        "alt": "Комик Морган Джей лечит гостей песнями, которые сочиняет с ними прямо в эфире",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.586955+03:00"
+      }
+    },
+    {
+      "title": "Physical: Asia получил второй сезон Unbroken",
+      "headline": "Netflix продлил Physical: Asia: второй сезон Unbroken выйдет в 2027 году",
+      "cover_word": "Физика наций",
+      "dek": "Netflix подтвердил второй сезон шоу, где команды стран Азии борются за национальную честь. Режиссёр обещает «непредсказуемые» состязания, а не просто масштаб.",
+      "what": "Netflix 19 ноября подтвердил второй сезон Physical: Asia с подзаголовком Unbroken. Премьера глобально запланирована на 2027 год, точной даты нет. Первый сезон вышел в октябре 2025 года. Продюсер и режиссёр Чан Хо Ги возвращается.",
+      "mechanics": "Формат остаётся национальным: спортсмены выступают под флагами стран и решают задания командно. По словам Чана, команда придумала «совершенно другой мир» и квесты, которые могут стать новой визитной карточкой серии. Он говорит, что сезон не просто станет больше, а покажет «новые стратегии и матчи, возможные только в соревновании наций». Заявлены новое поколение атлетов, переработанные арены и задания, требующие более тонкой тактики. Состав стран и участников Netflix не назвал. В материале Korea Times также сказано, что локальные версии франшизы готовят в Мексике и Италии, а версии для США, Франции и Швеции в разработке. Для Мексики подтверждён второй сезон Physical: 100.",
+      "why": "Это пример того, как азиатский нон-скрипт Netflix растёт как франшиза. Одна рамка (национальные команды) получает новые испытания, а соседние рынки получают собственные адаптации.",
+      "country": "Южная Корея / глобально",
+      "status": "Заказ второго сезона подтверждён, выход в 2027 году",
+      "event_key": "netflix-physical-asia-season2-unbroken-renewal-global-2026-11-19",
+      "date_iso": "2026-11-19",
+      "first_published_at": "2026-11-19",
+      "date_precision": "day",
+      "selected_because": "Свежее подтверждение сезона у крупной франшизы Netflix (19.11); в журнале этого события не было. Официальный текст Netflix и Deadline не открыты, цитаты Чана взяты из Korea Times и Cineplay.",
+      "image_url": "https://newsimg.koreatimes.co.kr/2026/11/19/11879c4b-9d3b-418c-a3c1-32065b11f261.png?w=728",
+      "image_credit": "Courtesy of Netflix / The Korea Times",
+      "image_page": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261119/netflixs-physical-asia-to-return-in-2027-with-fiercer-national-rivalries",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "The Korea Times: Physical Asia returns in 2027",
+          "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261119/netflixs-physical-asia-to-return-in-2027-with-fiercer-national-rivalries",
+          "primary": true,
+          "evidence": "Netflix plans a global premiere in 2027 for Physical: Asia Season 2, Unbroken."
+        },
+        {
+          "label": "Cineplay: Physical: Asia Sets Season 2",
+          "url": "https://www.cineplay.co.kr/en-us/articles/30871",
+          "primary": false,
+          "evidence": "Rather than simply making it bigger, we're going to show you contests with unpredictable outcomes."
+        },
+        {
+          "label": "Deadline: Netflix Renews Physical: Asia (не открыт, paywall)",
+          "url": "https://deadline.com/2026/11/netflix-renews-physical-asia-second-season-1237228790/",
+          "primary": false,
+          "evidence": "Заголовок и анонс из ленты: сезон выйдет в 2027 году."
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261119-07",
+      "issue": "i2026-11-19",
+      "order": 7,
+      "lead": false,
+      "discovered_at": "2026-11-19T07:47:36.587010+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/ada967ea6e70114dd489.jpg",
+        "source_url": "https://newsimg.koreatimes.co.kr/2026/11/19/11879c4b-9d3b-418c-a3c1-32065b11f261.png?w=728",
+        "alt": "Netflix продлил Physical: Asia: второй сезон Unbroken выйдет в 2027 году",
+        "credit": "Courtesy of Netflix / The Korea Times",
+        "link": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20261119/netflixs-physical-asia-to-return-in-2027-with-fiercer-national-rivalries",
+        "caption": "Courtesy of Netflix / The Korea Times",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.587017+03:00"
+      }
+    },
+    {
+      "title": "Radio Gaga в Канаде: 48 часов местного радио",
+      "headline": "Radio-Canada закажет французскую версию Radio Gaga: ведущие ставят радиостанцию на 48 часов",
+      "cover_word": "Радио на колёсах",
+      "dek": "Формат, где двое ведущих приезжают в маленький город и запускают временную радиостанцию, впервые идёт в Канаду. Выход весной 2027 года.",
+      "what": "Radio-Canada заказала франкоязычную адаптацию голландского формата Radio Gaga компании Lineup Industries. Делать её будет монреальская KOTV. Показ запланирован на весну 2027 года. Это первая канадская версия формата.",
+      "mechanics": "Два ведущих ездят по небольшим сообществам в мобильной радиостудии. В каждом месте они на 48 часов поднимают временную местную станцию. Жители рассказывают истории, заказывают песни и дают интервью, то есть радио становится способом познакомиться с городом. Оригинал сняла бельгийская De Chinezen для канала VRT Canvas. Формат уже адаптировали во Франции, Нидерландах, Дании, Великобритании и Испании. Швейцарская RTS выпускает 12-й сезон, японская NHK седьмой. Число серий канадской версии и ведущих C21 не называет.",
+      "why": "Это простой, но удачно «упакованный» формат без конкурса и призов. Рамка в 48 часов и мобильная студия делают из локального радио телеформат, который легко переносить между странами.",
+      "country": "Канада (Квебек) / Нидерланды",
+      "status": "Заказ адаптации, эфир весной 2027",
+      "event_key": "radio-canada-kotv-radio-gaga-adaptation-canada-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Новый заказ формата на новом рынке (18.11), с понятной механикой; не освещалось в журнале. Первоисточник — отраслевая публикация C21 (пресс-релиз Lineup Industries не открыт).",
+      "image_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/radio-gaga.png",
+      "image_credit": "Radio Gaga / C21Media",
+      "image_page": "https://www.c21media.net/news/radio-canada-commissions-french-language-adaptation-of-factual-format-radio-gaga/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Radio-Canada commissions Radio Gaga",
+          "url": "https://www.c21media.net/news/radio-canada-commissions-french-language-adaptation-of-factual-format-radio-gaga/",
+          "primary": true,
+          "evidence": "Two hosts travel to small communities in a mobile radio studio."
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": true,
+      "id": "n261119-08",
+      "issue": "i2026-11-19",
+      "order": 8,
+      "lead": false,
+      "discovered_at": "2026-11-19T07:47:36.587051+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/d277c9b8069795c29b58.png",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/radio-gaga.png",
+        "alt": "Radio-Canada закажет французскую версию Radio Gaga: ведущие ставят радиостанцию на 48 часов",
+        "credit": "Radio Gaga / C21Media",
+        "link": "https://www.c21media.net/news/radio-canada-commissions-french-language-adaptation-of-factual-format-radio-gaga/",
+        "caption": "Radio Gaga / C21Media",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.587054+03:00"
+      }
+    },
+    {
+      "title": "Idilio TV выводит микродрамы на ТВ",
+      "headline": "Idilio TV до конца года покажет вертикальные микродрамы по обычному телевидению",
+      "cover_word": "С телефона на ТВ",
+      "dek": "Колумбийская платформа вертикальных сериалов готовит бесплатный эфир в пяти странах. Формат сохранят: вертикальный кадр и серии по полторы минуты.",
+      "what": "Сооснователь и CEO Idilio TV Габриэла Тафур сообщила PRODU на MIP Cancun, что платформа в декабре 2026 года выйдет на традиционное телевидение. Вещание будет бесплатным, без платной подписки, в отличие от приложения.",
+      "mechanics": "По данным PRODU, эфир нацелен на США, Мексику, Колумбию, Чили и Венесуэлу, где у приложения уже есть аудитория. Вертикальный кадр и серия длиной около 1,5 минуты останутся, эфир повторит каталог приложения. Телеканал или партнёра-вещателя статья не называет, а операционные детали ещё прорабатываются. Цифр по просмотрам и выручке в материале нет. Тафур объясняет шаг желанием расширить, где можно смотреть контент: «в этом году у нас будет ещё одно место, где контент Idilio можно будет увидеть».",
+      "why": "Обычно микродрамы идут с экрана телевизора в телефон, здесь путь обратный. Для бесплатного эфира это тест, можно ли привести к платному приложению аудиторию ТВ.",
+      "country": "Колумбия / LatAm",
+      "status": "Анонс, запуск ожидается в декабре 2026, партнёр не назван",
+      "event_key": "idilio-tv-vertical-microdramas-traditional-tv-latam-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Оригинальное интервью PRODU с CEO на MIP Cancun (18.11, свежее); вертикальная драма на ТВ — редкий обратный ход для рынка LatAm. Не освещалось в журнале.",
+      "image_url": "https://images.produ.com/wp-content/uploads/2026/11/18194700/bigwp-GabrielaTafurIdilioMipCancun2026.jpg",
+      "image_credit": "PRODU",
+      "image_page": "https://www.produ.com/especiales/mip-cancun-2026/noticias/idilio-microdramas-television-tradicional-gabriela-tafur-2026",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PRODU: интервью Габриэлы Тафур на MIP Cancun",
+          "url": "https://www.produ.com/especiales/mip-cancun-2026/noticias/idilio-microdramas-television-tradicional-gabriela-tafur-2026",
+          "primary": true,
+          "evidence": "Idilio TV prepara su desembarco en la televisión tradicional para este diciembre."
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261119-09",
+      "issue": "i2026-11-19",
+      "order": 9,
+      "lead": false,
+      "discovered_at": "2026-11-19T07:47:36.587085+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-19/6741d2bb6927d781c030.jpg",
+        "source_url": "https://images.produ.com/wp-content/uploads/2026/11/18194700/bigwp-GabrielaTafurIdilioMipCancun2026.jpg",
+        "alt": "Idilio TV до конца года покажет вертикальные микродрамы по обычному телевидению",
+        "credit": "PRODU",
+        "link": "https://www.produ.com/especiales/mip-cancun-2026/noticias/idilio-microdramas-television-tradicional-gabriela-tafur-2026",
+        "caption": "PRODU",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-19T07:47:36.587088+03:00"
+      }
+    }
+  ]
+}
