@@ -1,0 +1,1914 @@
+{
+  "issue": {
+    "id": "i2026-11-24",
+    "date": "2026-11-24",
+    "mode": "daily",
+    "chip": "24.11",
+    "count": 34,
+    "lead_id": "n261124-04",
+    "period_start": "2026-11-23T07:45:02.275190+03:00",
+    "period_end": "2026-11-24T07:45:02.338453+03:00",
+    "generated_at": "2026-11-24T07:48:15.873239+03:00",
+    "period_label": "23.11 07:45 — 24.11 07:45",
+    "intro": "",
+    "coverage_note": "Variety и THR закрыты paywall: первоисточники Macy Gray и Pillsbury читались через копии на Yahoo\nДля всех шести карточек нет официальной афиши или кадра: нужна иллюстрация Fresh Juice\nПрямые каналы YouTube, Netflix Tudum, PR TIMES, Banijay, France TV Slash, корейские и индийские платформы, VK/Rutube не проверены напрямую\nДата запуска Thunderbirds на Roblox не названа; для Treze Conzeta нет числа серий\nРаунды и приз Pillsbury Bake-Off не подтверждены THR\nTBI Vision RSS недоступен\nShort media: найден только один новый кейс, ориентир десять не выполнен\nПроверено 6 карточек: открыты первоисточники и перекрёстные материалы, выполнено 5 поисков (Pillsbury, Thunderbirds, Deivit & Lisa, Macy Gray, Shark Tank Venezuela). Подтверждены даты 23.11 (Variety, PRODU, C21, Tubefilter) и обновление Meta от 13.11, которое вышло за окно сбора. Поиск велел искать на разных языках, но разноязычными были только два запроса из пяти, и по каждой теме проверялось одно событие: это проверка выбранных карточек, а не обзор рубрик. Рубрики Scripted, Sport, Doc и Event кандидатов не содержали. Оговорки у принятых: оригинальный Variety закрыт paywall (читалась копия Yahoo), поэтому лучше сослаться на Variety; заявление Magix про «в 10 раз дешевле» принадлежит самой компании. По Thunderbirds C21 говорит про запуск «позже в 2026», а точной даты нет. Обложки везде иллюстрация Fresh Juice, так как официальные изображения в источниках не указаны.\nФактически подготовлены карточки по рубрикам: {\"scripted\": 3, \"unscripted\": 5, \"doc\": 5, \"digital\": 7, \"branded\": 2, \"short\": 7, \"sport\": 4, \"event\": 1}\nRSS gaps: https://tbivision.com/feed/",
+    "agenda": [],
+    "rubric_counts": {
+      "scripted": 3,
+      "unscripted": 5,
+      "doc": 5,
+      "digital": 7,
+      "branded": 2,
+      "short": 7,
+      "sport": 4,
+      "event": 1
+    },
+    "delivery_note": "Опубликован. Доставка Telegram проверяется отдельно."
+  },
+  "stories": [
+    {
+      "title": "Se tiene que morir mucha gente, 2 сезон",
+      "headline": "Movistar Plus начал снимать второй сезон «Должно умереть много людей»",
+      "cover_word": "Те же героини, новые кризисы",
+      "dek": "Шесть серий по 30 минут выйдут в 2027 году; сюжет продолжается через несколько месяцев после первого сезона.",
+      "what": "Movistar Plus объявил 23 ноября 2026 года о начале съёмок второго сезона сериала Se tiene que morir mucha gente. Автор, сценаристка и режиссёр Виктория Мартин продолжает историю трёх героинь. Шесть серий по 30 минут выйдут в 2027 году эксклюзивно на платформе.",
+      "mechanics": "Второй сезон начинается спустя несколько месяцев. Барбара бросила таблетки, но груз собственного существования берёт верх. Мача переживает расставание и нестабильную работу. Элена растит младенца, справляется с послеродовой депрессией и ждёт подписания документов о разводе. Анна Кастильо, Макарена Гарсия и Лаура Вайсмахр возвращаются к своим ролям, Софья Отеро вновь играет «Девочку». Режиссёры: Сандра Ромеро, Виктория Мартин и Начо Пардо. Сериал производят Movistar Plus, Corte y Confección de Películas и Living Producciones. Мартин сказала, что рада возможности расширить вселенную сериала. Первый сезон номинирован на три премии Forqué: лучший сериал и лучшая женская роль для Кастильо и Гарсии. Дата премьеры пока не названа, известен только 2027 год.",
+      "why": "Заказ второго сезона короткой авторской комедии с тремя героинями показывает, как платформа развивает локальный авторский хит, не растягивая формат: те же шесть получасовых серий. Сюжет сдвигается от общего кризиса к трём отдельным: депрессия, расставание и работа.",
+      "country": "Испания",
+      "status": "Съёмки начались 23.11.2026, премьера в 2027 году, дата не объявлена",
+      "event_key": "movistar-plus-se-tiene-que-morir-mucha-gente-season2-filming-start-spain-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Новое сообщение от платформы за сегодня о запуске съёмок. Событие ещё не освещалось в журнале. Зафиксирован формат 6×30 и развитие сюжета по трём героиням.",
+      "image_url": "https://mcusercontent.com/0dfe34473811352b19c645ac3/images/f0aa3566-2291-4a0e-c8c6-5a713dacd7cb.jpg",
+      "image_credit": "Movistar Plus",
+      "image_page": "https://www.movistarplus.es/comunicacion/notas-de-prensa/ya-se-rueda-la-segunda-temporada-de-se-tiene-que-morir-mucha-gente-la-exitosa-serie-original-movistar-plus-creada-por-victoria-martin/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Movistar Plus: пресс-релиз",
+          "url": "https://www.movistarplus.es/comunicacion/notas-de-prensa/ya-se-rueda-la-segunda-temporada-de-se-tiene-que-morir-mucha-gente-la-exitosa-serie-original-movistar-plus-creada-por-victoria-martin/",
+          "primary": true,
+          "evidence": "6 x 30', exclusivamente en Movistar Plus en 2027"
+        },
+        {
+          "label": "PRODU",
+          "url": "https://www.produ.com/television/noticias/movistar-plus-comenzo-el-rodaje-de-la-segunda-temporada-de-se-tiene-que-morir-mucha-gente/",
+          "primary": false,
+          "evidence": "Movistar Plus inició la grabación de la segunda temporada"
+        }
+      ],
+      "rubric": "scripted",
+      "direction_only": false,
+      "id": "n261124-01",
+      "issue": "i2026-11-24",
+      "order": 1,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.137403+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/35160a6124b562367c79.jpg",
+        "source_url": "https://mcusercontent.com/0dfe34473811352b19c645ac3/images/f0aa3566-2291-4a0e-c8c6-5a713dacd7cb.jpg",
+        "alt": "Movistar Plus начал снимать второй сезон «Должно умереть много людей»",
+        "credit": "Movistar Plus",
+        "link": "https://www.movistarplus.es/comunicacion/notas-de-prensa/ya-se-rueda-la-segunda-temporada-de-se-tiene-que-morir-mucha-gente-la-exitosa-serie-original-movistar-plus-creada-por-victoria-martin/",
+        "caption": "Movistar Plus",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870280+03:00"
+      }
+    },
+    {
+      "title": "The Seaside Mysteries",
+      "headline": "Acorn TV и MultiChoice сняли уютный детектив про актёра, сыгравшего сыщика",
+      "cover_word": "Бывший сыщик расследует всерьёз",
+      "dek": "Шесть серий снимают в Кейптауне; релиз в 2027 году на Acorn TV и M-Net.",
+      "what": "Acorn TV и MultiChoice Group (Canal+) объявили 19 ноября 2026 года о заказе The Seaside Mysteries. Это шестисерийная комедийная детективная история в вымышленной рыбацкой деревне Блаасгат. Съёмки идут в Кейптауне, релиз назначен на 2027 год.",
+      "mechanics": "Центральная пара — отставной телеактёр Лоренс Мантуф, когда-то игравший детектива, и его наблюдательная жена Доун. Их втягивают в расследование убийства миллиардера Леонарда Като. Среди подозреваемых хитрый мэр, опальный радиодиджей, ясновидящая парикмахерша, хозяйка особняка при свечах и мелкие контрабандисты. Лоренса играет Алекс Дженнингс, Като — Джек Давенпорт, Доун — Рика Сеннет. Автор сценария и исполнительный продюсер Даррел Бристоу-Бови, режиссёр Кристиан Олвагем. Производит южноафриканская Quizzical Pictures при поддержке Cape Town Film Fund, международные продажи ведёт Sphere Abacus. Показ пройдёт на Acorn TV и M-Net в нескольких странах Африки. Руководитель программирования Acorn Дон Клис отметил, что в сериале есть все элементы уютных детективов, которыми известен стриминг.",
+      "why": "Классическая британская «уютная» формула перенесена в южноафриканскую деревню: заказ делают совместно американский каталожный стриминг и африканская группа, а съёмки и финансирование местные. Хороший пример копродукции, где жанр экспортный, а производство местное.",
+      "country": "ЮАР / США",
+      "status": "В производстве, премьера в 2027 году",
+      "event_key": "acorn-tv-multichoice-seaside-mysteries-greenlight-south-africa-2026-11-19",
+      "date_iso": "2026-11-19",
+      "first_published_at": "2026-11-19",
+      "date_precision": "day",
+      "selected_because": "Анонс от 19 ноября; в журнале не было. Включён как поздно найденный материал с реальной датой: привлекает необычная копродукция и конкретный жанровый приём.",
+      "image_url": "https://images.amcnetworks.com/www.amcglobalmedia.com/wp-content/uploads/sites/1/2026/11/SeasideMysteries111926.png",
+      "image_credit": "AMC Global Media / Acorn TV",
+      "image_page": "https://www.amcglobalmedia.com/2026/11/19/acorn-tv-greenlights-the-seaside-mysteries-starring-alex-jennings-and-jack-davenport/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "AMC Global Media: пресс-релиз",
+          "url": "https://www.amcglobalmedia.com/2026/11/19/acorn-tv-greenlights-the-seaside-mysteries-starring-alex-jennings-and-jack-davenport/",
+          "primary": true,
+          "evidence": "retired TV actor Lawrence Mantooth and his sharp-eyed wife, Dawn"
+        },
+        {
+          "label": "C21Media",
+          "url": "https://www.c21media.net/news/acorn-tv-multichoice-team-up-for-cosy-crime-drama-set-in-south-africa/",
+          "primary": false,
+          "evidence": "cosy crime drama set in a fictional South African coastal fishing village"
+        }
+      ],
+      "rubric": "scripted",
+      "direction_only": false,
+      "id": "n261124-02",
+      "issue": "i2026-11-24",
+      "order": 2,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.137821+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/4c30434f6077533d98fa.png",
+        "source_url": "https://images.amcnetworks.com/www.amcglobalmedia.com/wp-content/uploads/sites/1/2026/11/SeasideMysteries111926.png",
+        "alt": "Acorn TV и MultiChoice сняли уютный детектив про актёра, сыгравшего сыщика",
+        "credit": "AMC Global Media / Acorn TV",
+        "link": "https://www.amcglobalmedia.com/2026/11/19/acorn-tv-greenlights-the-seaside-mysteries-starring-alex-jennings-and-jack-davenport/",
+        "caption": "AMC Global Media / Acorn TV",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870350+03:00"
+      }
+    },
+    {
+      "title": "Historias en la piel",
+      "headline": "Tubi заказал первый испаноязычный оригинал: 20 историй о татуировках",
+      "cover_word": "Каждая татуировка — серия",
+      "dek": "Антология о тату-студии выйдет в начале 2027 года в Мексике, Латинской Америке и США.",
+      "what": "Tubi объявил 18 ноября 2026 года о первом оригинальном сериале на испанском языке — Historias en la piel. Это антология из 20 эпизодов, действие которой происходит в тату-студии. Выпуск запланирован на начало 2027 года в Мексике, других странах Латинской Америки и США.",
+      "mechanics": "Каждый эпизод рассказывает отдельную историю, стоящую за татуировкой клиента. Сквозные герои — владельцы студии: Себастьян (Дагоберто Тамес) помогает клиентам понять смысл рисунка, Тита (Анетте Мишель) приносит материнский взгляд и юмор. Создатель и главный сценарист Луис Мариани, режиссёр Эктор Родригес. Производит Elefantec Global, основанная Пепе Бастоном; исполнительные продюсеры Андреа Салас, Луис Солис, Карлос Солис и Уго Тапия. Тапия сказал, что сериал берёт антологический формат и придаёт ему современный поворот. Исполнительный вице-президент Tubi Дэвид Сальмон назвал запуск важной вехой и отражением роста инвестиций в локальные истории. Длительность эпизода в источнике не указана.",
+      "why": "Бесплатный рекламный стриминг впервые делает собственный сценарный оригинал на испанском, и выбирает не телесериал-драму, а антологию с повторяющейся рамкой. Это удобно для сериализации и для рынка США с испаноязычной аудиторией.",
+      "country": "Мексика / США",
+      "status": "Анонс 18.11.2026, премьера в начале 2027 года",
+      "event_key": "tubi-elefantec-historias-en-la-piel-first-spanish-original-mexico-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Новый заказ от 18 ноября, ещё не освещавшийся; первый испаноязычный оригинал платформы. Найден позже окна, дата сохранена.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.produ.com/television/noticias/historias-en-la-piel-produccion-de-elefantec-global-sera-la-primera-serie-original-en-espanol-de-tubi/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PRODU",
+          "url": "https://www.produ.com/television/noticias/historias-en-la-piel-produccion-de-elefantec-global-sera-la-primera-serie-original-en-espanol-de-tubi/",
+          "primary": true,
+          "evidence": "toma el formato antológico y le da un giro moderno"
+        },
+        {
+          "label": "C21Media",
+          "url": "https://www.c21media.net/news/tubi-preps-first-spanish-language-scripted-original-with-elefantec/",
+          "primary": false,
+          "evidence": "Tubi preps first Spanish-language scripted original with Elefantec"
+        }
+      ],
+      "rubric": "scripted",
+      "direction_only": false,
+      "id": "n261124-03",
+      "issue": "i2026-11-24",
+      "order": 3,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.138006+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-8dc0db7b911bbe47408c.svg",
+        "source_url": "",
+        "alt": "Tubi заказал первый испаноязычный оригинал: 20 историй о татуировках",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870398+03:00"
+      }
+    },
+    {
+      "title": "Путь Тигра",
+      "headline": "ТНТ отправил 21 звезду в китайские джунгли без телефонов: до финала дойдут шестеро",
+      "cover_word": "Джунгли без телефонов",
+      "dek": "Реалити ТНТ снимают в Китае: 21 участник, мастер-наставник, ведущий Анатолий Цой.",
+      "what": "ТНТ снимает в Китае реалити-шоу «Путь Тигра». Новость о начале съёмок вышла 17 ноября, подробности от продюсера опубликованы 19 ноября. В лагере посреди тропического леса живут 21 участник: звёзды, блогеры и спортсмены. Ведёт проект певец Анатолий Цой. Имена пока не раскрыты, дата премьеры не названа, известно лишь, что шоу выйдет в текущем телесезоне.",
+      "mechanics": "В основе легенда: где-то в Китае живёт мастер с тайным знанием, и участники идут к нему. Режим жёсткий: ранние подъёмы, ежедневные тренировки, простая еда и полный запрет на телефоны. Мастер следит за правилами, поощряет успехи и наказывает за проступки. В программе восточные практики, боевые искусства, силовые и командные задания. Участники делятся на команды, борются за право остаться и сами решают судьбу друг друга. Из 21 человека до финала добираются шестеро, а весь путь проходит только один. Генеральный продюсер Константин Обухов говорит, что испытания не заканчиваются и после возвращения в лагерь. Отдельная деталь: Цой в начале ноября попал в больницу с воспалением брюшной полости, после лечения его выписали. Источники называют диагноз по-разному.",
+      "why": "Это попытка ТНТ собрать выживалити не из дикой природы, а из дисциплины и ритуала. Роль ведущего здесь проводник, а не судья. Возможность наказания мастером и голосование участников друг против друга задают драматургию без студии. Для команд, которые разрабатывают форматы, это пример смены жанра выживания на «трансформационное» реалити.",
+      "country": "Россия / Китай",
+      "status": "Съёмки идут с ноября 2026, премьера в текущем телесезоне, дата не объявлена",
+      "event_key": "tnt-put-tigra-filming-start-china-russia-2026-11-17",
+      "date_iso": "2026-11-17",
+      "first_published_at": "2026-11-17",
+      "date_precision": "day",
+      "selected_because": "Новый формат крупного телеканала с чёткой механикой, ещё не освещавшийся в журнале. Найден позже окна, дата сохранена: 17.11 (старт съёмок), 19.11 (слова продюсера).",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.intermedia.ru/news/408170",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Intermedia: Анатолий Цой проведёт звёзд по «Пути Тигра»",
+          "url": "https://www.intermedia.ru/news/408170",
+          "primary": true,
+          "evidence": "из 21 участника до финала доберутся только шестеро"
+        },
+        {
+          "label": "TVMag: старт съёмок и слова продюсера Обухова",
+          "url": "https://tvmag.ru/article/canals/2026-11-19-v-kitae-startovali-semki-novogo-masshtabnogo-realiti-shou-tnt-put-tigra/",
+          "primary": false,
+          "evidence": "Генеральный продюсер Константин Обухов, испытания не заканчиваются в лагере"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261124-04",
+      "issue": "i2026-11-24",
+      "order": 4,
+      "lead": true,
+      "discovered_at": "2026-11-23T21:26:24.140841+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-119ed92954d72d9d0693.svg",
+        "source_url": "",
+        "alt": "ТНТ отправил 21 звезду в китайские джунгли без телефонов: до финала дойдут шестеро",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870448+03:00"
+      }
+    },
+    {
+      "title": "Tailgate Games",
+      "headline": "Кэм Ньютон ведёт шоу, где болельщики борются за $50 тысяч среди столов и саней",
+      "cover_word": "Тейлгейт как турнир",
+      "dek": "CSEN снимает часовой формат: обычные фанаты, испытания из традиций парковочных праздников и финал Tailgate Bowl.",
+      "what": "Креаторская спортивная сеть Creator Sports Entertainment Network и бывший квотербек НФЛ Кэм Ньютон анонсировали соревновательный формат Tailgate Games. Анонс вышел 21 ноября, в тот же день Ньютон и соведущая Кинси Воланская провели в TikTok Live экскурсию по площадке. Дата премьеры и площадка показа пока не объявлены.",
+      "mechanics": "Каждый выпуск идёт час. Обычные болельщики, мужчины и женщины, проходят испытания, придуманные из традиций тейлгейта: гонки на санях, ломающиеся столы и другие «экстремальные» задания в духе американского футбола. Победители выпусков попадают в финальный Tailgate Bowl, где разыгрывают титул и приз $50 тысяч. Сеть сама создаёт и продюсирует проект. Исполнительные продюсеры: Деррик Браун, Руди Веглиранте, Трэвис Монтак, Ройал Мэллой и Ньютон. Анонс сопровождался прямым эфиром с показом декораций и демонстрацией препятствий, то есть формат сначала проверяли на соцсети.",
+      "why": "Для спортивного нон-скрипта интересно, что обычный ритуал болельщиков, парковочный праздник перед матчем, превращён в игровую площадку. Анонс через стрим на TikTok показывает, что креаторская сеть сперва собирает внимание и только потом объявляет эфирного партнёра.",
+      "country": "США",
+      "status": "Анонс 21.11.2026, премьера и дистрибуция не объявлены",
+      "event_key": "csen-cam-newton-tailgate-games-format-announcement-us-2026-11-21",
+      "date_iso": "2026-11-21",
+      "first_published_at": "2026-11-21",
+      "date_precision": "day",
+      "selected_because": "Новый формат от 21 ноября, ещё не освещённый в журнале. Вне окна, дата сохранена. Подходит Non-scripted: правила и структура сезона ясны.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://finance.yahoo.com/media-advertising/articles/cam-newton-host-tailgate-games-010900597.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Business Wire (через Yahoo Finance): пресс-релиз CSEN",
+          "url": "https://finance.yahoo.com/media-advertising/articles/cam-newton-host-tailgate-games-010900597.html",
+          "primary": true,
+          "evidence": "Additional details regarding the series premiere and distribution will be announced at a later date."
+        },
+        {
+          "label": "C21Media",
+          "url": "https://www.c21media.net/news/csen-cam-newtons-competition-format-tailgate-games-touches-down/",
+          "primary": false,
+          "evidence": "CSEN, Cam Newton's competition format Tailgate Games touches down"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261124-05",
+      "issue": "i2026-11-24",
+      "order": 5,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.141107+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-afc2408200fdce6a7bcb.svg",
+        "source_url": "",
+        "alt": "Кэм Ньютон ведёт шоу, где болельщики борются за $50 тысяч среди столов и саней",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870491+03:00"
+      }
+    },
+    {
+      "title": "The Grand Tour",
+      "headline": "Prime Video продлил The Grand Tour с новыми ведущими: шесть серий и съёмки в 2027 году",
+      "cover_word": "Новая тройка продолжит",
+      "dek": "Студия Studio Lambert снова делает шоу про машины, поездки и соревнования; дата выхода не названа.",
+      "what": "Prime Video 23 ноября заказал второй сезон перезапущенного The Grand Tour. Ведущие Фрэнсис Бурже, Джеймс Энгельсман и Томас Холланд, пришедшие на смену Кларксону, Мэю и Хэммонду, остаются. Сезон состоит из шести серий, съёмки начнутся в 2027 году, шоу выйдет эксклюзивно на Prime Video более чем в 240 странах. Дата премьеры не объявлена.",
+      "mechanics": "В заявлении платформы обещаны «новые истории и далёкие локации с хорошей долей соревнования»: то есть формат остаётся путешествием с заданиями и состязаниями между тремя ведущими. Производит Studio Lambert, исполнительные продюсеры Фил Черчворд, Тим Харкорт, Стивен Лэмберт и Ния Йемох. Йемох сказала, что команде не терпится увидеть, как вырастет химия трио. Сами ведущие в шутку назвали работу «скорее глупой, чем смелой», даже имея благословение предшественников.",
+      "why": "Это редкий случай, когда франшиза держится не на звёздах, а на смене ведущих: Prime Video подтверждает, что рискованный перезапуск оправдался. Заказ тех же шести серий без расширения показывает осторожный курс платформы на устойчивый, но не раздутый сезон.",
+      "country": "Великобритания / США",
+      "status": "Заказан второй сезон, съёмки в 2027 году, премьера не объявлена",
+      "event_key": "prime-video-grand-tour-season2-renewal-uk-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Значимый заказ крупной франшизы платформы, объявленный сегодня; в журнале не было. Рубрика Non-scripted: развлекательный формат с соревновательным ядром.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.aboutamazon.co.uk/news/entertainment/the-grand-tour-series-two-prime-video",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "About Amazon UK: The Grand Tour returns for a second series",
+          "url": "https://www.aboutamazon.co.uk/news/entertainment/the-grand-tour-series-two-prime-video",
+          "primary": true,
+          "evidence": "Studio Lambert is producing again; Nia Yemoh: \"We can't wait to see how the chemistry\""
+        },
+        {
+          "label": "Deadline",
+          "url": "https://deadline.com/2026/11/the-grand-tour-season-2-renewal-amazon-prime-video-1237231574/",
+          "primary": false,
+          "evidence": "Studio Lambert set to begin production next year"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261124-06",
+      "issue": "i2026-11-24",
+      "order": 6,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.141356+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-cba56c05f053c6099608.svg",
+        "source_url": "",
+        "alt": "Prime Video продлил The Grand Tour с новыми ведущими: шесть серий и съёмки в 2027 году",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870669+03:00"
+      }
+    },
+    {
+      "title": "Timberlake",
+      "headline": "Apple показал трейлер четырёхсерийного «Timberlake» Фишера Стивенса: премьера 11 декабря",
+      "cover_word": "Тимберлейк рассказывает сам",
+      "dek": "Четыре части выйдут с 11 по 23 декабря; обещаны интервью героя и неопубликованный архив.",
+      "what": "Apple TV 23 ноября выпустила трейлер документального сериала «Timberlake» о Джастине Тимберлейке. Режиссёр — лауреат «Оскара» Фишер Стивенс («Бэкхем»). Первые две серии выйдут 11 декабря, третья 18 декабря, финал 23 декабря.",
+      "mechanics": "Сериал охватывает около тридцати лет карьеры. По описанию Apple, сам Тимберлейк даёт интервью о прорыве, жизни за пределами заголовков и трудностях за кулисами; к ним добавлены разговоры с семьёй, друзьями и коллегами и ранее не показанные архивные материалы. В трейлере герой говорит, что опасается, что зрители не поймут, кто он, и что в сериале будет то, о чём «очень трудно говорить». В кадре Тимбалэнд, Фаррелл Уильямс, Джессика Бил, мать героя и Лорн Майклз. Издания пишут, что затронуты отношения с Бритни Спирс, арест 2024 года и эпизод Супербоула 2004 года; сама Спирс в трейлере не появляется. Производят Blackbird Presents Films, Misher Films и Highly Flammable, представляет Live Nation Studios. Выпуск по частям растянут на две недели и приходится на праздничный период.",
+      "why": "Документальный портрет, где герой сам участвует в разговоре о неприятных страницах биографии, а не только о хитах. Для команды Doc это пример «авторизованной» биографии с доступом к герою и архиву; границы честности формата станут видны только после выхода.",
+      "country": "США",
+      "status": "Трейлер 23.11.2026; премьера 11, 18 и 23 декабря на Apple TV",
+      "event_key": "apple-tv-timberlake-fisher-stevens-trailer-premiere-dates-us-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Новый трейлер и даты выхода объявлены сегодня; в журнале не было. Известность героя не главный повод: интересен способ рассказа через интервью героя плюс архив.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.apple.com/tv-pr/news/2026/11/apple-tv-announces-new-four-part-documentary-event-timberlake-directed-by-academy-award-winner-fisher-stevens/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Apple TV Press: анонс сериала",
+          "url": "https://www.apple.com/tv-pr/news/2026/11/apple-tv-announces-new-four-part-documentary-event-timberlake-directed-by-academy-award-winner-fisher-stevens/",
+          "primary": true,
+          "evidence": "never-before-seen archival footage"
+        },
+        {
+          "label": "The Hollywood Reporter: трейлер",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-documentary-trailer-apple-1236761080/",
+          "primary": false,
+          "evidence": "He's Not Who I Thought He Was"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261124-07",
+      "issue": "i2026-11-24",
+      "order": 7,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.141589+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-d91a125776e3bf0cec38.svg",
+        "source_url": "",
+        "alt": "Apple показал трейлер четырёхсерийного «Timberlake» Фишера Стивенса: премьера 11 декабря",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870715+03:00"
+      }
+    },
+    {
+      "title": "Tyson Fury",
+      "headline": "В фильме Netflix о Тайсоне Фьюри 27 часов разговоров и впервые названный диагноз",
+      "cover_word": "Фьюри говорит о диагнозе",
+      "dek": "Фильм Люси Уилкокс выходит 27 ноября, за две недели до боя с Джошуа.",
+      "what": "Netflix 27 ноября выпускает полнометражный документальный фильм «Tyson Fury» режиссёра Люси Уилкокс. В нём боксёр впервые публично говорит, что ему поставили диагноз шизофрения. Фильм делает Optomen (Banijay), выход за две недели до боя Фьюри с Энтони Джошуа 11 декабря.",
+      "mechanics": "Основа фильма — беседы с самим Фьюри, его женой Пэрис и отцом Джоном, собранные за полгода: около 27 часов материала, плюс неопубликованный архив. Уилкокс рассказала в интервью Netflix Tudum, что о диагнозе ей первой сказала Пэрис, а то, что отец тоже страдает похожим состоянием, помогло понять семью. Лёгкий вопрос о любимом фильме, на который Фьюри ответил цитатой из «Дневника памяти», показал, по её словам, его мягкую сторону. Семья говорит о диагнозе прямо: Пэрис называет мужа «мягким шизофреником», Джон — что это «всегда было». Фильм идёт от детства героя до вершины карьеры и затрагивает психическое здоровье, зависимость, потерю ребёнка и отношения с отцом. Хронометраж источники называют по-разному: 90 и 105 минут.",
+      "why": "Пример документального кино, где главная новость рождается из долгой работы с семьёй героя, а не из громкого заявления. Выход перед боем на той же платформе показывает, как Netflix выстраивает вокруг события «фильм плюс трансляцию».",
+      "country": "Великобритания / США",
+      "status": "Премьера 27.11.2026 на Netflix",
+      "event_key": "netflix-tyson-fury-documentary-wilcox-diagnosis-uk-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Сегодняшние материалы о фильме раскрыли детали производства (27 часов, интервью Уилкокс) за четыре дня до премьеры. Хронометраж расходится в источниках — это отмечено.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://uk.news.yahoo.com/tyson-fury-reveals-schizophrenia-diagnosis-143700569.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Variety через Yahoo News UK",
+          "url": "https://uk.news.yahoo.com/tyson-fury-reveals-schizophrenia-diagnosis-143700569.html",
+          "primary": true,
+          "evidence": "compiled over six months and 27 hours of material"
+        },
+        {
+          "label": "The Ring",
+          "url": "https://www.ringmagazine.com/news/tyson-fury-diagnosed-as-schizophrenic-new-film-confirms-3L0vWjKRlHEQK1E8jzGHeH",
+          "primary": false,
+          "evidence": "He's a mild schizophrenic and even then the penny didn't drop."
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261124-08",
+      "issue": "i2026-11-24",
+      "order": 8,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.141806+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-318d1e844e995762c2ee.svg",
+        "source_url": "",
+        "alt": "В фильме Netflix о Тайсоне Фьюри 27 часов разговоров и впервые названный диагноз",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870757+03:00"
+      }
+    },
+    {
+      "title": "The Dark Side of Surfing",
+      "headline": "Расследование о насилии в серфинге собирает свидетельства через конфиденциальную кампанию",
+      "cover_word": "Фильм и сбор свидетельств",
+      "dek": "Съёмки и исследование идут; дата выхода и дистрибьютор не названы.",
+      "what": "Документалистка Сара Макдональд (Make Waves Films), лауреат BAFTA, и юрист Энн Оливариус работают над фильмом «The Dark Side of Surfing» о насилии и домогательствах в мировой индустрии сёрфинга. Проект на 23 ноября опубликован как эксклюзив Deadline; у фильма есть официальный сайт.",
+      "mechanics": "Фильм соединён с рабочей кампанией. По сайту проекта, любой пострадавший может конфиденциально связаться с командой и сам выбрать: поделиться лично, выступить публично, участвовать в фильме или спросить о юридической консультации. Для поддержки работают амбассадоры из сообщества, среди них сёрфер Люси Смолл; команду юридически сопровождает Энн Оливариус. Кампания собирает общий реестр сообщений о насилии в сёрфинге и продолжится после выхода: планируются показы и организованное давление на бренды и руководство индустрии. Поводом по Deadline стали новые публичные заявления пострадавших, в том числе октябрьские обвинения после Tahiti Pro. Статус — съёмки и исследование. Дата выхода и дистрибьютор не названы.",
+      "why": "Редкий случай, когда документальная форма сразу построена как инструмент сбора доказательств и доступа к героям: фильм и юридическая поддержка работают вместе. Пока это заявка проекта, результатов нет.",
+      "country": "Великобритания / США",
+      "status": "В производстве, дата выхода не объявлена",
+      "event_key": "make-waves-films-dark-side-of-surfing-investigation-outreach-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Новое сообщение за сегодня, механика доступа к героям и юридической поддержки конкретна. Страница Deadline закрыта для чтения (редирект), поэтому основной — официальный сайт проекта; Deadline указан по результатам поиска.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://darksideofsurfing.com/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Официальный сайт проекта",
+          "url": "https://darksideofsurfing.com/",
+          "primary": true,
+          "evidence": "combines investigative filmmaking with an outreach campaign"
+        },
+        {
+          "label": "Deadline (эксклюзив, страницу открыть не удалось)",
+          "url": "https://deadline.com/2026/11/sexual-abuse-allegations-surf-industry-investigated-film-1237231517/",
+          "primary": false,
+          "evidence": "BAFTA Winner Investigating Allegations Of Sexual Abuse In Global Surf Industry"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261124-09",
+      "issue": "i2026-11-24",
+      "order": 9,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.142600+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-351a556ae6a221ad6c02.svg",
+        "source_url": "",
+        "alt": "Расследование о насилии в серфинге собирает свидетельства через конфиденциальную кампанию",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870904+03:00"
+      }
+    },
+    {
+      "title": "How 15% Saved Christmas",
+      "headline": "Geico сняла двухминутную кукольную сказку для парада Macy's и показала, где в ней работал ИИ",
+      "cover_word": "Гекон в войлоке",
+      "dek": "Фильм выйдет в эфир NBC 26 ноября; героев сделали вручную, фоны дорисовал ИИ.",
+      "what": "Geico впервые участвует в параде Macy's в День благодарения (26 ноября) и показывает двухминутный фильм «How 15% Saved Christmas». Это stop-motion из войлочных кукол в духе старых рождественских спецвыпусков. Релиз Geico вышел 23 ноября.",
+      "mechanics": "Фильм выйдет в эфире NBC с 8:30 утра по всем часовым поясам, а также на Peacock и Telemundo. Сюжет: Гекон, Пещерный человек, Максвелл и Калеб в заснеженном городе, потерявшем рождественский дух, перехватывают «сообщение от Санты» и показывают, что 15% могут изменить многое (отсылка к слогану Geico). В фильме более 15 отсылок к 30 годам рекламы бренда. Куклы целиком ручные, главные герои сняты покадрово; художники нарисовали мир вручную, ИИ использовали для превизуализации и для фонов, которые наложили как классические матовые задники. Производят MARTIN*, Passion Pictures Animation, Screen Novelties и Mackinnon & Saunders. Фильм покажут в кинотеатрах 12 рынков до 27 декабря. Параллельно 10 недель Гекон «ехал» из Сан-Франциско в Нью-Йорк в соцсетях, а на платформе парада Devo выступит на первом поплавке бренда. Два ролика о съёмках уже опубликованы.",
+      "why": "Бренд открыто разделяет ручную работу и ИИ в одном ролике, что стало отдельной темой обсуждения. Ставка на «вневременной» праздничный спецвыпуск вместо 30-секундного ролика — заявка на собственную рождественскую традицию.",
+      "country": "США",
+      "status": "Релиз 23.11.2026, эфирный показ 26.11.2026",
+      "event_key": "geico-how-15-percent-saved-christmas-macys-parade-us-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Креатив крупного бренда с конкретным приёмом и нестандартной дистрибуцией через парад; опубликован сегодня.",
+      "image_url": "",
+      "image_credit": "GEICO / Business Wire",
+      "image_page": "https://www.financialcontent.com/article/bizwire-2026-11-23-geico-rolls-into-its-first-macys-thanksgiving-day-parade-and-premieres-how-15-saved-christmas",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Business Wire: пресс-релиз GEICO",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-11-23-geico-rolls-into-its-first-macys-thanksgiving-day-parade-and-premieres-how-15-saved-christmas",
+          "primary": true,
+          "evidence": "handcrafted felt puppets; AI-generated environments"
+        },
+        {
+          "label": "Adweek",
+          "url": "https://www.adweek.com/creativity/geicos-first-holiday-film-reveals-its-entertainment-ambitions/",
+          "primary": false,
+          "evidence": "Geico's First Holiday Film Reveals Its Entertainment Ambitions"
+        }
+      ],
+      "rubric": "branded",
+      "direction_only": false,
+      "id": "n261124-10",
+      "issue": "i2026-11-24",
+      "order": 10,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.142913+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-4ee5778146bdd510c050.svg",
+        "source_url": "",
+        "alt": "Geico сняла двухминутную кукольную сказку для парада Macy's и показала, где в ней работал ИИ",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870946+03:00"
+      }
+    },
+    {
+      "title": "GTA VI на стримах",
+      "headline": "GTA VI собрала 125 млн часов просмотра за сутки: IShowSpeed впереди с 4,47 млн",
+      "cover_word": "GTA VI взорвала стримы",
+      "dek": "Пик 7,91 млн зрителей; Twitch, YouTube и Kick поделили эфир почти поровну.",
+      "what": "Streams Charts опубликовала итоги первых суток стримов по GTA VI: 125,47 млн часов просмотра и пик 7,915 млн одновременных зрителей. Данные от 19 ноября; сегодня тема возвращается в отраслевых обзорах как событие для экономики авторов.",
+      "mechanics": "По часам просмотра: Twitch и YouTube вместе около 76,8%, Kick 22,1%. По пику: Twitch 3,31 млн, YouTube 3,22 млн, Kick 1,50 млн. Среди авторов по часам лидирует IShowSpeed (4,47 млн), далее TheBurntPeanut (3,89 млн) и alanzoka (3,11 млн); по одновременному пику — IlloJuan (562 тысячи). Streams Charts не приводит отдельной цифры по 24-часовому эфиру YouTube, о котором сообщали раньше. Это данные аналитической компании, не платформ.",
+      "why": "Для команд Digital — измеримый пример того, как выход одной игры превращается в доход и охват для авторов на нескольких платформах сразу. Распределение зрителей показывает, что Kick уже сопоставим по пику с конкурентами.",
+      "country": "Мир",
+      "status": "Данные первых суток, опубликованы 19.11.2026",
+      "event_key": "streams-charts-gta6-day1-streaming-records-global-2026-11-19",
+      "date_iso": "2026-11-19",
+      "first_published_at": "2026-11-19",
+      "date_precision": "day",
+      "selected_because": "Событие вне окна (19.11), найдено позже, дата сохранена; интересно сегодня из-за обзоров экономики креаторов.",
+      "image_url": "https://cdnr.escharts.com/uploads/public/6af/f01/b05/6aff01b0502f3167766550.jpg",
+      "image_credit": "Streams Charts",
+      "image_page": "https://streamscharts.com/news/gta-6-day1-recap",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Streams Charts: итоги первых 24 часов",
+          "url": "https://streamscharts.com/news/gta-6-day1-recap",
+          "primary": true,
+          "evidence": "7,915,475 peak viewers; 125.47 million hours watched"
+        },
+        {
+          "label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+          "primary": false,
+          "evidence": "GTA VI's blockbuster launch fuels a booming content economy"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261124-11",
+      "issue": "i2026-11-24",
+      "order": 11,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143249+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/a18d980c35970d423806.jpg",
+        "source_url": "https://cdnr.escharts.com/uploads/public/6af/f01/b05/6aff01b0502f3167766550.jpg",
+        "alt": "GTA VI собрала 125 млн часов просмотра за сутки: IShowSpeed впереди с 4,47 млн",
+        "credit": "Streams Charts",
+        "link": "https://streamscharts.com/news/gta-6-day1-recap",
+        "caption": "Streams Charts",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.870990+03:00"
+      }
+    },
+    {
+      "title": "The Guild (Topper Guild × Toonstar)",
+      "headline": "YouTuber Topper Guild запускает анимационный сериал на отдельном канале с ИИ-студией Toonstar",
+      "cover_word": "Автор уходит в мультфильм",
+      "dek": "Первый анимационный проект автора с аудиторией 125+ млн: отдельный канал, студия Toonstar, дата не названа.",
+      "what": "Блогер Topper Guild (YouTube, аудитория по заявлению участников более 125 млн подписчиков на площадках) объявил 17 ноября 2026 года о первом анимационном проекте. Рабочее название — The Guild. Его совместно придумывает сам автор, а сопродюсером выступает студия Toonstar, известная сериалом StEvEn & Parker. Сериал выйдет на новом отдельном YouTube-канале; название канала и дата старта не раскрыты.",
+      "mechanics": "Анимационная версия самого автора переносит в мультфильм его фирменную быструю комедию и челлендж-ролики. По материалам проекта, сюжетные линии будут «уточняться по реакции аудитории», а после запуска новые эпизоды обещают выпускать «за считаные недели». C21 описывает Toonstar как ИИ-студию бывших руководителей Disney и Warner Bros. Джона Атаназио и Луизы Хуан; сам Гилд объяснил выбор скоростью работы по сравнению с классической анимацией и сохранением творческого контроля. По данным The Ankler (материал закрыт, прочитан только в пересказе поисковой выдачи), права на IP остаются у автора, а рекламная выручка делится со студией, запуск ожидается в начале следующего года. Эти условия самими сторонами в открытых текстах не подтверждены. Цифры аудитории расходятся: 125+ млн «подписчиков на всех платформах» против 96 млн на YouTube. Интересы обеих сторон представляло агентство WME.",
+      "why": "Автор с огромной аудиторией выходит из формата живых челленджей в анимацию, но остаётся на собственном канале, а не уходит на стриминг. Для цифровых команд это пример модели «автор плюс быстрая студия»: производство ускоряется, а контроль и канал остаются у креатора.",
+      "country": "США",
+      "status": "Анонс 17.11.2026, запуск не датирован",
+      "event_key": "topper-guild-toonstar-the-guild-animated-youtube-series-us-2026-11-17",
+      "date_iso": "2026-11-17",
+      "first_published_at": "2026-11-17",
+      "date_precision": "day",
+      "selected_because": "Новая сделка автора с проверяемой механикой (отдельный канал, быстрый выпуск, адаптация по реакции зрителей); в журнале не было. Найдена позже окна, дата сохранена: 17.11. Условия по IP и выручке — только по пересказу закрытого The Ankler.",
+      "image_url": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081837-tstar1-1280.jpg?itok=7Gzy5s8H",
+      "image_credit": "Toonstar / AWN",
+      "image_page": "https://www.awn.com/news/toonstar-topper-guild-partner-animated-youtube-series",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Animation World Network: Toonstar, Topper Guild Partner on Animated YouTube Series",
+          "url": "https://www.awn.com/news/toonstar-topper-guild-partner-animated-youtube-series",
+          "primary": true,
+          "evidence": "They're unlocking animation for the creator economy."
+        },
+        {
+          "label": "C21Media",
+          "url": "https://www.c21media.net/news/youtuber-topper-guild-links-with-toonstar-to-develop-animated-series-for-youtube/",
+          "primary": false,
+          "evidence": "The show will launch on its own YouTube channel"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261124-12",
+      "issue": "i2026-11-24",
+      "order": 12,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143307+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/26af86186dabc4e99be3.jpg",
+        "source_url": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081837-tstar1-1280.jpg?itok=7Gzy5s8H",
+        "alt": "YouTuber Topper Guild запускает анимационный сериал на отдельном канале с ИИ-студией Toonstar",
+        "credit": "Toonstar / AWN",
+        "link": "https://www.awn.com/news/toonstar-topper-guild-partner-animated-youtube-series",
+        "caption": "Toonstar / AWN",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.871053+03:00"
+      }
+    },
+    {
+      "title": "Madison and Wall: расходы на креаторов",
+      "headline": "Маркетологи потратят на креаторов $116 млрд в 2026 году, и бюджет берут у ТВ и performance",
+      "cover_word": "$116 млрд на креаторов",
+      "dek": "Рост на 15% к $101 млрд в 2025; прогноз $178 млрд к 2030 году.",
+      "what": "По отчёту консалтинговой фирмы Madison and Wall, пересказанному Tubefilter 19 ноября 2026 года, мировые расходы маркетологов на креаторов вырастут в 2026 году на 15% до $116 млрд (в 2025 — $101 млрд). К 2030 году прогноз — $178 млрд.",
+      "mechanics": "В оценку входят оплата креаторов, агентств, платформ, технологических подрядчиков и медиасетей; подписки, мерч и выплаты платформ исключены. Структура 2026 года: 44% (около $52 млрд) — платное продвижение контента креаторов, 28% — спонсорские посты и амбассадоры, 12% — оплата самого контента, 8% — инфраструктура, 7% — события, подарки и лицензии. На США в 2025 году пришлось 43% расходов (при примерно 35% мировой рекламы), на Британию 5%, на Германию 4%. Рост финансируется в основном перераспределением: из ТВ, цифрового performance (платные соцсети, programmatic, поиск) и бюджетов на творческое производство. Один из операционных директоров сказал в отчёте: в 80% случаев деньги забирают у другого бюджета. Темпы с 2020 по 2025 год составили 18% в год против 12% у рекламы в целом; до 2030 года ждут около 12% против 6%. Это оценка консультантов, а не данные платформ; первоисточник-отчёт целиком не открывался.",
+      "why": "Для цифровых команд это свежая цифра, на которую можно ссылаться при разговоре о бюджетах: почти половина денег идёт не в самих креаторов, а в усиление их контента рекламой, и растёт доля, где бренд платит именно за контент.",
+      "country": "Мир",
+      "status": "Отчёт пересказан 19.11.2026",
+      "event_key": "madison-and-wall-creator-spend-116b-forecast-global-2026-11-19",
+      "date_iso": "2026-11-19",
+      "first_published_at": "2026-11-19",
+      "date_precision": "day",
+      "selected_because": "Новая оценка рынка креаторов с разбивкой по типам трат; в журнале не было. Найдена позже окна, дата сохранена. Первоисточник — отраслевое издание, первым пересказавшее отчёт; сам отчёт закрыт.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.tubefilter.com/2026/11/19/marketers-will-spend-116b-on-creators-in-2026-theyre-cannibalizing-other-budgets-to-do-it/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Tubefilter: Marketers will spend $116B on creators in 2026",
+          "url": "https://www.tubefilter.com/2026/11/19/marketers-will-spend-116b-on-creators-in-2026-theyre-cannibalizing-other-budgets-to-do-it/",
+          "primary": true,
+          "evidence": "+15% in 2026 to $116 billion globally, up from $101 billion in 2025"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261124-13",
+      "issue": "i2026-11-24",
+      "order": 13,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143373+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-7e835d87347fbcfd1442.svg",
+        "source_url": "",
+        "alt": "Маркетологи потратят на креаторов $116 млрд в 2026 году, и бюджет берут у ТВ и performance",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.871127+03:00"
+      }
+    },
+    {
+      "title": "Love & Drama on the Joy Express",
+      "headline": "Superdrug запустил шестисерийную рождественскую микродраму в Reels и TikTok",
+      "cover_word": "Роман в поезде",
+      "dek": "Две серии в неделю, товары внутри сюжета и кнопка «купи историю»: старт 23 ноября в 17:00.",
+      "what": "Британская сеть Superdrug 23 ноября в 17:00 выпустила первую серию шестисерийной рождественской микродрамы «Love & Drama on the Joy Express» в Instagram Reels и TikTok. Ритейлер называет это первым подобным форматом в британской рознице красоты и здоровья. Новые серии выходят по две в неделю.",
+      "mechanics": "Действие идёт в поезде, оформленном как Superdrug и развозящем подарки перед Рождеством. Дирижёр Джой и новый контролёр Гарри начинают роман, но выясняется, что кто-то на борту хочет пустить состав под откос. Продукты показаны внутри сюжета, а материалы «Shop the story» ведут к подаркам и ароматам из кадра. Между сериями идут опросы аудитории, ответы персонажей на вопросы и съёмки за кадром. В магазинах историю продолжают анимации и портреты героев на экранах ретейл-медиа. Создала сериал The River Group; режиссёр Джо Рэнсон, сценарист Роб Батлер (Hollyoaks, EastEnders). Снимали три дня, в команде больше 50 человек, вагон, ванную и кабину машиниста построили в студии. В ролях Чарли Марлоу, Атех Джуэл и Идрис Вирго из Love Island. Директор по клиентскому опыту и маркетингу Хелен Флаксман говорит, что формат позволяет «естественно вплести открытие красоты в историю». Результатов пока нет, названия и описания отдельных серий источники не приводят.",
+      "why": "Пример брендового сериала, где сюжет, покупка и магазин работают как одна цепочка: зритель из серии идёт к товару, а в магазине снова встречает героев. Показ порциями по две серии в неделю держит кампанию в ленте весь предрождественский сезон.",
+      "country": "Великобритания",
+      "status": "Идёт: первая серия 23.11.2026, всего шесть",
+      "event_key": "superdrug-joy-express-christmas-microdrama-reels-tiktok-uk-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Новый запуск за сегодня с проверяемой механикой (серийность, товары в сюжете, продолжение в магазине); в журнале не освещался. Сочетание брендового сериала и вертикального формата.",
+      "image_url": "https://365retail.co.uk/wp-content/uploads/2026/11/superdrug-christmas-microdrama-series-1.jpg",
+      "image_credit": "Superdrug / 365 Retail",
+      "image_page": "https://365retail.co.uk/superdrug-christmas-microdrama-series/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Retail Times: Superdrug launches microdrama series",
+          "url": "https://retailtimes.co.uk/superdrug-launches-microdrama-series/",
+          "primary": true,
+          "evidence": "first for UK health and beauty retail"
+        },
+        {
+          "label": "365 Retail",
+          "url": "https://365retail.co.uk/superdrug-christmas-microdrama-series/",
+          "primary": false,
+          "evidence": "gives us scope to bring beauty discovery into the story naturally"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261124-14",
+      "issue": "i2026-11-24",
+      "order": 14,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143598+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/e84cb0f2f358c2bf2659.jpg",
+        "source_url": "https://365retail.co.uk/wp-content/uploads/2026/11/superdrug-christmas-microdrama-series-1.jpg",
+        "alt": "Superdrug запустил шестисерийную рождественскую микродраму в Reels и TikTok",
+        "credit": "Superdrug / 365 Retail",
+        "link": "https://365retail.co.uk/superdrug-christmas-microdrama-series/",
+        "caption": "Superdrug / 365 Retail",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.871627+03:00"
+      }
+    },
+    {
+      "title": "«Чижик»: Покупки по-умному",
+      "headline": "«Чижик» собрал Федункив, Бабичей и героев «СашаТани» и считает не цены, а целую корзину",
+      "cover_word": "Новый год по корзине",
+      "dek": "Два ролика Mosaic сравнивают стоимость набора для стола и килограмма салата.",
+      "what": "Сеть дискаунтеров «Чижик» (X5) 23 ноября представила новогоднюю кампанию из двух роликов. Снялись актриса Марина Федункив, блогеры Артур и Аня Бабичи и герои сериала «СашаТаня», с которыми сеть делала весеннюю кампанию.",
+      "mechanics": "Вместо сравнения цен на отдельные товары ролики показывают стоимость всей корзины: набора для праздничного стола или ингредиентов на килограмм новогоднего салата. Идея: нехватка денег на праздник и сокращение переплат, платформа называется «Покупки по-умному!». Основа медиамикса — телевидение и диджитал, дополнительно соцсети и интеграции с инфлюенсерами. Агентство Mosaic, продакшн Mosaic Production, режиссёр и оператор Марат Адельшин, креативный директор Вил Гарамов. Заказчик со стороны сети — директор по маркетингу Александра Калюкина. Видео в материале не приложено, результатов нет.",
+      "why": "Бренд продолжает линию сериальных героев из весенней кампании и меняет угол сравнения: считает не отдельный товар, а общую сумму на праздничный стол. Для команд, работающих с брендами, это пример, как узнаваемые персонажи переносятся из сериала в рекламу.",
+      "country": "Россия",
+      "status": "Кампания запущена 23.11.2026",
+      "event_key": "chizhik-mosaic-pokupki-po-umnomu-new-year-two-spots-russia-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Свежий российский креатив за сегодня с понятным приёмом (корзина вместо цены) и героями собственного ситкома; в журнале не было.",
+      "image_url": "https://adindex.ru/assets/news/2026_11/351459_main.JPG?ts=1795424332",
+      "image_credit": "AdIndex / «Чижик»",
+      "image_page": "https://adindex.ru/news/creative/2026/11/23/351459.phtml",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "AdIndex: «Чижик» собрал Федункив, Бабичей и героев «СашаТани»",
+          "url": "https://adindex.ru/news/creative/2026/11/23/351459.phtml",
+          "primary": true,
+          "evidence": "Покупки по-умному!"
+        }
+      ],
+      "rubric": "branded",
+      "direction_only": false,
+      "id": "n261124-15",
+      "issue": "i2026-11-24",
+      "order": 15,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143651+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/f15f0dd65273a3f58fee.jpg",
+        "source_url": "https://adindex.ru/assets/news/2026_11/351459_main.JPG?ts=1795424332",
+        "alt": "«Чижик» собрал Федункив, Бабичей и героев «СашаТани» и считает не цены, а целую корзину",
+        "credit": "AdIndex / «Чижик»",
+        "link": "https://adindex.ru/news/creative/2026/11/23/351459.phtml",
+        "caption": "AdIndex / «Чижик»",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.871692+03:00"
+      }
+    },
+    {
+      "title": "Тільки сіла",
+      "headline": "Київстар ТБ показал трейлер первого вертикального оригинала про женщину без минуты покоя",
+      "cover_word": "Ну, тільки сіла",
+      "dek": "Римма Зюбина играет героиню, которой каждый раз мешают присесть; премьера в январе.",
+      "what": "Київстар ТБ выпустил трейлер «Тільки сіла», первого оригинального сериала платформы в вертикальном формате. Сообщение вышло 23 ноября, съёмки начались в сентябре. Премьера обещана в январе только на самой платформе, точная дата, число серий и хронометраж не названы.",
+      "mechanics": "Сатирическая бытовая комедия о женщине, которая не может найти несколько минут для себя. Каждая ситуация начинается с фразы «Ну, тільки сіла»: это повторяющийся зачин серий. Главную роль играет Римма Зюбина. Режиссёр и автор идеи Аліна Рудя, фотограф с большим опытом съёмки соцсетевого контента, предложила рассказать цельную историю именно в вертикальном кадре. Действие, по описанию, начинается с первых секунд. Продюсер: 2Brave Productions при поддержке Украинского культурного фонда, оператор Богдан Гайдаш. Смотреть можно не только на смартфоне, но и на Smart TV, приставках и в вебе.",
+      "why": "Телеком-платформа переносит вертикаль из соцсетей в собственное приложение и в экран телевизора, а в основу кладёт простой повторяемый зачин, удобный для серийности. Результатов пока нет: это трейлер, не премьера.",
+      "country": "Украина",
+      "status": "Трейлер 23.11.2026, премьера в январе 2027, дата не объявлена",
+      "event_key": "kyivstar-tb-tilky-sila-vertical-original-trailer-ukraine-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Трейлер вышел сегодня, в журнале проекта не было. Год в тексте 24tv.ua не указан, но съёмки подтверждены сентябрьским релизом 2026 года.",
+      "image_url": "https://storage.liga.net/images/general/2026/09/29/20260929104725-9032.jpg",
+      "image_credit": "Київстар ТБ / liga.net",
+      "image_page": "https://life.liga.net/leisure/press-release/kyivstar-tb-znimaie-pershyy-original-u-vertykalnomu-formati-tilky-sila",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Київстар ТБ: пресс-релиз о первом вертикальном оригинале (liga.net)",
+          "url": "https://life.liga.net/leisure/press-release/kyivstar-tb-znimaie-pershyy-original-u-vertykalnomu-formati-tilky-sila",
+          "primary": true,
+          "evidence": "перший Original у вертикальному форматі"
+        },
+        {
+          "label": "24tv.ua: трейлер",
+          "url": "https://24tv.ua/ru/tolko-chto-vyshel-trejler-seriala-kievstar-tv-s-rimmoj-zjubinoj_n3213088",
+          "primary": false,
+          "evidence": "премьера в январе эксклюзивно на Kyivstar TV"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261124-16",
+      "issue": "i2026-11-24",
+      "order": 16,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143704+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/e533040dcb1b89804557.jpg",
+        "source_url": "https://storage.liga.net/images/general/2026/09/29/20260929104725-9032.jpg",
+        "alt": "Київстар ТБ показал трейлер первого вертикального оригинала про женщину без минуты покоя",
+        "credit": "Київстар ТБ / liga.net",
+        "link": "https://life.liga.net/leisure/press-release/kyivstar-tb-znimaie-pershyy-original-u-vertykalnomu-formati-tilky-sila",
+        "caption": "Київстар ТБ / liga.net",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.871752+03:00"
+      }
+    },
+    {
+      "title": "EiLiN",
+      "headline": "Немецкая платформа EiLiN стартует 30 ноября без монет и с оплатой по секундам просмотра",
+      "cover_word": "Вертикаль без монет",
+      "dek": "Сезон целиком по пассу или подписка; лицензиарам обещано 50% выручки.",
+      "what": "Vertical Minds готовит запуск EiLiN, мобильной платформы премиальных сериалов в формате 9:16. Старт назначен на 30 ноября 2026 года, сообщение редакции от 16 ноября.",
+      "mechanics": "В отличие от приложений с внутренней валютой, EiLiN не использует монеты и не берёт плату за каждую серию. Зритель покупает сезон целиком по Staffel-Pass или оформляет подписку на каталог, неделя, месяц или год. Лицензиарам обещана половина выручки, расчёт идёт по секундам реального просмотра. Для производства называют 40–80 минут материала из пяти-восьми съёмочных дней. Зритель взаимодействует с картинкой большим пальцем, без второго экрана. В «Creators Lounge» авторы показывают проекты на этапе разработки, а аудитория влияет на них; платформа называет это «User-influenced Content». Среди первых проектов: микродрама «YES!» (60 серий по 1–2 минуты), в которую встроены шампанское Taittinger и украшения Glambou, снятая за пять дней. Брендам продают вертикальные нарезки для их соцсетей. Ограничение: условия описаны самой платформой, независимых результатов нет.",
+      "why": "Это попытка продавать вертикальные сериалы по европейской модели «сезон или подписка», а не через монеты. Любопытна и экономика лицензий с оплатой за секунды.",
+      "country": "Германия",
+      "status": "Запуск запланирован на 30.11.2026",
+      "event_key": "eilin-vertical-minds-platform-launch-germany-2026-11-30",
+      "date_iso": "2026-11-16",
+      "first_published_at": "2026-11-16",
+      "date_precision": "day",
+      "selected_because": "До старта неделя, платформа ещё не освещалась. Находка поздняя (16.11), дата сохранена.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.casting-network.de/cn-klappe/vertical-entertainment-eilin-die-zukunft-ist-hochkant-5c818e6a1755d185",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Casting Network: EiLiN, будущее вертикально",
+          "url": "https://www.casting-network.de/cn-klappe/vertical-entertainment-eilin-die-zukunft-ist-hochkant-5c818e6a1755d185",
+          "primary": true,
+          "evidence": "Keine Münzen, keine Bezahlung pro Folge."
+        },
+        {
+          "label": "Marketingscout: микродрама «YES!» с брендами в сюжете",
+          "url": "https://www.marketingscout.com/news/vertical-drama-yes-integriert-marken-und-influencer-in-smartphone-serie/",
+          "primary": false,
+          "evidence": "Taittinger und Glambou sind Teil der Handlung"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261124-17",
+      "issue": "i2026-11-24",
+      "order": 17,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143752+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-3f6fee4294e0f38772cc.svg",
+        "source_url": "",
+        "alt": "Немецкая платформа EiLiN стартует 30 ноября без монет и с оплатой по секундам просмотра",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.871938+03:00"
+      }
+    },
+    {
+      "title": "We Are MICE",
+      "headline": "Laura Geller оплатила шесть серий мокьюментари: бренды играют клиентов вымышленного агентства",
+      "cover_word": "Бренды как клиенты",
+      "dek": "Серии по 60–90 секунд собрали 1,3 млн просмотров в Instagram и 11 тысяч взаимодействий.",
+      "what": "Laura Geller Beauty спонсировала шесть эпизодов вертикального мокьюментари «We Are MICE», который с 26 октября выходит в Instagram и TikTok. Кейс описан Digiday в материале о брендах, которые заказывают у креаторов сериалы вместо разовых постов. Точная дата публикации Digiday на открытой странице не видна.",
+      "mechanics": "Сериал о вымышленном агентстве по организации мероприятий. Бренды-спонсоры играют самих себя, как клиенты агентства, и сюжет строится вокруг подготовки их событий, а не стандартной интеграции в кадр. Героиню Мэгги, менеджера команды, играет креатор Дженевьев Тёрли. Производство Rooscreen, разработка вместе с DASH Talent. Серии идут по 60–90 секунд. Задумано, что в каждом следующем проекте будут новый бренд, событие и исполнитель, чья аудитория подходит бренду. К моменту выхода материала у сериала около 1,3 млн просмотров в Instagram и 11 тысяч взаимодействий. В том же тексте Anthropologie заказала у креатора Пуджи Трипатхи комедию «The Holiday Party», 90 секунд на серию, 11–19 ноября, в которой бренд отвечает за стиль и декор.",
+      "why": "Это модель, где сериал существует как постоянный носитель для разных спонсоров, а не одноразовая реклама. Результат пока скромный и измеряется просмотрами, продаж в источнике нет.",
+      "country": "США",
+      "status": "Идёт с 26.10.2026, шесть эпизодов",
+      "event_key": "laura-geller-we-are-mice-brand-funded-vertical-mockumentary-us-2026-10-26",
+      "date_iso": "2026-10-26",
+      "first_published_at": "2026-10-26",
+      "date_precision": "day",
+      "selected_because": "Кейс с цифрами и необычной моделью спонсорства, в журнале не освещался. Дата 26.10 это старт выпуска, дата материала Digiday не подтверждена.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Digiday: почему бренды заказывают у креаторов шоу вместо постов",
+          "url": "https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/",
+          "primary": true,
+          "evidence": "about 1.3 million Instagram views and 11,000 interactions"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261124-18",
+      "issue": "i2026-11-24",
+      "order": 18,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.143963+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-d16a322856b0a9bfee4e.svg",
+        "source_url": "",
+        "alt": "Laura Geller оплатила шесть серий мокьюментари: бренды играют клиентов вымышленного агентства",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.871987+03:00"
+      }
+    },
+    {
+      "title": "Schloss Einstein: два вертикальных приквела",
+      "headline": "KiKA снимает для молодёжи два вертикальных приквела «Schloss Einstein» по десять минут",
+      "cover_word": "Приквел для телефона",
+      "dek": "Два сериала по десять серий по минуте выйдут весной 2027 года на YouTube, kika.de, Instagram и TikTok.",
+      "what": "Детский канал KiKA сообщил 5 ноября о двух вертикальных драмах по мотивам сериала «Schloss Einstein»: «Overload» и «No Secrets?». Снимали их в октябре в Эрфурте, выход весной 2027 года.",
+      "mechanics": "Каждый проект состоит из десяти серий по одной минуте. Они служат приквелами к 30-му сезону основного сериала. Сценарий и режиссура у Софии Хайн и Мирко Мухсхоффа, продюсер Ивонн Абеле. «Overload» это дедрамеди о дружеском треугольнике: Анук сближается со старым другом Тони, а его лучшая подруга Яра чувствует себя вытесненной. «No Secrets?» рассказывает о друзьях Лиззи и Леви, у которой есть тайна. Распространение идёт на YouTube-канале KiKA, на kika.de и в аккаунтах сериала в Instagram и TikTok. Редактор Коринна Шир говорит, что формат нужен, чтобы привлечь молодых зрителей, которые раньше сериал не смотрели.",
+      "why": "Это пример того, как телевизионный франшизный бренд использует вертикаль как вход для новой аудитории, не меняя основной сериал. Результатов нет, выход ещё не состоялся.",
+      "country": "Германия",
+      "status": "Съёмки завершены в октябре 2026, выход весной 2027",
+      "event_key": "kika-schloss-einstein-two-vertical-dramas-announcement-germany-2026-11-05",
+      "date_iso": "2026-11-05",
+      "first_published_at": "2026-11-05",
+      "date_precision": "day",
+      "selected_because": "Анонс от 5 ноября, в журнале не было; вертикальный сериал от общественного вещателя для привлечения новой аудитории.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.wochenblatt-reporter.de/c-ratgeber/schloss-einstein-zwei-vertical-dramas-starten-2027_a920567",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Wochenblatt-Reporter: Schloss Einstein, два вертикальных драмы стартуют в 2027",
+          "url": "https://www.wochenblatt-reporter.de/c-ratgeber/schloss-einstein-zwei-vertical-dramas-starten-2027_a920567",
+          "primary": true,
+          "evidence": "zehn einminütigen Folgen"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261124-19",
+      "issue": "i2026-11-24",
+      "order": 19,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.144296+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-9c28784da0e1f84b0139.svg",
+        "source_url": "",
+        "alt": "KiKA снимает для молодёжи два вертикальных приквела «Schloss Einstein» по десять минут",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872029+03:00"
+      }
+    },
+    {
+      "title": "Суспільне Біатлон",
+      "headline": "Суспільне Спорт запускает YouTube-канал «Суспільне Біатлон» к старту Кубка мира 26 ноября",
+      "cover_word": "Биатлон на отдельном канале",
+      "dek": "Прямые гонки, просмотр в записи и эксклюзивные форматы сезона; анонсы сначала в Telegram.",
+      "what": "Спортивная редакция украинского общественного вещателя «Суспільне» открывает отдельный YouTube-канал «Суспільне Біатлон» перед началом биатлонного сезона. Сообщение вышло 21 ноября 2026 года. Первый этап Кубка мира в финском Контиолахти стартует 26 ноября: в этот день мужская индивидуалка на 20 км, 27 ноября женская на 15 км, 28 и 29 ноября эстафеты и спринты (время и расписание приведены по пересказам СМИ, источники расходятся на пять минут).",
+      "mechanics": "На канале идут прямые трансляции гонок параллельно с показом на платформе «Суспільне Спорт» и местных каналах вещателя. Все гонки Кубка мира можно посмотреть целиком в любое время, архивные старты добавляют постепенно. В сезоне обещаны несколько эксклюзивных форматов о зимних видах спорта и выступлениях украинских спортсменов; названий и дат пока нет. Анонсы и новости выходят сначала в Telegram-канале «Суспільне Біатлон». Глава спортивной редакции Олексій Мандзій объяснил, что канал нужен для удобного просмотра всех стартов, в том числе во время отключений электричества. Одно из изданий пишет, что в эфир пойдут все гонки, а официальная формулировка осторожнее — «отдельные гонки» в прямом эфире. Это остаётся неясным до первого этапа.",
+      "why": "Общественный вещатель выделяет один вид спорта в самостоятельный канал со своей лентой, архивом и анонсами в мессенджере, то есть строит вокруг сезона отдельное медиа, а не просто ещё одну трансляцию. Решение подано как ответ на реальные условия аудитории: просмотр в записи при перебоях со светом.",
+      "country": "Украина",
+      "status": "Канал объявлен 21.11.2026; старт сезона 26.11.2026",
+      "event_key": "suspilne-sport-suspilne-biatlon-youtube-channel-launch-ukraine-2026-11-21",
+      "date_iso": "2026-11-21",
+      "first_published_at": "2026-11-21",
+      "date_precision": "day",
+      "selected_because": "Новый запуск, ранее не освещался; ближайший старт 26 ноября делает его актуальным сегодня. Сообщение датировано 21.11, вне окна, дата сохранена. Официальная страница «Суспільне» вернула 403, поэтому первичным отмечена открытая публикация отраслевого издания «Детектор медіа», пересказывающая релиз с цитатой Мандзія.",
+      "image_url": "https://stv.detector.media/doc/images/news/9573/ArticleImage_9573.webp",
+      "image_credit": "Суспільне / Детектор медіа",
+      "image_page": "https://stv.detector.media/spilnota/read/9573/2026-11-21-suspilne-sport-zapuskaie-yutub-kanal-suspilne-biatlon/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Детектор медіа: «Суспільне Спорт» запускає ютуб-канал «Суспільне Біатлон»",
+          "url": "https://stv.detector.media/spilnota/read/9573/2026-11-21-suspilne-sport-zapuskaie-yutub-kanal-suspilne-biatlon/",
+          "primary": true,
+          "evidence": "Окремий біатлонний ютуб-канал — це ще одна можливість для зручного перегляду всіх біатлонних стартів"
+        },
+        {
+          "label": "Корпоративный сайт «Суспільне» (по результатам поиска; страница не открылась, 403)",
+          "url": "https://corp.suspilne.media/novyny/75317-suspilne-zapuskaye-novu-platformu-dlya-vbolivalnykiv-yutub-kanal-suspilne-biatlon/",
+          "primary": false,
+          "evidence": "Суспільне запускає нову платформу для вболівальників — ютуб-канал Суспільне Біатлон"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261124-20",
+      "issue": "i2026-11-24",
+      "order": 20,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.144535+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/54a2ceec1882d45d7615.webp",
+        "source_url": "https://stv.detector.media/doc/images/news/9573/ArticleImage_9573.webp",
+        "alt": "Суспільне Спорт запускает YouTube-канал «Суспільне Біатлон» к старту Кубка мира 26 ноября",
+        "credit": "Суспільне / Детектор медіа",
+        "link": "https://stv.detector.media/spilnota/read/9573/2026-11-21-suspilne-sport-zapuskaie-yutub-kanal-suspilne-biatlon/",
+        "caption": "Суспільне / Детектор медіа",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872094+03:00"
+      }
+    },
+    {
+      "title": "100th Macy's Thanksgiving Day Parade",
+      "headline": "Парад Macy's к 100-летию соберёт 100 надувных героев и пустит зрителей в «держатели»",
+      "cover_word": "Парад на сотню шаров",
+      "dek": "26 ноября в Нью-Йорке: рекордные 100 надувных элементов, 11 тысяч участников и роль почётного держателя шара для зрителей.",
+      "what": "Macy's готовит юбилейный, сотый парад в День благодарения 26 ноября. Релиз опубликован 13 ноября. В шествии рекордные 100 надувных элементов, среди новых Bluey, Hello Kitty Big Apple, Underdog и баллоникл от Levi's. Маршрут 2,5 мили от Верхнего Вест-Сайда до Геральд-сквер.",
+      "mechanics": "Шары и платформы вручную делают более 50 мастеров Macy's Studios; в параде заняты свыше 11 тысяч участников и волонтёров, включая сводный оркестр со школьниками из всех 50 штатов. Зритель включён в постановку: при надувании шаров и утром в праздник UPS даёт публике стать «почётными держателями», с карточкой, набором и подарком на Геральд-сквер. Новые платформы: Hogwarts Holiday (HBO), Road Trip to Parade (GEICO), Dashing All the Way (DoorDash), Mr. Peanut Power Plant и платформа Macy's All-Stars с героями прошлых лет. Вернутся шары по эскизам Тима Бёртона, Кита Харинга, Джеффа Кунса и Яёи Кусамы. Эфир 8:30–12:00 во всех часовых поясах на NBC и Telemundo, стрим на Peacock; на канале SAP идёт живое аудиоописание. Бродвейские номера в релизе названы позже; о десятиминутном медли девяти мюзиклов известно из другой новости журнала.",
+      "why": "Массовое зрелище, где бренды оплачивают собственные платформы, а зритель получает роль на маршруте, а не только место на тротуаре. Юбилей удвоил масштаб до круглой цифры.",
+      "country": "США",
+      "status": "Парад 26.11.2026, релиз 13.11.2026",
+      "event_key": "macys-100th-thanksgiving-parade-100-inflatables-spectator-handlers-us-2026-11-26",
+      "date_iso": "2026-11-13",
+      "first_published_at": "2026-11-13",
+      "date_precision": "day",
+      "selected_because": "До парада три дня, в журнале была только отдельная новость о бродвейском медли. Здесь новая сторона: рекордные 100 шаров и участие зрителей. Дата релиза сохранена, 13.11.",
+      "image_url": "https://s202.q4cdn.com/285121676/files/doc_news/2026/Nov/11/100th-Macy-s-Thanksgiving-Day-Parade-poster-art_page-0001.jpg",
+      "image_credit": "Macy's, Inc.",
+      "image_page": "https://www.macysinc.com/newsroom/news/news-details/2026/The-100th-Macys-Thanksgiving-Day-Parade-Brings-Holiday-Magic-to-Life-Through-a-Celebration-of-Culture-and-Creativity/default.aspx",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Macy's, Inc.: пресс-релиз о 100-м параде",
+          "url": "https://www.macysinc.com/newsroom/news/news-details/2026/The-100th-Macys-Thanksgiving-Day-Parade-Brings-Holiday-Magic-to-Life-Through-a-Celebration-of-Culture-and-Creativity/default.aspx",
+          "primary": true,
+          "evidence": "record-breaking 100 inflatable elements"
+        },
+        {
+          "label": "NBC Insider: всё о параде 2026",
+          "url": "https://www.nbc.com/nbc-insider/2026-macys-thanksgiving-day-parade-everything-to-know",
+          "primary": false,
+          "evidence": "в результатах поиска; страницу не открывал"
+        }
+      ],
+      "rubric": "event",
+      "direction_only": false,
+      "id": "n261124-21",
+      "issue": "i2026-11-24",
+      "order": 21,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.144608+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/fdbaa2abaf5c34e5c1f5.jpg",
+        "source_url": "https://s202.q4cdn.com/285121676/files/doc_news/2026/Nov/11/100th-Macy-s-Thanksgiving-Day-Parade-poster-art_page-0001.jpg",
+        "alt": "Парад Macy's к 100-летию соберёт 100 надувных героев и пустит зрителей в «держатели»",
+        "credit": "Macy's, Inc.",
+        "link": "https://www.macysinc.com/newsroom/news/news-details/2026/The-100th-Macys-Thanksgiving-Day-Parade-Brings-Holiday-Magic-to-Life-Through-a-Celebration-of-Culture-and-Creativity/default.aspx",
+        "caption": "Macy's, Inc.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872145+03:00"
+      }
+    },
+    {
+      "title": "Fake it : Mythos de Noël",
+      "headline": "france.tv снимает вертикальный адвент: 24 серии о девушке, которая изображает лыжный отпуск на диване",
+      "cover_word": "Фейковый шале дома",
+      "dek": "Slash и france.tv выпускают по серии в день с 1 декабря: героиня Ава выдаёт свою гостиную за горное шале.",
+      "what": "France Télévisions и Slash запускают вертикальный рождественский ромком «Fake it : Mythos de Noël». Съёмки начались 6 октября, выход с 1 декабря на france.tv и в соцсетях Slash. Анонс датирован октябрём, поэтому до старта осталась неделя.",
+      "mechanics": "Серий 24, примерно по три минуты (по пересказу serie-news; в релизе франкотв эти данные открылись не полностью), по одной в день до Рождества, как адвент-календарь. Героиню бросили за «слишком сильные» чувства; Ава ведёт в соцсетях идеальную версию себя на лыжах, хотя сидит дома со сломанной ногой. Чтобы поддержать ложь, она договаривается с ненавистным соседом Элиасом, который превращает гостиную в «горное шале». Роли: Aude Canaud, Terence Telle, Maxime Rocheman, Inès Melab. Режиссёр Camille Landru, авторы Coline Dussaut и Suzanne Hébert, продюсер Astrée Production при поддержке молодёжной редакции France Télévisions. Герои разыгрывают «ложь для соцсетей» на самой платформе соцсетей. Результатов пока нет.",
+      "why": "Государственный вещатель использует календарный повод как расписание: одна серия в день создаёт ежедневную привычку заходить, а сюжет о фальшивой ленте снимается для тех самых лент.",
+      "country": "Франция",
+      "status": "Съёмки с 06.10.2026, выход с 01.12.2026",
+      "event_key": "francetv-slash-fake-it-mythos-de-noel-vertical-advent-france-2026-12-01",
+      "date_iso": "2026-10-08",
+      "first_published_at": "2026-10-08",
+      "date_precision": "day",
+      "selected_because": "Старт через неделю, в журнале были другие проекты Slash, но не этот адвент. Дата анонса 08.10 взята из заголовка пересказа, в релизе франкотв дата не указана.",
+      "image_url": "https://www.francetvpro.fr/sites/default/files/styles/crop_cdp_list/public/telechargements/images/KV_16-9-v2.png.webp?h=6f89a57d&itok=6eY6frGJ",
+      "image_credit": "France Télévisions / Slash",
+      "image_page": "https://www.francetvpro.fr/contenu-de-presse/78880543",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "francetv pro: пресс-материалы Slash",
+          "url": "https://www.francetvpro.fr/contenu-de-presse/slash",
+          "primary": true,
+          "evidence": "la nouvelle série verticale de france.tv"
+        },
+        {
+          "label": "Serie-News: Fake it : Mythos de Noël",
+          "url": "https://www.serie-news.com/france-tv/55461-fake-it-mythos-de-noel-la-serie-verticale-de-noel-de-france-tv-et-slash-08-10-2026/",
+          "primary": false,
+          "evidence": "24 épisodes, un par jour jusqu'à Noël"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261124-22",
+      "issue": "i2026-11-24",
+      "order": 22,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.144802+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/1ad28d7b968814de36dc.webp",
+        "source_url": "https://www.francetvpro.fr/sites/default/files/styles/crop_cdp_list/public/telechargements/images/KV_16-9-v2.png.webp?h=6f89a57d&itok=6eY6frGJ",
+        "alt": "france.tv снимает вертикальный адвент: 24 серии о девушке, которая изображает лыжный отпуск на диване",
+        "credit": "France Télévisions / Slash",
+        "link": "https://www.francetvpro.fr/contenu-de-presse/78880543",
+        "caption": "France Télévisions / Slash",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872192+03:00"
+      }
+    },
+    {
+      "title": "Bogotá Improvisa",
+      "headline": "Canal Capital снимает «Bogotá Improvisa»: актёры и импровизаторы играют по народным поговоркам",
+      "cover_word": "Импровизация на улицах Боготы",
+      "dek": "Премьера 26 ноября в 19:00, повтор по воскресеньям; каждый выпуск строится вокруг одной поговорки.",
+      "what": "Колумбийский общественный канал Canal Capital и компания Improvisual запускают реалити «Bogotá Improvisa». Сообщение вышло 23 ноября 2026 года. Премьера в четверг 26 ноября в 19:00, повтор по воскресеньям в то же время; выпуски доступны также на сайте канала и цифровых платформах. Продюсеры называют это первой попыткой перенести на колумбийское ТВ формат сценической импровизации.",
+      "mechanics": "В шоу участвуют актёры и комики (Рафаэль Сеа, Аида Босса, Диана Анхель, Бьясини Сегура, Чабе Ривера, Камило Пардо «Эль Маго») и четверо профессиональных импровизаторов. Каждый выпуск вдохновлён известной боготской поговоркой, например «el que menos corre, vuela», и вокруг неё выстроена тема. Сначала участники проходят испытания на изобретательность, выживание и адаптацию в узнаваемых местах города: рынок Палокемао, Монсеррате, Эль-Рестрепо, велодорога Сиклавия, парк Симона Боливара, блошиный рынок в Усакене. Затем в арене идут сюжетные игры, ментальные задачи и неожиданные ситуации. Ведущие и режиссёры: Давид Монкада и Виктор Таразона, Монкада сопровождает со-режиссёр Мария Пауля Франки. Правила подсчёта очков, выбывания и приза в тексте не раскрыты, поэтому судить о соревновательной части рано.",
+      "why": "Это редкий случай, когда общественный канал строит шоу не на звёздах, а на городском фольклоре: поговорка задаёт тему, локации и тон выпуска. Для разработчиков форматов интересна связка уличных заданий с игровой «ареной»; для рынка важен локальный первоисточник без глобальной франшизы. Границы известного: нет данных о призе и системе голосования.",
+      "country": "Колумбия",
+      "status": "Премьера 26.11.2026, Canal Capital",
+      "event_key": "canal-capital-improvisual-bogota-improvisa-format-premiere-colombia-2026-11-26",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Новый локальный формат из Латинской Америки с чёткой механикой (поговорка как тема выпуска, городские испытания плюс арена); в журнале не было; премьера через три дня. Первоисточник — публикация La Nota Positiva с описанием проекта; официальная страница канала не проверялась.",
+      "image_url": "https://lanotapositiva.com/wp-content/uploads/2026/11/Bogot%C3%A1-improvisa.jpg",
+      "image_credit": "Фото: Suministrada (материалы Canal Capital / Improvisual), La Nota Positiva. Размер и качество файла не проверялись.",
+      "image_page": "https://lanotapositiva.com/actualidad/actores-y-comediantes-se-enfrentaran-a-retos-inesperados-en-un-nuevo-reality-bogotano_96158",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "La Nota Positiva: новый реалити в Боготе",
+          "url": "https://lanotapositiva.com/actualidad/actores-y-comediantes-se-enfrentaran-a-retos-inesperados-en-un-nuevo-reality-bogotano_96158",
+          "primary": true,
+          "evidence": "Se estrenará el jueves 26 de noviembre a las 7:00 p.m."
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261124-23",
+      "issue": "i2026-11-24",
+      "order": 23,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.144850+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/3b857ecba1a4c9d0c36c.jpg",
+        "source_url": "https://lanotapositiva.com/wp-content/uploads/2026/11/Bogot%C3%A1-improvisa.jpg",
+        "alt": "Canal Capital снимает «Bogotá Improvisa»: актёры и импровизаторы играют по народным поговоркам",
+        "credit": "Фото: Suministrada (материалы Canal Capital / Improvisual), La Nota Positiva. Размер и качество файла не проверялись.",
+        "link": "https://lanotapositiva.com/actualidad/actores-y-comediantes-se-enfrentaran-a-retos-inesperados-en-un-nuevo-reality-bogotano_96158",
+        "caption": "Фото: Suministrada (материалы Canal Capital / Improvisual), La Nota Positiva. Размер и качество файла не проверялись.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872236+03:00"
+      }
+    },
+    {
+      "title": "Aryna's Arena: Unfiltered",
+      "headline": "Арина Соболенко уводит докуреалити о себе на свой YouTube-канал и снимает его командой «Паркс Анноун»",
+      "cover_word": "Спортсменка как студия",
+      "dek": "UltraBoom Media делает сериал о теннисистке: весна 2027, без стриминга, на её собственном канале.",
+      "what": "На мероприятии YouTube Creator Premieres 17 ноября 2026 года теннисистка Арина Соболенко анонсировала докуреалити «Aryna's Arena: Unfiltered». Премьера весной 2027 года на её собственном YouTube-канале. По пересказу, она выбрала YouTube после того, как рассматривала документальный фильм для Netflix (это утверждение издание приводит со слов анонса, самой Соболенко в открытом тексте мы не слышали).",
+      "mechanics": "Сериал продолжает и расширяет её прежнюю YouTube-серию «Aryna's Arena». Камера следит за ней на корте и вне его: контракт с Gucci и колье за $250 тысяч, которое она сама проектирует; подготовка к свадьбе при 300 с лишним днях в разъездах в году; поездка домой в Беларусь между турнирами Большого шлема. Производит UltraBoom Media, авторы проекта OFF DAY; команду ведут продюсеры и креативщики «Anthony Bourdain: Parts Unknown». Число серий, хронометраж и точная дата не названы. На том же показе объявлена девятая серия «Somebody Feed Phil» на канале Фила Розенталя, открывает сезон Греция (остров Сифнос), выход тоже весной 2027; Розенталь делает шоу с Lucky Bastards и Banijay.",
+      "why": "Спортсмен выпускает профессионально снятое шоу у себя на канале, не отдавая права платформе. Для спортивных и цифровых команд это пример модели: аудитория и канал у героя, производство у студии с телевизионным бэкграундом. Условий финансирования и разделения выручки в источнике нет.",
+      "country": "США / Беларусь",
+      "status": "Анонс 17.11.2026, премьера весной 2027, дата не объявлена",
+      "event_key": "youtube-creator-premieres-sabalenka-arynas-arena-unfiltered-docureality-us-2026-11-17",
+      "date_iso": "2026-11-17",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Поздно найденная часть слейта Creator Premieres: журнал освещал только шоу Уэсли Вана. Здесь отдельный предмет: звезда спорта строит студийное шоу на собственном канале. Событие 17.11 вне окна, дата сохранена; публикация Tubefilter датирована 18.11 по ленте, URL указывает 17.11.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.tubefilter.com/2026/11/17/youtube-creator-premieres-2026-new-series/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Tubefilter: YouTube Creator Premieres 2026",
+          "url": "https://www.tubefilter.com/2026/11/17/youtube-creator-premieres-2026-new-series/",
+          "primary": true,
+          "evidence": "UltraBoom Media, the creators of OFF DAY; premiere Spring 2027"
+        },
+        {
+          "label": "The Creator Set: итоги слейта",
+          "url": "https://creatorset.substack.com/p/the-new-streaming-battles",
+          "primary": false,
+          "evidence": "Aryna's Arena: Unfiltered; she chose YouTube after exploring a Netflix documentary"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261124-24",
+      "issue": "i2026-11-24",
+      "order": 24,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.144894+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-46ab04395e53689fa77e.svg",
+        "source_url": "",
+        "alt": "Арина Соболенко уводит докуреалити о себе на свой YouTube-канал и снимает его командой «Паркс Анноун»",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872283+03:00"
+      }
+    },
+    {
+      "title": "The Trials of Karen Read",
+      "headline": "Netflix построил док о Карен Рид на её же голосе: она отказалась от интервью",
+      "cover_word": "Голос без участия героини",
+      "dek": "Три серии вышли 23 ноября; в них части аудиозаписи 2023 года, которые раньше не публиковали.",
+      "what": "Netflix 23 ноября выпустил трёхсерийный документальный сериал «The Trials of Karen Read» о деле Карен Рид, обвинённой в убийстве бостонского полицейского Джона О'Кифа. Режиссёр Даниэль Джонсон Каттс, продюсер Sandpaper Films. Серии целиком доступны на платформе.",
+      "mechanics": "Сама Рид отказалась участвовать. Режиссёр говорит, что хотела бы видеть её в фильме, но авторы решили использовать её собственные слова: прежние записи и интервью, а также часть аудио интервью 2023 года репортёру журнала Boston, которая, по данным Netflix, не публиковалась. Вокруг этого голоса собраны свидетели: семья О'Кифа (брат Пол, племянница Кейли), люди, бывшие в доме в ту ночь (Джен Маккейб, Брайан, Крис и Колин Альберты, Брайан Хиггинс), бывший сотрудник полиции штата Майкл Проктор, участники движения «Free Karen Read», журналисты и двое присяжных второго процесса. Добавлены кадры нательных камер полиции. Три серии идут около 2 часов 25 минут; первая, 47 минут, называется «A Broken Taillight». Источники расходятся в указании режиссёра: часть изданий называет вторым автором Роба Миллера, Netflix называет только Каттс.",
+      "why": "Способ рассказа без героини: её присутствие создают архивные записи, а противоположные лагеря получают равное место. Показательный приём для докусериалов о громких судебных делах.",
+      "country": "США",
+      "status": "Вышел 23.11.2026 на Netflix",
+      "event_key": "netflix-trials-of-karen-read-docuseries-release-us-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Сегодняшняя премьера; в журнале не было. Интересен приём работы с героиней, отказавшейся от интервью. Обложка не взята: на кадре реальная героиня дела.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://www.netflix.com/tudum/articles/karen-read-john-okeefe-doc-series-news",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Netflix Tudum: Karen Read doc series",
+          "url": "https://www.netflix.com/tudum/articles/karen-read-john-okeefe-doc-series-news",
+          "primary": true,
+          "evidence": "I would've loved to have had Karen in the film"
+        },
+        {
+          "label": "Netflix News (FR): расписание недели",
+          "url": "https://www.netflix-news.com/articles/programmes/nouveautes/1634573-netflix-toutes-les-nouveautes-films-et-series-du-23-novembre-au-29-novembre-2026-23-11-2026/",
+          "primary": false,
+          "evidence": "images d'archives inédites"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261124-25",
+      "issue": "i2026-11-24",
+      "order": 25,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.145102+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-3288e2404e1f05ebefaf.svg",
+        "source_url": "",
+        "alt": "Netflix построил док о Карен Рид на её же голосе: она отказалась от интервью",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872342+03:00"
+      }
+    },
+    {
+      "title": "Godzilla -0.0: 500 дней",
+      "headline": "Prime Video 27 ноября покажет 500 дней съёмок «Годзиллы -0.0», где актёр спорит с режиссёром о дублях",
+      "cover_word": "Съёмки как кружок",
+      "dek": "Документалка о Такаси Ямадзаки и студии Shirogumi выйдет эксклюзивно на Prime Video.",
+      "what": "Prime Video анонсировал Prime Original «Полная съёмка: Ямадзаки Такаси, после того как удивил мир» о создании фильма «Годзилла -0.0». Выход 27 ноября эксклюзивно на платформе, для подписчиков Prime без доплаты. Анонс вышел 13 ноября; поводом для карточки служит близкая дата выхода.",
+      "mechanics": "Команда наблюдала за производством около 500 дней. В кадре съёмочные площадки с Рюноскэ Камики и Минами Хамабэ, новый участник Мин Танака обсуждает с режиссёром дубли, и студия Shirogumi, где Ямадзаки сам делает визуальные эффекты: сцены давления дедлайна и желания превзойти предыдущий фильм. Режиссёр говорит, что всё выглядело «как школьный кружок». Режиссёр документального фильма в источнике назван только по фамилии Таня, полного имени нет.",
+      "why": "Документальное making-of как самостоятельный продукт, привязанный к франшизе: доступ к рабочему процессу и пост-продакшну, а не промо-ролик. Вышедшая картина здесь известна по описанию, оценить честность формата рано.",
+      "country": "Япония",
+      "status": "Анонс 13.11.2026, выход 27.11.2026 на Prime Video",
+      "event_key": "prime-video-godzilla-minus-zero-500-days-documentary-japan-2026-11-27",
+      "date_iso": "2026-11-13",
+      "first_published_at": "2026-11-13",
+      "date_precision": "day",
+      "selected_because": "Найден позже окна, дата анонса сохранена; интересен через четыре дня до выхода. Японский рынок и доступ к производству.",
+      "image_url": "https://img.cinematoday.jp/a/5fE-YW2Kvi6m/_size_640x/_v_1794472675/main.jpg",
+      "image_credit": "(C) 2026 TOHO / Cinema Today. Главное фото статьи, только 640 px по ширине, содержимое кадра не проверял. Официальный кеяарт лежит на natalie.mu/eiga/news/697745, но страница отдала 403.",
+      "image_page": "https://www.cinematoday.jp/news/N0157943",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Cinema Today: Prime Video, 500 дней Godzilla -0.0",
+          "url": "https://www.cinematoday.jp/news/N0157943",
+          "primary": true,
+          "evidence": "11月27日（金）からPrime Videoで独占配信"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261124-26",
+      "issue": "i2026-11-24",
+      "order": 26,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.145775+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/157a7320cc2b3830346d.jpg",
+        "source_url": "https://img.cinematoday.jp/a/5fE-YW2Kvi6m/_size_640x/_v_1794472675/main.jpg",
+        "alt": "Prime Video 27 ноября покажет 500 дней съёмок «Годзиллы -0.0», где актёр спорит с режиссёром о дублях",
+        "credit": "(C) 2026 TOHO / Cinema Today. Главное фото статьи, только 640 px по ширине, содержимое кадра не проверял. Официальный кеяарт лежит на natalie.mu/eiga/news/697745, но страница отдала 403.",
+        "link": "https://www.cinematoday.jp/news/N0157943",
+        "caption": "(C) 2026 TOHO / Cinema Today. Главное фото статьи, только 640 px по ширине, содержимое кадра не проверял. Официальный кеяарт лежит на natalie.mu/eiga/news/697745, но страница отдала 403.",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872384+03:00"
+      }
+    },
+    {
+      "title": "WatchNRL и WatchAFL на DAZN",
+      "headline": "DAZN забрал у Foxtel стриминг NRL и AFL: 200 рынков, все матчи сезона 2027",
+      "cover_word": "Австралийский спорт на DAZN",
+      "dek": "WatchNRL и WatchAFL с 18 ноября работают внутри DAZN; подписчики переезжают без доплаты.",
+      "what": "18 ноября DAZN объявила, что международные стриминговые сервисы WatchNRL (регбилиг Австралии и Новой Зеландии) и WatchAFL (австралийский футбол) теперь работают внутри платформы DAZN. Раньше их вёл Foxtel Group, который DAZN купила в апреле 2025 года.",
+      "mechanics": "Обе лиги доступны на 200 рынках. В WatchNRL войдут все матчи сезона 2027 вместе с предсезонкой, финалами, женской лигой NRLW и State of Origin, плюс избранная классика и программы FOX League. Сезон откроется 27 февраля в Лас-Вегасе матчами Мельбурн Сторм против Уэстс Тайгерс и Парраматта против Голд-Кост. В WatchAFL пойдут все матчи Toyota AFL Premiership 2027, женская AFLW, AFL Origin и программы FOX FOOTY. Старт сезона в середине марта. Картинку обеспечивает технология DAZN и производство FOX SPORTS. Действующие подписчики не платят больше и получили письма с настройкой аккаунта, цены для новых клиентов в релизах не названы. Права в Австралии остаются у Foxtel Group. Отдельных оригинальных шоу релизы не называют. В портфеле DAZN теперь также FIFA+, NFL Game Pass, NHL.TV, Courtside 1891 и Rally TV.",
+      "why": "Платформа собирает нишевые национальные лиги в единую витрину и использует австралийское производство как готовый поставщик. Это пример того, как права и аудитория лиги переезжают вместе с оператором.",
+      "country": "Великобритания / Австралия",
+      "status": "Запущено 18.11.2026, сезоны стартуют в феврале и марте 2027",
+      "event_key": "dazn-watchnrl-watchafl-integration-global-2026-11-18",
+      "date_iso": "2026-11-18",
+      "first_published_at": "2026-11-18",
+      "date_precision": "day",
+      "selected_because": "Не освещалось в журнале. Найдено позже окна, дата сохранена 18.11. Платформенное событие вокруг прав и дистрибуции спорта.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://dazngroup.com/press-room/watchnrl-is-now-live-on-dazn/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "DAZN: WatchNRL теперь на DAZN",
+          "url": "https://dazngroup.com/press-room/watchnrl-is-now-live-on-dazn/",
+          "primary": true,
+          "evidence": "Every live match of the 2027 NRL Telstra Premiership"
+        },
+        {
+          "label": "DAZN: WatchAFL запущен на DAZN",
+          "url": "https://dazngroup.com/press-room/watchafl-launches-on-dazn/",
+          "primary": true,
+          "evidence": "the official international streaming home of the AFL"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261124-27",
+      "issue": "i2026-11-24",
+      "order": 27,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.145826+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-ae06acb0b2b8b3db3ef4.svg",
+        "source_url": "",
+        "alt": "DAZN забрал у Foxtel стриминг NRL и AFL: 200 рынков, все матчи сезона 2027",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872428+03:00"
+      }
+    },
+    {
+      "title": "Nación Deportes",
+      "headline": "Fox Sports Мексики исчез после 30 лет: Grupo Lauman запустил четыре канала Nación Deportes",
+      "cover_word": "Fox Sports стал Nación",
+      "dek": "Лицензия на бренд истекла 10 ноября; 11 ноября те же сигналы вышли под новым именем с баскетболом, лучадорами и AEW.",
+      "what": "11 ноября в мексиканском платном ТВ вместо Fox Sports México появились четыре канала Nación Deportes: Nación Deportes, 2, 3 и Premium, круглосуточно. Их запустил Grupo Lauman после окончания лицензии на бренд Fox, которая действовала до 10 ноября 2026 года.",
+      "mechanics": "Каналы идут по тем же сигналам, что и Fox Sports. Сетка: баскетбол (LNBP, женская LNBP, Liga Endesa, квалификация ЧМ FIBA 2027), лучадорская борьба CMLL, AEW Dynamite и Collision, бои Lux Fight League и Legacy Fight League, автоспорт и экстрим (Carrera Panamericana, Monster Jam). Premium показывает события без рекламы, платные поединки AEW и CMLL, а также программы Steelers Insider и Cardenales: Destino CDMX 2026. Смотреть можно в Totalplay, Star TV, izzi и SKY. Предыстория: Fox Sports México продали Lauman после слияния Disney и Fox, в 2024 году Fox Corporation оспаривала сделку, а сама вернулась в страну через купленный Caliente TV и канал FOX. Lauman позиционирует бренд как «на 100% мексиканский». Цен и состава ведущих источники не называют.",
+      "why": "Редкий случай, когда спортивный канал меняет имя из-за конца лицензии и тут же перестраивает сетку на нишевые права: борьба, баскетбол, автоспорт. Конкуренция идёт уже не за футбол, а за зрителя шоу-спорта.",
+      "country": "Мексика",
+      "status": "Запущено 11.11.2026",
+      "event_key": "grupo-lauman-nacion-deportes-launch-mexico-2026-11-11",
+      "date_iso": "2026-11-11",
+      "first_published_at": "2026-11-11",
+      "date_precision": "day",
+      "selected_because": "Не освещалось в журнале. Найдено позже окна, дата 11.11 сохранена. Локальный первоисточник из Латинской Америки; официальный релиз Lauman не открывался, поэтому primary отмечен отраслевой Expansión.",
+      "image_url": "https://cdn-3.expansion.mx/dims4/default/584f6ec/2147483647/strip/true/crop/1200x628+0+0/resize/1200x628!/format/webp/quality/70/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff8%2F33%2Fd9d4516e4740ac9f61aaa81ba5bc%2Ffox-sports-nacion-deportes.jpg",
+      "image_credit": "Expansión / Grupo Lauman (размер 1200×628, содержимое кадра не проверял)",
+      "image_page": "https://expansion.mx/tendencias/2026/11/11/fox-sports-desaparece-y-da-paso-a-nacion-deportes",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Expansión: Fox Sports desaparece y da paso a Nación Deportes",
+          "url": "https://expansion.mx/tendencias/2026/11/11/fox-sports-desaparece-y-da-paso-a-nacion-deportes",
+          "primary": true,
+          "evidence": "Nación Deportes debuts on November 11, replacing Fox Sports México"
+        },
+        {
+          "label": "Milenio: Nación Deportes debuta en la televisión mexicana",
+          "url": "https://www.milenio.com/deportes/nacion-deportes-debuta-en-la-television-mexicana-donde-se-podra-ver",
+          "primary": false,
+          "evidence": "cuatro señales, programación 24 horas"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261124-28",
+      "issue": "i2026-11-24",
+      "order": 28,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.146625+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/d49a823912a1ed4c8358.webp",
+        "source_url": "https://cdn-3.expansion.mx/dims4/default/584f6ec/2147483647/strip/true/crop/1200x628+0+0/resize/1200x628!/format/webp/quality/70/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff8%2F33%2Fd9d4516e4740ac9f61aaa81ba5bc%2Ffox-sports-nacion-deportes.jpg",
+        "alt": "Fox Sports Мексики исчез после 30 лет: Grupo Lauman запустил четыре канала Nación Deportes",
+        "credit": "Expansión / Grupo Lauman (размер 1200×628, содержимое кадра не проверял)",
+        "link": "https://expansion.mx/tendencias/2026/11/11/fox-sports-desaparece-y-da-paso-a-nacion-deportes",
+        "caption": "Expansión / Grupo Lauman (размер 1200×628, содержимое кадра не проверял)",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872474+03:00"
+      }
+    },
+    {
+      "title": "The Pivot Sports",
+      "headline": "Райан Кларк добавил второй еженедельный выпуск The Pivot Sports и продлил договор с NFL Films",
+      "cover_word": "Pivot выходит дважды",
+      "dek": "Пятничный выпуск с интервью в студии и новыми соведущими дополнит понедельничный разбор.",
+      "what": "Продакшн Райана Кларка Pivot25 расширил спортивное шоу The Pivot Sports: теперь оно выходит по понедельникам и пятницам. Awful Announcing сообщил об этом 17 ноября. Одновременно Pivot25 на несколько лет продлила партнёрство с NFL Films по студийным шоу.",
+      "mechanics": "Понедельничный выпуск остаётся разбором прошедших игр, пятничный станет предварительным: больше интервью в студии и новые постоянные соведущие. Шоу создавали, чтобы дать подписчикам YouTube-канала The Pivot новый контент после того, как основной подкаст заключил лицензионную сделку с Netflix. Соведущие подкаста Фред Тейлор и Чэннинг Краудер участвуют в проекте. Партнёрство с NFL Films выросло из прежней работы Кларка и исполнительного продюсера Алисии Зубиковски с подразделением лиги. Шоу также освещало WNBA и студенческий футбол и со временем может выйти за пределы NFL. Детали дистрибуции нового выпуска и имена соведущих издание не называет.",
+      "why": "Бывший игрок строит собственную студию вокруг подкаста и лицензионных отношений с лигой: аудитория на YouTube, дополнительный контент для неё и заказы от NFL Films. Это пример того, как спортивный автор превращается в продакшн.",
+      "country": "США",
+      "status": "Идёт: второй выпуск добавлен, сообщение 17.11.2026",
+      "event_key": "pivot25-pivot-sports-second-weekly-episode-nfl-films-us-2026-11-17",
+      "date_iso": "2026-11-17",
+      "first_published_at": "2026-11-17",
+      "date_precision": "day",
+      "selected_because": "Не освещалось в журнале. Найдено позже окна, дата сохранена. Расширение существующего шоу, не новый запуск, поэтому карточка компактна.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "https://awfulannouncing.com/podcasts/pivot-sports-ryan-clark-second-weekly-episode-partnership-nfl-films.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Awful Announcing: The Pivot Sports adds a second weekly episode",
+          "url": "https://awfulannouncing.com/podcasts/pivot-sports-ryan-clark-second-weekly-episode-partnership-nfl-films.html",
+          "primary": true,
+          "evidence": "extends partnership with NFL Films"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": true,
+      "id": "n261124-29",
+      "issue": "i2026-11-24",
+      "order": 29,
+      "lead": false,
+      "discovered_at": "2026-11-23T21:26:24.146821+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-22dac17701e880f12a05.svg",
+        "source_url": "",
+        "alt": "Райан Кларк добавил второй еженедельный выпуск The Pivot Sports и продлил договор с NFL Films",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872513+03:00"
+      }
+    },
+    {
+      "title": "Macy Gray выпустит альбом внутри микродрамы ReelShort",
+      "headline": "Мэйси Грей выпустит новый альбом внутри вертикального сериала ReelShort",
+      "cover_word": "Альбом внутри сериала",
+      "dek": "ReelShort снимает микродраму The Trouble With the Truth: Грей сыграет в ней сама, а песни с будущего альбома станут частью сюжета.",
+      "what": "Платформа вертикальных сериалов ReelShort через Sunflower Studio снимет микродраму The Trouble With the Truth со певицей Мэйси Грей в главной роли. Платформа называет проект первым в своём роде: новый альбом выходит не после сериала и не рядом с ним, а внутри него. Это первый альбом Грей почти за десять лет, предыдущий, Ruby, вышел в 2018 году.",
+      "mechanics": "Песни с альбома вплетают в оригинальную драматическую историю, а альбом носит то же название, что и сериал. Кастинг остальных ролей идёт, съёмки планируются на январь 2027 года, выход музыки Грей нацеливает на первый квартал 2027. Глава Sunflower Studio Фиона Ли говорит, что у вертикальной драмы много потенциала за пределами традиционного рассказа. Число серий и формат релиза в материале не названы, как и то, будут ли песни доступны вне приложения.",
+      "why": "Для вертикальных сериалов это новый тип сделки: музыкальный релиз становится частью сюжета, а не саундтреком к нему. Команде Short media есть что сравнить с брендовыми и звёздными микродрамами, которые мы уже разбирали.",
+      "country": "США",
+      "status": "Анонс: кастинг идёт, съёмки с января 2027",
+      "event_key": "macy-gray-reelshort-trouble-with-the-truth-album-microdrama-us-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23T21:00:00Z",
+      "date_precision": "day",
+      "selected_because": "Эксклюзив Variety от 23.11, свежий и не освещённый ранее; необычный союз музыкального релиза и вертикального сериала.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Variety (копия на Yahoo): Macy Gray / ReelShort",
+          "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/macy-gray-release-next-album-210000693.html",
+          "primary": true,
+          "evidence": "Vertical drama has so much potential beyond traditional storytelling."
+        },
+        {
+          "label": "Variety (оригинал, закрыт paywall)",
+          "url": "https://variety.com/2026/tv/news/macy-gray-microdrama-album-reelshort-1236956213/",
+          "primary": false,
+          "evidence": "Macy Gray to Release Next Album Inside a Microdrama"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261124-30",
+      "issue": "i2026-11-24",
+      "order": 30,
+      "lead": false,
+      "discovered_at": "2026-11-24T07:48:15.872570+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-29d6038fda968b08b0db.svg",
+        "source_url": "",
+        "alt": "Мэйси Грей выпустит новый альбом внутри вертикального сериала ReelShort",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.872932+03:00"
+      }
+    },
+    {
+      "title": "Hispanomedios делает Shark Tank Venezuela",
+      "headline": "В Венесуэле впервые снимут Shark Tank: Hispanomedios купила формат у Sony",
+      "cover_word": "Акулы в Венесуэле",
+      "dek": "Первый сезон выйдет в 2027 году на открытом ТВ, в стриминге и онлайн. Инвесторов и дат пока нет.",
+      "what": "Медиагруппа Hispanomedios объявила, что произведёт первую венесуэльскую версию Shark Tank по лицензии Sony Pictures Television. Съёмки пройдут целиком в стране, сезон запланирован на 2027 год. Показ задуман сразу на открытом телевидении, стриминге и цифровых платформах.",
+      "mechanics": "Hispanomedios сама выступает исполнительным продюсером. Конкурс открыт предпринимателям всех отраслей и регионов. Компания приводит цифры формата: больше 50 стран, 53 локальные версии, свыше $1 млрд, направленного предпринимателям, а версии Мексики, Колумбии и Бразилии набрали более 204 млн часов просмотра. Состав инвесторов, кастинг, условия заявок, партнёры и окна эфира обещаны в ближайшие недели. Глава компании Даниэль Ферре Кубильян говорит, что Венесуэла годами производит предпринимателей изобретательностью.",
+      "why": "Новый рынок для устоявшегося формата и показ сразу по трём каналам. Интересно будет увидеть, кого позовут в «акулы» и как решат вопрос с реальными инвестициями.",
+      "country": "Венесуэла",
+      "status": "Анонс: сезон в 2027 году",
+      "event_key": "hispanomedios-shark-tank-venezuela-sony-license-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23T21:23:20Z",
+      "date_precision": "day",
+      "selected_because": "Новая локальная адаптация международного формата, подтверждённая сообщением PRODU от 23.11 и другими испаноязычными изданиями; ранее не освещалось.",
+      "image_url": "",
+      "image_credit": "Иллюстрация Fresh Juice по мотивам новости",
+      "image_page": "",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PRODU: Hispanomedios producirá Shark Tank Venezuela",
+          "url": "https://www.produ.com/television/noticias/hispanomedios-producira-shark-tank-venezuela/",
+          "primary": true,
+          "evidence": "Venezuela lleva años produciendo emprendedores a punta de ingenio."
+        },
+        {
+          "label": "El Nacional",
+          "url": "https://www.elnacional.com/2026/11/hispanomedios-anuncia-la-produccion-de-shark-tank-venezuela-para-su-estreno-en-2027/",
+          "primary": false,
+          "evidence": "Hispanomedios anuncia la producción de Shark Tank Venezuela"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261124-31",
+      "issue": "i2026-11-24",
+      "order": 31,
+      "lead": false,
+      "discovered_at": "2026-11-24T07:48:15.872973+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/ill-bd3f2cfbc8f81106d5c6.svg",
+        "source_url": "",
+        "alt": "В Венесуэле впервые снимут Shark Tank: Hispanomedios купила формат у Sony",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.873107+03:00"
+      }
+    },
+    {
+      "title": "Deivit & Lisa: взрослая анимация идёт сразу на YouTube",
+      "headline": "Барселонская сатира Deivit & Lisa стартует на YouTube и в Instagram с ИИ-раскруткой Magix",
+      "cover_word": "Анимация сразу онлайн",
+      "dek": "Treze Conzeta Films отдала запуск лондонской Magix: стратегия, дистрибуция и нарезка клипов. Дешевле в десять раз, обещает Magix.",
+      "what": "Взрослая анимационная сатира Deivit & Lisa, действие которой происходит в Барселоне недалёкого будущего, вышла на YouTube и в Instagram. Авторы Алессандро Ди Ренцо и Марио Тарраго высмеивают тиранию моды и соцсетей. Продюсер Treze Conzeta Films привлёк британскую Magix Entertainment.",
+      "mechanics": "Magix отвечает за медиастратегию, дистрибуцию и нарезку клипов на YouTube и в соцсетях. Компания говорит, что сочетает производство и дистрибуцию с помощью ИИ и исследования того, как онлайн-зритель находит и удерживает развлечение. Цитата основателя Джека Пёрси: он применяет корпоративный ИИ и годы исследований. Утверждение, что цифровой запуск независимой IP до десяти раз дешевле традиционного пути, принадлежит самой Magix и не проверено. Число и длина серий в материале не названы.",
+      "why": "Независимое производство отдаёт запуск специализированному дистрибьютору, а не каналу. Для нас это ещё один вариант цифрового релиза и проверка заявок про ИИ-дистрибуцию.",
+      "country": "Испания, Великобритания",
+      "status": "Запуск онлайн начат 23.11",
+      "event_key": "treze-conzeta-deivit-lisa-magix-youtube-rollout-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23T20:39:09Z",
+      "date_precision": "day",
+      "selected_because": "Свежий запуск 23.11 с конкретной моделью дистрибуции; в архиве не встречался.",
+      "image_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/deivit-lisa.jpeg",
+      "image_credit": "C21Media / Treze Conzeta",
+      "image_page": "https://www.c21media.net/news/treze-conzeta-animated-comedy-launching-on-youtube-instagram-via-magix/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Treze Conzeta animated comedy launching on YouTube, Instagram via Magix",
+          "url": "https://www.c21media.net/news/treze-conzeta-animated-comedy-launching-on-youtube-instagram-via-magix/",
+          "primary": true,
+          "evidence": "Magix is applying advanced enterprise AI and years of research into this deployment."
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261124-32",
+      "issue": "i2026-11-24",
+      "order": 32,
+      "lead": false,
+      "discovered_at": "2026-11-24T07:48:15.873146+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/f9aa31fa780a47b61d11.jpg",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/deivit-lisa.jpeg",
+        "alt": "Барселонская сатира Deivit & Lisa стартует на YouTube и в Instagram с ИИ-раскруткой Magix",
+        "credit": "C21Media / Treze Conzeta",
+        "link": "https://www.c21media.net/news/treze-conzeta-animated-comedy-launching-on-youtube-instagram-via-magix/",
+        "caption": "C21Media / Treze Conzeta",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.873150+03:00"
+      }
+    },
+    {
+      "title": "Facebook платит студентам за Reels",
+      "headline": "Facebook открыл Creator Fast Track студентам: от $100 до $3 000 в месяц за Reels",
+      "cover_word": "Деньги студентам",
+      "dek": "Нужно от 1 000 подписчиков, но гарантированные выплаты стартуют с 20 000. Три месяца и доступ к монетизации.",
+      "what": "Meta расширила программу Creator Fast Track на студентов колледжей США. Обновление в официальном посте Meta датировано 13 ноября, отраслевые издания, включая Tubefilter, написали о нём 23 ноября. Базовая программа, запущенная в марте, платит состоявшимся авторам до $3 000 в месяц в течение трёх месяцев за публикацию Reels на Facebook.",
+      "mechanics": "По Tubefilter и NetInfluencer, подать заявку можно с адресом .edu и не меньше чем 1 000 подписчиков в Instagram, TikTok или YouTube. Принятые авторы получают более широкий охват подходящих Reels и сразу доступ к Facebook Content Monetization. Гарантированные бонусы по Meta на три месяца: от 20 000 подписчиков $100–$450, от 100 000 подписчиков $1 000, больше миллиона $3 000 в месяц. То есть студент с 1 000 подписчиков получает охват и монетизацию, но не фиксированную выплату.",
+      "why": "Платформа покупает аудиторию у конкурентов через фиксированные выплаты, теперь молодую. Это ориентир для любых расчётов стоимости креатора.",
+      "country": "США",
+      "status": "Действует с 13.11",
+      "event_key": "facebook-creator-fast-track-college-edition-us-2026-11-13",
+      "date_iso": "2026-11-13",
+      "first_published_at": "2026-11-13T21:30:00Z",
+      "date_precision": "day",
+      "selected_because": "Пересказ вышел 23.11, актуален сегодня как свежая модель оплаты креаторов; реальная дата апдейта сохранена, сам запуск 13.11 вне окна, пропуск отмечен.",
+      "image_url": "https://www.tubefilter.com/wp-content/uploads/2026/11/meta-apps-1920x1131-1-1400x825.jpg",
+      "image_credit": "Getty Images / Tubefilter",
+      "image_page": "https://www.tubefilter.com/2026/11/23/facebook-paying-college-creators-to-post-reels/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Meta: Creator Fast Track (обновление 13 ноября)",
+          "url": "https://about.fb.com/news/2026/03/creator-fast-track-grow-your-audience-earn-money-on-facebook/",
+          "primary": true,
+          "evidence": "Creator Fast Track College Edition is now available for college creators"
+        },
+        {
+          "label": "Tubefilter",
+          "url": "https://www.tubefilter.com/2026/11/23/facebook-paying-college-creators-to-post-reels/",
+          "primary": false,
+          "evidence": "Facebook is paying college creators to post Reels"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261124-33",
+      "issue": "i2026-11-24",
+      "order": 33,
+      "lead": false,
+      "discovered_at": "2026-11-24T07:48:15.873184+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/5dd590ebf9e3fd15dfea.jpg",
+        "source_url": "https://www.tubefilter.com/wp-content/uploads/2026/11/meta-apps-1920x1131-1-1400x825.jpg",
+        "alt": "Facebook открыл Creator Fast Track студентам: от $100 до $3 000 в месяц за Reels",
+        "credit": "Getty Images / Tubefilter",
+        "link": "https://www.tubefilter.com/2026/11/23/facebook-paying-college-creators-to-post-reels/",
+        "caption": "Getty Images / Tubefilter",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.873187+03:00"
+      }
+    },
+    {
+      "title": "Thunderbirds выходит на Roblox",
+      "headline": "ITV Studios везёт Thunderbirds на Roblox: Metavision воссоздаёт Остров Трейси",
+      "cover_word": "Thunderbirds в Roblox",
+      "dek": "Первая игра по сериалу на платформе: спасательные миссии, техника и запуск с острова. Дата выхода пока только «позже в этом году».",
+      "what": "Metavision, подразделение Zoo 55 внутри ITV Studios, разрабатывает для Roblox первую игру по классическому британскому сериалу Thunderbirds. В ней воссоздают Остров Трейси, спасательные машины и пуски.",
+      "mechanics": "Разработкой руководит Каллум Тревитт, исполнительный продюсер Джейми Андерсон, сын создателя сериала Джерри Андерсона. Студия работала с оригинальными материалами, потому что IP принадлежит ITV Studios. Метавижн объявлена как цель соединить «неповторимую ДНК» сериала и технику Roblox. Среди прежних проектов студии на Roblox игры по Hell’s Kitchen и The Great British Bake Off. Точной даты выхода и модели монетизации в источнике нет.",
+      "why": "ITV Studios продолжает превращать каталог в игровые миры. Для нас показательно, что ставка делается на вечные детские бренды.",
+      "country": "Великобритания",
+      "status": "Анонс: запуск позже в 2026 году",
+      "event_key": "itv-studios-metavision-thunderbirds-roblox-uk-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23T21:32:00Z",
+      "date_precision": "day",
+      "selected_because": "Свежий анонс 23.11 о продолжении франшизы на платформе; узкопрофильная история для направления Digital.",
+      "image_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/thunderbirds.png",
+      "image_credit": "C21Media / ITV Studios",
+      "image_page": "https://www.c21media.net/news/thunderbirds-headed-to-roblox-as-itv-studios-extends-classic-childrens-property/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Thunderbirds headed to Roblox",
+          "url": "https://www.c21media.net/news/thunderbirds-headed-to-roblox-as-itv-studios-extends-classic-childrens-property/",
+          "primary": true,
+          "evidence": "unmistakable DNA"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": true,
+      "id": "n261124-34",
+      "issue": "i2026-11-24",
+      "order": 34,
+      "lead": false,
+      "discovered_at": "2026-11-24T07:48:15.873217+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-24/7ce061a4da0d75e5e3c9.png",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/thunderbirds.png",
+        "alt": "ITV Studios везёт Thunderbirds на Roblox: Metavision воссоздаёт Остров Трейси",
+        "credit": "C21Media / ITV Studios",
+        "link": "https://www.c21media.net/news/thunderbirds-headed-to-roblox-as-itv-studios-extends-classic-childrens-property/",
+        "caption": "C21Media / ITV Studios",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-24T07:48:15.873220+03:00"
+      }
+    }
+  ]
+}
