@@ -1,0 +1,2118 @@
+{
+  "issue": {
+    "id": "i2026-11-25",
+    "date": "2026-11-25",
+    "mode": "daily",
+    "chip": "25.11",
+    "count": 38,
+    "lead_id": "n261125-33",
+    "period_start": "2026-11-24T07:45:02.338453+03:00",
+    "period_end": "2026-11-25T07:45:02.304797+03:00",
+    "generated_at": "2026-11-25T07:47:22.330936+03:00",
+    "period_label": "24.11 07:45 — 25.11 07:45",
+    "intro": "",
+    "coverage_note": "Короткий прогон: 6 поисков, открыты 4 первоисточника; прямые каналы Banijay, Channel 4, France TV/Slash, PR TIMES, корейские и индийские платформы, VK Клипы не открывались.\nSky Sports/ESPN/DAZN и российские вещатели за ночь не проверялись отдельно.\ntbivision.com недоступна (failed feed).\nДля NFL: NFL.com и Netflix Tudum найдены поиском, но не открыты; primary — Sports Video Group.\nДля Roblox: пост в X и официальная страница не открывались, primary — Tubefilter; ссылка на победителя DWTS взята из Variety, не открывалась.\nShort media: найдена одна новая карточка при ориентире десять и более; Digital, Branded, Doc, Non-scripted, Scripted новых подтверждённых историй в ночной ленте не дали.\nОбложки: официальных афиш не найдено, нужны иллюстрации Fresh Juice.\nПроверил все четыре карточки: прочитал первоисточники из данных и сделал пять поисковых запросов, ещё раз открыл хвост материала SVG. Принял три карточки. Netflix/NFL: числа и детали (55+ камер, 24 оператора повторов, 12 «кинематографических» камер, PixMob, Sony VENICE, NEP Summit, 108 и около 160 человек) подтверждены SVG. Но две оговорки. «Почти 300» относится к персоналу шоу в перерыве, не ко всей трансляции. А фраза в «why» о риске зимней погоды в Чикаго источниками не подтверждена, её нужно убрать. DWTS: первый эфир вживую во всех часовых поясах США, голосование, Instant Dance и победитель подтверждены релизом ABC от 19 ноября и Variety от 24 ноября. Эфир был 24 ноября. «Задержка три часа» следует из пресс-релиза о повторе в 20:00 PT, но прямо там не названа. Roblox: условия ивента подтверждены Tubefilter от 24 ноября, это единственный открытый источник. Официальный пост Roblox не читал. Пометку про «ссылку на X» нужно убрать, потому что она неверна. Слабое место подборки: ни у одной принятой карточки нет изображения, нужны официальный кадр или иллюстрация Fresh Juice. Short media, Digital, Non-scripted, Doc, Branded, Scripted по этому набору не покрыты, эти рубрики пусты из-за снятой ViX-карточки и ограниченного набора. Это не доказывает отсутствия историй, нужен дополнительный проход.\"}\nФактически подготовлены карточки по рубрикам: {\"scripted\": 2, \"unscripted\": 4, \"doc\": 7, \"digital\": 4, \"branded\": 3, \"short\": 6, \"sport\": 7, \"event\": 5}\nRSS gaps: https://tbivision.com/feed/",
+    "agenda": [],
+    "rubric_counts": {
+      "scripted": 2,
+      "unscripted": 4,
+      "doc": 7,
+      "digital": 4,
+      "branded": 3,
+      "short": 6,
+      "sport": 7,
+      "event": 5
+    },
+    "delivery_note": "Опубликован. Доставка Telegram проверяется отдельно."
+  },
+  "stories": [
+    {
+      "title": "«Сталин» Бортко: сценарий пятнадцать лет ждал съёмок",
+      "headline": "Бортко снял «Сталина» по сценарию, который ждал пятнадцать лет",
+      "cover_word": "Сталин ждал пятнадцать лет",
+      "dek": "Первые серии выйдут на KION 26 ноября, телепремьера на РЕН ТВ 6 декабря.",
+      "what": "Владимир Бортко представил в Москве исторический сериал «Сталин». Действие происходит в 1945 году, после победы. Сталина играет Игорь Миркурбанов, Хрущёва Виктор Сухоруков, Берию Александр Яцко, Молотова Артур Ваха. Светская премьера прошла 23 ноября в кинотеатре «Художественный», первые три серии выйдут на KION 26 ноября, телепремьера на РЕН ТВ 6 декабря.",
+      "mechanics": "По словам Бортко, сценарий писали около пятнадцати лет вместе с историками-консультантами. Они работали со стенограммами и рассекреченными архивами. Режиссёр говорит, что текст не менялся, изменилось отношение к теме, и теперь его можно снять. Задача, по его словам, не оправдывать и не осуждать героя, а показать и объяснить, как было. Миркурбанов рассказал, что работал на «абсолютном доверии» к режиссёру, не смотрел на монитор и не изучал прежних исполнителей: Бортко сказал ему, что у него будет «свой» Сталин. Снимали в Москве, Петербурге, Ленобласти, на Черноморском побережье и в кинопарке «Москино». Для сцен на Ближней даче воссоздали интерьеры с дубовыми панелями, суконными скатертями и массивными телефонами. Оператор Елена Иванова, художники Георгий Мичри и Виталий Сащиков. Производство «Триикс Медиа» вместе с KION.",
+      "why": "Редкий для рынка пример, когда драматургическая основа возраста в полтора десятилетия получила производство. Для команды интересны способ работы с архивами и ставка на одного исполнителя без оглядки на прежние трактовки. Границы известного: число серий источники называют по-разному (четыре или шесть), даты KION подтверждены двумя изданиями.",
+      "country": "Россия",
+      "status": "Премьера на KION 26.11.2026, ТВ 06.12.2026",
+      "event_key": "triix-kion-stalin-bortko-script-fifteen-years-premiere-russia-2026-11-26",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Светская премьера 23 ноября, выход на платформе через два дня; новое событие, в архиве выпусков не освещалось. Дата относится к премьерному показу, сообщения датированы 24 ноября.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "BFM.ru: премьера «Сталина» в «Художественном»",
+          "url": "https://www.bfm.ru/news/624833",
+          "primary": true,
+          "evidence": "Сценарий создавался 15 лет; даты KION 26 ноября и 3 декабря (пересказ материала)"
+        },
+        {
+          "label": "Российская газета: светская премьера",
+          "url": "https://rg.ru/2026/11/24/v-moskve-sostoialas-svetskaia-premera-istoricheskoj-dramy-stalin.html",
+          "primary": false,
+          "evidence": "Телепремьера 6 декабря на РЕН ТВ; сценарий ждал пятнадцать лет"
+        },
+        {
+          "label": "Вести.ru: представили сериал",
+          "url": "https://www.vesti.ru/ns/v-moskve-predstavili-serial-vladimira-bortko-stalin",
+          "primary": false,
+          "evidence": "Для Ближней дачи воссоздали «дубовые панели, суконные скатерти и массивные телефоны»"
+        }
+      ],
+      "rubric": "scripted",
+      "direction_only": false,
+      "id": "n261125-01",
+      "issue": "i2026-11-25",
+      "order": 1,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.109774+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-a7a1c83facc75461594c.svg",
+        "source_url": "",
+        "alt": "Бортко снял «Сталина» по сценарию, который ждал пятнадцать лет",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.323510+03:00"
+      }
+    },
+    {
+      "title": "«Remarried Empress»: газета в реквизите и тайный ход в спальне",
+      "headline": "В «Remarried Empress» даже придворная газета написана как настоящая",
+      "cover_word": "Реквизит читают как текст",
+      "dek": "Disney+ показал, как цвет, портреты и тайный проход выдают характеры героев.",
+      "what": "Disney+ накануне финала корейской драмы «Remarried Empress» раскрыл детали постановки. Девятая и десятая серии выйдут 25 ноября, всего в сериале десять эпизодов. Режиссёр Чо Су Вон, сценаристки Ё Джи На и Хён Чхун Ёль, в ролях Син Мин А, Чу Джи Хун.",
+      "mechanics": "Придворный вестник сделали по образцу настоящих газет: даже короткие реквизитные тексты пересказывают события и героев так, чтобы их было интересно читать. Портреты во дворце рассказывают о прошлом и отношениях персонажей: чтобы показать, что главные герои выросли вместе, сделали детские портреты обоих. Покойного императора в большом коридоре прописали отдельно, чтобы визуально построить корни империи. Пространство Навье решено в красных и жёлтых тонах с резким контрастом света и тени, что передаёт силу и одиночество. Покои Собьеша: синий, зелёный, чёрный, вес власти. В углу его спальни спрятан секретный проход, подчёркивающий двойственность героя. Информацию привели сценаристка Ё Джи На и арт-директор И Тхэ Хун.",
+      "why": "Конкретный приём для драматургов и художников-постановщиков: характеры и отношения закладываются в предметы и цветовую схему, а не только в диалоги. Известно по материалу Disney+, пересказанному изданием. Оценок результата и зрительских цифр в источнике нет.",
+      "country": "Южная Корея",
+      "status": "Финальные серии 25.11.2026 на Disney+",
+      "event_key": "disney-plus-remarried-empress-production-design-reveal-korea-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Материал о производстве вышел в день публикации перед финалом; корейский локальный источник, ранее не освещался.",
+      "image_url": "https://img.etoday.co.kr/pto_db/2026/11/20261124151453_2422935_1200_596.png",
+      "image_credit": "Disney+ / etoday",
+      "image_page": "https://www.etoday.co.kr/news/view/2652258",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Etoday: производственный бэкстейдж «Remarried Empress»",
+          "url": "https://www.etoday.co.kr/news/view/2652258",
+          "primary": true,
+          "evidence": "Disney+ раскрыл детали 24 ноября; 9–10 серии выйдут 25 ноября"
+        },
+        {
+          "label": "Topstarnews: Disney+ раскрыл бэкстейдж",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16284489",
+          "primary": false,
+          "evidence": "Цветовая схема и секретный проход в спальне (по результатам поиска)"
+        }
+      ],
+      "rubric": "scripted",
+      "direction_only": false,
+      "id": "n261125-02",
+      "issue": "i2026-11-25",
+      "order": 2,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.114402+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/892ca2c01439b4683d5b.png",
+        "source_url": "https://img.etoday.co.kr/pto_db/2026/11/20261124151453_2422935_1200_596.png",
+        "alt": "В «Remarried Empress» даже придворная газета написана как настоящая",
+        "credit": "Disney+ / etoday",
+        "link": "https://www.etoday.co.kr/news/view/2652258",
+        "caption": "Disney+ / etoday",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.323747+03:00"
+      }
+    },
+    {
+      "title": "Dogwoof и Tattle TV переделывают true crime доки в вертикаль",
+      "headline": "Dogwoof отдал два true crime дока на вертикальную переделку с ИИ",
+      "cover_word": "Докфильмы в вертикаль",
+      "dek": "Версии покажут сначала на Tattle TV, затем на других платформах.",
+      "what": "Британская платформа вертикальных микродрам Tattle TV и дистрибьютор Dogwoof перепакуют два документальных фильма о преступлениях: «The Family I Had» и «The Fear of 13». Вертикальные версии сделает ИИ-студия EMC Media Labs.",
+      "mechanics": "Версии сначала выйдут на Tattle TV, затем на других цифровых площадках. Показ запланирован на Content London 2 декабря, на панели «Beyond Microdrama». Соосновательница Tattle Марина Элдертон называет потенциал вертикали за пределами игровых микродрам огромным, глава Dogwoof Анна Годас говорит о поиске новых путей к зрителям. Детали монтажа, длина серий и модель монетизации не раскрыты.",
+      "why": "Переход вертикали от скриптованных микродрам к фактуальному контенту и дистрибьютору с каталогом. Известно мало: формат серий и результаты пока неизвестны.",
+      "country": "Великобритания",
+      "status": "Анонс, показ 02.12.2026",
+      "event_key": "tattle-tv-dogwoof-vertical-true-crime-docs-uk-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Свежий анонс, первое сообщение 23 ноября (Realscreen и Deadline, C21 24 ноября).",
+      "image_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/tattle-doc-ls.jpg",
+      "image_credit": "C21Media",
+      "image_page": "https://www.c21media.net/news/tattle-tv-dogwoof-partner-to-adapt-docs-for-vertical-viewing/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Tattle TV, Dogwoof",
+          "url": "https://www.c21media.net/news/tattle-tv-dogwoof-partner-to-adapt-docs-for-vertical-viewing/",
+          "primary": true,
+          "evidence": "AI-assisted studio EMC Media Labs produced the vertical versions"
+        },
+        {
+          "label": "Realscreen",
+          "url": "https://realscreen.com/2026/11/23/dogwoof-teams-with-tattle-tv-for-ai-assisted-vertical-adaptations-of-true-crime-docs/",
+          "primary": false,
+          "evidence": "Dogwoof teams with Tattle TV (по результатам поиска)"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261125-03",
+      "issue": "i2026-11-25",
+      "order": 3,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.114669+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/7c4350959cd88441a7de.jpg",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/tattle-doc-ls.jpg",
+        "alt": "Dogwoof отдал два true crime дока на вертикальную переделку с ИИ",
+        "credit": "C21Media",
+        "link": "https://www.c21media.net/news/tattle-tv-dogwoof-partner-to-adapt-docs-for-vertical-viewing/",
+        "caption": "C21Media",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324058+03:00"
+      }
+    },
+    {
+      "title": "BBC Scotland: «Roast Dinners» для iPlayer и YouTube",
+      "headline": "BBC Scotland заказал шоу, где комики готовят ужин и жарят друг друга",
+      "cover_word": "Ужин с прожаркой",
+      "dek": "Девять выпусков выйдут сначала на iPlayer и YouTube, без эфира.",
+      "what": "BBC Scotland заказал у Tern TV комедийное кулинарное шоу «Roast Dinners». Ведущий Стивен Бьюкенен. Выпуски выйдут на iPlayer и YouTube.",
+      "mechanics": "Три комика готовят каждый по блюду и по ходу ужина «прожаривают» остальных, затем оценивают друг друга за еду и за шутки. Лучшего называют «biggest roaster», проигравший моет посуду. Всего девять выпусков: рождественский и новогодний спецвыпуски, затем семь еженедельных с 10 января (Televisual пишет о десяти). Режиссёр и продюсер Конор Рейли.",
+      "why": "Цифровой формат внутри вещателя: заказ на онлайн, без линейного эфира, как часть стратегии развития местных комиков. Известно только из заметок вещателя и индустрии; рейтингов нет.",
+      "country": "Великобритания",
+      "status": "Заказ, первые выпуски на Рождество 2026",
+      "event_key": "bbc-scotland-tern-tv-roast-dinners-commission-uk-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новый заказ дня, правила формата понятны и конкретны.",
+      "image_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/roast-dinners-bbc.jpg",
+      "image_credit": "C21Media / BBC Scotland",
+      "image_page": "https://www.c21media.net/news/tern-tv-serves-up-comedy-culinary-format-roast-dinners-for-bbc-scotland/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Roast Dinners",
+          "url": "https://www.c21media.net/news/tern-tv-serves-up-comedy-culinary-format-roast-dinners-for-bbc-scotland/",
+          "primary": true,
+          "evidence": "The best roaster earns the title 'biggest roaster', loser does the dishes"
+        },
+        {
+          "label": "Televisual",
+          "url": "https://www.televisual.com/news/bbc-scotland-orders-roast-dinners-from-tern-tv/",
+          "primary": false,
+          "evidence": "Ten parts per Televisual (по результатам поиска)"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261125-04",
+      "issue": "i2026-11-25",
+      "order": 4,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.114973+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/bc6cf7f7f22cc60be31d.jpg",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/roast-dinners-bbc.jpg",
+        "alt": "BBC Scotland заказал шоу, где комики готовят ужин и жарят друг друга",
+        "credit": "C21Media / BBC Scotland",
+        "link": "https://www.c21media.net/news/tern-tv-serves-up-comedy-culinary-format-roast-dinners-for-bbc-scotland/",
+        "caption": "C21Media / BBC Scotland",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324107+03:00"
+      }
+    },
+    {
+      "title": "BBC: Miranda Hart ведёт викторианские салонные игры",
+      "headline": "BBC заказал рождественский спецвыпуск с забытыми салонными играми",
+      "cover_word": "Викторианские игры звёзд",
+      "dek": "Миранда Харт собирает пятерых комиков на старинные игры в усадьбе.",
+      "what": "BBC заказал получасовой рождественский спецвыпуск Celebrity Parlour Games. Ведёт Миранда Харт, судит игры и следит за порядком преподобный Ричард Коулз. Играют Том Аллен, Кэтрин Райан, Гуз Хан, Кэрри Годлиман и Сара Хэдланд. Выйдет на BBC One и iPlayer на Рождество.",
+      "mechanics": "Звёзды в викторианских костюмах в загородной усадьбе играют в давно забытые, часто странные салонные игры. Идея принадлежит Curious Cat, делает Tuesday's Child, исполнительный продюсер Карен Смит. Правила отдельных игр и подсчёт очков в сообщении не раскрыты.",
+      "why": "Компактный праздничный формат строится на одном приёме: комики играют в реальные исторические развлечения под присмотром священника-арбитра. Известно только из заметки C21 о заказе, без видео и описания игр.",
+      "country": "Великобритания",
+      "status": "Заказ, выход на Рождество 2026",
+      "event_key": "bbc-tuesdays-child-celebrity-parlour-games-miranda-hart-christmas-uk-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новый заказ дня, ранее не освещался.",
+      "image_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/celebrity-parlour-games.jpg",
+      "image_credit": "C21Media / BBC",
+      "image_page": "https://www.c21media.net/news/miranda-hart-bbc-play-celebrity-parlour-games-in-christmas-special/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Celebrity Parlour Games",
+          "url": "https://www.c21media.net/news/miranda-hart-bbc-play-celebrity-parlour-games-in-christmas-special/",
+          "primary": true,
+          "evidence": "often-bizarre long-forgotten parlour games, dressed in Victorian attire"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261125-05",
+      "issue": "i2026-11-25",
+      "order": 5,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.115034+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/d355c4d11438c5853b30.jpg",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/celebrity-parlour-games.jpg",
+        "alt": "BBC заказал рождественский спецвыпуск с забытыми салонными играми",
+        "credit": "C21Media / BBC",
+        "link": "https://www.c21media.net/news/miranda-hart-bbc-play-celebrity-parlour-games-in-christmas-special/",
+        "caption": "C21Media / BBC",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324148+03:00"
+      }
+    },
+    {
+      "title": "«Звёзды» 3 сезон: батлы за выход в финал",
+      "headline": "В «Звёздах» на НТВ и VK Видео начинаются батлы команд-победителей",
+      "cover_word": "Звёзды: батлы стартуют",
+      "dek": "28 ноября в 22:00: команды из «Фестиваля» сходятся в парах за место в финале.",
+      "what": "Третий сезон юмористического шоу «Звёзды» переходит к батлам: новые выпуски выйдут 28 ноября в 22:00 на НТВ и в VK Видео. Ведёт Азамат Мусагалиев, производство Medium Quality Production, 16+.",
+      "mechanics": "В батлах сходятся победители «Фестиваля» в командах. Первая пара: «Команда мечты» Ивана Абрамова против «Борцов» Наташи Королёвой и Тарзана. Далее Натан и Анатолий Цой («Астана») против «Парней» Ильи Соболева, «Актёры» Вячеслава Чепурченко против «Регионов» Дениса Дорохова, «Пауки Пустыни» Тимура Родригеза против «Переехавших» Тимати и Дмитрия Журавлёва. Жюри: Гарик Харламов, Юрий Стоянов, Артемий Лебедев и Олеся Иванченко, на батлах к ним присоединяются Валерия, Игорь Верник и Сергей Бурунов.",
+      "why": "Пример российского формата с параллельным выходом на ТВ и платформе. Подробных правил подсчёта, числа выпусков и расписания на VK Видео в источнике нет.",
+      "country": "Россия",
+      "status": "Эфир 28.11.2026",
+      "event_key": "ntv-vk-video-zvezdy-season3-battles-russia-2026-11-28",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Анонс этапа батлов 24 ноября, до выхода четыре дня; не освещался в журнале.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.rabotnikitv.com/2026/11/24/da-nachnjotsja-batl-na-ntv-i-v-vk-video-novye-vypuski-jumoristicheskogo-shou-zvjozdy/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "RabotnikiTV: новые выпуски «Звёзд»",
+          "url": "https://www.rabotnikitv.com/2026/11/24/da-nachnjotsja-batl-na-ntv-i-v-vk-video-novye-vypuski-jumoristicheskogo-shou-zvjozdy/",
+          "primary": true,
+          "evidence": "28 ноября в 22:00 на НТВ и в VK Видео; батлы команд-победителей"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": false,
+      "id": "n261125-06",
+      "issue": "i2026-11-25",
+      "order": 6,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.115417+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-d9bb06bb621b2c0e11b0.svg",
+        "source_url": "",
+        "alt": "В «Звёздах» на НТВ и VK Видео начинаются батлы команд-победителей",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324194+03:00"
+      }
+    },
+    {
+      "title": "«Волчек»: фильм о режиссёре из личных архивов",
+      "headline": "Фильм о Галине Волчек соберут из личных архивов коллег и учеников",
+      "cover_word": "Волчек из личных архивов",
+      "dek": "Премьера 8 декабря на Premier, затем на Первом канале; перед этим серия показов в кинотеатрах.",
+      "what": "Студия «Видеопрокат» Сергея Бондарчука, онлайн-кинотеатр Premier и Первый канал объявили дату документального фильма «Волчек» о худруке «Современника». Режиссёр Ангелина Ашман, автор идеи Сергей Гармаш. Онлайн-премьера 8 декабря на Premier, затем фильм покажет Первый канал; дата эфира не названа.",
+      "mechanics": "Основа фильма: материалы из личных архивов людей, знавших Волчек, часть кадров, по словам авторов, зрители увидят впервые. Рассказ ведут Гармаш, Константин Эрнст, Владимир Машков, Михаил Ефремов, Денис Евстигнеев, Елена Яковлева, Марина Александрова, Татьяна Тарасова, Михаил Прохоров. Это первый за долгое время проект с участием Ефремова. Фильм спорит с привычной историей о женщине, которая всего добилась вопреки обстоятельствам: в центре её роль в «оттепельном театре», работа главным режиссёром «Современника» и постановки в США, включая показанные на Бродвее в 1997 году. Благодарности в титрах адресованы театру, Марине Евсе, Машкову, Гармашу, Жене Кузнецовой и Денису Евстигнееву. Перед онлайн-премьерой пройдут показы: 2 декабря в «Пионере», 4 декабря в «Чтиве» с Гармашем и Ашман, затем в Москве, «Ленфильме» и «Авроре» в Петербурге (7–8 декабря) и «Уссури» во Владивостоке (10 декабря). Возрастной рейтинг 18+. Монтаж Павла Лапшина, шоураннер Алексей Киселев, креативный продюсер Мария Серпионова.",
+      "why": "Для докоманды интересен способ рассказа: биография собирается не из официальной хроники, а из частных коллекций и голосов тех, кто работал рядом, с открытым желанием пересмотреть устоявшийся миф. Заметна и дистрибуция: кинопоказы по городам, потом платформа и ТВ. Границы известного: объём и происхождение архивных материалов, длительность и число серий в источниках не названы; трейлер размещён на Яндекс Диске.",
+      "country": "Россия",
+      "status": "Премьера на Premier 08.12.2026, затем Первый канал",
+      "event_key": "videoprokat-premier-volchek-documentary-private-archives-premiere-russia-2026-12-08",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Объявление даты, трейлера и постера 23 ноября; в архиве выпусков фильма нет. Историю нашли при дневном поиске, поэтому сообщение датировано 23 ноября, за пределами окна 24 ноября.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.rabotnikitv.com/2026/11/23/teatr-menja-peremolol-objavleny-data-vyhoda-trejler-i-poster-dokumentalnogo-filma-volchek/",
+      "video_url": "https://disk.yandex.ru/i/VSH9bto1hDI1tA",
+      "sources": [
+        {
+          "label": "Работники ТВ: дата, трейлер и постер фильма «Волчек» (пресс-материал)",
+          "url": "https://www.rabotnikitv.com/2026/11/23/teatr-menja-peremolol-objavleny-data-vyhoda-trejler-i-poster-dokumentalnogo-filma-volchek/",
+          "primary": true,
+          "evidence": "Создатели собрали материалы из личных архивов знавших Волчек людей; премьера 8 декабря на Premier"
+        },
+        {
+          "label": "Рамблер: выйдет документальный фильм о Галине Волчек",
+          "url": "https://weekend.rambler.ru/filmy/57466788-vyydet-dokumentalnyy-film-o-galine-volchek/",
+          "primary": false,
+          "evidence": "Премьера 8 декабря на Premier; фильм покажет Первый канал"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261125-07",
+      "issue": "i2026-11-25",
+      "order": 7,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.116672+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-dfe1e75afd4b4d9ccf93.svg",
+        "source_url": "",
+        "alt": "Фильм о Галине Волчек соберут из личных архивов коллег и учеников",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": {
+        "label": "Видео проекта",
+        "url": "https://disk.yandex.ru/i/VSH9bto1hDI1tA"
+      },
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324255+03:00"
+      }
+    },
+    {
+      "title": "Netflix и BBC: хаб CBeebies на Netflix",
+      "headline": "BBC отдаёт Netflix 24 детских шоу на полгода и ищет совместные заказы",
+      "cover_word": "CBeebies переезжает на Netflix",
+      "dek": "С 2 декабря на Netflix появится хаб CBeebies, а Netflix профинансирует несколько новых детских заказов.",
+      "what": "BBC и Netflix объявили 24 ноября пробное партнёрство. С 2 декабря на Netflix откроется хаб CBeebies с 24 программами канала, среди них Hey Duggee, Numberblocks и Teletubbies. Хаб заработает в Великобритании, Ирландии, США, Канаде и Австралии. Netflix также обязался профинансировать небольшое число новых заказов CBeebies в Великобритании.",
+      "mechanics": "Это ограниченный шестимесячный тест: по его итогам BBC решит, привёл ли он новую аудиторию. Все шоу хаба остаются и на iPlayer. Подборку собрали из библиотеки канала вручную («curated selection»), а международной дистрибуцией через BBC Studios управляет внутри сделки. Глава детского направления BBC Патрисия Идальго объясняет шаг тем, что привычки просмотра меняются. Вице-президент Netflix по британскому контенту Энн Менса называет CBeebies незаменимым для семей. Что именно закажут вместе, на чьи права и в каком бюджете, не раскрыто: разговоры о финансировании и правах продолжаются. BBC при этом должна сократить расходы на £500 млн к 2028 году, по данным Deadline.",
+      "why": "Вещатель впервые тестирует свой детский бренд внутри главного конкурента и одновременно получает деньги на заказы. Для цифровой дистрибуции это модель «библиотека плюс совместное финансирование». Границы известного: условия сделки и размер вложений не названы, итоги теста станут понятны не раньше лета 2027.",
+      "country": "Великобритания",
+      "status": "Хаб на Netflix с 02.12.2026, пилот на шесть месяцев",
+      "event_key": "netflix-bbc-cbeebies-hub-trial-commissions-uk-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новая сделка дня, ранее не освещалась; значимая дистрибуционная схема вещателя и стримера, подтверждённая страницей Netflix и двумя отраслевыми изданиями.",
+      "image_url": "https://images.ctfassets.net/4cd45et68cgf/63rn3wRP6TANZ59ZgX02bg/c38eadd034b8079b3a806ea048e96410/CBB_AnnouncementStatic_16x9_HQ.png?w=2000",
+      "image_credit": "Netflix / BBC",
+      "image_page": "https://about.netflix.com/en/news/netflix-and-bbc-come-together-to-bring-cbeebies-to-more-families",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "About Netflix: Netflix and BBC bring CBeebies to more families",
+          "url": "https://about.netflix.com/en/news/netflix-and-bbc-come-together-to-bring-cbeebies-to-more-families",
+          "primary": true,
+          "evidence": "Hub launches 2 December; Netflix will fund a small number of new CBeebies commissions"
+        },
+        {
+          "label": "Deadline: BBC To Launch CBeebies Hub On Netflix",
+          "url": "https://deadline.com/2026/11/bbc-launch-cbeebies-hub-netflix-hey-duggee-teletubbies-1237231627/",
+          "primary": false,
+          "evidence": "For six months from December 2, a CBeebies branded hub will launch on the streamer"
+        },
+        {
+          "label": "Variety",
+          "url": "https://variety.com/2026/tv/global/netflix-bbc-deal-preschool-shows-new-commissions-1236956807/",
+          "primary": false,
+          "evidence": "24 programs from the CBeebies library via a dedicated hub from Dec. 2"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261125-08",
+      "issue": "i2026-11-25",
+      "order": 8,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.117591+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/b40100c1ab240df5d95e.png",
+        "source_url": "https://images.ctfassets.net/4cd45et68cgf/63rn3wRP6TANZ59ZgX02bg/c38eadd034b8079b3a806ea048e96410/CBB_AnnouncementStatic_16x9_HQ.png?w=2000",
+        "alt": "BBC отдаёт Netflix 24 детских шоу на полгода и ищет совместные заказы",
+        "credit": "Netflix / BBC",
+        "link": "https://about.netflix.com/en/news/netflix-and-bbc-come-together-to-bring-cbeebies-to-more-families",
+        "caption": "Netflix / BBC",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324311+03:00"
+      }
+    },
+    {
+      "title": "Fin Vs History: видеоподкаст, который считает Spotify лучше ТВ",
+      "headline": "Fin Vs History набрал 66 млн скачиваний и ждёт собственной анимации",
+      "cover_word": "Подкаст вместо телевидения",
+      "dek": "Создатели британского видеоподкаста рассказали, на чём он зарабатывает и почему не идёт на ТВ.",
+      "what": "В эксклюзивном интервью Deadline комики Фин Тейлор и Горацио Гулд объяснили, как их сатирический исторический видеоподкаст Fin Vs History вырос за полтора года. С января 2025 года шоу набрало больше 66 млн скачиваний, а в британском рейтинге видеоподкастов Spotify занимает 12-е место.",
+      "mechanics": "Деньги шоу складываются из трёх источников. Первый — Patreon: почти 60 тысяч платных подписчиков примерно по £3 в месяц, что, по словам Гулда, даёт творческую свободу. Второй — рекламные интеграции: Тейлор говорит, что потеря одного бренда может стоить £10 тысяч. Третий — сеть Podmasters, которая помогает с ростом и монетизацией и в сентябре продлила договор. Производит шоу компания Тейлора Fumblerooski вместе с исполнительным продюсером Питом Уэллсом. Костюмы — важная часть формата: у команды есть собственное ателье, шляпы берут в аренду в Национальном театре. Рост совпал с курсом Spotify на видеоподкасты, и платформа, по словам Тейлора, продвигала шоу как свою историю успеха. Авторы говорят о долгосрочных планах по анимации: писательская группа подошла бы для анимационного ситкома, но темы они берут только когда будут готовы технически. Обсуждается и тревел-спин-офф.",
+      "why": "Показательный пример автора, который строит бизнес на подписке, интеграциях и видеоподкасте, а не на заказе ТВ. Гулд прямо называет видеоподкаст «ТВ сегодня». Границы известного: данных по YouTube в интервью нет, цифры названы самими авторами.",
+      "country": "Великобритания",
+      "status": "Интервью 24.11.2026",
+      "event_key": "fin-vs-history-deadline-interview-spotify-patreon-animation-uk-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новое эксклюзивное интервью дня с конкретной экономикой авторского шоу; в журнале не освещалось.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://deadline.com/2026/11/fin-vs-history-podcast-interview-1237215502/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Deadline (копия интервью на Yahoo; оригинал вернул 402)",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/fin-vs-history-stars-video-093000574.html",
+          "primary": true,
+          "evidence": "Over 66 million downloads since launching in January 2025; nearly 60,000 Patreon subscribers"
+        },
+        {
+          "label": "Deadline: оригинал интервью",
+          "url": "https://deadline.com/2026/11/fin-vs-history-podcast-interview-1237215502/",
+          "primary": false,
+          "evidence": "Why Spotify Beats TV"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": false,
+      "id": "n261125-09",
+      "issue": "i2026-11-25",
+      "order": 9,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.117634+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-b56e8d14a7af6861cabd.svg",
+        "source_url": "",
+        "alt": "Fin Vs History набрал 66 млн скачиваний и ждёт собственной анимации",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324393+03:00"
+      }
+    },
+    {
+      "title": "WinnieWood Talent: менеджмент креаторов вокруг их IP",
+      "headline": "Основатель Gleam Futures вернулся в менеджмент с агентством для креаторов с собственным IP",
+      "cover_word": "Креаторы строят собственный IP",
+      "dek": "Дом Смейлз запустил в Лондоне WinnieWood Talent с небольшим списком клиентов.",
+      "what": "Дом Смейлз, основатель Gleam Futures, запустил в Лондоне WinnieWood Talent. Это его первое возвращение к прямому представлению авторов за пять лет: из Gleam он ушёл в 2021 году.",
+      "mechanics": "Агентство входит в группу WinnieWood, которую Смейлз создал в феврале, чтобы давать креаторам капитал и вкладываться в их проекты. Группа соединяет менеджмент талантов, развлекательное IP, коммерцию, технологии и встроенный капитал. Менеджмент долгосрочный: стратегия, ценообразование, сделки, бренд, лицензирование и операции. Целевой клиент — автор, который хочет строить IP, принадлежащее ему самому. Смейлз считает, что индустрия креаторов повзрослела, а управление ею отстаёт: многие агентства меряют успех охватами, алгоритмами и разовыми рекламными сделками. Клиентов пока не назвали, компания набирает менеджеров.",
+      "why": "Сигнал о смене модели: вместо процента с рекламной интеграции менеджер ставит на права и лицензии на контент автора. Границы известного: состав списка, условия и размер капитала не раскрыты.",
+      "country": "Великобритания",
+      "status": "Запуск 24.11.2026",
+      "event_key": "winniewood-talent-dom-smales-creator-management-launch-uk-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новая компания дня с чёткой тезисной моделью для креаторской экономики.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.c21media.net/news/gleams-dom-smales-returns-to-talent-management-with-winniewood-talent/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Dom Smales returns to talent management with WinnieWood Talent",
+          "url": "https://www.c21media.net/news/gleams-dom-smales-returns-to-talent-management-with-winniewood-talent/",
+          "primary": true,
+          "evidence": "Targets creators who want to build IP they own; small roster of creators"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": true,
+      "id": "n261125-10",
+      "issue": "i2026-11-25",
+      "order": 10,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.117910+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-76ccc2080bf7117d7fc7.svg",
+        "source_url": "",
+        "alt": "Основатель Gleam Futures вернулся в менеджмент с агентством для креаторов с собственным IP",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324468+03:00"
+      }
+    },
+    {
+      "title": "Latium: микросериалы, которые переворачиваются в горизонталь",
+      "headline": "Latium запускает 25 ноября приложение, где вертикальную серию можно повернуть в кино",
+      "cover_word": "Вертикаль, которую можно повернуть",
+      "dek": "Лаура Тейлор и Себастьян Гомес вложили около $1 млн в гибридную платформу из триллеров и микродоков.",
+      "what": "Актриса Лаура Тейлор («Сто лет одиночества» на Netflix) и Себастьян Гомес представили Latium, приложение для App Store и Google Play. Оно доступно с 25 ноября в 64 странах, показ — на Medellín Vertical Week, а основатели выступят 26 ноября.",
+      "mechanics": "Эпизоды идут одну-две минуты, снимаются по кинематографическому стандарту. Главный приём: тот же эпизод можно смотреть вертикально или повернуть телефон и увидеть горизонтальную версию без потери кадра. Вертикаль нужна для клиффхэнгеров, а качество, по словам основателей, должно удерживать зрителя. Каталог на старте: три триллер-микросериала, снятые в Медельине силами Punto 8 Audiovisual, и три микродокумента с журналистом Пирри. Монетизация: недельный план, базовая месячная подписка на вертикальный каталог, премиум с гибридным просмотром и виртуальные монеты для открытия отдельных эпизодов. Вложения оцениваются примерно в $1 млн.",
+      "why": "Редкая для латиноамериканского рынка попытка сделать формат «вертикаль плюс горизонталь» продуктом платформы, а не вторичной версией. Границы известного: охват, результаты и условия сделок с авторами не названы.",
+      "country": "Колумбия",
+      "status": "Запуск 25.11.2026",
+      "event_key": "latium-vertical-horizontal-hybrid-platform-launch-colombia-2026-11-25",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Запуск платформы на следующий день после публикации; локальный источник PRODU, подтверждён вторым материалом о презентации в Медельине.",
+      "image_url": "https://images.produ.com/wp-content/uploads/2026/11/24114122/bigwp-LauraTaylorSebastianGomezLatium.jpg",
+      "image_credit": "PRODU",
+      "image_page": "https://www.produ.com/television/noticias/latium-laura-taylor-sebastian-gomez-microcontenido-vertical-horizontal-series-cine-documental/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PRODU: Latium, плафторма микроконтента",
+          "url": "https://www.produ.com/television/noticias/latium-laura-taylor-sebastian-gomez-microcontenido-vertical-horizontal-series-cine-documental/",
+          "primary": true,
+          "evidence": "si tú giras el celular, lo puedes ver en horizontal"
+        },
+        {
+          "label": "El Extra Medios: презентация в Медельине",
+          "url": "https://elextramedios.com/2026/11/20/gira-tu-pantalla-laura-taylor-lanza-latium-studios-en-medellin-la-revolucion-del-streaming-hibrido-llega-al-medellin-vertical-week/",
+          "primary": false,
+          "evidence": "Las grandes historias también se viven en vertical"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261125-11",
+      "issue": "i2026-11-25",
+      "order": 11,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.118251+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/944f7799a22042816862.jpg",
+        "source_url": "https://images.produ.com/wp-content/uploads/2026/11/24114122/bigwp-LauraTaylorSebastianGomezLatium.jpg",
+        "alt": "Latium запускает 25 ноября приложение, где вертикальную серию можно повернуть в кино",
+        "credit": "PRODU",
+        "link": "https://www.produ.com/television/noticias/latium-laura-taylor-sebastian-gomez-microcontenido-vertical-horizontal-series-cine-documental/",
+        "caption": "PRODU",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324517+03:00"
+      }
+    },
+    {
+      "title": "ゔいこん: реалити для поиска коллабов VTuber",
+      "headline": "viviON ставит на YouTube реалити без сценария, где VTuber ищут напарников",
+      "cover_word": "VTuber ищут напарника",
+      "dek": "Пять эпизодов выйдут с 4 декабря: десять участников знакомятся и выбирают, с кем работать дальше.",
+      "what": "Агентство viviON объявило 24 ноября дату YouTube-шоу «ゔいこん» («Гуикон»). Первый выпуск выйдет 4 декабря, затем 7, 10, 13 и 16 декабря. Ведущие — まざー３ и 神楽めあ.",
+      "mechanics": "Это экспериментальное реалити, снятое одним дублем без сценария и подстроенных ситуаций. Идея: VTuber знакомятся, разговор раскрывает их индивидуальность, и так они находят партнёров для будущих коллабораций. В первоначальном анонсе в июле заявляли четыре эпизода, теперь пресс-релиз называет пять. Участников отбирали по открытому набору. Десять VTuber: 花音めい, 桜樹美彩, 露李板ののの子, 斉唱なごん, 九条林檎, 虚囁, 帛田ヌキ, 酒輪おん, 蒸留院フラスコ и ちょぼぼび. Как именно участники делают выбор и что считается итогом, пресс-релиз не описывает; на этом шаге есть только тизер.",
+      "why": "Формат сам становится рынком знакомств для небольших VTuber-авторов: агентство даёт им площадку, а зритель наблюдает, как возникает пара для совместных эфиров. Граница известного: сами выпуски ещё не вышли, правила выбора не раскрыты.",
+      "country": "Япония",
+      "status": "Премьера 04.12.2026 на YouTube",
+      "event_key": "vivion-vcon-vtuber-collab-search-reality-premiere-japan-2026-12-04",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Сегодня опубликован график и список участников; локальный японский первоисточник, ранее не освещался.",
+      "image_url": "https://prcdn.freetls.fastly.net/release_image/89066/422/89066-422-27d34c91b994f714a51ac47846373430-1200x675.jpg",
+      "image_credit": "viviON",
+      "image_page": "https://prtimes.jp/main/html/rd/p/000000422.000089066.html",
+      "video_url": "https://www.youtube.com/@vcom_info",
+      "sources": [
+        {
+          "label": "PR TIMES: пресс-релиз viviON",
+          "url": "https://prtimes.jp/main/html/rd/p/000000422.000089066.html",
+          "primary": true,
+          "evidence": "Episode 1 on December 4, final episode December 16; single-take, unscripted"
+        },
+        {
+          "label": "viviON: июльский анонс",
+          "url": "https://vivion.jp/news/406",
+          "primary": false,
+          "evidence": "Июль: набор участников, формат (по результатам поиска)"
+        }
+      ],
+      "rubric": "unscripted",
+      "direction_only": true,
+      "id": "n261125-12",
+      "issue": "i2026-11-25",
+      "order": 12,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.118294+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/8d84de0e82d00e75a783.jpg",
+        "source_url": "https://prcdn.freetls.fastly.net/release_image/89066/422/89066-422-27d34c91b994f714a51ac47846373430-1200x675.jpg",
+        "alt": "viviON ставит на YouTube реалити без сценария, где VTuber ищут напарников",
+        "credit": "viviON",
+        "link": "https://prtimes.jp/main/html/rd/p/000000422.000089066.html",
+        "caption": "viviON",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": {
+        "label": "Видео проекта",
+        "url": "https://www.youtube.com/@vcom_info"
+      },
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324793+03:00"
+      }
+    },
+    {
+      "title": "Whatnot и Meta: креаторская торговля к Чёрной пятнице",
+      "headline": "Whatnot отменила комиссию на Чёрную пятницу и позвала MrBeast с Кай Сенатом",
+      "cover_word": "Лайв-шопинг против TikTok",
+      "dek": "Платформа проведёт эксклюзивные шоу с 27 по 30 ноября, а Instagram добавил партнёрские ссылки в Reels.",
+      "what": "Tubefilter описал, как Whatnot и Meta пытаются отобрать у TikTok Shop лидерство в Чёрную пятницу. Whatnot снижает комиссию до самого низкого уровня года: продавцы платят 0%, а малые продавцы платят 0% ещё раз 28 ноября.",
+      "mechanics": "С 27 по 30 ноября на Whatnot пройдут эксклюзивные шоу креаторов: среди ведущих MrBeast, Шей Митчелл, Кай Сенат, Клаудия Оши, Бен Соффер и Дэвид Добрик. Instagram недавно запустил инструмент, который позволяет добавлять партнёрские ссылки Amazon прямо в Reels и посты, а отдельная интеграция ведёт на товары Halara, Lowe's и Shein. Фон: кампания TikTok Shop идёт с 11 по 30 ноября, а американские продажи через лайв там за полгода выросли больше чем вдвое.",
+      "why": "Креаторы становятся главным каналом продаж, а платформы конкурируют ставкой комиссии и эксклюзивными шоу. Границы известного: результатов нет, это анонсы, а цифры по продажам придут после праздничного уикенда.",
+      "country": "США",
+      "status": "Акции 27–30.11.2026",
+      "event_key": "whatnot-meta-black-friday-creator-live-shopping-us-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Актуальный сезонный запуск перед выходными; материал вышел 23 ноября, оформлено как позднее дополнение.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Tubefilter: Whatnot and Meta vs TikTok Shop",
+          "url": "https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/",
+          "primary": true,
+          "evidence": "All sellers pay 0% commission on Black Friday; creators host shows Nov 27 to 30"
+        }
+      ],
+      "rubric": "digital",
+      "direction_only": true,
+      "id": "n261125-13",
+      "issue": "i2026-11-25",
+      "order": 13,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.118348+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-edc18447f939900d3df8.svg",
+        "source_url": "",
+        "alt": "Whatnot отменила комиссию на Чёрную пятницу и позвала MrBeast с Кай Сенатом",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.324839+03:00"
+      }
+    },
+    {
+      "title": "Meiji ZAVAS: сериал о муже, который снова становится интересен жене",
+      "headline": "Meiji выложил четыре серии о муже на прогулках, рассказанные голосом жены",
+      "cover_word": "Сериал про «заново»",
+      "dek": "Автор «Ханзава Наоки» написал для ZAVAS 4 серии по 3 минуты: все вышли разом на YouTube, Instagram и X.",
+      "what": "Meiji 24 ноября в 10:00 по Токио выпустил для протеина ZAVAS Weight Down Fit короткий сериал «Рассказ о том, как я снова влюбляюсь в мужа». Четыре серии по три минуты вышли одновременно на YouTube, в Instagram и X. Главную роль мужа Сюити играет Юскэ Макио из дуэта Kamome Nutaru, жену Юри играет блогерша Аяка Синтани, посетителя их идзакаи играет Кадзуя Ёсиэ из «Святилища». Сценарий написал Томоки Канадзава, автор «Ханзава Наоки» и «Святилища».",
+      "mechanics": "История рассказана внутренним голосом жены. Юри и Сюити держат идзакаю, она давно не разговаривает с мужем, а он отвечает «теперь уже поздно». Однажды утром он начинает ходить с ней на прогулки, и по ходу серий сходятся шаги, разговоры с постоянным гостем и новые цели. Компания прямо говорит, что хотела уйти от объяснения продукта и рассказать «историю перезапуска», а не историю похудения. Снимали полноценной драматической группой три дня: набережная, море и декорация идзакаи, структура близка к настоящему сериалу. Призов, акций и призыва купить в тексте релиза нет, сам продукт появляется как фон.",
+      "why": "Бренд спортивного питания отдаёт сценарий телевизионному автору и выпускает сериал целиком, без недельной раскладки по серии. Для брендовых команд интересен выбор: героем становится не продукт, а отношения пары, а прямая реклама сведена к минимуму. Границы известного: просмотров и результатов пока нет, неясно, будет ли продолжение.",
+      "country": "Япония",
+      "status": "Выпущен 24.11.2026, все 4 серии",
+      "event_key": "meiji-zavas-kanazawa-four-part-short-drama-launch-japan-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новый запуск дня, в архиве не освещался; конкретный творческий приём (голос жены, сценарист из ТВ-драмы, без призыва к покупке).",
+      "image_url": "https://prcdn.freetls.fastly.net/release_image/191662/2/191662-2-47500ecb38e04f1275d854545f769d6d-1926x1084.png",
+      "image_credit": "Meiji / PR TIMES",
+      "image_page": "https://prtimes.jp/main/html/rd/p/000000002.000191662.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PR TIMES: пресс-релиз Meiji",
+          "url": "https://prtimes.jp/main/html/rd/p/000000002.000191662.html",
+          "primary": true,
+          "evidence": "全4話のショートドラマ、11月24日10時にYouTube・Instagram・Xで公開"
+        },
+        {
+          "label": "Owarai Natalie",
+          "url": "https://natalie.mu/owarai/news/699436",
+          "primary": false,
+          "evidence": "かもめんたる槙尾、金沢知樹脚本のショートドラマで主演"
+        }
+      ],
+      "rubric": "branded",
+      "direction_only": false,
+      "id": "n261125-14",
+      "issue": "i2026-11-25",
+      "order": 14,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.119723+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/f7f14d43c5f6061f387a.png",
+        "source_url": "https://prcdn.freetls.fastly.net/release_image/191662/2/191662-2-47500ecb38e04f1275d854545f769d6d-1926x1084.png",
+        "alt": "Meiji выложил четыре серии о муже на прогулках, рассказанные голосом жены",
+        "credit": "Meiji / PR TIMES",
+        "link": "https://prtimes.jp/main/html/rd/p/000000002.000191662.html",
+        "caption": "Meiji / PR TIMES",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325008+03:00"
+      }
+    },
+    {
+      "title": "Seguros Bolívar: страховка в эфире GTA при аварии",
+      "headline": "Страховщик вставляет рекламу в стримы GTA в момент виртуальной аварии",
+      "cover_word": "Реклама в момент аварии",
+      "dek": "Seguros Bolívar, Leo и Publicis Play связали ДТП и угоны в игре с донат-алертом на стриме.",
+      "what": "Колумбийский страховщик Seguros Bolívar вместе с Leo и игровым подразделением Publicis Play запустил кампанию внутри стримов Grand Theft Auto. Сообщила PRODU 24 ноября.",
+      "mechanics": "Система следит за ходом игры в прямом эфире. Когда у стримера происходит виртуальная авария или у него угоняют машину, на экране появляется алерт. Через механику доната в эфир вставляется сообщение о защите настоящего автомобиля. Идея в том, что бренд говорит о риске ровно в тот момент, когда зрители и сам игрок эмоционально реагируют на потерю машины. Publicis Play отвечал за знание сообществ игроков и стриминга, Leo предложил креативную находку. Из текста не ясно, получают ли стримеры оплату и сами ли соглашаются участвовать. Сроков и цифр нет; единственный показатель в материале внешний: 31,4% колумбийцев старше пяти лет играют или скачивают онлайн-игры.",
+      "why": "Пример интеграции, где рекламой становится не ролик, а реакция на событие в игре, пока выходит GTA VI. Для брендовых команд интересно привязать сообщение к моменту, а не к площадке. Границы известного: результатов, условий участия стримеров и дат нет.",
+      "country": "Колумбия",
+      "status": "Кампания идёт, подробности 24.11.2026",
+      "event_key": "seguros-bolivar-leo-publicis-play-gta-streamer-alert-colombia-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Свежий кейс дня, связан с актуальным запуском GTA VI; в архиве не освещался. Даты запуска материал не называет, датировано сообщение.",
+      "image_url": "https://images.produ.com/wp-content/uploads/2026/11/24110055/bigwp-SegurosBolivarGTAPublicisPlay-948x594.jpg",
+      "image_credit": "PRODU / Publicis Groupe Colombia",
+      "image_page": "https://www.produ.com/mercadeo/noticias/seguros-bolivar-leo-y-publicis-play-convierten-los-accidentes-de-gta-en-oportunidades-de-conexion-con-los-gamers/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PRODU: Seguros Bolívar, Leo и Publicis Play",
+          "url": "https://www.produ.com/mercadeo/noticias/seguros-bolivar-leo-y-publicis-play-convierten-los-accidentes-de-gta-en-oportunidades-de-conexion-con-los-gamers/",
+          "primary": true,
+          "evidence": "integra mensajes de protección vehicular en las transmisiones en vivo de jugadores de GTA"
+        }
+      ],
+      "rubric": "branded",
+      "direction_only": false,
+      "id": "n261125-15",
+      "issue": "i2026-11-25",
+      "order": 15,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.119935+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/8dd7961c2bb7d68f2930.jpg",
+        "source_url": "https://images.produ.com/wp-content/uploads/2026/11/24110055/bigwp-SegurosBolivarGTAPublicisPlay-948x594.jpg",
+        "alt": "Страховщик вставляет рекламу в стримы GTA в момент виртуальной аварии",
+        "credit": "PRODU / Publicis Groupe Colombia",
+        "link": "https://www.produ.com/mercadeo/noticias/seguros-bolivar-leo-y-publicis-play-convierten-los-accidentes-de-gta-en-oportunidades-de-conexion-con-los-gamers/",
+        "caption": "PRODU / Publicis Groupe Colombia",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325249+03:00"
+      }
+    },
+    {
+      "title": "VITEK: мини-сериал отец и сын, четыре серии про технику",
+      "headline": "VITEK продаёт технику через мини-сериал, где каждая из четырёх серий про свой товар",
+      "cover_word": "Отец, сын и техника",
+      "dek": "Александр Робак и Глеб Калюжный играют двух поколений: завтрак, система, сервис и телевизор.",
+      "what": "Бренд VITEK (Private Labels.Merlion) запустил федеральную кампанию «Связь поколений» с мини-сериалом об отце и сыне, которых играют Александр Робак и Глеб Калюжный. Директор по бренду Арина Смирнова рассказала о кампании в интервью Sostav 24 ноября.",
+      "mechanics": "Четыре серии привязаны к категориям: «Идеальный завтрак» про малую кухонную технику, «Своя система» про бытовую, «VIP-сервис» про крупную и «Взгляд по-новому» про умные телевизоры. Снимала студия Stolet Production, медиа вёл Media Instinct Group. Показ идёт сразу по нескольким каналам: метро и DOOH, онлайн-видео и баннеры, онлайн-кинотеатры (команда называет охват более 50 млн зрителей), Smart TV. Все ведёт на лендинг с тестом «к какому поколению вы относитесь по бытовым привычкам, а не по году рождения». В «Одноклассниках» ролики ориентированы на старшую аудиторию, во «ВКонтакте» на младшую. Слоган «Работает» взяли из отзывов покупателей. Собаку-колли взяли вместо желанного шиба-ину.",
+      "why": "Редкий для бытовой техники случай, когда каждая серия сериала отвечает за свою товарную категорию, а не весь ассортимент в одном ролике. Границы известного: кампания стартовала в начале ноября, цифр по досмотрам и продажам пока нет.",
+      "country": "Россия",
+      "status": "Кампания запущена в начале ноября 2026; интервью 24.11.2026",
+      "event_key": "vitek-merlion-svyaz-pokoleniy-robak-kalyuzhny-miniseries-russia-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новое интервью о производстве и медиаплане, вышло в день сбора; ранее не освещалось. Сам запуск был в начале ноября, точная дата в источнике не названа.",
+      "image_url": "https://cdn.sostav.ru/images/news/2026/11/20/20pmf30w.png",
+      "image_credit": "Sostav / Private Labels.Merlion",
+      "image_page": "https://www.sostav.ru/publication/arina-smirnova-88648.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Sostav: Арина Смирнова о кампании «Связь поколений»",
+          "url": "https://www.sostav.ru/publication/arina-smirnova-88648.html",
+          "primary": true,
+          "evidence": "Как мини-сериал с Александром Робаком и Глебом Калюжным объединил разные поколения покупателей"
+        }
+      ],
+      "rubric": "branded",
+      "direction_only": false,
+      "id": "n261125-16",
+      "issue": "i2026-11-25",
+      "order": 16,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.120132+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/7eae9d91f86ac8e0df95.png",
+        "source_url": "https://cdn.sostav.ru/images/news/2026/11/20/20pmf30w.png",
+        "alt": "VITEK продаёт технику через мини-сериал, где каждая из четырёх серий про свой товар",
+        "credit": "Sostav / Private Labels.Merlion",
+        "link": "https://www.sostav.ru/publication/arina-smirnova-88648.html",
+        "caption": "Sostav / Private Labels.Merlion",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325411+03:00"
+      }
+    },
+    {
+      "title": "Estúpido Cupido: рекорд RTVE Play",
+      "headline": "Вертикальный «Estúpido Cupido» собрал 3,5 млн просмотров за неделю и побил рекорд RTVE Play",
+      "cover_word": "Импровизация сделала рекорд",
+      "dek": "Импровизационный вертикальный сериал Playz обошёл прежние лучшие оригиналы платформы на 56% и 63,7%.",
+      "what": "Испанский вещатель RTVE сообщил, что вертикальный импро-шоу «Estúpido Cupido» стало лучшим стартом оригинала за всю историю RTVE Play: больше 3,5 млн просмотров и почти 200 тысяч уникальных зрителей за первую неделю. Он на 56% превзошёл «Al cielo con ella» и на 63,7% «Área 34». Сериал вышел 16 ноября вместе с новым вертикальным приложением Playz.",
+      "mechanics": "Известные креаторы импровизируют историю о престижном интернате (дружба, любовь, соперничество, месть), ориентируясь на микродрамы. Playz держит в приложении первые 44 вертикальных эпизода, а RTVE Play показывает только два первых в горизонтальной версии. Историю продолжают аккаунты «Divino Salseo» в Instagram и TikTok, где журналист Хави де Ойос выдаёт интернатские сплетни, и закулисный проект «Más allá de Estúpido Cupido». Производит RTVE вместе с Kokoro Content. С 23 ноября выходят по две новые части с понедельника по пятницу. Приложение несколько дней возглавляло бесплатный чарт iOS.",
+      "why": "Редкий случай, когда вещатель меряет вертикальный сериал на собственной цифровой шкале и получает рекорд, а не нишевый эксперимент. Для команды интересны связка «приложение плюс горизонтальная витрина» и сплетничающий спутник-аккаунт. Границы известного: цифры дал сам вещатель, кто именно считал «просмотры», в источнике не раскрыто.",
+      "country": "Испания",
+      "status": "Вышел 16.11.2026, новые серии по будням с 23.11",
+      "event_key": "rtve-playz-estupido-cupido-record-debut-vertical-impro-spain-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Сегодня опубликованы результаты первой недели; сам запуск в архиве фигурировал только как анонс, итоги и рекорд новые.",
+      "image_url": "https://www.culturaenserie.com/wp-content/uploads/2025/12/estupido-cupido-web.jpg",
+      "image_credit": "Cultura en Serie / Playz, RTVE",
+      "image_page": "https://www.culturaenserie.com/estupido-cupido-bate-el-record-de-estreno-de-un-original-en-rtve-play.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Cultura en Serie: рекорд RTVE Play (пересказ данных Comunicación RTVE)",
+          "url": "https://www.culturaenserie.com/estupido-cupido-bate-el-record-de-estreno-de-un-original-en-rtve-play.html",
+          "primary": true,
+          "evidence": "más de 3,5 millones de visualizaciones"
+        },
+        {
+          "label": "Los Lunes Seriéfilos",
+          "url": "https://www.loslunesseriefilos.com/2026/11/estupido-cupido-rtve-play-record-audiencia.html",
+          "primary": false,
+          "evidence": "Divino Salseo extiende la historia en Instagram y TikTok"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261125-17",
+      "issue": "i2026-11-25",
+      "order": 17,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.120201+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/20c70e418d0f70a3138e.jpg",
+        "source_url": "https://www.culturaenserie.com/wp-content/uploads/2025/12/estupido-cupido-web.jpg",
+        "alt": "Вертикальный «Estúpido Cupido» собрал 3,5 млн просмотров за неделю и побил рекорд RTVE Play",
+        "credit": "Cultura en Serie / Playz, RTVE",
+        "link": "https://www.culturaenserie.com/estupido-cupido-bate-el-record-de-estreno-de-un-original-en-rtve-play.html",
+        "caption": "Cultura en Serie / Playz, RTVE",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325527+03:00"
+      }
+    },
+    {
+      "title": "aTwist и Snapchat: оригиналы Snap уходят на платформу",
+      "headline": "Snapchat отдаёт aTwist восемь своих вертикальных сериалов и берёт взамен продвижение",
+      "cover_word": "Snap-сериалы выходят из приложения",
+      "dek": "С 1 декабря «Dead of Night», «Breakwater» и «Endless Summer» появятся на платформе вертикальных сериалов aTwist.",
+      "what": "Платформа вертикальных сериалов aTwist договорилась со Snapchat о показе оригинальных коротких сериалов Snap. С 1 декабря на aTwist появятся «Dead of Night», «Breakwater», «Endless Summer», «Death Hacks», «Denton Death Date», «Road Trippin», «Phone Swap» и «Coming Out».",
+      "mechanics": "Сделка построена на перекрёстном продвижении: Snapchat направляет внимание к aTwist, а aTwist продвигает креаторов Snap. Для Snap это платное окно дистрибуции за пределами собственного приложения. aTwist запустилась в сентябре (прежнее название MicroCo; основатели Джана Виноградe, Сьюзен Ровнер, Ллойд Браун): часть эпизодов бесплатна с рекламой, полные сезоны открываются за монеты или подписку. Сервис работает в США, Великобритании, Канаде, Австралии, Ирландии, Новой Зеландии, Индии и на Филиппинах. Условия оплаты и эксклюзивность не раскрыты.",
+      "why": "Соцплатформа впервые выводит собственные сериалы на сторонний вертикальный стриминг, а не держит их внутри ленты. Для short-команды это пример окна дистрибуции для креаторского контента. Границы известного: финансовых условий нет, сообщение Variety датировано 16 ноября, а детали о списке названий взяты из пересказов.",
+      "country": "США",
+      "status": "Старт на aTwist 01.12.2026",
+      "event_key": "atwist-snapchat-originals-distribution-window-us-2026-12-01",
+      "date_iso": "2026-11-16",
+      "first_published_at": "2026-11-16",
+      "date_precision": "day",
+      "selected_because": "Поздно найденный материал (16 ноября, за пределами окна): до старта 1 декабря остаётся неделя, в журнале не освещался.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.medianexis.com/atwist-strikes-snapchat-content-deal-for-microdrama-platform/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Medianexis: пересказ эксклюзива Variety (оригинал Variety закрыт, 402)",
+          "url": "https://www.medianexis.com/atwist-strikes-snapchat-content-deal-for-microdrama-platform/",
+          "primary": true,
+          "evidence": "Snap originals Dead of Night and Breakwater move onto aTwist from Dec. 1"
+        },
+        {
+          "label": "Real Reel: недельный обзор",
+          "url": "https://www.real-reel.com/tiktok-disney-fox-vertical-drama-weekly/",
+          "primary": false,
+          "evidence": "aTwist adds Snapchat originals; starts December 1"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261125-18",
+      "issue": "i2026-11-25",
+      "order": 18,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.120256+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-2170ebdbfdfebc52e994.svg",
+        "source_url": "",
+        "alt": "Snapchat отдаёт aTwist восемь своих вертикальных сериалов и берёт взамен продвижение",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325583+03:00"
+      }
+    },
+    {
+      "title": "CREAVE: 2 млрд просмотров шортов",
+      "headline": "CREAVE насчитала 2 млрд просмотров двух своих сериалов и зовёт журналистов обсуждать «японскую модель»",
+      "cover_word": "Два миллиарда без мести",
+      "dek": "«Маджи асита» набрал 10 млрд за десять месяцев? Нет: 1 млрд, вместе с ТВ-проектом с TV Tokyo выходит 2 млрд.",
+      "what": "Японская студия CREAVE (дочерняя компания Gaiax) сообщила 24 ноября: два её вертикальных сериала, собственный «Honki dasu no wa ashita kara» и совместный с TV Tokyo «Kore ja arikitari sugiru», вместе набрали больше 2 млрд просмотров. Первый за примерно десять месяцев набрал 1 млрд, вовлечённость 5–8%.",
+      "mechanics": "Студия противопоставляет китайскую модель (массовые мстительные истории, 60 серий за пять дней, генерация видео ИИ) японской: бытовая школьная жизнь, ИИ только для исследований и планирования, упор на «паузы» и работу актёров, фандом вокруг роста героев. Длинные версии на YouTube собирают в среднем 220 тысяч просмотров, есть мембершип и мерч. Рекламные интеграции для Gen Z, по словам студии, дают вовлечённость 5,1%, примерно в пять раз выше среднего. Для журналистов назначена закрытая встреча в офисе 4 декабря; повод — интерес к NHK Special «Власть вертикали» от 22 ноября.",
+      "why": "Редкие открытые цифры по одному японскому вертикальному IP и по телеканальной копродукции, плюс способ монетизации через YouTube-версии и мерч. Границы известного: все показатели студии не аудированы, период подсчёта у второго проекта не назван.",
+      "country": "Япония",
+      "status": "Релиз 24.11.2026",
+      "event_key": "creave-gaiax-two-billion-views-vertical-ip-japan-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "second",
+      "selected_because": "Релиз опубликован сегодня в 17:30 по Токио, внутри окна; в журнале студия не освещалась, повод — волна интереса после NHK Special.",
+      "image_url": "https://prcdn.freetls.fastly.net/release_image/3955/874/3955-874-20ae9153462888668921e7f31d7bf7a5-1500x818.png",
+      "image_credit": "CREAVE / PR TIMES",
+      "image_page": "https://prtimes.jp/main/html/rd/p/000000874.000003955.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PR TIMES: пресс-релиз CREAVE",
+          "url": "https://prtimes.jp/main/html/rd/p/000000874.000003955.html",
+          "primary": true,
+          "evidence": "合算総再生数20億回を突破"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261125-19",
+      "issue": "i2026-11-25",
+      "order": 19,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.120743+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/82fc43dbc73c5decbafa.png",
+        "source_url": "https://prcdn.freetls.fastly.net/release_image/3955/874/3955-874-20ae9153462888668921e7f31d7bf7a5-1500x818.png",
+        "alt": "CREAVE насчитала 2 млрд просмотров двух своих сериалов и зовёт журналистов обсуждать «японскую модель»",
+        "credit": "CREAVE / PR TIMES",
+        "link": "https://prtimes.jp/main/html/rd/p/000000874.000003955.html",
+        "caption": "CREAVE / PR TIMES",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325627+03:00"
+      }
+    },
+    {
+      "title": "Super Bowl LXI в IMAX",
+      "headline": "Super Bowl LXI впервые покажут в сотнях залов IMAX сразу в нескольких странах",
+      "cover_word": "Супербоул в залах IMAX",
+      "dek": "ESPN, Disney, NFL и IMAX покажут игру 14 февраля 2027 года как четырёхчасовое событие.",
+      "what": "Disney, ESPN, NFL и IMAX объявили, что Super Bowl LXI впервые пройдёт в формате IMAX. Эфир ESPN покажут в сотнях залов в США и на выбранных рынках: Австралия, Новая Зеландия, Бразилия. IMAX называет это крупнейшим живым событием в своей истории. Игра состоится в воскресенье 14 февраля 2027 года.",
+      "mechanics": "Показ собран как единое событие с началом в 18:00 по восточному времени. В него входят сама игра, шоу в перерыве Apple Music Super Bowl LXI Halftime Show с хедлайнером JAY-Z и больше четырёх часов предматчевого и послематчевого эфира. Комментируют Джо Бак, Трой Эйкман, Лиза Сэлтерс и Лора Рутледж, то есть команда Monday Night Football. IMAX пополняет список площадок наряду с ESPN, ABC, Disney+ и Univision. Билеты ожидаются в январе 2027, промоматериалы появятся в кинотеатрах в неделю Дня благодарения. Точное число залов и цены пока не названы, список кинотеатров обещан в ближайшие недели.",
+      "why": "Трансляция главного спортивного шоу года превращается в билетное событие в кинозале: меняется способ, которым зритель делит эфир с другими болельщиками. Для спортивных, событийных и дистрибуционных команд это пример выхода эфирного права в кино. Границы известного: цена, число залов и список городов не объявлены.",
+      "country": "США",
+      "status": "Анонс; показ 14.02.2027, продажа билетов с января",
+      "event_key": "espn-disney-nfl-imax-super-bowl-lxi-imax-live-screening-us-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Новая крупная дистрибуционная схема, объявлена 23 ноября и подхвачена 24 ноября; в архиве не освещалась. Дата относится к анонсу, события ещё впереди.",
+      "image_url": "https://www.sportsvideo.org/wp-content/uploads/2026/11/SB-IMAX-horizontal-2048x1152-1.webp",
+      "image_credit": "ESPN / Disney / NFL / IMAX via Sports Video Group",
+      "image_page": "https://www.sportsvideo.org/2026/11/24/espn-disney-nfl-and-imax-to-bring-super-bowl-lxi-to-imax-theaters-for-the-first-time/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Sports Video Group: ESPN, Disney, NFL and IMAX bring Super Bowl LXI to IMAX",
+          "url": "https://www.sportsvideo.org/2026/11/24/espn-disney-nfl-and-imax-to-bring-super-bowl-lxi-to-imax-theaters-for-the-first-time/",
+          "primary": true,
+          "evidence": "hundreds of IMAX locations; IMAX tickets expected on sale in January 2027"
+        },
+        {
+          "label": "CNBC: ESPN, NFL to show Super Bowl 61 in IMAX theaters",
+          "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+          "primary": false,
+          "evidence": "first-of-its-kind collaboration with the NFL and IMAX"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261125-20",
+      "issue": "i2026-11-25",
+      "order": 20,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.120797+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/fa6130bd5c909ec627e5.webp",
+        "source_url": "https://www.sportsvideo.org/wp-content/uploads/2026/11/SB-IMAX-horizontal-2048x1152-1.webp",
+        "alt": "Super Bowl LXI впервые покажут в сотнях залов IMAX сразу в нескольких странах",
+        "credit": "ESPN / Disney / NFL / IMAX via Sports Video Group",
+        "link": "https://www.sportsvideo.org/2026/11/24/espn-disney-nfl-and-imax-to-bring-super-bowl-lxi-to-imax-theaters-for-the-first-time/",
+        "caption": "ESPN / Disney / NFL / IMAX via Sports Video Group",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325674+03:00"
+      }
+    },
+    {
+      "title": "ABEMA: матч легенд Японии и Кореи",
+      "headline": "ABEMA бесплатно покажет матч 50 легенд бейсбола Японии и Кореи с комментарием в реальном времени",
+      "cover_word": "Легенды бейсбола, бесплатно",
+      "dek": "5 декабря из Сеула: семь иннингов, комментатор Мунэнори Кавасаки и комментарии зрителей из X.",
+      "what": "ABEMA бесплатно покажет третий «Японо-корейский матч мечты 2026» из купольного стадиона Кочок в Сеуле 5 декабря. Эфир начнётся в 13:30, первая подача в 14:00. Собираются около 50 бывших игроков двух стран.",
+      "mechanics": "Матч сыграют в семь иннингов. Команду Японии ведёт Тосихиса Нисси, среди игроков Мотонобу Танигаки, Мичихиро Огасавара и Нобухико Мацунака; корейскую команду ведёт Ким Ин Сик. Комментирует Мунэнори Кавасаки, ведущий репортажа — диктор TV Asahi Кай Сасаки. Платформа подключает функцию комментариев, связанную с X, чтобы зрители смотрели вместе, а после матча бесплатно доступны нарезки лучших моментов. Организатор события — Rico Sports Agency.",
+      "why": "Бесплатный стрим ностальгического матча строится на коллективном просмотре через соцсеть, а не на правах дорогой лиги. Границы известного: данные о рекламе и аудитории не названы, результаты ещё впереди.",
+      "country": "Япония / Южная Корея",
+      "status": "Эфир 05.12.2026",
+      "event_key": "abema-japan-korea-dream-players-game-free-stream-japan-2026-12-05",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Свежий анонс дня о бесплатной трансляции, ранее не освещался; локальный японский первоисточник.",
+      "image_url": "https://prcdn.freetls.fastly.net/release_image/64643/4301/64643-4301-24b3cf0192bfcb5e68b867c1e34c7e7c-1920x1080.jpg",
+      "image_credit": "ABEMA / PR TIMES",
+      "image_page": "https://prtimes.jp/main/html/rd/p/000004301.000064643.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PR TIMES: ABEMA, японо-корейский матч мечты 2026",
+          "url": "https://prtimes.jp/main/html/rd/p/000004301.000064643.html",
+          "primary": true,
+          "evidence": "2026年12月5日（土）無料生中継決定"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261125-21",
+      "issue": "i2026-11-25",
+      "order": 21,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.120873+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/de56bd0ffa83dcda74fa.jpg",
+        "source_url": "https://prcdn.freetls.fastly.net/release_image/64643/4301/64643-4301-24b3cf0192bfcb5e68b867c1e34c7e7c-1920x1080.jpg",
+        "alt": "ABEMA бесплатно покажет матч 50 легенд бейсбола Японии и Кореи с комментарием в реальном времени",
+        "credit": "ABEMA / PR TIMES",
+        "link": "https://prtimes.jp/main/html/rd/p/000004301.000064643.html",
+        "caption": "ABEMA / PR TIMES",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325717+03:00"
+      }
+    },
+    {
+      "title": "Мадрид зажёг Рождество 500 дронами",
+      "headline": "Мадрид включил рождественские огни под шоу 500 дронов над Сибелес",
+      "cover_word": "Мадрид: 500 дронов",
+      "dek": "21 ноября на площади Сибелес дроны нарисовали созвездие, вертепа и «Feliz Navidad» к моменту включения ёлки.",
+      "what": "21 ноября на площади Сибелес в Мадриде прошла церемония включения рождественской иллюминации. Впервые в центре города её сопровождало шоу из 500 дронов, продюсер UMILES. Огни работают на 250 с лишним точках города до 6 января.",
+      "mechanics": "Шоу шло в две части с паузой около 45 минут. В первой дроны рисовали Большую Медведицу, одна звезда отрывалась и опускалась, а вертикальная камера вела её мимо Пуэрта-де-Алькала. Во второй появились волхвы, вертеп, пастухи, ангел, корона, ёлка, падающая звезда, флаг Испании и герб региона. Финал: надпись «Feliz Navidad» точно к моменту, когда загорелась ёлка на Сибелес. Огни, по пересказу прессы, включали пятеро детей из Сеуты вместе с мэром Альмеидой; вёл церемонию Карлос Латре, пела Пастора Солер. Эти детали взяты из пересказа Euro Weekly, страницу которого я не открывал. Euro Weekly называет это самым ранним стартом рождественских огней Мадрида.",
+      "why": "Показательная постановка городского праздника: единый сигнал для площади, ёлки и неба, плюс вертикальная камера для трансляции. Границы известного: число зрителей и телеаудитория не названы, слово «рекорд» относится к дате, а не к размеру шоу.",
+      "country": "Испания",
+      "status": "Состоялось 21.11.2026",
+      "event_key": "umiles-madrid-cibeles-500-drones-christmas-lights-switch-on-spain-2026-11-21",
+      "date_iso": "2026-11-21",
+      "first_published_at": "2026-11-21",
+      "date_precision": "day",
+      "selected_because": "Поздно найденный материал: событие 21 ноября, за пределами суточного окна; свежий состоявшийся показ, в журнале не освещался.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://umilesgroup.com/en/500-drones-madrid-christmas-lights-switch-on-2026/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "UMILES: страница продюсера шоу",
+          "url": "https://umilesgroup.com/en/500-drones-madrid-christmas-lights-switch-on-2026/",
+          "primary": true,
+          "evidence": "500 drones; finale displayed Feliz Navidad as the Cibeles tree lit up"
+        },
+        {
+          "label": "Euro Weekly News",
+          "url": "https://euroweeklynews.com/2026/11/21/christmas-comes-early-to-madrid-as-500-drones-launch-record-breaking-festive-celebrations/",
+          "primary": false,
+          "evidence": "Five children from Ceuta were invited to switch on the lights (по результатам поиска, не открыт)"
+        }
+      ],
+      "rubric": "event",
+      "direction_only": false,
+      "id": "n261125-22",
+      "issue": "i2026-11-25",
+      "order": 22,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.121085+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-36877e7a6eb2f7d9cbdc.svg",
+        "source_url": "",
+        "alt": "Мадрид включил рождественские огни под шоу 500 дронов над Сибелес",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325897+03:00"
+      }
+    },
+    {
+      "title": "SNL France на Canal+",
+      "headline": "Canal+ выпустит SNL France вживую 19 декабря: 10 комиков, Манюэль Пайе и RnBoi",
+      "cover_word": "SNL заговорил по-французски",
+      "dek": "52 минуты в прямом эфире и при зрителях, без еженедельного графика.",
+      "what": "Canal+ назвал дату первого выпуска французской версии Saturday Night Live: суббота 19 декабря 2026, прайм-тайм, на канале и в приложении Canal+. Первым ведущим станет Манюэль Пайе, музыкальный гость RnBoi исполнит неизданный трек.",
+      "mechanics": "Выпуск идёт 52 минуты, в прямом эфире и при публике, и сочетает актуальные скетчи, заранее снятые вставки и музыку. Собрана постоянная труппа из десяти комиков: Лизон Даниэль, Беранжер Макниз, Адель Фугази, Эмма Эбуаней, Симон Костиль, Виктор Сансано, Люка Бесс, Савсан Абес, Бертран Гонсалвес и Франсуа де Бройер. В отличие от американского оригинала шоу выходит нерегулярно: у каждого выпуска будет свой ведущий. По данным отраслевых изданий, лицензия у NBCUniversal Formats, коспродюсеры Black Dynamite (Mediawan), Douze Doigts и Canal+, сценарную команду возглавляют Юго Бенамозиг и Давид Кавиоли.",
+      "why": "Живой скетч-формат с лицензией и без ежедневного ритма проверяет, выдержит ли французская телеаудитория прайм-тайм прямого эфира. Границы известного: состав сценаристов и продюсеров взят из изданий, не из пресс-релиза Canal+; рейтингов нет.",
+      "country": "Франция",
+      "status": "Эфир 19.12.2026",
+      "event_key": "canal-plus-snl-france-live-premiere-payet-france-2026-12-19",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Анонс даты, ведущего и труппы 24 ноября; в архиве не освещался; до живого эфира меньше месяца.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.ozap.com/actu/maitre-de-ceremonie-invite-musical-bande-dhumoristes-tout-ce-quil-faut-savoir-sur-ladaptation-du-saturday-night-live-de-canal/658139",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Puremédias/Ozap: всё об адаптации SNL на Canal+",
+          "url": "https://www.ozap.com/actu/maitre-de-ceremonie-invite-musical-bande-dhumoristes-tout-ce-quil-faut-savoir-sur-ladaptation-du-saturday-night-live-de-canal/658139",
+          "primary": true,
+          "evidence": "la grande comédie en direct et en public"
+        },
+        {
+          "label": "Variety: эксклюзив о SNL France (страница закрыта, не прочитана)",
+          "url": "https://variety.com/2026/tv/global/snl-heads-france-canal-nbcuniversal-cast-manu-payet-1236956855/",
+          "primary": false,
+          "evidence": "Manu Payet set to host the inaugural episode on Dec. 19 (по анонсу ленты)"
+        }
+      ],
+      "rubric": "event",
+      "direction_only": false,
+      "id": "n261125-23",
+      "issue": "i2026-11-25",
+      "order": 23,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.121967+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-32d8e3fe055ebaf7e867.svg",
+        "source_url": "",
+        "alt": "Canal+ выпустит SNL France вживую 19 декабря: 10 комиков, Манюэль Пайе и RnBoi",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325943+03:00"
+      }
+    },
+    {
+      "title": "Marcha das Onças: первый природный док Netflix из Латинской Америки",
+      "headline": "Netflix выпустит док о ягуарах Пантанала, снятый за пять лет и 26 экспедиций",
+      "cover_word": "Ягуары глазами бабушки",
+      "dek": "Рассказ ведёт Фернанда Торрес от лица матриарха Патрисии.",
+      "what": "Netflix Brazil опубликовал трейлер и новые кадры фильма Marcha das Onças (March of the Jaguars), своего первого документального фильма о природе из Латинской Америки. По данным Deadline, глобальный выход назначен на 22 декабря; на странице Netflix указано лишь «позже в этом году».",
+      "mechanics": "Съёмки шли 26 экспедиций за пять лет, 46 недель в парке Encontro das Águas и соседних районах Пантанала, с местными жителями, учёными и егерями. Проект начат в 2021 году, команда следила за одной семьёй ягуаров. Рассказ построен как закадровый голос Фернанды Торрес от лица матриарха Патрисии, которая рассказывает о внуках Марселе и Рио от детёнышей до взрослых. Режиссёр Лоуренс Вайа, сопродюсеры Duo2 и Bonne Pioche; по Deadline, создатели «Марша пингвинов» Александр Сулье и Эмманюэль Прио. Мировая премьера состоялась на кинофестивале в Сан-Паулу 16 октября.",
+      "why": "Приём «дикая природа как семейная сага от первого лица животного» с локальным голосом и бразильским продакшеном. Границы известного: дата 22 декабря взята из Deadline, страницу которого прочитать не удалось.",
+      "country": "Бразилия",
+      "status": "Трейлер 24.11.2026; релиз по Deadline 22.12.2026",
+      "event_key": "netflix-march-of-the-jaguars-trailer-release-brazil-2026-12-22",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Эксклюзив с датой и трейлером вышел сегодня; в архиве нет.",
+      "image_url": "https://images.ctfassets.net/4cd45et68cgf/2CQsfH0hY5I8NxAcGMxYeY/aed3a344744d1d0587e31f35272d15f9/Marcha_das_Oncas__FKA_Duas_Irmas__n_00_09_01_11-3x2.jpg?w=2000",
+      "image_credit": "Netflix",
+      "image_page": "https://about.netflix.com/pt_br/news/march-of-the-jaguars-check-out-new-images-from-netflixs-first-nature-documentary-in-latin-america",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "About Netflix (pt-BR): новые кадры Marcha das Onças",
+          "url": "https://about.netflix.com/pt_br/news/march-of-the-jaguars-check-out-new-images-from-netflixs-first-nature-documentary-in-latin-america",
+          "primary": true,
+          "evidence": "26 expedições em cinco anos, 46 semanas no Pantanal (пересказ страницы)"
+        },
+        {
+          "label": "Deadline: March of the Jaguars sets Netflix launch",
+          "url": "https://deadline.com/2026/11/netflix-march-of-the-jaguars-wildlife-film-fernanda-torres-1237232478/",
+          "primary": false,
+          "evidence": "Netflix Brazil has set a release date (страница закрыта, по анонсу ленты)"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261125-24",
+      "issue": "i2026-11-25",
+      "order": 24,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.122318+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/43fe41da788999a2e52e.jpg",
+        "source_url": "https://images.ctfassets.net/4cd45et68cgf/2CQsfH0hY5I8NxAcGMxYeY/aed3a344744d1d0587e31f35272d15f9/Marcha_das_Oncas__FKA_Duas_Irmas__n_00_09_01_11-3x2.jpg?w=2000",
+        "alt": "Netflix выпустит док о ягуарах Пантанала, снятый за пять лет и 26 экспедиций",
+        "credit": "Netflix",
+        "link": "https://about.netflix.com/pt_br/news/march-of-the-jaguars-check-out-new-images-from-netflixs-first-nature-documentary-in-latin-america",
+        "caption": "Netflix",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.325987+03:00"
+      }
+    },
+    {
+      "title": "Cracking Job Gromit: Aardman at 50",
+      "headline": "BBC покажет на Рождество док к 50-летию Aardman с невиданными архивами",
+      "cover_word": "Aardman открывает архив",
+      "dek": "Режиссёр Йеми Бамиро соединит архивные кадры и новую анимацию набросков.",
+      "what": "BBC заказал документальный спецвыпуск «Cracking Job Gromit: Aardman at 50» к полувековому юбилею студии: первое появление Морфа на экране было в 1976 году. Выйдет на BBC One и iPlayer на Рождество, точной даты нет.",
+      "mechanics": "Режиссёр Йеми Бамиро, продюсер Mitre Studios. Фильм использует архивы Aardman, включая прежде не показанные кадры, ранние наброски, дизайны персонажей и материалы разработки, а часть из них оживляет новой анимацией. Рассказывают Ленни Генри, Ромеш Ранганатан, Ник Мохаммед, Амелия Димолденберг, Тэндиви Ньютон, Роб Брайдон, Лорен Пател, Бен Уайтхед (нынешний голос Уоллеса) и Джордан Стивенс.",
+      "why": "Юбилейный док строится на сочетании открытого архива и анимационных реконструкций набросков, а не только на интервью. Границы известного: длительность, международная дистрибуция и дата эфира не названы.",
+      "country": "Великобритания",
+      "status": "Заказ, эфир на Рождество 2026",
+      "event_key": "bbc-aardman-at-50-cracking-job-gromit-doc-commission-uk-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новый заказ дня, в архиве нет.",
+      "image_url": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Cracking-Job-Gromit.jpg",
+      "image_credit": "Cartoon Brew / BBC",
+      "image_page": "https://www.cartoonbrew.com/documentary-2/aardman-documentary-bbc-mitre-studios-269765.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Cartoon Brew: Aardman Opens Its Archives",
+          "url": "https://www.cartoonbrew.com/documentary-2/aardman-documentary-bbc-mitre-studios-269765.html",
+          "primary": true,
+          "evidence": "previously unseen footage and newly made animation (пересказ страницы)"
+        },
+        {
+          "label": "Variety",
+          "url": "https://variety.com/2026/tv/news/aardman-50th-anniversary-doc-cracking-job-gromit-bbc-1236956987/",
+          "primary": false,
+          "evidence": "due to air over Christmas (по ленте)"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261125-25",
+      "issue": "i2026-11-25",
+      "order": 25,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.122666+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/0e2b6c753be6fea7f326.jpg",
+        "source_url": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Cracking-Job-Gromit.jpg",
+        "alt": "BBC покажет на Рождество док к 50-летию Aardman с невиданными архивами",
+        "credit": "Cartoon Brew / BBC",
+        "link": "https://www.cartoonbrew.com/documentary-2/aardman-documentary-bbc-mitre-studios-269765.html",
+        "caption": "Cartoon Brew / BBC",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326029+03:00"
+      }
+    },
+    {
+      "title": "&Less: вертикальная драма с кнопкой «купить»",
+      "headline": "Японский бренд связал вертикальную драму с покупкой одежды героини и 39-часовым эфиром",
+      "cover_word": "Драма с корзиной",
+      "dek": "Серия по 90 секунд, наряды героини продаются со страницы эпизода.",
+      "what": "Японская компания 5C (бренд &Less) 24 ноября объявила о видео-магазине, связанном с вертикальной драмой «Аясии хаха» («Подозрительная мама»). Магазин открыт с 16 ноября; с 24 ноября 9:00 до 25 ноября 24:00 идёт 39-часовой непрерывный стрим.",
+      "mechanics": "Серии длятся около 90 секунд, включаются касанием и переходят одна в другую автоматически. Героиня Рин, студентка в поиске работы, проваливается в 1990 год и встречает свою мать 22 лет. Начиная с первой серии второго сезона, одежду героини можно купить прямо со страницы эпизода. На сайте есть фильтруемые видео товаров, подборщики ресниц и очков из четырёх вопросов, а в стриме товар добавляется в корзину с экрана. За пост покупателя в галерее выдают купон 300 иен при заказе от 2000 иен. Открыта и форма заказа драм для компаний.",
+      "why": "Вертикальная драма работает как витрина: костюм героя продаётся с экрана эпизода. Границы известного: цифр просмотров и продаж нет.",
+      "country": "Япония",
+      "status": "Релиз 24.11.2026, стрим до 25.11",
+      "event_key": "5c-andless-abayashii-haha-shoppable-vertical-drama-japan-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новый релиз дня на PR TIMES, механика конкретная, в архиве нет.",
+      "image_url": "https://prcdn.freetls.fastly.net/release_image/154659/6/154659-6-0cd52d1f94f59acb4fe8ca09a61cf9ff-2160x1440.jpg",
+      "image_credit": "5C Inc. / PR TIMES",
+      "image_page": "https://prtimes.jp/main/html/rd/p/000000006.000154659.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "PR TIMES: пресс-релиз 5C про &Less",
+          "url": "https://prtimes.jp/main/html/rd/p/000000006.000154659.html",
+          "primary": true,
+          "evidence": "11月24日9:00から11月25日24:00まで39時間の連続ライブ配信 (по поиску)"
+        }
+      ],
+      "rubric": "short",
+      "direction_only": false,
+      "id": "n261125-26",
+      "issue": "i2026-11-25",
+      "order": 26,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.122723+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/015e14f62d396d929575.jpg",
+        "source_url": "https://prcdn.freetls.fastly.net/release_image/154659/6/154659-6-0cd52d1f94f59acb4fe8ca09a61cf9ff-2160x1440.jpg",
+        "alt": "Японский бренд связал вертикальную драму с покупкой одежды героини и 39-часовым эфиром",
+        "credit": "5C Inc. / PR TIMES",
+        "link": "https://prtimes.jp/main/html/rd/p/000000006.000154659.html",
+        "caption": "5C Inc. / PR TIMES",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326079+03:00"
+      }
+    },
+    {
+      "title": "I Will Find You: The Search for Alysha Hanin",
+      "headline": "Сын ищет пропавшую в 2002 году мать, пока полиция Майами пересматривает дело",
+      "cover_word": "Сын ищет пропавшую мать",
+      "dek": "Sky NZ заказал три часовые серии, съёмки идут вместе с новым расследованием.",
+      "what": "Sky New Zealand заказал у студии Our Story трёхсерийный документальный сериал «I Will Find You: The Search for Alysha Hanin». В 2002 году в Майами исчезла 24-летняя Алиша Ханин, её сыну Адриану было три года. Его вырастила бабушка в Новой Зеландии.",
+      "mechanics": "Камера идёт за взрослым Адрианом из Новой Зеландии в США, где он по крупицам восстанавливает дело матери. Совпадение, которое придаёт сериалу движение: пока идут съёмки, полиция Майами-Бич пересмотрела дело и квалифицировала его как расследование убийства. Формат: три серии по 60 минут. Продюсер Our Story, международный дистрибьютор Woodcut International (Великобритания), проект поддержан NZ On Air. Статус: съёмки идут, сдача назначена на второй квартал 2027 года. Представитель Woodcut Куллa Анастаси говорит, что история «ещё развивается», поэтому закрытой развязки у сериала нет.",
+      "why": "Доступ к герою и живое дело вместо реконструкции: финал сериала не известен даже авторам. Границы известного: дата выхода на Sky NZ не названа, имена режиссёра и подробности доступа к материалам дела в источнике не раскрыты.",
+      "country": "Новая Зеландия / США",
+      "status": "В производстве, сдача во II квартале 2027",
+      "event_key": "sky-nz-our-story-woodcut-i-will-find-you-docuseries-commission-nz-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новый заказ дня; в архиве выпусков нет. Рынок вне США и Великобритании, доступ к герою в реальном времени.",
+      "image_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/i-will-find-you-the-search-for-alysha-hanin-credit-greta-van-der-star.jpg",
+      "image_credit": "Greta Van Der Star (по имени файла), через C21Media",
+      "image_page": "https://www.c21media.net/news/sky-nz-follows-sons-search-for-vanished-mother-in-docuseries-i-will-find-you/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "C21Media: Sky NZ, I Will Find You",
+          "url": "https://www.c21media.net/news/sky-nz-follows-sons-search-for-vanished-mother-in-docuseries-i-will-find-you/",
+          "primary": true,
+          "evidence": "Alysha vanished in Miami in 2002; Adrian was three"
+        },
+        {
+          "label": "Realscreen: Woodcut, Our Story prep three-parter",
+          "url": "https://realscreen.com/2026/11/24/woodcut-our-story-prep-true-crime-three-parter-i-will-find-you/",
+          "primary": false,
+          "evidence": "Our Story teams with Woodcut International on three-part series (по выдаче поиска)"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261125-27",
+      "issue": "i2026-11-25",
+      "order": 27,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.122781+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/c27d5b25afdb353b2110.jpg",
+        "source_url": "https://cdn.c21media.net/wp-content/uploads/2026/11/i-will-find-you-the-search-for-alysha-hanin-credit-greta-van-der-star.jpg",
+        "alt": "Сын ищет пропавшую в 2002 году мать, пока полиция Майами пересматривает дело",
+        "credit": "Greta Van Der Star (по имени файла), через C21Media",
+        "link": "https://www.c21media.net/news/sky-nz-follows-sons-search-for-vanished-mother-in-docuseries-i-will-find-you/",
+        "caption": "Greta Van Der Star (по имени файла), через C21Media",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326122+03:00"
+      }
+    },
+    {
+      "title": "Rob Lowe: The Outsider",
+      "headline": "Netflix выпустил док Криса Смита о Робе Лоу с его домашними видео и новыми интервью",
+      "cover_word": "Роб Лоу без глянца",
+      "dek": "93 минуты: личные записи актёра, рассказ близких и тема «быть увиденным».",
+      "what": "24 ноября на Netflix вышел документальный фильм Криса Смита («Fyre», «Tiger King») «Rob Lowe: The Outsider». Хронометраж 1 час 33 минуты.",
+      "mechanics": "Фильм соединяет новые интервью с самим Лоу и людьми из его окружения с обзором карьеры, где показаны публичные и частные моменты. По описанию Yahoo, в нём есть домашние кадры детства в Дейтоне и после переезда в Малибу и записи, которые Лоу снимал на камкордер. Сквозная тема: желание быть «увиденным». Продюсеры Смит, Сидни Шварц и Стэйси Смит (Library Films). По словам актёра, фильм делался два года (пересказ Entertainment Weekly через поиск).",
+      "why": "Классический портрет через личный архив героя и дистанцию режиссёра, который до этого снимал о мошенниках и самозванцах. Границы известного: какие именно архивы использованы и как был устроен доступ, источники не раскрывают; кадров без звезды нет, обложку поставит редакция.",
+      "country": "США",
+      "status": "Премьера на Netflix 24.11.2026",
+      "event_key": "netflix-rob-lowe-the-outsider-chris-smith-release-us-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-03",
+      "date_precision": "day",
+      "selected_because": "Состоявшаяся премьера дня; анонс Tudum от 3 ноября, в архиве не освещался. Дата — день выхода.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.netflix.com/tudum/articles/rob-lowe-the-outsider-documentary-release-date-news",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Netflix Tudum: Rob Lowe: The Outsider",
+          "url": "https://www.netflix.com/tudum/articles/rob-lowe-the-outsider-documentary-release-date-news",
+          "primary": true,
+          "evidence": "new interviews with Lowe and those who know him best"
+        },
+        {
+          "label": "Yahoo: интервью с Лоу",
+          "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-gets-intimate-childhood-233214103.html",
+          "primary": false,
+          "evidence": "Домашние кадры Дейтона и Малибу, записи на камкордер"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261125-28",
+      "issue": "i2026-11-25",
+      "order": 28,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.122880+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-c7be7db92ee2d8afb417.svg",
+        "source_url": "",
+        "alt": "Netflix выпустил док Криса Смита о Робе Лоу с его домашними видео и новыми интервью",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326164+03:00"
+      }
+    },
+    {
+      "title": "«Три жизни Сергея Прокофьева»",
+      "headline": "VK Видео выпустил сериал о Прокофьеве в трёх жизнях и с подкастами к нему",
+      "cover_word": "Прокофьев в трёх жизнях",
+      "dek": "Три серии к 135-летию композитора, плюс видеоподкасты, ролики и лонгрид.",
+      "what": "На VK Видео вышел документальный сериал «Три жизни Сергея Прокофьева» к 135-летию композитора. Партнёр проекта Российский национальный музей музыки, поддержка Института развития интернета.",
+      "mechanics": "Три серии выстроены по трём периодам жизни: становление в дореволюционной России, эмиграция и возвращение в СССР. Вокруг сериала собран пакет: видеоподкасты, короткие ролики и лонгрид. Рассказывают Валерий Гергиев, Денис Мацуев, Владимир Спиваков, Алексей Учитель и Сергей Шнуров; они говорят о влиянии Прокофьева на современную культуру. Отмечается, что его музыка звучала более чем в 200 фильмах за последние 30 лет.",
+      "why": "Биография разбита не по хронике, а по трём жизням, а платформа делает вокруг неё мультиформатный набор. Границы известного: режиссёр, продюсер, длительность серий и использованные архивы в источнике не названы; иллюстрация издания сгенерирована ИИ, использовать нельзя.",
+      "country": "Россия",
+      "status": "Вышел 24.11.2026 на VK Видео",
+      "event_key": "vkvideo-tri-zhizni-prokofieva-doc-series-release-russia-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Выход сегодня, российская платформа, в архиве нет; нестандартная драматургия через «три жизни».",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://life.ru/p/pervaya-opera-v-9-let-i-vyzov-shekspiru-na-vk-video-vyshli-tri-zhizni-sergeya",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Life.ru: на VK Видео вышли «Три жизни Сергея Прокофьева»",
+          "url": "https://life.ru/p/pervaya-opera-v-9-let-i-vyzov-shekspiru-na-vk-video-vyshli-tri-zhizni-sergeya",
+          "primary": true,
+          "evidence": "Гергиев, Мацуев, Спиваков, Учитель и Шнуров; три серии, подкасты, лонгрид"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": false,
+      "id": "n261125-29",
+      "issue": "i2026-11-25",
+      "order": 29,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.123620+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-974b93255f6bf5fe985c.svg",
+        "source_url": "",
+        "alt": "VK Видео выпустил сериал о Прокофьеве в трёх жизнях и с подкастами к нему",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326210+03:00"
+      }
+    },
+    {
+      "title": "Backcourt: KBL 30 лет",
+      "headline": "TVING бесплатно выложил 30-летнюю историю корейского баскетбола глазами легенд лиги",
+      "cover_word": "30 лет KBL бесплатно",
+      "dek": "Документалку выпустила сама лига, показ эксклюзивный и без подписки.",
+      "what": "TVING 24 ноября в 18:00 по Сеулу выложил в бесплатный доступ полную версию документального фильма «Backcourt: 30 лет в времени» к 30-летию Корейской баскетбольной лиги (KBL). Фильм сняла сама лига.",
+      "mechanics": "Фильм прослеживает путь лиги с 1997 года: старт, появление звёзд, памятные матчи и сезоны доминирования, смену поколений. Рассказывают легенды и действующие игроки разных эпох: Со Чжан Хун, Ли Сан Мин, Ким Чжу Сон, Ян Тон Гын, Хо Ун, Ли Чжон Хён, а также тренеры, комментаторы и журналисты. Для TVING это OTT-эксклюзив без платы.",
+      "why": "Лига сама выступает продюсером своей истории и отдаёт её платформе без подписки. Границы известного: хронометраж и использование архивных записей в материале не указаны.",
+      "country": "Южная Корея",
+      "status": "Выход 24.11.2026 на TVING",
+      "event_key": "tving-kbl-backcourt-30-years-documentary-free-release-korea-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Выход сегодня, корейский локальный источник, в архиве нет. Сообщение опубликовано 23 ноября, дата — день выхода.",
+      "image_url": "https://cdn.topstarnews.net/news/photo/202611/16283474_2096454_3836.jpg",
+      "image_credit": "TVING / Topstarnews",
+      "image_page": "https://www.topstarnews.net/news/articleView.html?idxno=16283474",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Topstarnews: TVING, KBL Backcourt",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16283474",
+          "primary": true,
+          "evidence": "KBL produced it; free on TVING November 24 at 6 PM (пересказ страницы)"
+        }
+      ],
+      "rubric": "doc",
+      "direction_only": true,
+      "id": "n261125-30",
+      "issue": "i2026-11-25",
+      "order": 30,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.123790+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/21d5638cf1a37e5e8943.jpg",
+        "source_url": "https://cdn.topstarnews.net/news/photo/202611/16283474_2096454_3836.jpg",
+        "alt": "TVING бесплатно выложил 30-летнюю историю корейского баскетбола глазами легенд лиги",
+        "credit": "TVING / Topstarnews",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16283474",
+        "caption": "TVING / Topstarnews",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326252+03:00"
+      }
+    },
+    {
+      "title": "Skins Game на Prime Video: вероятности на дронах",
+      "headline": "Prime Video покажет бесплатный Skins Game на $4 млн с вероятностями на экране",
+      "cover_word": "Скинс с вероятностями",
+      "dek": "27 ноября без подписки: AWS считает шансы на лунку после каждого удара.",
+      "what": "Prime Video открывает Чёрную пятницу, 27 ноября в 9:00 по Нью-Йорку, гольф-шоу Farmers Insurance Skins Game. Брукс Кепка, Джастин Томас, Уиндем Кларк и Джексон Койвун играют на $4 млн в клубе Atlantic Fields во Флориде. Смотреть можно без подписки и без членства Prime. Это часть 15 часов живого спорта Prime Video в тот день.",
+      "mechanics": "Формат классический: у каждой лунки своя цена, при ничьей скин переходит на следующую и банк растёт, все начинают с нуля. Новое для эфира: по данным Sports Video Group, платформа AWS пересобрала модель вероятностей из матч-плея под скинс и по данным PGA Tour считает после каждого удара три числа: шанс выиграть текущий скин, шанс ничьей с переносом и влияние лунки на итог турнира. Показывают это графикой и AR-накладками на дроновую съёмку поля. Комментируют Эндрю Каталон и Колт Нотт, на поле работает Дэн Рапапорт. Делают Pro Shop Studios и Propagate Content, эфир производит PGA Tour Studios.",
+      "why": "Гольф превращён в телешоу с игровой математикой: зритель видит не счёт, а цену каждого момента, и всё это бесплатно в день рекламных распродаж. Границы известного: как именно сработает модель на живых лунках, станет ясно только в эфире; оценок аудитории нет.",
+      "country": "США",
+      "status": "Эфир 27.11.2026",
+      "event_key": "prime-video-farmers-skins-game-aws-win-probability-free-us-2026-11-27",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Эфир через три дня, а AI-слой для вероятностей объявлен 23 ноября; в журнале не освещалось.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.sportsvideo.org/2026/11/23/aws-ai-to-power-real-time-win-probabilities-during-the-skins-game-on-prime-video/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "About Amazon: Skins Game на Prime Video",
+          "url": "https://www.aboutamazon.com/news/entertainment/golf-prime-video-skins-game",
+          "primary": true,
+          "evidence": "No subscription or Prime membership required; purse $4 million (пересказ страницы)"
+        },
+        {
+          "label": "Sports Video Group: AWS AI для Skins Game",
+          "url": "https://www.sportsvideo.org/2026/11/23/aws-ai-to-power-real-time-win-probabilities-during-the-skins-game-on-prime-video/",
+          "primary": false,
+          "evidence": "AWS probability engine, drone AR overlays, updates after every shot (пересказ)"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261125-31",
+      "issue": "i2026-11-25",
+      "order": 31,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.123883+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-b5b25b9b436c29e703d4.svg",
+        "source_url": "",
+        "alt": "Prime Video покажет бесплатный Skins Game на $4 млн с вероятностями на экране",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326475+03:00"
+      }
+    },
+    {
+      "title": "Yahoo Sports Network и MASL: 25 матчей",
+      "headline": "Yahoo Sports Network станет единственным американским экраном для 25 матчей MASL",
+      "cover_word": "Индор-футбол на FAST",
+      "dek": "Бесплатный FAST-канал покажет все девять клубов с 28 ноября по 4 апреля.",
+      "what": "Yahoo Sports Network, бесплатный канал C15 Studio, получил эксклюзивные права на 25 матчей регулярного сезона 2026/27 Major Arena Soccer League в США. Первый эфир 28 ноября: Empire в гостях у San Diego, последний 4 апреля.",
+      "mechanics": "В пакете все девять клубов лиги, включая новичка Lehigh Valley Spirits. Канал живёт на FAST-платформах: DirecTV, Fire TV, Fubo, Google TV, LG Channels, Plex, Prime Video, Samsung TV Plus, The Roku Channel, Vidaa, Xfinity, а также на yahoosports.tv. Лига рассчитывает привлечь новых болельщиков через охват Yahoo; шоу-подробностей и производственной схемы в сообщении нет.",
+      "why": "Малая лига вместо платной подписки получает дистрибуцию через бесплатный канал на десятке платформ сразу. Для Yahoo это ещё одна нишевая лига рядом с индор-футболом IFL. Границы известного: финансовые условия не раскрыты.",
+      "country": "США",
+      "status": "Старт эфиров 28.11.2026",
+      "event_key": "yahoo-sports-network-masl-25-matches-fast-us-2026-11-28",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Сделка объявлена сегодня, до первого матча четыре дня; в журнале не освещалась.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.sportsvideo.org/2026/11/24/yahoo-sports-network-to-stream-25-live-major-arena-soccer-league-matches-this-season/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Sports Video Group: Yahoo Sports Network и MASL",
+          "url": "https://www.sportsvideo.org/2026/11/24/yahoo-sports-network-to-stream-25-live-major-arena-soccer-league-matches-this-season/",
+          "primary": true,
+          "evidence": "exclusive U.S. home for MASL regular-season matches; 25 matches (пересказ)"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": true,
+      "id": "n261125-32",
+      "issue": "i2026-11-25",
+      "order": 32,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.124742+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-2fa023df95ea64f5701d.svg",
+        "source_url": "",
+        "alt": "Yahoo Sports Network станет единственным американским экраном для 25 матчей MASL",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326517+03:00"
+      }
+    },
+    {
+      "title": "Netflix лидирует в торгах за ЧМ-2030",
+      "headline": "Netflix сделал крупнейшую первую ставку на ЧМ-2030, и FIFA открыла второй раунд",
+      "cover_word": "Netflix давит на FIFA",
+      "dek": "По данным Guardian, FIFA просит $1,5–2 млрд; Fox с Univision и Prime Video тоже в игре.",
+      "what": "Awful Announcing со ссылкой на Guardian от 23 ноября пишет: Netflix подал самую высокую первичную заявку на американские права на ЧМ-2030, после чего FIFA открыла второй раунд, чтобы поднять цену. Суммы заявок издание не называет.",
+      "mechanics": "Среди участников торгов Prime Video и совместная заявка Fox и Univision; Fox заявил инвесторам, что будет «дисциплинирован». Netflix уже эксклюзивно покажет женские чемпионаты мира 2027 и 2031 в США, а права на 2030 в Испании получил недавно и там обязан часть матчей сублицензировать. В США такого требования нет, но сублицензию он допустить может. Ориентир цены, по сообщениям, $1,5–2 млрд.",
+      "why": "Первая смена иерархии в футбольных правах: стример выходит вперёд ради главного турнира, пока YouTube, Apple и ESPN ушли с торгов. Границы известного: данные пересказаны, оригинал Guardian не открыт, победитель не определён.",
+      "country": "США",
+      "status": "Торги, второй раунд",
+      "event_key": "netflix-fifa-world-cup-2030-us-rights-second-round-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новое развитие после первых заявок: открыт второй раунд и названо лидерство Netflix.",
+      "image_url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/01/USATSI_25062027_168384754_lowres-scaled-e1746046313712-832x447.jpg",
+      "image_credit": "Troy Taormina-Imagn Images / Awful Announcing",
+      "image_page": "https://awfulannouncing.com/netflix/submits-highest-opening-offer-2030-fifa-world-cup.html",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Awful Announcing: Netflix и ЧМ-2030",
+          "url": "https://awfulannouncing.com/netflix/submits-highest-opening-offer-2030-fifa-world-cup.html",
+          "primary": true,
+          "evidence": "firmly in the driver's seat for 2030"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261125-33",
+      "issue": "i2026-11-25",
+      "order": 33,
+      "lead": true,
+      "discovered_at": "2026-11-24T21:28:02.125039+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/5b065cb19857ae505f96.jpg",
+        "source_url": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2025/01/USATSI_25062027_168384754_lowres-scaled-e1746046313712-832x447.jpg",
+        "alt": "Netflix сделал крупнейшую первую ставку на ЧМ-2030, и FIFA открыла второй раунд",
+        "credit": "Troy Taormina-Imagn Images / Awful Announcing",
+        "link": "https://awfulannouncing.com/netflix/submits-highest-opening-offer-2030-fifa-world-cup.html",
+        "caption": "Troy Taormina-Imagn Images / Awful Announcing",
+        "illustration": false,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326559+03:00"
+      }
+    },
+    {
+      "title": "IMG производит ЧМ-2027 для Netflix",
+      "headline": "Netflix не строит студий: ЧМ-2027 среди женщин ему собирает IMG",
+      "cover_word": "Netflix арендует трансляцию",
+      "dek": "IMG год готовит эфир из Бразилии и даёт основу инфраструктуры.",
+      "what": "В интервью Sports Video Group Адам Келли из IMG рассказал, что компания уже больше года развивает с Netflix трансляцию женского чемпионата мира 2027 в Бразилии и обеспечит значительную часть бэкенда эфира.",
+      "mechanics": "По словам Келли, Netflix прямо сказал, что не намерен строить свои студии и инфраструктуру, а выбирает внешних экспертов под каждую часть производства. Сам IMG из исполнителя превращается в консультанта правообладателей. Для MLS компания работает с NEP Group: хаб MLS Productions в Стэмфорде при студиях WWE и лондонский центр Stockley Park. Келли ждёт рекордных рейтингов ЧМ и называет себя «long on Netflix».",
+      "why": "Показывает, как стример собирает спортивный эфир модульно, из подрядчиков, а не собственной телестудии. Границы известного: бюджет, состав команды и технические детали трансляции не названы; интервью адресовано отрасли.",
+      "country": "США / Бразилия",
+      "status": "Интервью 24.11.2026; турнир в 2027",
+      "event_key": "img-netflix-womens-world-cup-2027-production-model-interview-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Новое интервью о том, как делается эфир Netflix; интересно продакшен-командам.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.sportsvideo.org/2026/11/24/imgs-adam-kelly-on-turning-production-from-a-tool-into-a-weapon-and-building-for-netflix/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Sports Video Group: интервью Адама Келли",
+          "url": "https://www.sportsvideo.org/2026/11/24/imgs-adam-kelly-on-turning-production-from-a-tool-into-a-weapon-and-building-for-netflix/",
+          "primary": true,
+          "evidence": "no intention of building their own production studios or infrastructure"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": true,
+      "id": "n261125-34",
+      "issue": "i2026-11-25",
+      "order": 34,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.125073+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-234d952813014e314579.svg",
+        "source_url": "",
+        "alt": "Netflix не строит студий: ЧМ-2027 среди женщин ему собирает IMG",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326603+03:00"
+      }
+    },
+    {
+      "title": "Футбол в VR и куполах Cosm",
+      "headline": "ESPN показывает студенческий футбол в VR Meta и в куполах Cosm с пятью камерами",
+      "cover_word": "Матч в VR и куполе",
+      "dek": "Около 50 игр ESPN выйдут на новые очки Meta весной.",
+      "what": "На конференции ESPN Edge представители Meta и Cosm рассказали, как студенческий футбол попадает в VR и LED-купола. На примере победы BYU над Notre Dame матч показали сразу в VR и на куполах Cosm.",
+      "mechanics": "У Meta студенческие игры идут каждую субботу до плей-офф бесплатно для владельцев Quest, в 8K с Dolby Atmos. Весной с очками Meta за $1299,99 обещают около 50 живых игр с ESPN. У Cosm четыре купола (Лос-Анджелес, Детройт, Атланта, Даллас), около 30 игр студенческого футбола и 100+ событий; обычно на матч ставят пять камер, а привычный эфир ESPN идёт «картинка в картинке» с графикой и повторами.",
+      "why": "Одну трансляцию делают в трёх версиях: ТВ, шлем и общий зал. Границы известного: аудитория и доход этих показов не названы, цифры о очках и куполах заявлены самими компаниями.",
+      "country": "США",
+      "status": "Рассказ на конференции 23.11.2026",
+      "event_key": "espn-meta-cosm-immersive-college-football-vr-domes-us-2026-11-23",
+      "date_iso": "2026-11-23",
+      "first_published_at": "2026-11-23",
+      "date_precision": "day",
+      "selected_because": "Свежий отчёт с панели ESPN Edge о живых показах в VR и куполах.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "https://www.sportsvideo.org/2026/11/23/how-meta-cosm-and-espn-are-leading-a-new-era-of-immersive-sports-experiences/",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Sports Video Group: Meta, Cosm и ESPN",
+          "url": "https://www.sportsvideo.org/2026/11/23/how-meta-cosm-and-espn-are-leading-a-new-era-of-immersive-sports-experiences/",
+          "primary": true,
+          "evidence": "Cosm doubled from two to four venues; about 50 live games with ESPN next spring (пересказ)"
+        }
+      ],
+      "rubric": "sport",
+      "direction_only": false,
+      "id": "n261125-35",
+      "issue": "i2026-11-25",
+      "order": 35,
+      "lead": false,
+      "discovered_at": "2026-11-24T21:28:02.125736+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-d75b494b31ede96dd7d8.svg",
+        "source_url": "",
+        "alt": "ESPN показывает студенческий футбол в VR Meta и в куполах Cosm с пятью камерами",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.326667+03:00"
+      }
+    },
+    {
+      "title": "Netflix: Thanksgiving Eve NFL и U2",
+      "headline": "Netflix строит праздничную традицию: матч NFL, 55 камер и шоу U2 с публикой-огнями",
+      "cover_word": "Матч накануне праздника",
+      "dek": "25 ноября Netflix впервые показывает матч NFL в канун Дня благодарения. В перерыве выступит U2, а зрители на стадионе станут частью светового шоу.",
+      "what": "Сегодня вечером Netflix транслирует первый в истории NFL матч в канун Дня благодарения: «Грин-Бей Пэкерс» играют с «Рэмс» на SoFi Stadium. В перерыве выступает U2 вместе со специальными гостями.\n\nSports Video Group раскрыл устройство трансляции. Игру для Netflix производит NBC Sports, а предматчевое, послематчевое шоу и перерыв разрабатывает EverWonder Studio. Это замена CBS, которая делала рождественские игры стримера.",
+      "mechanics": "Матч снимают более чем 55 камерами в 1080p HDR, с 24 операторами повторов и более чем 80 микрофонами. Над полем работают дрон и две SkyCam, на бровках стоят Steadicam и камеры на тележках. Сигнал по 30 с лишним каналам уходит в центр NBC Sports в Стэмфорде. Для студийных и перерывных сегментов добавлены 12 крупноформатных «кинематографических» камер, дополненная реальность и фирменная графика Netflix.\n\nПерерыв U2 производит Jesse Collins Entertainment. Съёмка идёт более чем на десять камер Sony VENICE из мобильного комплекса NEP Summit. Для света используют PixMob: зрители на трибунах становятся частью светового дизайна. На сцене большой хор; на поле работает команда из 108 человек, а в день шоу задействовано около 160 человек (всего почти 300 сотрудников).",
+      "why": "Netflix создаёт привычку с нуля: перенос шоу в перерыве с Рождества убирает риск зимней погоды в Чикаго, а глобальная аудитория не связана с американским праздником. Оценить, сработал ли ход, можно по итогам просмотров, их пока нет.",
+      "country": "США",
+      "status": "Эфир 25 ноября 2026, 20:00 ET",
+      "event_key": "netflix-nfl-thanksgiving-eve-u2-halftime-production-us-2026-11-25",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Событие проходит сегодня; для команд спорта и событий важно, как устроены трансляция и шоу в перерыве. В базе освещалась только парадная часть Macy's.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Sports Video Group: Netflix looks to establish new holiday tradition",
+          "url": "https://www.sportsvideo.org/2026/11/24/netflix-looks-to-establish-new-holiday-tradition-with-nfls-first-thanksgiving-eve-game/",
+          "primary": true,
+          "evidence": "PixMob technology lets the audience become part of the lighting design"
+        },
+        {
+          "label": "NFL.com: U2 to headline halftime",
+          "url": "https://www.nfl.com/news/u2-to-headline-halftime-of-nfl-s-first-ever-thanksgiving-eve-gameday-live-on-netflix",
+          "primary": false,
+          "evidence": "first-ever Thanksgiving Eve Gameday live on Netflix"
+        }
+      ],
+      "rubric": "event",
+      "direction_only": false,
+      "id": "n261125-36",
+      "issue": "i2026-11-25",
+      "order": 36,
+      "lead": false,
+      "discovered_at": "2026-11-25T07:47:22.326774+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-d4133442194f6d132898.svg",
+        "source_url": "",
+        "alt": "Netflix строит праздничную традицию: матч NFL, 55 камер и шоу U2 с публикой-огнями",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.330243+03:00"
+      }
+    },
+    {
+      "title": "Dancing with the Stars: живой финал",
+      "headline": "Финал «Танцев со звёздами» впервые прошёл вживую во всех часовых поясах США",
+      "cover_word": "Финал без задержки",
+      "dek": "ABC показала 35-й финал живьём на все четыре часовых пояса. Зрители голосовали в реальном времени, а пара получила задание в мгновенном танце за минуты до выхода.",
+      "what": "24 ноября ABC и Disney+ показали финал 35-го сезона Dancing with the Stars в прямом эфире сразу во всех часовых поясах США. Раньше на Западном побережье шоу шло с задержкой в три часа. Теперь голосовать можно было одновременно с показом.",
+      "mechanics": "Пять финальных пар танцевали по три номера: Judges’ Choice, Instant Dance и фристайл. В Instant Dance стиль и песню раскрывают всего за несколько минут до выхода, так что пара импровизирует. Итог складывается из баллов судей и живых голосов зрителей: онлайн-голосование открыто для всех часовых поясов, территорий США и Канады, а по SMS голосуют абоненты части американских операторов. Для Западного побережья показ повторили в 20:00–23:00 по тихоокеанскому времени, а на Hulu эпизод вышел на следующий день. Победителем сезона стал Эзра Фреш, по сообщению Variety.",
+      "why": "Для команд зрелищ и нон-скрипта это пример того, как телеформат устраняет разрыв между поясами ради честного голосования и общего эфирного момента. Границы известного: сведений о том, как изменились рейтинги, пока нет.",
+      "country": "США",
+      "status": "Состоялось 24 ноября 2026",
+      "event_key": "abc-dwts-season35-live-finale-all-time-zones-us-2026-11-24",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Эфир состоялся вчера вечером, то есть после вечернего прохода; важная механика (живой финал для всех поясов) ещё не освещалась.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "ABC (press release): Live from Hollywood, season 35 finale",
+          "url": "https://www.detpress.com/abc/pressrelease/live-from-hollywood-its-the-season-35-finale-of-dancing-with-the-stars-on-abc-and-disney/",
+          "primary": true,
+          "evidence": "live in every U.S. time zone"
+        },
+        {
+          "label": "Variety: DWTS crowns season 35 winner",
+          "url": "https://variety.com/2026/tv/news/dancing-with-the-stars-winner-season-35-ezra-frech-1236957201/",
+          "primary": false,
+          "evidence": "Season 35 of Dancing with the Stars is officially coming to an end"
+        }
+      ],
+      "rubric": "event",
+      "direction_only": false,
+      "id": "n261125-37",
+      "issue": "i2026-11-25",
+      "order": 37,
+      "lead": false,
+      "discovered_at": "2026-11-25T07:47:22.330367+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-05db4879367fa444014e.svg",
+        "source_url": "",
+        "alt": "Финал «Танцев со звёздами» впервые прошёл вживую во всех часовых поясах США",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.330652+03:00"
+      }
+    },
+    {
+      "title": "Roblox: The Great Build",
+      "headline": "Roblox позвал игроков строить общую башню благодарности по блоку в час",
+      "cover_word": "Башня благодарности",
+      "dek": "С 25 по 30 ноября каждый игрок Roblox раз в час получает блок, пишет на нём благодарность и кладёт в общую башню. Награды открываются по вехам сообщества.",
+      "what": "Roblox запускает к Дню благодарения общий ивент The Great Build, который идёт с 25 по 30 ноября. Задача: всем сообществом собрать «массивную башню благодарности».",
+      "mechanics": "Каждый час игрок получает бесплатный блок благодарности. Его можно подписать сообщением, навеянным традициями благодарения разных стран, и добавить в башню; на блоке остаётся имя игрока. Башня растёт, и по ней можно подниматься. Бесплатные предметы для аватара открываются по мере того, как сообщество проходит вехи; какие предметы и какие пороги, в источнике не названо. Прошлый платформенный ивент, The Hollow, был про хоррор на девять ночей, теперь Roblox переключился на семейный праздничный формат.",
+      "why": "Для digital- и event-команд это простая механика участия: один регулярный микро-вклад каждого игрока складывается в видимый общий результат. Границы известного: итоговой высоты башни и числа участников пока нет, отдельной страницы ивента в Tubefilter нет, ссылка ведёт на пост Roblox в X.",
+      "country": "Глобально",
+      "status": "Идёт с 25 по 30 ноября 2026",
+      "event_key": "roblox-great-build-thanksgiving-gratitude-tower-global-2026-11-25",
+      "date_iso": "2026-11-24",
+      "first_published_at": "2026-11-24",
+      "date_precision": "day",
+      "selected_because": "Ивент стартует сегодня, механика участия зрителей необычна; ранее не освещался.",
+      "image_url": "",
+      "image_credit": "",
+      "image_page": "",
+      "video_url": "",
+      "sources": [
+        {
+          "label": "Tubefilter: Roblox wants players to build a ridiculously tall tower",
+          "url": "https://www.tubefilter.com/2026/11/24/roblox-the-great-build-thanksgiving-event/",
+          "primary": true,
+          "evidence": "a massive tower of gratitude"
+        }
+      ],
+      "rubric": "event",
+      "direction_only": false,
+      "id": "n261125-38",
+      "issue": "i2026-11-25",
+      "order": 38,
+      "lead": false,
+      "discovered_at": "2026-11-25T07:47:22.330702+03:00",
+      "delivery_status": "draft_not_sent",
+      "image": {
+        "url": "img/2026-11-25/ill-e6d458f60a64b1ef6c35.svg",
+        "source_url": "",
+        "alt": "Roblox позвал игроков строить общую башню благодарности по блоку в час",
+        "credit": "Fresh Juice",
+        "link": "",
+        "caption": "Иллюстрация Fresh Juice по мотивам новости",
+        "illustration": true,
+        "fit": "cover"
+      },
+      "video": null,
+      "verification": {
+        "status": "source_read_and_editorial_audit",
+        "checked_at": "2026-11-25T07:47:22.330877+03:00"
+      }
+    }
+  ]
+}
